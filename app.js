@@ -24,7 +24,7 @@ const load=(k,d)=>{try{return JSON.parse(localStorage.getItem(k))??d}catch{retur
 const save=(k,v)=>localStorage.setItem(k,JSON.stringify(v));
 function migrateWatches(ws){return (Array.isArray(ws)?ws:defaults).map(w=>({...w,active:w.active!==false,subs:Array.isArray(w.subs)?w.subs.slice(0,20):[],spaces:Array.isArray(w.spaces)&&w.spaces.length?w.spaces:(String(w.name).toLowerCase()==='paie'?['work']:['private'])}))}
 const emptyAccount=()=>({token:null,email:'',messages:[],events:[]});
-const state={page:'signin',accounts:{private:emptyAccount(),work:emptyAccount()},news:[],watches:migrateWatches(load('pj_watches',defaults)),archive:load('pj_archive',[]),selected:0,tab:'today',scope:'all',error:'',loading:false,pendingAccount:'private'};
+const state={page:'choose',sessionReady:false,chosen:{private:false,work:false},accounts:{private:emptyAccount(),work:emptyAccount()},news:[],watches:migrateWatches(load('pj_watches',defaults)),archive:load('pj_archive',[]),selected:0,tab:'today',scope:'all',error:'',loading:false,pendingAccount:'private'};
 save('pj_watches',state.watches);
 let tokenClient=null;
 
@@ -33,10 +33,12 @@ const toast=m=>{const t=$('#toast');if(!t)return;t.textContent=m;t.classList.add
 const configured=()=>CFG.GOOGLE_CLIENT_ID&&!CFG.GOOGLE_CLIENT_ID.startsWith('REMPLACEZ_');
 const connectedKeys=()=>['private','work'].filter(k=>state.accounts[k].token);
 const hasAccount=()=>connectedKeys().length>0;
-function setPage(p){state.page=p;$('#nav')?.classList.toggle('hidden',!hasAccount());document.querySelectorAll('#nav button').forEach(b=>b.classList.toggle('active',b.dataset.page===p));render();scrollTo(0,0)}
+function setPage(p){state.page=p;$('#nav')?.classList.toggle('hidden',!state.sessionReady);document.querySelectorAll('#nav button').forEach(b=>b.classList.toggle('active',b.dataset.page===p));render();scrollTo(0,0)}
 function scene(title,caption,img='assets/emu-breakfast.png'){return `<section class="scene"><img src="${img}" alt="Émeu PointJour"><div class="scene-copy"><h1>${title}</h1><p>${caption}</p><span>☕ Un bon café, les bonnes infos, une journée bien organisée !</span></div></section>`}
 function topItems(title,caption,img='assets/emu-breakfast.png'){return scene(title,caption,img)}
 
+function nextChosenMissing(){return chosenKeys().find(k=>!state.accounts[k].token)||null}
+function finishSession(){state.sessionReady=true;state.scope=state.chosen.private&&state.chosen.work?'all':(state.chosen.private?'private':'work');state.page='home';render()}
 function initGoogle(){
  if(!configured()||!window.google?.accounts?.oauth2)return false;
  tokenClient=google.accounts.oauth2.initTokenClient({client_id:CFG.GOOGLE_CLIENT_ID,scope:SCOPES,callback:async r=>{
@@ -45,7 +47,10 @@ function initGoogle(){
   state.accounts[key].token=r.access_token;
   state.loading=true;render();
   try{await Promise.all([loadGoogleAccount(key),loadNews()]);snapshot();state.error=''}catch(e){state.error=e.message}
-  state.loading=false;setPage('home');
+  state.loading=false;
+  const next=nextChosenMissing();
+  if(next){state.page='signin';render();setTimeout(()=>connectAccount(next),150)}
+  else finishSession();
  }});return true;
 }
 function connectAccount(key){
@@ -54,7 +59,7 @@ function connectAccount(key){
  state.pendingAccount=key;
  tokenClient.requestAccessToken({prompt:'select_account'});
 }
-function disconnectAccount(key){state.accounts[key]=emptyAccount();if(!hasAccount())state.page='signin';render();}
+function disconnectAccount(key){state.accounts[key]=emptyAccount();render();}
 async function apiFor(key,u){const a=state.accounts[key];const r=await fetch(u,{headers:{Authorization:`Bearer ${a.token}`}});if(!r.ok)throw Error(`${labels[key]} : Google API ${r.status}`);return r.json()}
 function gh(h,n){return(h||[]).find(x=>x.name?.toLowerCase()===n.toLowerCase())?.value||''}
 async function loadGoogleAccount(key){
@@ -81,7 +86,11 @@ function scopeTabs(){return `<div class="scope-tabs"><button class="${state.scop
 function accountBadge(k){return `<span class="account-badge ${k}">${labels[k]}</span>`}
 
 function loadingScreen(){return `<section class="loading-screen"><img src="assets/emu-loading.png" alt="Émeu avec café"><h1>☀️ PointJour</h1><p>Préparation de votre brief…</p><div class="progress"><span></span></div><small>Analyse de vos comptes Google et de vos veilles.</small></section>`}
-function signin(){return `<section class="signin-scene"><img src="assets/emu-breakfast.png" alt="Émeu au petit déjeuner"><div><img class="signin-logo" src="icon-192.png" alt="PointJour"><h1>PointJour</h1><h3>Votre journée, l’essentiel en un coup d’œil</h3><p>Connectez un ou deux comptes Google. Le second reste facultatif.</p>${state.error?`<div class="notice error">${esc(state.error)}</div>`:''}<div class="account-connect"><button class="primary" data-connect="private">🏠 Connecter le compte privé</button><button class="secondary" data-connect="work">💼 Connecter le compte travail</button></div><p class="tag">Lecture seule : Gmail + Google Agenda.</p>${!configured()?'<div class="notice">Renseignez le client OAuth Web dans <b>config.js</b>.</div>':''}</div></section>`}
+function openingChooser(){return `<section class="signin-scene"><img src="assets/emu-breakfast.png" alt="Émeu au petit déjeuner"><div><img class="signin-logo" src="icon-192.png" alt="PointJour"><h1>PointJour</h1><h3>Quels comptes souhaitez-vous utiliser aujourd’hui ?</h3><p>Cochez Privé, Travail ou les deux, puis validez. PointJour enchaînera uniquement les connexions nécessaires avant d’ouvrir l’accueil.</p>${state.error?`<div class="notice error">${esc(state.error)}</div>`:''}<div class="account-choice card"><label class="toggle-label"><input id="choosePrivate" type="checkbox" ${state.chosen.private?'checked':''}> 🏠 Compte privé</label><label class="toggle-label"><input id="chooseWork" type="checkbox" ${state.chosen.work?'checked':''}> 💼 Compte travail</label><button class="primary validate-choice" id="chooseContinue">Valider</button></div><button class="secondary" id="continueNoGoogle">Continuer sans compte Google</button><p class="tag">Lecture seule : Gmail + Google Agenda.</p></div></section>`}
+function chosenKeys(){return ['private','work'].filter(k=>state.chosen[k])}
+function allChosenReady(){const ks=chosenKeys();return ks.length>0&&ks.every(k=>state.accounts[k].token)}
+function signin(){const ks=chosenKeys();return `<section class="signin-scene"><img src="assets/emu-breakfast.png" alt="Émeu au petit déjeuner"><div><img class="signin-logo" src="icon-192.png" alt="PointJour"><h1>PointJour</h1><h3>Connexion des comptes sélectionnés</h3><p>PointJour traite les comptes dans l’ordre : Privé, puis Travail. Dès que tous les comptes cochés sont disponibles, l’accueil s’ouvre automatiquement.</p>${state.error?`<div class="notice error">${esc(state.error)}</div>`:''}<div class="account-connect">${ks.map(k=>{const a=state.accounts[k];return `<div class="card account-card"><h3>${labels[k]}</h3>${a.token?`<p class="notice ok">✅ ${esc(a.email||'Compte connecté')}</p>`:`<p>Connexion en attente ou nécessaire.</p>`}</div>`}).join('')}</div><button class="secondary" id="backChoose">← Modifier le choix des comptes</button><p class="tag">Un compte déjà valide est sauté automatiquement.</p>${!configured()?'<div class="notice">Renseignez le client OAuth Web dans <b>config.js</b>.</div>':''}</div></section>`}
+
 function home(){const active=state.watches.filter(w=>watchVisible(w));const mails=allMessages(),events=allEvents();return topItems('☀️ PointJour','Bonjour ! Installez-vous : l’émeu a préparé votre point du jour.')+`${scopeTabs()}<div class="welcome card"><b>Bonjour !</b><p>${connectedKeys().map(k=>`${labels[k]} : ${esc(state.accounts[k].email)}`).join('<br>')}</p>${state.error?`<div class="notice error">${esc(state.error)}</div>`:''}</div><div class="grid"><button class="tile" data-go="mail">📧<strong>Gmail</strong><span>${mails.length} messages</span></button><button class="tile" data-go="calendar">📅<strong>Agenda</strong><span>${events.length} événements / 8 jours</span></button>${active.map(w=>`<button class="tile" data-watch="${state.watches.indexOf(w)}">🔎<strong>${esc(w.name)}</strong><span>${w.subs.length} sous-thèmes · ${(w.spaces||[]).map(x=>x==='private'?'🏠':'💼').join(' ')}</span></button>`).join('')}</div><div class="card quick"><button class="primary" id="refresh">↻ Actualiser</button><button class="secondary" data-go="brief">✓ Accéder à mon brief</button></div>`}
 function mail(){const msgs=scopedItems('messages');return topItems('📧 Courriels','Les nouveaux messages utiles, sans promotions ni spam.','assets/emu-brief.png')+scopeTabs()+`<div class="card hint">Promotions, réseaux sociaux, forums et spam sont exclus.</div>${msgs.map(m=>`<div class="item" data-mail="${m.id}" data-account="${m.account}">${accountBadge(m.account)}<h3>${esc(m.subject)}</h3><b>${esc(m.sender)}</b><p>${esc(m.snippet)}</p><span class="meta">${esc(m.date)}</span></div>`).join('')||'<div class="empty">Aucun message pour ce filtre.</div>'}`}
 function calendar(){const evs=scopedItems('events');return topItems('📅 Agenda','Aujourd’hui et les sept prochains jours, pour garder le rythme.','assets/emu-brief.png')+scopeTabs()+`<div class="card"><b>Aujourd’hui + 7 jours</b></div>${evs.map(e=>`<div class="item" data-event="${esc(e.link)}">${accountBadge(e.account)}<h3>${esc(e.title)}</h3><p>${esc(new Date(e.start.length===10?e.start+'T00:00:00':e.start).toLocaleString('fr-FR',{dateStyle:'medium',timeStyle:e.start.length===10?undefined:'short'}))}</p>${e.location?`<span class="meta">📍 ${esc(e.location)}</span>`:''}</div>`).join('')||'<div class="empty">Aucun événement pour ce filtre.</div>'}`}
@@ -99,11 +108,14 @@ function accountCard(key){const a=state.accounts[key];return `<div class="card a
 function settings(){return topItems('☰ Paramètres','Une application bien réglée pour une journée plus sereine.','assets/emu-breakfast.png')+`<div class="settings-grid">${accountCard('private')}${accountCard('work')}<div class="card"><h3>Veilles personnalisées</h3><p>Jusqu’à 20 sous-thèmes, affectés à Privé et/ou Travail.</p><button class="secondary" data-go="watches">Gérer mes veilles</button></div><div class="card"><h3>Sécurité</h3><p>Les jetons OAuth restent en mémoire pendant la session et ne sont pas enregistrés dans localStorage.</p></div></div>`}
 function morePage(){return topItems('☰ Plus','Tout le reste à portée de bec.','assets/emu-breakfast.png')+`<div class="menu-list"><button data-go="search">⌕ <span><b>Recherche</b><small>Trouver rapidement une information</small></span>›</button><button data-go="sources">☷ <span><b>Sources officielles</b><small>Accéder aux sites fiables</small></span>›</button><button data-go="experts">👥 <span><b>Experts / Web</b><small>Recherches publiques ciblées</small></span>›</button><button data-go="settings">⚙️ <span><b>Paramètres</b><small>Comptes Google, veilles et sécurité</small></span>›</button></div>`}
 
-function render(){let h='';if(state.loading&&hasAccount())h=loadingScreen();else if(!hasAccount())h=signin();else if(state.page==='home'||state.page==='signin')h=home();else if(state.page==='mail')h=mail();else if(state.page==='calendar')h=calendar();else if(state.page==='brief')h=brief();else if(state.page==='watches')h=watches();else if(state.page==='watch')h=watchPage();else if(state.page==='edit')h=editWatch();else if(state.page==='search')h=searchPage();else if(state.page==='sources')h=sourcesPage();else if(state.page==='experts')h=expertsPage();else if(state.page==='archives')h=archives();else if(state.page==='settings')h=settings();else h=morePage();$('#app').innerHTML=h;$('#nav')?.classList.toggle('hidden',!hasAccount());bind();}
+function render(){let h='';if(!state.sessionReady){if(state.loading)h=loadingScreen();else if(state.page==='choose')h=openingChooser();else h=signin();}else if(state.loading)h=loadingScreen();else if(state.page==='home'||state.page==='signin'||state.page==='choose')h=home();else if(state.page==='mail')h=mail();else if(state.page==='calendar')h=calendar();else if(state.page==='brief')h=brief();else if(state.page==='watches')h=watches();else if(state.page==='watch')h=watchPage();else if(state.page==='edit')h=editWatch();else if(state.page==='search')h=searchPage();else if(state.page==='sources')h=sourcesPage();else if(state.page==='experts')h=expertsPage();else if(state.page==='archives')h=archives();else if(state.page==='settings')h=settings();else h=morePage();$('#app').innerHTML=h;$('#nav')?.classList.toggle('hidden',!state.sessionReady);bind();}
 function bind(){
  document.querySelectorAll('[data-go]').forEach(x=>x.onclick=()=>setPage(x.dataset.go));
  document.querySelectorAll('[data-connect]').forEach(x=>x.onclick=()=>connectAccount(x.dataset.connect));
  document.querySelectorAll('[data-disconnect]').forEach(x=>x.onclick=()=>disconnectAccount(x.dataset.disconnect));
+ if($('#chooseContinue'))$('#chooseContinue').onclick=()=>{state.chosen.private=$('#choosePrivate').checked;state.chosen.work=$('#chooseWork').checked;if(!state.chosen.private&&!state.chosen.work){state.error='Cochez au moins un compte ou choisissez « Continuer sans compte Google ».';render();return}state.error='';const next=nextChosenMissing();if(next){state.page='signin';render();setTimeout(()=>connectAccount(next),150)}else finishSession()};
+ if($('#continueNoGoogle'))$('#continueNoGoogle').onclick=async()=>{state.chosen={private:false,work:false};state.loading=true;render();try{await loadNews();state.error=''}catch(e){state.error=e.message}state.loading=false;state.sessionReady=true;state.page='home';render()};
+ if($('#backChoose'))$('#backChoose').onclick=()=>{state.page='choose';state.error='';render()};
  document.querySelectorAll('[data-scope]').forEach(x=>x.onclick=()=>{state.scope=x.dataset.scope;render()});
  $('#refresh')&&($('#refresh').onclick=refreshAll);
  document.querySelectorAll('[data-mail]').forEach(x=>x.onclick=()=>{const email=state.accounts[x.dataset.account]?.email||'';open(`https://mail.google.com/mail/u/?authuser=${encodeURIComponent(email)}#inbox/${encodeURIComponent(x.dataset.mail)}`,'_blank')});

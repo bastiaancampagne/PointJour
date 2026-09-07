@@ -20,3 +20,6 @@
 .account-connect{display:grid;gap:10px;margin:12px 0}.account-card{min-height:180px}
 .universe-choices{display:flex;gap:14px;flex-wrap:wrap;padding:10px 0}.universe-choices .toggle-label{background:#f7fbf9;border:1px solid var(--line);padding:10px 14px;border-radius:12px}
 @media(min-width:1080px){body{padding-left:0!important}#app{max-width:1120px;margin:auto;padding:28px 32px 118px}.nav{flex-direction:initial!important;justify-content:initial!important;align-items:initial!important}.nav-buttons{max-width:900px;margin:auto}.nav button{font-size:1.1rem!important}.nav small{font-size:.76rem!important}}
+
+/* V6 : validation du choix des comptes */
+.account-choice .validate-choice{width:100%;margin-top:14px}
