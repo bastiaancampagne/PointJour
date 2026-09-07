@@ -51,3 +51,15 @@ body:before{content:"";position:fixed;inset:0;z-index:-1;background:linear-gradi
 .loading-screen img{display:none}
 @media(min-width:1080px){#app{max-width:1220px;padding:28px 34px 132px}.grid{gap:16px}.tile{min-height:125px}.brief-grid,.settings-grid{gap:16px}}
 @media(max-width:760px){body{background-attachment:scroll;background-position:center top}#app{padding:10px 10px 112px}.scene-copy{padding:16px 18px}.nav{bottom:6px!important;width:calc(100% - 12px)!important;border-radius:19px!important}.nav button{margin:3px 1px!important}.signin-scene>img{height:250px;min-height:250px}}
+
+/* V11 — plein écran HD : une seule illustration de fond, aucun doublon au premier plan */
+body{background-image:url('assets/emu-breakfast-bg-hd.jpg')!important;background-size:cover!important;background-position:center center!important;background-repeat:no-repeat!important;background-attachment:fixed!important}
+body[data-page="brief"],body[data-page="mail"],body[data-page="calendar"]{background-image:url('assets/emu-brief-bg-hd.jpg')!important}
+body[data-page="watches"],body[data-page="watch"],body[data-page="edit"]{background-image:url('assets/emu-watches-bg-hd.jpg')!important}
+body[data-page="search"]{background-image:url('assets/emu-search-bg-hd.jpg')!important}
+body[data-page="experts"]{background-image:url('assets/emu-experts-bg-hd.jpg')!important}
+body[data-page="loading"]{background-image:url('assets/emu-loading-bg-hd.jpg')!important}
+.signin-scene{display:block!important;max-width:620px!important;margin:clamp(24px,7vh,78px) clamp(18px,6vw,90px) clamp(100px,12vh,130px) auto!important;background:rgba(255,255,255,.84)!important;backdrop-filter:blur(18px) saturate(1.08)!important;-webkit-backdrop-filter:blur(18px) saturate(1.08)!important}
+.signin-scene>img{display:none!important}.signin-scene>div{padding:clamp(24px,3vw,42px)!important}.signin-logo{width:88px!important;height:88px!important}
+.loading-screen img{display:none!important}.loading-screen{background:rgba(255,255,255,.78);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);border:1px solid rgba(255,255,255,.72);border-radius:28px;min-height:auto!important;max-width:620px;margin:15vh auto 0;padding:38px 28px;box-shadow:0 18px 55px rgba(18,52,44,.24)}
+@media(max-width:760px){body{background-attachment:scroll!important;background-position:42% center!important}.signin-scene{margin:18px 10px 96px!important;max-width:none!important}.signin-scene>div{padding:22px!important}}

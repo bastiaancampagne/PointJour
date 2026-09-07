@@ -23,3 +23,9 @@ Le client OAuth Web est conservé dans `config.js`. L'origine autorisée doit re
 
 
 V8 : bouton « Continuer sans ce compte » rapproché de la carte concernée ; compteurs Accueil filtrés par Tout/Privé/Travail ; protection contre l'affectation du même compte Google aux deux profils.
+
+## V11 HD plein écran
+- suppression des illustrations dupliquées au premier plan (connexion et chargement inclus) ;
+- arrière-plans préparés en 2560 × 1440 pour l'affichage PC ;
+- panneaux translucides au premier plan ;
+- conservation intégrale de la logique fonctionnelle V10/V9.
