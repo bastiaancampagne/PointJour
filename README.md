@@ -20,3 +20,6 @@ Version responsive inspirée de la maquette « émeu au petit déjeuner ».
 Déposer les fichiers à la racine du dépôt PointJour puis utiliser : Settings → Pages → Deploy from a branch → main → /(root).
 
 Le client OAuth Web est conservé dans `config.js`. L'origine autorisée doit rester `https://bastiaancampagne.github.io`.
+
+
+V8 : bouton « Continuer sans ce compte » rapproché de la carte concernée ; compteurs Accueil filtrés par Tout/Privé/Travail ; protection contre l'affectation du même compte Google aux deux profils.
