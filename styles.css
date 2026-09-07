@@ -23,3 +23,5 @@
 
 /* V6 : validation du choix des comptes */
 .account-choice .validate-choice{width:100%;margin-top:14px}
+
+.account-card-action{cursor:pointer;transition:transform .16s ease,box-shadow .16s ease,border-color .16s ease}.account-card-action:hover,.account-card-action:focus{transform:translateY(-2px);box-shadow:var(--shadow);border-color:#8fcfbd;outline:none}.account-card-action:focus{box-shadow:0 0 0 3px #bfe9dc,var(--shadow)}.skip-account{width:100%;margin:2px 0 10px}
