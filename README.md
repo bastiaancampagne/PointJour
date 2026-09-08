@@ -1,31 +1,16 @@
-# PointJour PWA v3 — interface chaleureuse
+# PointJour — PWA V14 candidate fonctionnelle
 
-Version responsive inspirée de la maquette « émeu au petit déjeuner ».
+Cette version privilégie la validation fonctionnelle avant l’habillage final.
 
-## Pages / vues
-- Accueil
-- Brief du jour
-- Courriels Gmail
-- Google Agenda
-- Mes veilles
-- Modification d'une veille (20 sous-thèmes maximum)
-- Recherche Web
-- Sources officielles
-- Experts / Web
-- Archives
-- Paramètres
-- Écran de chargement pendant l'actualisation
+## Nouveautés
+- jusqu’à 30 sources personnalisables : ajout, modification, activation/désactivation, suppression, test et restauration des valeurs par défaut ;
+- association d’une source à une ou plusieurs veilles ;
+- page **Recherche Web** à la place de **Experts / Web** ;
+- recherche construite avec la veille, ses sous-thèmes et les domaines des sources actives ;
+- archives de résultats cliquables avec date, titre, thème et source ;
+- filtres d’archives Privé / Travail / Tout et par thème ;
+- conservation du double compte Google et de la session navigateur ;
+- fonds neutres dans cette candidate afin d’éviter toute fausse interface incrustée dans une image.
 
-## Publication GitHub Pages
-Déposer les fichiers à la racine du dépôt PointJour puis utiliser : Settings → Pages → Deploy from a branch → main → /(root).
-
-Le client OAuth Web est conservé dans `config.js`. L'origine autorisée doit rester `https://bastiaancampagne.github.io`.
-
-
-V8 : bouton « Continuer sans ce compte » rapproché de la carte concernée ; compteurs Accueil filtrés par Tout/Privé/Travail ; protection contre l'affectation du même compte Google aux deux profils.
-
-## V11 HD plein écran
-- suppression des illustrations dupliquées au premier plan (connexion et chargement inclus) ;
-- arrière-plans préparés en 2560 × 1440 pour l'affichage PC ;
-- panneaux translucides au premier plan ;
-- conservation intégrale de la logique fonctionnelle V10/V9.
+## Installation GitHub Pages
+Téléverser le contenu du ZIP à la racine du dépôt PointJour. Après déploiement, faire Ctrl+F5 si une ancienne version reste en cache.
