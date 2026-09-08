@@ -29,9 +29,3 @@ V8 : bouton « Continuer sans ce compte » rapproché de la carte concernée ; c
 - arrière-plans préparés en 2560 × 1440 pour l'affichage PC ;
 - panneaux translucides au premier plan ;
 - conservation intégrale de la logique fonctionnelle V10/V9.
-
-
-## V13 — décors propres
-- Suppression de la fausse interface incrustée dans le décor V12.
-- Décors distincts par rubrique.
-- Navigation basse et logique double compte conservées.

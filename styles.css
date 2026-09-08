@@ -63,35 +63,3 @@ body[data-page="loading"]{background-image:url('assets/emu-loading-bg-hd.jpg')!i
 .signin-scene>img{display:none!important}.signin-scene>div{padding:clamp(24px,3vw,42px)!important}.signin-logo{width:88px!important;height:88px!important}
 .loading-screen img{display:none!important}.loading-screen{background:rgba(255,255,255,.78);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);border:1px solid rgba(255,255,255,.72);border-radius:28px;min-height:auto!important;max-width:620px;margin:15vh auto 0;padding:38px 28px;box-shadow:0 18px 55px rgba(18,52,44,.24)}
 @media(max-width:760px){body{background-attachment:scroll!important;background-position:42% center!important}.signin-scene{margin:18px 10px 96px!important;max-width:none!important}.signin-scene>div{padding:22px!important}}
-
-/* PointJour v12 candidate finale — décor net + navigation pleine largeur */
-html,body{width:100%;min-height:100%;}
-body{min-height:100svh;background-image:url('assets/emu-breakfast-bg-final.png')!important;background-size:cover!important;background-position:center center!important;background-repeat:no-repeat!important;background-attachment:fixed!important;}
-#app{min-height:100svh;padding-bottom:106px!important;}
-body::before{content:"";position:fixed;inset:0;pointer-events:none;z-index:-1;background:linear-gradient(90deg,rgba(8,34,29,.04),rgba(255,255,255,.02));}
-/* Ne plus afficher les petites illustrations dupliquées : le décor est l'image de page. */
-.scene>img,.signin-scene>img,.loading-screen>img{display:none!important}
-.scene,.signin-scene{display:block!important;background:rgba(255,255,255,.79)!important;backdrop-filter:blur(16px) saturate(1.08);-webkit-backdrop-filter:blur(16px) saturate(1.08);border:1px solid rgba(255,255,255,.78)!important;}
-.signin-scene{max-width:620px!important;margin:clamp(24px,7vh,72px) clamp(18px,8vw,120px) 120px auto!important;}
-.scene{max-width:980px;margin-left:auto;margin-right:auto}.scene-copy{padding:24px 28px!important}
-.card,.tile,.item,.source-link,.menu-list button{background:rgba(255,255,255,.86)!important;backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px)}
-/* Barre type PWA : bord à bord, superposée au décor, signature à droite. */
-.nav{left:0!important;right:0!important;transform:none!important;bottom:0!important;width:100%!important;border:0!important;border-top:1px solid rgba(255,255,255,.72)!important;border-radius:0!important;background:rgba(246,253,249,.84)!important;box-shadow:0 -8px 26px rgba(18,52,44,.15)!important;overflow:visible!important;display:flex!important;align-items:center!important;justify-content:center!important;padding:5px max(12px,env(safe-area-inset-right)) calc(5px + env(safe-area-inset-bottom)) max(12px,env(safe-area-inset-left))!important;}
-.nav.hidden{display:none!important}.nav-buttons{width:min(760px,78vw);max-width:none!important;margin:0!important;min-height:66px!important;display:grid!important;grid-template-columns:repeat(5,1fr)!important;gap:5px!important}.nav button{width:100%!important;min-height:58px!important;margin:0!important;padding:7px 5px!important;border-radius:14px!important;font-size:1.28rem!important;display:flex!important;flex-direction:column!important;align-items:center!important;justify-content:center!important;gap:1px!important}.nav small{font-size:.72rem!important;font-weight:700!important}.nav .active{background:rgba(164,236,210,.9)!important;box-shadow:inset 0 0 0 1px rgba(7,95,80,.08)}.signature{position:absolute!important;right:24px!important;bottom:27px!important;padding:0!important;font-size:.69rem!important;font-weight:750!important;white-space:nowrap!important}
-@media(max-width:760px){body{background-attachment:scroll!important;background-position:42% center!important}#app{padding:10px 10px 92px!important}.nav{padding-left:5px!important;padding-right:5px!important}.nav-buttons{width:100%!important;min-height:58px!important}.nav button{min-height:52px!important;font-size:1.12rem!important}.nav small{font-size:.62rem!important}.signature{display:none!important}.signin-scene{margin:18px 10px 96px!important;max-width:none!important}}
-
-
-/* PointJour v13 — décors propres par page, sans fausse interface incrustée */
-body{background-image:url('assets/bg-home.jpg')!important;}
-body[data-page="home"],body[data-page="signin"],body[data-page="choose"]{background-image:url('assets/bg-home.jpg')!important;}
-body[data-page="brief"],body[data-page="mail"],body[data-page="calendar"]{background-image:url('assets/bg-brief.jpg')!important;}
-body[data-page="watches"],body[data-page="watch"],body[data-page="edit"]{background-image:url('assets/bg-watches.jpg')!important;}
-body[data-page="archives"]{background-image:url('assets/bg-archives.jpg')!important;}
-body[data-page="search"]{background-image:url('assets/bg-search.jpg')!important;}
-body[data-page="sources"]{background-image:url('assets/bg-sources.jpg')!important;}
-body[data-page="experts"]{background-image:url('assets/bg-experts.jpg')!important;}
-body[data-page="settings"]{background-image:url('assets/bg-settings.jpg')!important;}
-body[data-page="more"]{background-image:url('assets/bg-plus.jpg')!important;}
-body[data-page="loading"]{background-image:url('assets/bg-loading.jpg')!important;}
-/* La vraie interface reste seule au premier plan. */
-.scene>img,.signin-scene>img,.loading-screen>img{display:none!important;}
