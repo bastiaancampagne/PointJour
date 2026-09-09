@@ -1,16 +1,25 @@
-# PointJour — PWA V14 candidate fonctionnelle
+# PointJour — FINALE PROPRE
 
-Cette version privilégie la validation fonctionnelle avant l’habillage final.
+Version reconstruite visuellement, sans réutiliser les anciens décors V12/V13/V14/V15.
 
-## Nouveautés
-- jusqu’à 30 sources personnalisables : ajout, modification, activation/désactivation, suppression, test et restauration des valeurs par défaut ;
-- association d’une source à une ou plusieurs veilles ;
-- page **Recherche Web** à la place de **Experts / Web** ;
-- recherche construite avec la veille, ses sous-thèmes et les domaines des sources actives ;
-- archives de résultats cliquables avec date, titre, thème et source ;
-- filtres d’archives Privé / Travail / Tout et par thème ;
-- conservation du double compte Google et de la session navigateur ;
-- fonds neutres dans cette candidate afin d’éviter toute fausse interface incrustée dans une image.
+## Structure validée
+- Brief = page principale.
+- Navigation : Brief · Veilles · Recherche · Archives · Plus.
+- Gmail : « Voir les messages ».
+- Agenda : « Voir les événements ».
+- Veilles : « Lancer la recherche ».
+- Recherche Web : bouton « Modifier » dans chaque bloc.
+- Archives : Tous les thèmes · Paie · Auto · Cuisine, puis veilles personnalisées.
+- Sources : ajout, modification, test, activation/désactivation, suppression et restauration.
+- Comptes : Privé / Travail.
+- Jusqu'à 20 sous-thèmes par veille et 30 sources.
 
-## Installation GitHub Pages
-Téléverser le contenu du ZIP à la racine du dépôt PointJour. Après déploiement, faire Ctrl+F5 si une ancienne version reste en cache.
+## Refonte visuelle
+- Barre de navigation bleu nuit inspirée de VeilleJurSoc.
+- Boutons bleu, vert, orange et violet.
+- Décors propres et distincts selon les pages/états.
+- Aucun faux bouton, aucune fausse interface, aucun texte incrusté dans les fonds.
+- Aucun ancien asset `emu-*` inclus.
+
+## Cache
+Service Worker : `pointjour-finale-propre-2026-09-09`.
