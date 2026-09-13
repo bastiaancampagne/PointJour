@@ -1,25 +1,11 @@
-# PointJour — FINALE PROPRE
+# PointJour V16 — référence visuelle validée
 
-Version reconstruite visuellement, sans réutiliser les anciens décors V12/V13/V14/V15.
+Version construite sur la base technique fonctionnelle validée, avec habillage visuel basé sur la maquette approuvée : scènes humoristiques d’émeu par page, cartes translucides, barre bleu nuit et navigation inférieure.
 
-## Structure validée
-- Brief = page principale.
-- Navigation : Brief · Veilles · Recherche · Archives · Plus.
-- Gmail : « Voir les messages ».
-- Agenda : « Voir les événements ».
-- Veilles : « Lancer la recherche ».
-- Recherche Web : bouton « Modifier » dans chaque bloc.
-- Archives : Tous les thèmes · Paie · Auto · Cuisine, puis veilles personnalisées.
-- Sources : ajout, modification, test, activation/désactivation, suppression et restauration.
-- Comptes : Privé / Travail.
-- Jusqu'à 20 sous-thèmes par veille et 30 sources.
+## Pages
+Connexion, Brief, Gmail, Agenda, Veilles, Modification d’une veille, Recherche Web, Sources, Archives, Plus, Paramètres.
 
-## Refonte visuelle
-- Barre de navigation bleu nuit inspirée de VeilleJurSoc.
-- Boutons bleu, vert, orange et violet.
-- Décors propres et distincts selon les pages/états.
-- Aucun faux bouton, aucune fausse interface, aucun texte incrusté dans les fonds.
-- Aucun ancien asset `emu-*` inclus.
+## Fonctions conservées
+Double compte Google Privé/Travail, Gmail lecture seule, Agenda lecture seule, veilles et sous-thèmes, Recherche Web, sources configurables, archives, filtres et sessionStorage.
 
-## Cache
-Service Worker : `pointjour-finale-propre-2026-09-09`.
+Cache Service Worker : pointjour-v16-reference-visuelle-2026-09-12.

@@ -1,4 +1,4 @@
-const CACHE='pointjour-finale-illustree-2026-09-09-v5';
+const CACHE='pointjour-v16-reference-visuelle-2026-09-12';
 const ASSETS=['./','./index.html','./styles.css','./app.js','./config.js','./manifest.webmanifest','./icon-192.png','./icon-512.png','./data/news.json',
 './assets/bg-choose.jpg','./assets/bg-signin.jpg','./assets/bg-loading.jpg','./assets/bg-brief.jpg','./assets/bg-mail.jpg','./assets/bg-calendar.jpg','./assets/bg-watches.jpg','./assets/bg-watch.jpg','./assets/bg-edit.jpg','./assets/bg-web.jpg','./assets/bg-sources.jpg','./assets/bg-sourceedit.jpg','./assets/bg-archives.jpg','./assets/bg-settings.jpg','./assets/bg-more.jpg'];
 self.addEventListener('install',event=>event.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting())));
