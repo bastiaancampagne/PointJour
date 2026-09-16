@@ -1,0 +1,275 @@
+:root{
+  --navy:#083b63;--navy2:#0b4b74;--blue:#126ab0;--green:#16845f;--orange:#e79a10;--purple:#7650a8;
+  --ink:#17352f;--muted:#61736e;--line:#d5dfdb;--danger:#b43b3b;--shadow:0 18px 48px rgba(14,45,54,.20)
+}
+*{box-sizing:border-box}html,body{margin:0;min-height:100%;font-family:Inter,ui-sans-serif,system-ui,-apple-system,"Segoe UI",Arial,sans-serif;color:var(--ink)}
+body{min-height:100svh;background:#dfe9e3 center/cover no-repeat fixed;position:relative}
+body::before{content:"";position:fixed;inset:0;background:linear-gradient(90deg,rgba(3,28,44,.17),rgba(255,255,255,.02) 48%,rgba(3,28,44,.12));pointer-events:none;z-index:-1}
+body[data-page="choose"]{background-image:url('assets/bg-choose.png')}
+body[data-page="signin"]{background-image:url('assets/bg-signin.png')}
+body[data-page="loading"]{background-image:url('assets/bg-loading.png')}
+body[data-page="brief"]{background-image:url('assets/bg-brief.png')}
+body[data-page="mail"]{background-image:url('assets/bg-mail.png')}
+body[data-page="calendar"]{background-image:url('assets/bg-calendar.png')}
+body[data-page="watches"]{background-image:url('assets/bg-watches.png')}
+body[data-page="watch"]{background-image:url('assets/bg-watch-paie.png')}
+body[data-page="watch"][data-watch-theme="auto"]{background-image:url('assets/bg-watch-auto.png')}
+body[data-page="watch"][data-watch-theme="cuisine"]{background-image:url('assets/bg-watch-cuisine.png')}
+body[data-page="edit"]{background-image:url('assets/bg-edit.png')}
+body[data-page="web"],body[data-page="search"]{background-image:url('assets/bg-web.png')}
+body[data-page="sources"],body[data-page="sourceedit"]{background-image:url('assets/bg-sources.png')}
+body[data-page="archives"]{background-image:url('assets/bg-archives.png')}
+body[data-page="settings"]{background-image:url('assets/bg-settings.png')}
+body[data-page="more"]{background-image:url('assets/bg-more.png')}
+button,input,textarea,select{font:inherit}button{cursor:pointer}
+#app{width:min(1180px,calc(100% - 28px));margin:0 auto;padding:26px 0 116px}
+.scene,.signin-scene,.loading-screen,.card,.item,.menu-list button{backdrop-filter:blur(14px) saturate(1.05);-webkit-backdrop-filter:blur(14px) saturate(1.05)}
+.scene{max-width:930px;margin:0 auto 18px;background:rgba(255,255,255,.88);border:1px solid rgba(255,255,255,.88);border-radius:26px;box-shadow:var(--shadow)}
+.scene-copy{padding:24px 28px}.scene h1{margin:0 0 7px;font-size:clamp(1.7rem,3vw,2.55rem);color:#123f3a}.scene p{margin:0 0 8px}.scene span{font-size:.92rem;color:#3f6259}
+.signin-scene{max-width:620px;margin:7vh 6vw 0 auto;background:rgba(255,255,255,.91);border:1px solid rgba(255,255,255,.9);border-radius:28px;box-shadow:var(--shadow)}
+.signin-scene>div{padding:30px}.signin-logo{width:84px;height:84px;border-radius:20px}.signin-scene h1{font-size:2.35rem;margin:8px 0}.signin-scene h3{margin-top:8px}.tag{color:var(--muted);font-size:.9rem}
+.loading-screen{max-width:620px;margin:15vh auto 0;padding:36px;text-align:center;background:rgba(255,255,255,.9);border-radius:28px;box-shadow:var(--shadow)}
+.progress{height:10px;border-radius:999px;background:#d8e4df;overflow:hidden;margin:22px 0}.progress span{display:block;width:70%;height:100%;background:linear-gradient(90deg,var(--blue),var(--green));animation:pulse 1.2s infinite alternate}@keyframes pulse{from{opacity:.5}to{opacity:1}}
+.card,.item{background:rgba(255,255,255,.92);border:1px solid rgba(255,255,255,.9);border-radius:18px;box-shadow:0 10px 30px rgba(20,48,55,.12);padding:18px;margin:12px 0}
+.item{cursor:pointer}.item h3,.card h3{margin-top:0}.meta{font-size:.86rem;color:var(--muted)}.badge,.account-badge{display:inline-block;padding:5px 9px;border-radius:999px;background:#e3f3ec;color:#175e4f;font-size:.78rem;font-weight:700;margin:2px 4px 2px 0}
+.account-badge.work{background:#ece7f6;color:#60428b}.account-badge.private{background:#e7f2fb;color:#225f8f}
+.grid,.brief-grid,.settings-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}.brief-grid .card{min-height:170px;display:flex;flex-direction:column}.brief-grid .card button{margin-top:auto;align-self:flex-start}
+.row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}.welcome{display:flex;align-items:center;justify-content:space-between;gap:15px;flex-wrap:wrap}.welcome .notice{flex-basis:100%}
+.scope-tabs,.tabs{display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin:12px 0 16px}.scope-tabs button,.tabs button{border:1px solid var(--line);background:rgba(255,255,255,.91);padding:9px 14px;border-radius:999px;font-weight:800;color:#24443d}.scope-tabs button.active,.tabs .primary{background:var(--green)!important;color:#fff!important;border-color:transparent!important}
+.primary,.secondary,.danger,.btn-blue,.btn-green,.btn-orange,.btn-purple{border:0;border-radius:12px;padding:11px 15px;font-weight:800}.primary,.btn-green{background:var(--green);color:#fff}.btn-blue{background:var(--blue);color:#fff}.btn-orange{background:var(--orange);color:#fff}.btn-purple{background:var(--purple);color:#fff}.secondary{background:#edf4f1;color:#21483f;border:1px solid #cbdad5}.danger{background:#fff0f0;color:var(--danger);border:1px solid #e5bcbc}.inline{display:inline-block;text-decoration:none}
+.accent-blue{border-left:6px solid var(--blue)}.accent-green{border-left:6px solid var(--green)}
+.field{margin:14px 0}.field label{font-weight:800;display:block;margin-bottom:6px}.field input,.field textarea,.field select,input,textarea,select{width:100%;border:1px solid #bdcbc6;background:rgba(255,255,255,.96);border-radius:11px;padding:11px 12px;color:var(--ink)}.toggle-label{display:flex!important;align-items:center;gap:9px}.toggle-label input{width:auto}.field-help,.counter{font-size:.86rem;color:var(--muted)}
+.notice{padding:12px 14px;border-radius:12px;background:rgba(255,249,220,.95);border:1px solid #e7ca70}.notice.ok{background:rgba(232,248,240,.96);border-color:#a9d8c1}.notice.error{background:#fff0f0;border-color:#e4b4b4;color:#8b2929}.empty{padding:25px;border-radius:16px;background:rgba(255,255,255,.9);text-align:center;color:var(--muted)}
+.source{display:flex;align-items:center;justify-content:space-between;gap:16px}.source>div:first-child{min-width:180px;flex:1}.archive-item{display:block;color:var(--ink);text-decoration:none}.archive-item strong{display:block;color:var(--green);margin-top:8px}.archive-themes button{flex:0 1 auto}
+.menu-list{display:grid;gap:11px}.menu-list button{display:flex;align-items:center;gap:14px;text-align:left;background:rgba(255,255,255,.92);border:1px solid rgba(255,255,255,.9);border-radius:16px;padding:16px 18px;color:var(--ink);box-shadow:0 10px 30px rgba(20,48,55,.12)}.menu-list button span{display:flex;flex-direction:column;flex:1}.menu-list small{color:var(--muted);margin-top:2px}
+.nav{position:fixed;left:0;right:0;bottom:0;z-index:30;background:linear-gradient(90deg,var(--navy),var(--navy2));box-shadow:0 -8px 26px rgba(0,30,55,.30);border-top:1px solid rgba(255,255,255,.18);padding:6px max(12px,env(safe-area-inset-right)) calc(6px + env(safe-area-inset-bottom)) max(12px,env(safe-area-inset-left));display:flex;align-items:center;justify-content:center}.nav.hidden{display:none}.nav-buttons{display:grid;grid-template-columns:repeat(5,1fr);width:min(760px,78vw);gap:5px}.nav button{background:transparent;border:0;color:#fff;min-height:62px;border-radius:10px;font-size:1.25rem;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px}.nav button:hover{background:rgba(255,255,255,.09)}.nav button.active{background:rgba(255,255,255,.16);box-shadow:inset 0 4px 0 #70d9b5}.nav small{font-size:.72rem;font-weight:800}.signature{position:absolute;right:20px;color:#fff;font-size:.72rem;font-weight:800}
+#toast{position:fixed;left:50%;bottom:95px;transform:translate(-50%,20px);background:#173f38;color:#fff;padding:10px 14px;border-radius:10px;opacity:0;pointer-events:none;transition:.2s;z-index:50}#toast.show{opacity:1;transform:translate(-50%,0)}
+button:disabled{opacity:.5;cursor:not-allowed}
+@media(max-width:760px){body{background-attachment:scroll;background-position:center top}#app{width:calc(100% - 18px);padding-top:12px;padding-bottom:92px}.scene-copy,.signin-scene>div{padding:19px}.signin-scene{margin:14px auto 90px;max-width:none}.nav{padding-left:4px;padding-right:4px}.nav-buttons{width:100%}.nav button{min-height:54px;font-size:1.05rem}.nav small{font-size:.62rem}.signature{display:none}.source{align-items:flex-start;flex-direction:column}.source .row{width:100%}.source .row button{flex:1 1 42%}.welcome>.btn-blue{width:100%}}
+
+/* V16 — habillage conforme à la maquette validée */
+.topbar{position:sticky;top:0;z-index:40;height:64px;background:linear-gradient(90deg,#073b63,#0b527d);color:#fff;display:flex;align-items:center;justify-content:space-between;padding:7px 22px;box-shadow:0 5px 20px rgba(0,30,55,.22)}
+.brand{display:flex;align-items:center;gap:10px}.brand img{width:42px;height:42px;border-radius:50%;background:#fff}.brand strong{display:block;font-size:1.18rem}.brand small{display:block;font-size:.68rem;opacity:.9}.top-signature{font-size:.76rem;font-weight:800}
+#app{padding-top:20px}
+.scene,.signin-scene,.loading-screen,.card,.item,.menu-list button{background:rgba(255,255,255,.91);border:1px solid rgba(255,255,255,.9);box-shadow:0 12px 32px rgba(11,40,52,.18)}
+.scene{border-radius:20px}.card,.item{border-radius:15px}
+body{background-size:cover!important;background-position:center center!important;background-repeat:no-repeat!important;background-attachment:fixed!important}
+body::before{background:linear-gradient(90deg,rgba(5,25,35,.08),rgba(255,255,255,.01) 48%,rgba(5,25,35,.06))}
+@media(max-width:760px){.topbar{height:56px;padding:6px 10px}.brand img{width:36px;height:36px}.brand strong{font-size:1rem}.brand small{font-size:.58rem}.top-signature{font-size:.62rem}#app{padding-top:10px}body{background-attachment:scroll!important}}
+
+/* V19 — interface compacte : laisse respirer les décors HD */
+@media (min-width:900px){
+  #app{width:min(1000px,calc(100% - 40px));padding-top:14px;padding-bottom:92px}
+  .scene{max-width:720px;margin:0 0 12px auto}
+  .scene-copy{padding:15px 22px}.scene h1{font-size:clamp(1.55rem,2.25vw,2.15rem)}.scene p{margin-bottom:4px}.scene span{font-size:.82rem}
+  .card,.item{padding:12px 15px;margin:8px 0;border-radius:13px}
+  .notice{padding:8px 11px;border-radius:10px}
+  .scope-tabs,.tabs{margin:8px 0 10px;gap:6px}.scope-tabs button,.tabs button{padding:6px 11px}
+  .primary,.secondary,.danger,.btn-blue,.btn-green,.btn-orange,.btn-purple{padding:8px 12px;border-radius:10px}
+  .field{margin:9px 0}.field label{margin-bottom:4px}.field input,.field textarea,.field select,input,textarea,select{padding:8px 10px;border-radius:9px}
+  .row{gap:7px}.grid,.brief-grid,.settings-grid{gap:9px}
+  .brief-grid{grid-template-columns:repeat(5,1fr)}.brief-grid .card{min-height:145px;padding:12px}.brief-grid .card h3{font-size:.98rem}.brief-grid .card p{font-size:.86rem}.brief-grid .card button{padding:8px 10px;font-size:.84rem}
+  .source{gap:10px}.source>div:first-child{min-width:0}.source h3{margin-bottom:4px}.source .row{margin-left:auto;flex-wrap:nowrap}.source .row button{white-space:nowrap;padding:7px 10px;font-size:.86rem}
+  .menu-list{gap:7px}.menu-list button{padding:10px 13px;border-radius:12px;min-height:54px}
+  .archive-item h3{margin:5px 0;font-size:1rem}.archive-item p{margin:5px 0}.archive-item strong{margin-top:5px}
+  .nav{padding-top:3px;padding-bottom:3px}.nav button{min-height:52px;font-size:1.05rem}.nav small{font-size:.65rem}
+
+  /* Les scènes ont leur personnage à gauche/centre-gauche : l'interface se range à droite. */
+  body[data-page="brief"] #app,body[data-page="watches"] #app,body[data-page="web"] #app,body[data-page="search"] #app,
+  body[data-page="sources"] #app,body[data-page="archives"] #app,body[data-page="more"] #app,body[data-page="settings"] #app,
+  body[data-page="mail"] #app,body[data-page="calendar"] #app,body[data-page="edit"] #app,body[data-page="sourceedit"] #app,
+  body[data-page="watch"] #app{width:min(900px,calc(100% - 40px));margin-left:auto;margin-right:4vw}
+
+  body[data-page="watches"] .card,body[data-page="web"] .card,body[data-page="search"] .card,
+  body[data-page="sources"] .card,body[data-page="sources"] .item,body[data-page="archives"] .item,
+  body[data-page="more"] .menu-list,body[data-page="settings"] .settings-grid,
+  body[data-page="mail"] .card,body[data-page="mail"] .item,body[data-page="calendar"] .card,body[data-page="calendar"] .item,
+  body[data-page="edit"] .card,body[data-page="sourceedit"] .card,body[data-page="watch"] .card{max-width:780px;margin-left:auto}
+
+  body[data-page="sources"] .notice,body[data-page="sources"] #app>.row,
+  body[data-page="watches"] .notice,body[data-page="watches"] #app>.row,
+  body[data-page="web"] #app>.card:first-of-type{max-width:780px;margin-left:auto}
+
+  /* Brief : bandeau et cartes plus bas/à droite, personnage visible à gauche. */
+  body[data-page="brief"] .brief-grid{max-width:900px;margin-left:auto}
+  body[data-page="brief"] .welcome{max-width:900px;margin-left:auto}
+
+  /* Cadrage des fonds pour garder le personnage dans la zone libre à gauche. */
+  body[data-page="brief"],body[data-page="watches"],body[data-page="web"],body[data-page="search"],body[data-page="sources"],
+  body[data-page="archives"],body[data-page="more"],body[data-page="settings"],body[data-page="mail"],body[data-page="calendar"],
+  body[data-page="edit"],body[data-page="sourceedit"],body[data-page="watch"]{background-position:left center!important}
+}
+
+@media (min-width:1200px){
+  body[data-page="brief"] #app,body[data-page="watches"] #app,body[data-page="web"] #app,body[data-page="search"] #app,
+  body[data-page="sources"] #app,body[data-page="archives"] #app,body[data-page="more"] #app,body[data-page="settings"] #app,
+  body[data-page="mail"] #app,body[data-page="calendar"] #app,body[data-page="edit"] #app,body[data-page="sourceedit"] #app,
+  body[data-page="watch"] #app{margin-right:7vw}
+}
+
+/* V20 — priorité aux décors : colonne d'interface étroite à droite */
+@media (min-width:900px){
+  /* Zone libre d'environ la moitié gauche pour le personnage principal. */
+  body[data-page="brief"] #app,body[data-page="watches"] #app,body[data-page="web"] #app,body[data-page="search"] #app,
+  body[data-page="sources"] #app,body[data-page="archives"] #app,body[data-page="more"] #app,body[data-page="settings"] #app,
+  body[data-page="mail"] #app,body[data-page="calendar"] #app,body[data-page="edit"] #app,body[data-page="sourceedit"] #app,
+  body[data-page="watch"] #app{width:min(620px,calc(100% - 34px));margin-left:auto;margin-right:4.5vw;padding-top:10px}
+
+  .scene{max-width:576px;margin:0 0 9px auto;border-radius:16px}
+  .scene-copy{padding:12px 18px}.scene h1{font-size:1.72rem;margin-bottom:3px}.scene p{font-size:.82rem;margin-bottom:2px}.scene span{font-size:.72rem}
+  .card,.item{padding:9px 12px;margin:6px 0;border-radius:11px;box-shadow:0 7px 20px rgba(20,48,55,.11)}
+  .notice{padding:6px 9px;font-size:.78rem;line-height:1.25}
+  .scope-tabs,.tabs{margin:6px 0 7px;gap:4px}.scope-tabs button,.tabs button{padding:5px 9px;font-size:.76rem}
+  .primary,.secondary,.danger,.btn-blue,.btn-green,.btn-orange,.btn-purple{padding:6px 9px;border-radius:8px;font-size:.76rem}
+  .field{margin:6px 0}.field label{margin-bottom:2px;font-size:.78rem}.field input,.field textarea,.field select,input,textarea,select{padding:6px 8px;border-radius:7px;font-size:.78rem}
+  .field-help,.counter,.meta{font-size:.70rem}.row{gap:5px}
+  .card h3,.item h3{font-size:.88rem;margin:0 0 3px}.card p,.item p{font-size:.76rem;margin:4px 0}
+
+  /* Brief : 3 cartes puis 2, nettement moins larges et moins hautes. */
+  body[data-page="brief"] .welcome,body[data-page="brief"] .brief-grid{max-width:620px;margin-left:auto}
+  body[data-page="brief"] .brief-grid{grid-template-columns:repeat(3,1fr);gap:6px}
+  body[data-page="brief"] .brief-grid .card{min-height:118px;padding:9px}
+  body[data-page="brief"] .brief-grid .card h3{font-size:.82rem}
+  body[data-page="brief"] .brief-grid .card p{font-size:.70rem}
+  body[data-page="brief"] .brief-grid .card button{padding:6px 7px;font-size:.70rem;width:100%}
+  body[data-page="brief"] .welcome{padding:8px 11px}
+
+  /* Veilles / Recherche / Sources : lignes courtes et commandes serrées. */
+  body[data-page="watches"] .card,body[data-page="web"] .card,body[data-page="search"] .card,
+  body[data-page="sources"] .card,body[data-page="sources"] .item,body[data-page="archives"] .item,
+  body[data-page="more"] .menu-list,body[data-page="settings"] .settings-grid,
+  body[data-page="mail"] .card,body[data-page="mail"] .item,body[data-page="calendar"] .card,body[data-page="calendar"] .item,
+  body[data-page="edit"] .card,body[data-page="sourceedit"] .card,body[data-page="watch"] .card{max-width:576px;margin-left:auto}
+  body[data-page="sources"] .notice,body[data-page="sources"] #app>.row,
+  body[data-page="watches"] .notice,body[data-page="watches"] #app>.row,
+  body[data-page="web"] #app>.card:first-of-type{max-width:576px;margin-left:auto}
+
+  .source{gap:6px}.source>div:first-child{min-width:0;flex:1 1 210px}.source .row{margin-left:auto;flex:0 0 auto;gap:4px;flex-wrap:nowrap}
+  .source .row button{padding:5px 7px;font-size:.68rem;white-space:nowrap}
+  body[data-page="sources"] .source h3{font-size:.82rem}
+  body[data-page="sources"] .source .meta{font-size:.62rem}
+  body[data-page="sources"] #app>.row{gap:5px}
+
+  /* Archives : cartes moins hautes pour montrer davantage le décor entre elles. */
+  body[data-page="archives"] .archive-item{padding:8px 11px}
+  body[data-page="archives"] .archive-item h3{font-size:.80rem;margin:3px 0}
+  body[data-page="archives"] .archive-item p{font-size:.70rem;margin:2px 0}
+  body[data-page="archives"] .archive-item strong{font-size:.72rem;margin-top:3px}
+  body[data-page="archives"] .badge{padding:3px 6px;font-size:.64rem}
+
+  /* Plus : menus courts, pas de longues barres blanches. */
+  body[data-page="more"] .menu-list{width:430px;max-width:100%;margin-left:auto;gap:5px}
+  body[data-page="more"] .menu-list button{padding:8px 10px;min-height:44px;border-radius:10px;font-size:.78rem}
+  body[data-page="more"] .menu-list small{font-size:.66rem}
+
+  /* Paramètres : une seule colonne compacte. */
+  body[data-page="settings"] .settings-grid{grid-template-columns:1fr;width:520px;max-width:100%;margin-left:auto;gap:5px}
+
+  /* Les formulaires ne doivent pas créer de grands panneaux. */
+  body[data-page="edit"] textarea{max-height:210px}
+  body[data-page="sourceedit"] .card,body[data-page="edit"] .card{width:540px;max-width:100%}
+
+  /* Conserver l'émeu du fond dans la moitié gauche. */
+  body[data-page="brief"],body[data-page="watches"],body[data-page="web"],body[data-page="search"],body[data-page="sources"],
+  body[data-page="archives"],body[data-page="more"],body[data-page="settings"],body[data-page="mail"],body[data-page="calendar"],
+  body[data-page="edit"],body[data-page="sourceedit"],body[data-page="watch"]{background-position:left center!important}
+}
+@media (min-width:1200px){
+  body[data-page="brief"] #app,body[data-page="watches"] #app,body[data-page="web"] #app,body[data-page="search"] #app,
+  body[data-page="sources"] #app,body[data-page="archives"] #app,body[data-page="more"] #app,body[data-page="settings"] #app,
+  body[data-page="mail"] #app,body[data-page="calendar"] #app,body[data-page="edit"] #app,body[data-page="sourceedit"] #app,
+  body[data-page="watch"] #app{margin-right:5.5vw}
+}
+
+/* V20.1 — ajustement final d'après les captures 1219 px : dégager encore le visage de l'émeu. */
+@media (min-width:1100px){
+  body[data-page="brief"] #app,body[data-page="watches"] #app,body[data-page="web"] #app,body[data-page="search"] #app,
+  body[data-page="sources"] #app,body[data-page="archives"] #app,body[data-page="more"] #app,body[data-page="settings"] #app,
+  body[data-page="mail"] #app,body[data-page="calendar"] #app,body[data-page="edit"] #app,body[data-page="sourceedit"] #app,
+  body[data-page="watch"] #app{width:min(540px,calc(100% - 30px));margin-right:3vw}
+  .scene{max-width:510px}
+  body[data-page="brief"] .welcome,body[data-page="brief"] .brief-grid{max-width:540px}
+  body[data-page="watches"] .card,body[data-page="web"] .card,body[data-page="search"] .card,
+  body[data-page="sources"] .card,body[data-page="sources"] .item,body[data-page="archives"] .item,
+  body[data-page="more"] .menu-list,body[data-page="settings"] .settings-grid,
+  body[data-page="mail"] .card,body[data-page="mail"] .item,body[data-page="calendar"] .card,body[data-page="calendar"] .item,
+  body[data-page="edit"] .card,body[data-page="sourceedit"] .card,body[data-page="watch"] .card,
+  body[data-page="sources"] .notice,body[data-page="sources"] #app>.row,
+  body[data-page="watches"] .notice,body[data-page="watches"] #app>.row,
+  body[data-page="web"] #app>.card:first-of-type{max-width:510px}
+  body[data-page="sources"] .source>div:first-child{flex-basis:150px}
+  body[data-page="sources"] .source .row button{padding:4px 6px;font-size:.64rem}
+  body[data-page="web"] .source .row button{padding:5px 7px;font-size:.66rem}
+}
+
+/* V21 — vraie interface "fenêtre latérale" : le décor et l'émeu restent prioritaires. */
+@media (min-width:1000px){
+  /* La colonne fonctionnelle n'occupe plus qu'environ un tiers de l'écran. */
+  body[data-page="brief"] #app,body[data-page="watches"] #app,body[data-page="web"] #app,body[data-page="search"] #app,
+  body[data-page="sources"] #app,body[data-page="archives"] #app,body[data-page="more"] #app,body[data-page="settings"] #app,
+  body[data-page="mail"] #app,body[data-page="calendar"] #app,body[data-page="edit"] #app,body[data-page="sourceedit"] #app,
+  body[data-page="watch"] #app{width:430px!important;max-width:calc(100vw - 28px)!important;margin:0 2.2vw 0 auto!important;padding:8px 0 82px!important}
+
+  .scene{width:430px!important;max-width:100%!important;margin:0 0 7px auto!important;border-radius:14px!important}
+  .scene-copy{padding:9px 14px!important}.scene h1{font-size:1.38rem!important;line-height:1.08!important;margin:0 0 3px!important}.scene p{font-size:.72rem!important;margin:0 0 2px!important}.scene span{font-size:.63rem!important}
+  .card,.item{padding:7px 9px!important;margin:5px 0!important;border-radius:9px!important;box-shadow:0 5px 14px rgba(20,48,55,.10)!important}
+  .card h3,.item h3{font-size:.78rem!important;margin:0 0 2px!important}.card p,.item p{font-size:.68rem!important;line-height:1.22!important;margin:2px 0!important}.meta{font-size:.61rem!important}
+  .notice{padding:5px 7px!important;font-size:.67rem!important;line-height:1.18!important;margin:4px 0!important}
+  .scope-tabs,.tabs{margin:4px 0 5px!important;gap:3px!important}.scope-tabs button,.tabs button{padding:4px 7px!important;font-size:.67rem!important}
+  .primary,.secondary,.danger,.btn-blue,.btn-green,.btn-orange,.btn-purple{padding:5px 7px!important;border-radius:7px!important;font-size:.66rem!important;line-height:1.15!important}
+  .row{gap:4px!important}.field{margin:5px 0!important}.field label{font-size:.69rem!important;margin-bottom:2px!important}.field input,.field textarea,.field select,input,textarea,select{padding:5px 7px!important;font-size:.68rem!important;border-radius:6px!important}.field-help,.counter{font-size:.61rem!important}
+
+  /* Brief : cartes réellement compactes, deux colonnes. */
+  body[data-page="brief"] .welcome,body[data-page="brief"] .brief-grid{width:430px!important;max-width:100%!important;margin-left:auto!important}
+  body[data-page="brief"] .welcome{padding:6px 8px!important;min-height:0!important}
+  body[data-page="brief"] .brief-grid{grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:5px!important}
+  body[data-page="brief"] .brief-grid .card{min-height:88px!important;padding:7px!important}
+  body[data-page="brief"] .brief-grid .card h3{font-size:.73rem!important}body[data-page="brief"] .brief-grid .card p{font-size:.62rem!important}
+  body[data-page="brief"] .brief-grid .card button{width:auto!important;align-self:flex-start!important;padding:4px 6px!important;font-size:.61rem!important}
+
+  /* Veilles et recherche : lignes courtes, boutons collés au contenu. */
+  body[data-page="watches"] .card,body[data-page="web"] .card,body[data-page="search"] .card,
+  body[data-page="sources"] .card,body[data-page="sources"] .item,body[data-page="archives"] .item,
+  body[data-page="more"] .menu-list,body[data-page="settings"] .settings-grid,
+  body[data-page="mail"] .card,body[data-page="mail"] .item,body[data-page="calendar"] .card,body[data-page="calendar"] .item,
+  body[data-page="edit"] .card,body[data-page="sourceedit"] .card,body[data-page="watch"] .card,
+  body[data-page="sources"] .notice,body[data-page="sources"] #app>.row,
+  body[data-page="watches"] .notice,body[data-page="watches"] #app>.row,
+  body[data-page="web"] #app>.card:first-of-type{width:430px!important;max-width:100%!important;margin-left:auto!important}
+
+  /* Sources : informations à gauche, petites commandes sur deux lignes si nécessaire. */
+  body[data-page="sources"] .source{display:grid!important;grid-template-columns:minmax(0,1fr) auto!important;gap:3px 5px!important;align-items:center!important}
+  body[data-page="sources"] .source>div:first-child{min-width:0!important;flex:none!important}
+  body[data-page="sources"] .source .row{display:grid!important;grid-template-columns:repeat(2,auto)!important;gap:3px!important;margin:0!important}
+  body[data-page="sources"] .source .row button{padding:4px 5px!important;font-size:.58rem!important;white-space:nowrap!important}
+  body[data-page="sources"] .source h3{font-size:.72rem!important;margin:0!important}body[data-page="sources"] .source .meta{font-size:.56rem!important;white-space:nowrap!important;overflow:hidden!important;text-overflow:ellipsis!important;max-width:220px!important}
+  body[data-page="sources"] #app>.row{justify-content:flex-start!important;flex-wrap:wrap!important}
+
+  /* Archives : résultat réduit au strict nécessaire. */
+  body[data-page="archives"] .archive-item{padding:6px 8px!important}
+  body[data-page="archives"] .archive-item h3{font-size:.69rem!important;line-height:1.18!important;margin:2px 0!important}
+  body[data-page="archives"] .archive-item p{font-size:.61rem!important;margin:1px 0!important}
+  body[data-page="archives"] .archive-item strong{font-size:.62rem!important;margin-top:2px!important}.badge,.account-badge{padding:3px 5px!important;font-size:.57rem!important}
+
+  /* Plus : petits boutons flottants plutôt que grandes barres. */
+  body[data-page="more"] .menu-list{display:grid!important;grid-template-columns:1fr 1fr!important;gap:5px!important}
+  body[data-page="more"] .menu-list button{padding:6px 8px!important;min-height:38px!important;border-radius:8px!important;font-size:.68rem!important;gap:7px!important}
+  body[data-page="more"] .menu-list small{font-size:.56rem!important}
+
+  /* Paramètres : trois petites cartes, puis sécurité compacte sur toute la largeur. */
+  body[data-page="settings"] .settings-grid{display:grid!important;grid-template-columns:1fr 1fr!important;width:430px!important;gap:5px!important}
+  body[data-page="settings"] .settings-grid>.card{min-height:0!important}
+  body[data-page="settings"] .settings-grid>.card:last-child{grid-column:1/-1!important}
+
+  /* Formulaires : supprimer les grands rectangles blancs. */
+  body[data-page="edit"] textarea{height:132px!important;min-height:100px!important;max-height:150px!important}
+  body[data-page="edit"] .card,body[data-page="sourceedit"] .card{width:430px!important;max-width:100%!important}
+
+  /* Navigation plus fine pour laisser davantage de hauteur au décor. */
+  .nav{padding-top:2px!important;padding-bottom:2px!important}.nav button{min-height:45px!important;font-size:.92rem!important}.nav small{font-size:.58rem!important}
+
+  /* Le personnage est volontairement placé dans la grande zone libre à gauche. */
+  body[data-page="brief"],body[data-page="watches"],body[data-page="web"],body[data-page="search"],body[data-page="sources"],
+  body[data-page="archives"],body[data-page="more"],body[data-page="settings"],body[data-page="mail"],body[data-page="calendar"],
+  body[data-page="edit"],body[data-page="sourceedit"],body[data-page="watch"]{background-position:left center!important}
+}
