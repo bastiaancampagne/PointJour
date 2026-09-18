@@ -141,11 +141,11 @@ function watchPage(){
  let body;
  if(state.tab==='archive'){
   const list=[...older,...undated];
-  body=`<p class="meta">${list.length} trouvaille(s) plus ancienne(s)</p>${list.map(article).join('')||'<div class="empty">Aucune trouvaille plus ancienne pour cette veille.</div>'}`;
+  body=`<div class="notice ok">${list.length} trouvaille(s) plus ancienne(s)</div>${list.map(article).join('')||'<div class="empty">Aucune trouvaille plus ancienne pour cette veille.</div>'}`;
  }else{
   const fallback=[...older,...undated].slice(0,10);
   body=today.length
-   ?`<p class="meta">${today.length} publication(s) aujourd’hui</p>${today.map(article).join('')}`
+   ?`<div class="notice ok">${today.length} publication(s) aujourd’hui</div>${today.map(article).join('')}`
    :`<div class="notice">Aucune nouvelle publication datée d’aujourd’hui pour cette veille.</div>${fallback.length?`<div class="card"><h3>🕘 Dernières trouvailles</h3></div>${fallback.map(article).join('')}`:'<div class="empty">Aucun résultat pour le moment. Essayez ↻ Actualiser.</div>'}`;
  }
  return topItems(`🔎 ${esc(w.name)}`,`${w.subs.length} sous-thèmes configurés · ${(w.spaces||[]).map(x=>labels[x]).join(' + ')}`)
