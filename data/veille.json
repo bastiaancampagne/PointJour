@@ -1,0 +1,1533 @@
+{
+  "generated_at": "2026-09-18T22:49:45.495358+00:00",
+  "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Recettes de septembre",
+      "url": "https://www.cuisineaz.com/les-aliments-de-saison-en-septembre-p688",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Quels sont les aliments de saison au mois de septembre ? Découvrez les légumes, les fruits, les poissons et les fromages de saison en septembre.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:40.933080+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes à base de féculents et céréales",
+      "url": "https://www.cuisineaz.com/idees-recettes/recettes-a-base-de-cereales-p1315",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Les céréales, ce sont des incontournables de nos cuisines ! Qu'elles soient sous forme de riz, de quinoa, de boulgour ou d'avoine, elles se déclinent à l'infini...",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:40.065639+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes à base de condiments et épices",
+      "url": "https://www.cuisineaz.com/idees-recettes/recettes-avec-condiments-et-epices-p1314",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Les condiments et les épices, ce sont les petits détails qui font toute la différence dans nos plats ! Que vous aimiez la chaleur du curry, la fraîcheur de la...",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:39.331245+00:00",
+      "topics": [
+        "Asiatique"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes à base de poisson",
+      "url": "https://www.cuisineaz.com/idees-recettes/recettes-a-base-de-poisson-p1312",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Les amateurs de poisson, cette page est faite pour vous ! Que vous soyez fan de saumon fondant, de cabillaud délicat ou encore de crevettes croquantes, nous avons...",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:38.484528+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes à base de viandes",
+      "url": "https://www.cuisineaz.com/idees-recettes/recettes-a-base-de-viande-p1311",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Les amateurs de viande, cette sélection est pour vous ! Que vous aimiez le bœuf juteux, le poulet tendre, l'agneau savoureux ou encore le porc croustillant, nos...",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:37.740197+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes à base de produits laitiers",
+      "url": "https://www.cuisineaz.com/idees-recettes/recettes-a-base-de-produits-laitiers-p1310",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Les produits laitiers, c'est l'ingrédient clé pour des recettes crémeuses et savoureuses ! Que vous soyez fan de fromage, de yaourt, de crème ou de lait, nous...",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:36.990501+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes à base de fruits",
+      "url": "https://www.cuisineaz.com/idees-recettes/recettes-aux-fruits-p1309",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:36.251631+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes à base de légumes",
+      "url": "https://www.cuisineaz.com/idees-recettes/recettes-aux-legumes-p1308",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Vous adorez les légumes mais manquez parfois d'inspiration pour les cuisiner ? Ne vous inquiétez pas, on est là pour vous ! Découvrez notre sélection de recettes...",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:35.351594+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes par ingrédients",
+      "url": "https://www.cuisineaz.com/idees-recettes/recettes-par-ingredients-p1307",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Vous en avez assez de vous demander quoi cuisiner avec ce que vous avez sous la main ? Ne cherchez plus ! On vous a préparé une sélection de recettes classées...",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:34.401221+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Plats Traditionnels",
+      "url": "https://www.cuisineaz.com/categories/plats-traditionnels-cat48868",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "4404 recettes de plats traditionnels - recettes faciles de plats traditionnels",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:33.678840+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Nos livres de cuisine avec",
+      "url": "https://www.marmiton.org/dossier-les-livres-de-cuisine-marmiton-avec-les-editions-michel-lafon",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "Retrouvez et consultez les derniers articles sur Les livres de cuisine Marmiton : Photos, vidéos, conseils, recettes, news sur Les livres de cuisine Marmiton",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:31.004399+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes Libanaises",
+      "url": "https://www.marmiton.org/recettes/selection_cuisine_libanaise.aspx",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:30.649258+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Cuisine Française",
+      "url": "https://www.marmiton.org/cuisine-francaise-sc13.html",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:30.299635+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes Grecque",
+      "url": "https://www.marmiton.org/recettes/selection_recettes_grecques.aspx",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:29.743393+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes Indiennes",
+      "url": "https://www.marmiton.org/recettes/selection_indienne.aspx",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:29.278119+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes Japonaises",
+      "url": "https://www.marmiton.org/recettes/selection_recette_japonaise.aspx",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:28.806689+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes Italiennes",
+      "url": "https://www.marmiton.org/dossier-viva-italia",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisinez italien avec nos recettes italiennes faciles à faire à la maison",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:28.451388+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Cuisine du Monde",
+      "url": "https://www.marmiton.org/cuisine-du-monde-sc7.html",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:27.864039+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes Sans Gluten",
+      "url": "https://www.marmiton.org/recettes/selection_sans_gluten.aspx",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:27.312167+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes Végétariennes",
+      "url": "https://www.marmiton.org/recettes/selection_vegetarien.aspx",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:26.927825+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes Healthy",
+      "url": "https://www.marmiton.org/recettes/selection_mincealors.aspx",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:26.418525+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Top des recettes",
+      "url": "https://www.marmiton.org/recettes/top-internautes.aspx",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:25.916661+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Nouvelles Recettes",
+      "url": "https://www.marmiton.org/recettes/nouveautes.aspx",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:25.261249+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes anti-gaspi",
+      "url": "https://www.marmiton.org/mieux-manger/anti-gaspi-ssc31.html",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "Anti-gaspi",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:24.860887+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Nos menus 3€, 2€, 1€ avec",
+      "url": "https://www.marmiton.org/dossier-mieux-manger-devrait-etre-accessible-a-tous",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez des recettes exclusives autour des produits du Menu 3€, 2€, 1€ pour des repas de saison, simples, savoureux et accessibles.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:23.886316+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes rapides et faciles",
+      "url": "https://www.marmiton.org/cuisine-rapide/rapide-tp123527.html",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "Toutes nos recettes rapides à faire, pour le midi, pour le soir, équilibrées ou par ingrédient.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:23.649694+00:00",
+      "topics": [
+        "Rapide"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes à la plancha",
+      "url": "https://www.750g.com/tag/plancha/",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez toutes nos 105 recettes à faire à la plancha comme : Légumes grillés à la plancha, Magret de canard à la plancha, Pommes de terre a la plancha",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:22.780500+00:00",
+      "topics": [
+        "Grillades"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes au barbecue",
+      "url": "https://www.750g.com/tag/barbecue/",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez nos meilleures idées pour réussir vos recettes au barbecue. Que ce soit des recettes à base de viande ou de poisson, on vous explique tout de la préparation à la cuisson.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:22.648282+00:00",
+      "topics": [
+        "Grillades"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes pratiques & gourmandes",
+      "url": "https://www.750g.com/recettes/marques/fleury-michon/",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Besoin d’inspiration ? Retrouvez des recettes simples et rapides à base de jambon, volaille, surimi ou tranches végé pour cuisiner facilement toute la semaine.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:22.079077+00:00",
+      "topics": [
+        "Rapide"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Voir les autres ingrédients du mois",
+      "url": "https://www.750g.com/ingredients/septembre.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "A chaque saison ses produits : tous les ingrédients du mois de septembre",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:21.736259+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Cuisine de saison arrow icon",
+      "url": "https://www.750g.com/ingredients/",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Retrouver ici les ingrédients pour cuisiner en fonction des saisons",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:21.608072+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "world icon La cuisine du monde",
+      "url": "https://www.750g.com/recettes_cuisine_du_monde.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine du monde. Les meilleures recettes classées par catégorie (Europe, Asie, Maghreb et Moyen-Orient, Amérique).",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:21.498603+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "salad icon Cuisine Végé",
+      "url": "https://www.750g.com/cuisine/vege/",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez nos meilleures idées recettes végé simples, gourmandes et originales à faire à la maison que ce soit des recettes végétariennes ou végétaliennes.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:21.367111+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "chrono icon Rapidement",
+      "url": "https://www.750g.com/recettes_cuisine_rapide.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Recettes de cuisine rapide : les recettes coup de cœur, rigoureusement sélectionnées par Chef Damien et Chef Christophe.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:21.184949+00:00",
+      "topics": [
+        "Rapide"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "patisserie icon Pâtisserie",
+      "url": "https://www.750g.com/recettes-desserts/patisseries/",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez nos 2203 recettes de Pâtisseries à faire à la maison. Notre meilleure recette: Chouquettes",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:21.061408+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "sauces icon Sauces",
+      "url": "https://www.750g.com/recettes-sauces/",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez nos meilleures recettes de sauces à faire à la maison que ce soit des sauces à base de tomates comme la sauce bolognaise ou des sauces pour accompagner votre viande ou votre poisson.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:20.865081+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "desserts icon Desserts",
+      "url": "https://www.750g.com/recettes-desserts/",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez nos meilleures recettes de desserts à faire à la maison avec une large variétés de choix dont les traditionnels gâteaux, les tartes mais aussi les pâtisseries, tiramisus et bien d'autres.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:20.668146+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "dishes icon Plats",
+      "url": "https://www.750g.com/recettes-plats/",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Retrouvez toutes nos recettes de plats à réaliser rapidement et facilement à la maison. Avec de la viande, du poisson ou à base de légumes, vous aurez l'embarras du choix pour ravir vos convives.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:20.513949+00:00",
+      "topics": [
+        "Rapide"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "starter icon Entrées",
+      "url": "https://www.750g.com/recettes-entrees/",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Retrouvez toutes nos recettes d'entrées à réaliser rapidement et facilement à la maison parmi une large variétés qu'elles soient froides ou chaudes.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:20.392959+00:00",
+      "topics": [
+        "Rapide"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes arrow icon",
+      "url": "https://www.750g.com/home_rubrique_-_recettes.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Besoin d'inspiration en cuisine ? 750g vous propose des idées pour une cuisine quotidienne pratique, créative, savoureuse et adaptée à vos exigences.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:20.231004+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "#HygièneCuisine",
+      "url": "https://www.anses.fr/fr/content/en-cuisine-le-meilleur-ingredient-c-est-l-hygiene",
+      "source": "ANSES",
+      "sourceKind": "OFFICIEL",
+      "summary": "Nos aliments sont vivants : ils hébergent une multitude de micro-organismes, dont certains peuvent se multiplier et provoquer des maladies si les conditions leur sont favorables. Comprendre « la vie secrète des aliments », c’est adopter les bons gestes au quotidien.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:19.830148+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Autorisation d'utilisation d'additifs pour l'alimentation animale, non autorisés dans l'Union européenne, à des fins de recherche",
+      "url": "https://www.anses.fr/fr/registres-decisions-reglementaires/autorisation-utilisation-additifs-pour-alimentation-animale-non-autorises-dans-ue",
+      "source": "ANSES",
+      "sourceKind": "OFFICIEL",
+      "summary": "La loi n°2020-1525 du 7 décembre 2020 d'accélération et de simplification de l'action publique et le décret n°2022-1599 du 20 décembre 2022 transfèrent à l’Anses la mission relative à l’autorisation d’utiliser à des fins de recherche scientifique, en tant qu’additifs pour l’alimentation animale, des substances non autorisées dans l’Union européenne, autres que les antibiotiques, lorsque les essais sont conduits en condition d'élevage ou lorsque les animaux sur lesquels sont conduits les essais sont destinés à entrer dans la chaîne alime",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:18.850276+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Avis et rapports en \"Alimentation et santé animale\"",
+      "url": "https://www.anses.fr/fr/avis-rapports/avis-et-rapports-dexpertise-alimentation-et-sante-animale",
+      "source": "ANSES",
+      "sourceKind": "OFFICIEL",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:17.855907+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Avis et rapports en \"Alimentation et nutrition\"",
+      "url": "https://www.anses.fr/fr/avis-rapports/avis-et-rapports-dexpertise-alimentation-et-nutrition-humaine",
+      "source": "ANSES",
+      "sourceKind": "OFFICIEL",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:16.909703+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "La plateforme de dialogue autour des AMM des produits phytopharmaceutiques",
+      "url": "https://www.anses.fr/fr/ouverture-societe-comites-dialogue/plateforme-dialogue-autorisations-de-mise-sur-le-marche-des-produits",
+      "source": "ANSES",
+      "sourceKind": "OFFICIEL",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:14.365226+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Les idées de recettes",
+      "url": "https://www.mangerbouger.fr/manger-mieux/la-fabrique-a-menus/recettes?diet=ALL&page=1",
+      "source": "Manger Bouger",
+      "sourceKind": "OFFICIEL",
+      "summary": "Les recettes site_description_prefix",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:10.999482+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Portail des actions probantes en nutrition",
+      "url": "https://www.mangerbouger.fr/ressources-pros/ressources-documents-mooc-liens-utiles/portail-des-actions-probantes-en-nutrition",
+      "source": "Manger Bouger",
+      "sourceKind": "OFFICIEL",
+      "summary": "Le portail des interventions probantes ou prometteuses en prévention et promotion de la santé a pour objectif d’aider les décideurs et les acteurs locaux à choisir des interventions adaptées pour répondre à leurs besoins. Découvrez les actions probante...",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:09.424258+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Les recommandations adultes : alimentation, activité physique et sédentarité",
+      "url": "https://www.mangerbouger.fr/ressources-pros/elaboration-des-recommandations-nutritionnelles/les-recommandations-adultes-alimentation-activite-physique-et-sedentarite",
+      "source": "Manger Bouger",
+      "sourceKind": "OFFICIEL",
+      "summary": "En 2019, Santé publique France publiait les nouvelles recommandations alimentaires pour les adultes. Elles ont été actualisées afin de prendre en compte l’évolution des données scientifiques, sur la base des avis de l’Anses et du HCSP. Elles ont été mi...",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:08.262579+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Comment sont élaborées les recommandations nutritionnelles ?",
+      "url": "https://www.mangerbouger.fr/ressources-pros/elaboration-des-recommandations-nutritionnelles/comment-sont-elaborees-les-recommandations-nutritionnelles",
+      "source": "Manger Bouger",
+      "sourceKind": "OFFICIEL",
+      "summary": "En France, des recommandations officielles portant sur l’alimentation, l’activité physique et la sédentarité sont diffusées depuis 2001 dans le cadre du Programme national nutrition santé (PNNS). Suite à l’évolution des données scientifiques et aux rap...",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:06.921269+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Elaboration des recommandations nutritionnelles",
+      "url": "https://www.mangerbouger.fr/ressources-pros/elaboration-des-recommandations-nutritionnelles",
+      "source": "Manger Bouger",
+      "sourceKind": "OFFICIEL",
+      "summary": "Elaboration des recommandations nutritionnelles",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:05.435855+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Le Programme National Nutrition Santé (PNNS)",
+      "url": "https://www.mangerbouger.fr/ressources-pros/le-programme-national-nutrition-sante-pnns",
+      "source": "Manger Bouger",
+      "sourceKind": "OFFICIEL",
+      "summary": "Lancé en 2001, le Programme national nutrition santé (PNNS) a pour objectif général l’amélioration de l’état de santé de l’ensemble de la population en agissant sur l’un de s...",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:04.212598+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Les recommandations sur l’alimentation, l’activité physique et la sédentarité",
+      "url": "https://www.mangerbouger.fr/l-essentiel/les-recommandations-sur-l-alimentation-l-activite-physique-et-la-sedentarite",
+      "source": "Manger Bouger",
+      "sourceKind": "OFFICIEL",
+      "summary": "Les recommandations sur l’alimentation, l’activité physique et la sédentarité",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:02.815827+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Comprendre les informations nutritionnelles et les étiquettes",
+      "url": "https://www.mangerbouger.fr/manger-mieux/s-informer-sur-les-produits-qu-on-achete/comprendre-les-informations-nutritionnelles-et-les-etiquettes",
+      "source": "Manger Bouger",
+      "sourceKind": "OFFICIEL",
+      "summary": "Composition des produits, labels, allégations nutritionnelles, aliments ultra-transformés, bio, dates de péremption… Les emballages comprennent de multiples informations pas toujours évidentes à décrypte...",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:49:01.145420+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Découvrir des idées recettes",
+      "url": "https://www.mangerbouger.fr/manger-mieux/la-fabrique-a-menus/recettes",
+      "source": "Manger Bouger",
+      "sourceKind": "OFFICIEL",
+      "summary": "Les recettes site_description_prefix",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:48:59.675910+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Cuisiner maison",
+      "url": "https://www.mangerbouger.fr/manger-mieux/se-faire-plaisir-en-mangeant-equilibre/cuisiner-maison",
+      "source": "Manger Bouger",
+      "sourceKind": "OFFICIEL",
+      "summary": "Cuisiner maison permet de gérer soi-même les quantités, les ingrédients, de limiter les produits ultra-transformés en choisissant des produits bruts ou peu transformés. Ce n’est pas toujours évident...",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:48:57.909902+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Planifier ses repas avec la Fabrique à menus",
+      "url": "https://www.mangerbouger.fr/manger-mieux/la-fabrique-a-menus/",
+      "source": "Manger Bouger",
+      "sourceKind": "OFFICIEL",
+      "summary": "site_description_prefix",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:48:56.473368+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Prélèvement à la source des cotisations sociales par les plateformes : quel calendrier ?",
+      "url": "https://entreprendre.service-public.gouv.fr/actualites/A18550",
+      "source": "Service-Public Pro",
+      "sourceKind": "OFFICIEL",
+      "summary": "Dès 2027, les plateformes numériques prélèveront directement les cotisations et contributions sociales des micro-entrepreneurs exerçant dans leur plateforme.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-18T22:47:59.062817+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-09-18T18:23:47+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Dieselgate. Une action collective en préparation contre Volkswagen devant le tribunal correctionnel de Paris",
+      "url": "https://www.largus.fr/actualite-automobile/dieselgate-une-action-collective-en-preparation-contre-volkswagen-devant-le-tribunal-correctionnel-de-paris-40007904.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Alors que le groupe Volkswagen comparaîtra devant la justice française en 2027 dans l’affaire du Dieselgate, une action collective se prépare pour solliciter l’indemnisation des clients lésés. Procédure, coût, véhicules concernés… L’argus revient sur les modalités de participation à ce grand procès.",
+      "publishedAt": "2026-09-18T16:46:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.101621+00:00",
+      "topics": [
+        "Réparation",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "18 septembre 18h20 Indemnité de licenciement des gérants de succursale : comment s’apprécie l’ancienneté lorsqu’un contrat de gérant succède à un contrat de travail ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/indemnite-de-licenciement-des-gerants-de-succursale-comment-s-apprecie-l-anciennete-lorsqu-un-contrat-de-gerant-succede-a-un-contrat-de-travail",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les nombreuses dispositions du code du travail relatives à la rupture du contrat de travail s’appliquent aux personnes ayant le statut de",
+      "publishedAt": "2026-09-18T16:20:58+00:00",
+      "discoveredAt": "2026-09-18T22:48:41.776934+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Des blancs de poulet au frigo ? La recette indienne parfaite et facile pour changer de l'ordinaire ce week-end",
+      "url": "https://www.750g.com/des-blancs-de-poulet-au-frigo-la-recette-indienne-parfaite-et-facile-pour-changer-de-l-ordinaire-ce-week-end-a44586.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Envie de voyager sans quitter votre cuisine ce week-end ? Découvrez comment transformer de simples blancs de poulet souvent un peu secs en un somptueux Tikka Masala, nappé d'une sauce onctueuse et divinement parfumée qui fera l'unanimité à table.",
+      "publishedAt": "2026-09-18T16:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:49:22.209190+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Superéthanol E85. La région PACA offre 250 € pour la pose d’un kit de conversion",
+      "url": "https://www.largus.fr/actualite-automobile/superethanol-e85-la-region-paca-offre-250-e-pour-la-pose-dun-kit-de-conversion-40007847.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Jusqu’au 30 octobre 2026, la région PACA aide ses habitants les plus modestes en leur offrant un chèque de 250 € s’ils convertissent leur véhicule au bioéthanol E85. Un coup de pouce financier destiné à baisser leur dépense en carburant mais aussi, à réduire les émissions de gaz à effet de serre.",
+      "publishedAt": "2026-09-18T14:59:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.101917+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Scoop Nissan Qashqai (2027). Le SUV compact bientôt restylé, son remplaçant électrique attendra",
+      "url": "https://www.largus.fr/actualite-automobile/scoop-nissan-qashqai-2027-le-suv-compact-bientot-restyle-son-remplacant-electrique-attendra-40007826.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Nissan devait remplacer le Qashqai actuel par une nouvelle génération 100 % électrique en 2027. Mais le constructeur japonais revoit sa stratégie puisque le SUV compact que nous connaissons, proposé avec plusieurs niveaux d’hybridation, sera restylé l’an prochain pour faire des heures supplémentaires.",
+      "publishedAt": "2026-09-18T14:23:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.102097+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Congés payés et arrêt maladie : la Cour de cassation précise les droits des anciens salariés",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/conges-payes-et-arret-maladie-la-cour-de-cassation-precise-les-droits-des-anciens-salaries",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-09-18T13:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:47.959864+00:00",
+      "topics": [
+        "IJSS",
+        "Congés"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Mazda CX6e (2026). Le SUV électrique qui donne (presque) envie",
+      "url": "https://www.largus.fr/actualite-automobile/essai-mazda-cx6e-2026-le-suv-electrique-qui-donne-presque-envie-40007631.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Avec sa robe sculpturale comme Mazda sait les faire, le CX6e aborde le segment des SUV électriques familiaux de belle manière et sans faire peur côté tarifs. Dommage que l’omniprésence du digital gâche un peu le plaisir de conduire.",
+      "publishedAt": "2026-09-18T11:28:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.102250+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "18 septembre 11h12 Chômage intempéries dans le BTP : les paramètres pour la campagne du 1er avril 2026 au 31 mars 2027 sont fixés Paye Journal officiel",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/chomage-intemperies-dans-le-btp-les-parametres-pour-la-campagne-du-1er-avril-2026-au-31-mars-2027-sont-fixes-19ca0894-903c-8401-be04-2c1460111c87",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un arrêté du 3 septembre 2026 fixe les règles de financement du régime de chômage intempéries du BTP pour la campagne allant du 1er",
+      "publishedAt": "2026-09-18T09:12:52+00:00",
+      "discoveredAt": "2026-09-18T22:48:43.653146+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Où acheter sa voiture d'occasion quand on est jeune conducteur ?",
+      "url": "https://www.largus.fr/actualite-automobile/ou-acheter-sa-voiture-doccasion-quand-on-est-jeune-conducteur-40007781.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Vous êtes un jeune conducteur et vous voulez acheter une voiture d'occasion ? On vous dit où et comment.",
+      "publishedAt": "2026-09-18T08:05:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.102371+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Journées du patrimoine 2026. Expos, animations, ateliers… l’auto à la fête les 19 et 20 septembre",
+      "url": "https://www.largus.fr/actualite-automobile/journees-du-patrimoine-2026-expos-animations-ateliers-lauto-a-la-fete-les-19-et-20-septembre-40007697.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "De nombreuses expositions et animations dédiées à l’automobile sont prévues ces 19 et 20 septembre 2026 dans le cadre des Journées européennes du patrimoine. Nous en avons sélectionné dix. Des cartes interactives permettent d’en découvrir davantage.",
+      "publishedAt": "2026-09-18T07:57:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.102518+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking du midi",
+      "url": "https://www.cuisineaz.com/diaporamas/batch-cooking-10-recettes-du-midi-faciles-pour-la-semaine-du-21-au-25-septembre-2026-8587/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-09-18T07:20:11.560000+00:00",
+      "discoveredAt": "2026-09-18T22:49:45.495051+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Ce chef italien révèle pourquoi votre façon de couper l'ail ruine complètement le goût de vos recettes",
+      "url": "https://www.750g.com/ce-chef-italien-revele-pourquoi-votre-facon-de-couper-l-ail-ruine-completement-le-gout-de-vos-recettes-a44582.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Vous avez peut-être l'habitude de prendre une gousse d'ail, de la couper rapidement puis de la mettre directement dans votre poêle. Un chef italien a partagé la découpe parfaite de ce condiment pour profiter de toutes ses saveurs rapidement.",
+      "publishedAt": "2026-09-18T06:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:49:22.354697+00:00",
+      "topics": [
+        "Rapide"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Loi de programmation militaire 2024 à 2030 : Quelles sont les mesures pour les salariés ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8142-loi-programmation-militaire-2024-2030-quelles-sont-mesures-salaries.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La loi de programmation militaire 2024 à 2030 renforce les obligations de certains employeurs et organise la mobilisation des salariés en cas de crise. Plans de continuité, dérogations au droit du travail et autorisations d’absence des réservistes : voici les principales mesures à connaître.",
+      "publishedAt": "2026-09-18T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:38.409633+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Gérant de succursale : pas de garantie AGS sans contrat de travail",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1690-gerant-succursale-garantie-ags-contrat-travail.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un arrêt du 9 septembre 2026, la Cour de cassation juge qu’un gérant de succursale non salarié ne bénéficie pas de la garantie de l’AGS. L’application de certaines règles du code du travail à son statut ne suffit pas à lui conférer la qualité de salarié. En cas de liquidation judiciaire, ses créances risquent donc de rester impayées.",
+      "publishedAt": "2026-09-18T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:38.410069+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Prix Kia Seltos (2026). Le SUV compact hybride arrive en France",
+      "url": "https://www.largus.fr/actualite-automobile/prix-kia-seltos-2026-le-suv-compact-hybride-arrive-en-france-40007668.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Deuxième modèle le plus vendu de Kia dans le monde, le Seltos était jusqu’ici inconnu chez nous. Mais cela va changer, car la deuxième génération arrive en France. La marque vient d’ouvrir les commandes de ce rival du Renault Symbioz, uniquement disponible en hybride et proposé à partir de 36 790 €.",
+      "publishedAt": "2026-09-17T16:37:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.102708+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Test pneus 4 saisons 2026. Les modèles conseillés et ceux à fuir",
+      "url": "https://www.largus.fr/actualite-automobile/test-pneus-4-saisons-2026-les-modeles-conseilles-et-ceux-a-fuir-40007613.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le Touring Club suisse (TCS) et l'Automobile Club allemand (ADAC) publient les résultats de leurs tests des pneus toutes-saisons 2026. Seize modèles ont été éprouvés dans des conditions extrêmes afin d’évaluer leur polyvalence. Voici ceux qui obtiennent les meilleurs résultats et ceux à éviter.",
+      "publishedAt": "2026-09-17T14:54:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.102863+00:00",
+      "topics": [
+        "Pneus"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Industrie. Où sont fabriquées les voitures françaises ?",
+      "url": "https://www.largus.fr/actualite-automobile/industrie-ou-sont-fabriquees-les-voitures-francaises-40007429.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Les best-sellers des marques françaises sur leur marché domestique ne sont pas tous fabriqués ici. De la Serbie au Maroc en passant par la Turquie ou l’Espagne, voici un tour d’horizon des sites de production utilisés par les principaux constructeurs tricolores pour fournir leurs concessions en France.",
+      "publishedAt": "2026-09-17T12:37:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.103011+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Résiliation auto : le guide pour changer sereinement",
+      "url": "https://www.largus.fr/actualite-automobile/resiliation-auto-le-guide-pour-changer-sereinement-40007562.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Il est possible de changer d'assurance auto à l'échéance annuelle du contrat, moyennant un préavis de deux mois, ou à tout moment après une première année de souscription grâce à la loi Hamon. Deux possibilités s'offrent donc au conducteur selon l'ancienneté de son contrat : demander une résiliation à l'échéance annuelle ou, après un an, souscrire une nouvelle assurance auto qui prendra le relais de la précédente.",
+      "publishedAt": "2026-09-17T08:57:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.103283+00:00",
+      "topics": [
+        "Assurance"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Convention collective : définir l’activité principale de l’entreprise",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/convention-collective-definir-lactivite-principale-de-lentreprise",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-09-17T07:31:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:47.959986+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "DSN « néant » : Qui est concerné ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8141-dsn-neant-concerne.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Même en l’absence de salarié à déclarer, l’employeur peut rester tenu de transmettre une DSN chaque mois. Dans ce cas, une DSN sans individu, dite DSN « néant », doit être déposée selon des modalités précises prévues par l’Urssaf.",
+      "publishedAt": "2026-09-17T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:38.410343+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Actualité - Dioxyde de titane dans les médicaments : la scandaleuse inertie des autorités européennes",
+      "url": "https://www.quechoisir.org/actualite-dioxyde-de-titane-dans-les-medicaments-la-scandaleuse-inertie-des-autorites-europeennes-n178218/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Interdit dans l’alimentation pour cause d’effets toxiques, le dioxyde de titane, un colorant, continue à être utilisé dans de nombreux médicaments avec la bénédiction de Bruxelles.",
+      "publishedAt": "2026-09-17T01:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.839110+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai MG IM5 électrique : notre avis sur la Porsche Taycan chinoise",
+      "url": "https://www.largus.fr/actualite-automobile/essai-mg-im5-electrique-notre-avis-sur-la-porsche-taycan-chinoise-40006820.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Un joli profil de coupé à 5 portes, des roues arrière motrices et directrices, une architecture électrique sous 800 V et jusqu’à 751 ch en version 4 x 4 : ça ne vous rappelle pas la Porsche Taycan ? La nouvelle MG IM5 est pourtant vendue à moitié prix, soit 53 990 € en version propulsion ici testée.",
+      "publishedAt": "2026-09-16T22:01:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.103450+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Volkswagen ID.California (2027). Le rêve du van aménagé électrique rattrapé par le poids",
+      "url": "https://www.largus.fr/actualite-automobile/volkswagen-id-california-2027-le-reve-du-van-amenage-electrique-rattrape-par-le-poids-40007358.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Volkswagen présente l’ID. California Cruise au Salon IAA de Hanovre. Ce dérivé de l’ID. Buzz marque l’arrivée du van aménagé électrique. Mais, contrairement au California que l’on connaît, celui-ci fait l’impasse sur le toit relevable. Une concession imposée par le poids.",
+      "publishedAt": "2026-09-16T12:07:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.103731+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Gestion post-sinistre. Comment fonctionnent l’indemnisation et la franchise auto ?",
+      "url": "https://www.largus.fr/actualite-automobile/gestion-post-sinistre-comment-fonctionnent-lindemnisation-et-la-franchise-auto-40005607.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "À la suite d'un accident avec son véhicule, un usager peut se poser une multitude de questions quant à sa prise en charge par son assureur. En combien de temps est-il indemnisé ? Comment accélérer ce processus ? Comment fonctionne sa franchise ? Tour d’horizon des solutions à sa disposition.",
+      "publishedAt": "2026-09-16T12:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.103883+00:00",
+      "topics": [
+        "Assurance"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Nissan Kicks (2027). Le SUV urbain hybride qui épaulera le futur Juke électrique en Europe",
+      "url": "https://www.largus.fr/actualite-automobile/nissan-kicks-2027-le-suv-hybride-urbain-qui-epaulera-le-futur-juke-electrique-en-europe-40007335.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "En 2027, Nissan lancera la nouvelle génération du Juke, exclusivement électrique. Pour compenser l’arrêt du Juke thermique, le constructeur nippon commercialisera en Europe le Kicks, SUV hybride concurrent du Peugeot 2008 jusque-là réservé à d’autres marchés.",
+      "publishedAt": "2026-09-16T09:50:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.104040+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Comment reconnaître un concessionnaire automobile fiable avant d'acheter ?",
+      "url": "https://www.largus.fr/actualite-automobile/comment-reconnaitre-un-concessionnaire-automobile-fiable-avant-dacheter-40002599.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Garanties, SAV, atelier, reprise : les critères objectifs pour reconnaître un concessionnaire automobile fiable et sécuriser son achat avant de signer.",
+      "publishedAt": "2026-09-16T09:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.104162+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Volkswagen ID.3 GTI (2027). À bord de la compacte électrique sportive qui change de nom",
+      "url": "https://www.largus.fr/actualite-automobile/volkswagen-id-3-gti-2027-a-bord-de-la-compacte-electrique-sportive-qui-change-de-nom-40007257.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Adieu GTX, rebonjour GTI ! La version sportive de la Volkswagen ID.3 Neo reprend ce nom tout en conservant sa motorisation électrique de 326 ch. L’argus s’est glissé à bord. La présentation évolue en conséquence, tout comme l’ergonomie. Cela suffira-t-il à faire revenir les amateurs ?",
+      "publishedAt": "2026-09-16T08:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.104308+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "IA en entreprise : attention, terrain juridique sensible !",
+      "url": "https://www.legisocial.fr/actualites-sociales/8090-ia-entreprise-attention-terrain-juridique-sensible.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’intelligence artificielle n’est plus un gadget : elle s’invite dans le recrutement, la gestion RH, la sécurité informatique, la production, le pilotage stratégique… Mais son déploiement n’est jamais neutre juridiquement. Il engage la responsabilité de l’employeur, impose une procédure, une transparence et une concertation obligatoire.",
+      "publishedAt": "2026-09-16T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:38.410513+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Transparence salariale : les mesures impactant la paie",
+      "url": "https://www.legisocial.fr/actualites-sociales/8140-transparence-salariale-mesures-impactant-paie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Communication des rémunérations moyennes par sexe, comparaison des salariés effectuant un travail de valeur égale, accès aux bases de calcul : le projet de loi sur la transparence salariale prévoit plusieurs obligations qui concerneraient directement les services paie. Présentation des principales mesures envisagées.",
+      "publishedAt": "2026-09-16T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:38.410868+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Actualité - Alimentation, hygiène, droguerie - Les vrais chiffres de l’inflation",
+      "url": "https://www.quechoisir.org/actualite-alimentation-hygiene-droguerie-les-vrais-chiffres-de-l-inflation-n110542/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Depuis 2020 et les crises successives (covid, explosion des tarifs de l’énergie, hausses des cours des matières premières, conflits armés…), les prix des produits de grande consommation (alimentation, hygiène-beauté, entretien) ont connu une inflation inédite. Dès 2022, cette inflation a gagné les autres secteurs économiques (produits importés, services). Pour évaluer l’inflation réelle subie par les consommateurs, nous utilisons nos propres relevés en magasins ou via nos comparateurs (énergie, assurance…). Chaque mois, nous mettons à jour nos données sur l’évolution des prix afin de suivre au plus près ce que paient les consommateurs. Nous avons ainsi pu mesurer l’inflation réelle depuis fin 2021.",
+      "publishedAt": "2026-09-16T01:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.839675+00:00",
+      "topics": [
+        "Achat",
+        "Entretien"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Actualité - Que vaut le Lundi 27, le nouveau vélo électrique urbain de Moustache ?",
+      "url": "https://www.quechoisir.org/actualite-que-vaut-le-lundi-27-le-nouveau-velo-electrique-urbain-de-moustache-n178194/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Moustache renouvelle son célèbre vélo électrique de ville, dénommé Lundi 27. Les fondamentaux ne bougent pas : ce vélo à cadre ouvert offre une position droite et des pneus larges pour un confort maximal. La nouveauté ? Le Lundi 27 est plus léger ! Il perd 3,5 kg sur la balance et 300 € sur la facture. Nous avons pu l’essayer avant notre test en laboratoire. Premières impressions.",
+      "publishedAt": "2026-09-16T01:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.839897+00:00",
+      "topics": [
+        "Pneus",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Kia PV7 (2027). Le concurrent du Renault Trafic E-Tech se dévoile",
+      "url": "https://www.largus.fr/actualite-automobile/kia-pv7-2027-le-concurrent-du-renault-trafic-e-tech-se-devoile-40007228.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Après le PV5, Kia passe à la vitesse supérieure avec le PV7. Dévoilé au Salon IAA de Hanovre, l’utilitaire électrique veut concurrencer les références du segment avec une architecture 800V, jusqu’à 8 m3 de volume utile, neuf places et une autonomie de 460 km. Son lancement est prévu pour 2027.",
+      "publishedAt": "2026-09-15T17:07:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.104458+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Analogue VHPK (2026). Une Lotus Elise de 600 kg pour 250 ch à prix d’or",
+      "url": "https://www.largus.fr/actualite-automobile/analogue-vhpk-2026-une-lotus-elise-de-600-kg-pour-250-ch-a-prix-dor-40007141.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le préparateur britannique Analogue Automotive présente la VHPK, une Lotus Elise S1 dont la puissance a été portée à plus de 250 ch et le poids réduit à moins de 600 kg. Devenue monoplace, la sportive restomod réclame plus de 400 000 €.",
+      "publishedAt": "2026-09-15T16:03:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.104629+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Prix Fiat Topolino (2026). La découvrable Dolcevita a maintenant des portes",
+      "url": "https://www.largus.fr/actualite-automobile/prix-fiat-topolino-2026-la-decouvrable-dolcevita-a-maintenant-des-portes-40007034.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "La version Dolcevita de la Fiat Topolino revient au catalogue toujours dotée d’un toit ouvrant en toile et désormais équipée de portières quand sa devancière jouait les voiturettes de plage. La voiture sans permis électrique cousine de la Citroën Ami est disponible à partir de 9 990 €.",
+      "publishedAt": "2026-09-15T12:56:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.104778+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Skoda Epiq (2026). Le petit SUV électrique qui voit grand",
+      "url": "https://www.largus.fr/actualite-automobile/essai-skoda-epiq-2026-le-petit-suv-electrique-qui-voit-grand-40006832.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le nouveau Skoda Epiq profite de la dernière plate-forme électrique du groupe Volkswagen sans perdre l’esprit rationnel de la marque tchèque. Nous avons emmené la version haut de gamme Clever 55 de 211 ch sur un parcours exigeant entre l’Allemagne et l’Autriche et sommes revenus avec le sourire.",
+      "publishedAt": "2026-09-15T11:45:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.104931+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Renault Trafic Van E-Tech (2027). Nos dernières infos sur l’utilitaire 100 % électrique",
+      "url": "https://www.largus.fr/actualite-automobile/renault-trafic-van-e-tech-2027-nos-dernieres-infos-sur-lutilitaire-100-electrique-40007054.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Présenté à Solutrans en 2025, le nouveau Renault Trafic Van E-Tech 100 % électrique s’expose jusqu’au 20 septembre au Salon IAA de Hanovre. L’événement permet de découvrir les caractéristiques révisées de cet utilitaire, dont l’arrivée sur le marché est prévue pour le premier trimestre 2027.",
+      "publishedAt": "2026-09-15T10:06:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.105091+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Le bulletin de paie d'un salarié mis à pied",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/le-bulletin-de-paie-dun-salarie-mis-a-pied",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-09-15T09:16:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:47.960171+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "RH : stratégies pour ajuster les rémunérations en fonction de l'inflation",
+      "url": "https://www.legisocial.fr/actualites-sociales/7029-rh-strategies-ajuster-remunerations-fonction-inflation.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Tout l'enjeu pour les DRH est de trouver un équilibre entre le maintien du pouvoir d'achat des salariés, la maîtrise des coûts de l'entreprise et la préservation de la motivation et de l'engagement dans un contexte inflationniste.",
+      "publishedAt": "2026-09-15T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:38.411245+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Volkswagen Mission Efficiency (2026). Une ID. Polo en version ultra-sobre",
+      "url": "https://www.largus.fr/actualite-automobile/volkswagen-mission-efficiency-2026-une-id-polo-en-version-ultra-sobre-40006801.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "En 2013, Volkswagen marquait l'histoire automobile en dévoilant la XL1. Ce modèle hybride rechargeable diesel était devenu la voiture de série la plus sobre au monde. Treize ans plus tard, le constructeur de Wolfsburg réitère cette démarche d'efficience absolue avec le concept Mission Efficiency.",
+      "publishedAt": "2026-09-14T15:04:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.105322+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Toyota Yaris Cross (2026) : quels progrès pour le SUV hybride japonais ?",
+      "url": "https://www.largus.fr/actualite-automobile/essai-toyota-yaris-cross-2026-quels-progres-pour-le-suv-hybride-japonais-40005509.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Cinq ans après son lancement, le Toyota Yaris Cross s'offre un restylage. Mais celui-ci est bien timide au moment où la concurrence, notamment chinoise, est plus féroce que jamais. Voyons si le petit SUV japonais est encore dans le coup.",
+      "publishedAt": "2026-09-14T14:04:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.105589+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "BMW Série 3 (2027). La berline premium toujours plus sportive en thermique",
+      "url": "https://www.largus.fr/actualite-automobile/bmw-serie-3-2027-la-berline-premium-toujours-plus-sportive-en-thermique-40006758.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "BMW termine la mise au point de la prochaine Série 3 thermique (type G50). Celle-ci viendra épauler l’i3 électrique (NA0) qui arrive tout juste dans les concessions. La berline et sa variante break seront micro-hybrides et offriront jusqu’à 443 ch en attendant une M3 encore plus musclée.",
+      "publishedAt": "2026-09-14T10:22:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.105746+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Rupture conventionnelle : peut-elle être proposée pendant un arrêt maladie ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/rupture-conventionnelle-peut-elle-etre-proposee-pendant-un-arret-maladie",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-09-14T09:30:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:47.960346+00:00",
+      "topics": [
+        "IJSS",
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Licenciement pour absence perturbant le fonctionnement de l’entreprise : absence de présomption de discrimination",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/licenciement-pour-absence-perturbant-le-fonctionnement-de-lentreprise-absence-de-presomption-de-discrimination",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-09-14T06:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:47.960529+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Abandon de poste d'un salarié protégé et présomption de démission : faut-il l'autorisation de l'inspection du travail ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8106-abandon-poste-salarie-protege-presomption-demission-autorisation-inspection-travail.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La publication du nouveau guide de la Direction générale du travail (DGT) en juin 2026 apporte une réponse administrative sur l'autorisation de l'inspection du travail en cas de démission pour abandon de poste d'un salarié protégé, sans pour autant clore le débat…",
+      "publishedAt": "2026-09-14T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:38.411419+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Risques psycho-sociaux : toutes les entreprises sont concernées !",
+      "url": "https://www.legisocial.fr/actualites-sociales/7021-risques-psycho-sociaux-entreprises-sont-concernees.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Tous les types d’entreprises, de la start‑up à la multinationale, sont exposés aux risques psychosociaux (stress, harcèlement, burnout …). Depuis la réforme de 2023, leur prévention doit être intégrée au Document Unique d’Évaluation des Risques Professionnels, obligeant l’employeur à identifier les facteurs, évaluer l’impact et mettre en place des mesures concrètes pour protéger la santé des salariés.",
+      "publishedAt": "2026-09-14T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:38.411652+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Aide carburant « grands rouleurs » : les demandes prolongées jusqu’au 30 septembre 2026",
+      "url": "https://www.legisocial.fr/actualites-sociales/8127-aide-carburant-grands-rouleurs-demandes-prolongees-30-septembre-2026.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les salariés et indépendants éligibles à l’aide carburant « grands rouleurs » ont jusqu’au 30 septembre 2026 pour déposer leur demande. Cette indemnité de 100 euros est destinée aux travailleurs aux revenus modestes utilisant leur véhicule personnel pour leurs déplacements professionnels.",
+      "publishedAt": "2026-09-14T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:38.411848+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Actualité - Volkswagen ID.3 Neo (2026) - Premières impressions",
+      "url": "https://www.quechoisir.org/actualite-volkswagen-id-3-neo-2026-premieres-impressions-n178150/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "La nouvelle ID.3 Neo, la compacte électrique de Volkswagen, gagne en qualité de fabrication et en ergonomie en abandonnant les très décriées touches numériques. Ses motorisations de nouvelle génération sont aussi plus efficientes. Reste le prix qui, sans les primes, est toujours élevé.",
+      "publishedAt": "2026-09-13T01:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.841991+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Preuve des heures supplémentaires : un tableau incluant les temps de trajet peut suffire",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/preuve-des-heures-supplementaires-un-tableau-incluant-les-temps-de-trajet-peut-suffire",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-09-11T12:30:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:47.960666+00:00",
+      "topics": [
+        "Heures supplémentaires"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Licenciement pour motif personnel : 3 motifs possibles… et autant de pièges à éviter",
+      "url": "https://www.legisocial.fr/actualites-sociales/8094-licenciement-motif-personnel-3-motifs-possibles-pieges-eviter.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Tous les licenciements ne se pilotent pas de la même manière. Chaque motif a ses règles, ses délais, ses procédures. Les confondre, c’est prendre un risque contentieux ! Voici un rappel pour sécuriser vos décisions.",
+      "publishedAt": "2026-09-11T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:38.412017+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Prime carburant : Bercy confirme l’exonération fiscale jusqu’à 600 € en 2026",
+      "url": "https://www.legisocial.fr/actualites-sociales/8126-prime-carburant-bercy-confirme-exoneration-fiscale-600-2026.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Après le doublement du plafond d’exonération sociale annoncé par le BOSS, le ministère de l’Économie confirme également le relèvement de l’exonération fiscale de la prime carburant. Celle-ci peut ainsi atteindre 600 € par salarié en 2026, sans impôt sur le revenu ni cotisations sociales.",
+      "publishedAt": "2026-09-11T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:38.412182+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Faute inexcusable : le juge s'émancipe des décisions de la CPAM pour indemniser la victime",
+      "url": "https://www.legisocial.fr/actualites-sociales/8105-faute-inexcusable-juge-emancipe-decisions-cpam-indemniser-victime.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le juge saisi de l'indemnisation complémentaire des conséquences dommageables de la faute inexcusable de l'employeur n'est pas lié par les décisions de la caisse primaire d'assurance maladie, ni pour la date de consolidation, ni pour le taux d'incapacité permanente.",
+      "publishedAt": "2026-09-11T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:38.412358+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Contrôle URSSAF : une méthode invalide annule entièrement le redressement",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1689-controle-urssaf-methode-invalide-annule-entierement-redressement.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un arrêt du 3 septembre 2026, la Cour de cassation précise qu’un redressement calculé selon une méthode irrégulière doit être annulé en totalité. L’URSSAF doit également appliquer les taux de versement mobilité et de cotisation AT/MP correspondant réellement aux établissements concernés.",
+      "publishedAt": "2026-09-11T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:38.412518+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Voitures compactes",
+      "url": "https://www.quechoisir.org/comparatif-voiture-compacte-n1/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Les voitures compactes représentent un segment très convoité par tous les constructeurs et chacun y va de son modèle. Les versions les plus récentes (Volkswagen Golf, Renault Megane, Audi A3, Peugeot 308…) reçoivent désormais un équipement technologique relativement important et de nombreuses aides à la conduite (surveillance des angles morts, alerte de franchissement de ligne continue, régulateur de vitesse adaptatif…).",
+      "publishedAt": "2026-09-09T03:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:53.050711+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Voitures citadines",
+      "url": "https://www.quechoisir.org/comparatif-voiture-citadine-n3/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Les citadines représentent le segment le plus vendu en France avec une importante part de marché pour les marques françaises (Renault, Citroën et Peugeot) qui placent 7 modèles (Clio, C3, 208…) parmi les 10 meilleures ventes. Le choix doit privilégier le côté pratique, la maniabilité et la facilité d'usage.",
+      "publishedAt": "2026-09-09T03:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:53.050881+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Voitures routières",
+      "url": "https://www.quechoisir.org/comparatif-voiture-routiere-n5/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Confortables et cossues, les routières permettent de voyager dans de très bonnes conditions. Les plus haut de gamme (Mercedes Classe C, BMW Série 3, Renault Laguna…) sont dotées d'équipements dernier cri (voiture connectée, climatisation 4 zones…) et leur ergonomie doit être irréprochable pour en maîtriser toutes les subtilités.",
+      "publishedAt": "2026-09-09T03:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:53.051040+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Voitures SUV et 4x4",
+      "url": "https://www.quechoisir.org/comparatif-voiture-4x4-suv-n9/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Baroudeurs ou plutôt urbains, les 4x4 (Land Rover Evoque, Mercedes Classe GLK, Nissan Pathfinder…) et SUV (Nissan Qashqai, Peugeot 3008, Volkswagen Tiguan…) se déclinent en diverses versions, courtes ou longues, permettant de transporter jusqu'à 7 personnes. Certains sont même proposés en version à deux ou quatre roues motrices (Dacia Duster, Ford, Kuga, BMW X3 et X5…).",
+      "publishedAt": "2026-09-09T03:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:53.051201+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Voitures électriques",
+      "url": "https://www.quechoisir.org/comparatif-voitures-electriques-n108194/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "L'interdiction de la vente de voitures neuves à moteur thermique en 2035 dans l'Union européenne a boosté le marché des voitures électriques. L’infrastructure des stations de recharge et l’autonomie encore limitée de la majorité des modèles disponibles méritent certes d’être améliorées, mais les avantages des voitures électriques sont de taille : pas d’émissions polluantes directes ni de gaz à effet de serre, coût à l’usage et entretien sensiblement inférieurs à ceux d’une voiture thermique, etc. Et même si leur bilan carbone sur le cycle de vie est loin d’être insignifiant, il reste meilleur que celui des voitures essence et diesel.",
+      "publishedAt": "2026-09-09T03:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:53.051406+00:00",
+      "topics": [
+        "Achat",
+        "Entretien",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Le nouveau numéro des Cahiers de la Retraite Complémentaire est paru",
+      "url": "https://www.agirc-arrco.fr/nous-connaitre/nos-actualites/les-cahiers-de-la-retraite-complementaire-vous-attendent-en-ligne-decouvrez-les-2/",
+      "source": "Agirc-Arrco",
+      "sourceKind": "OFFICIEL",
+      "summary": "Les cahiers de la retraite complémentaire invitent le lecteur à découvrir l'actualité du régime Agirc-Arrco et de son écosystème.",
+      "publishedAt": "2026-09-08T14:34:52+00:00",
+      "discoveredAt": "2026-09-18T22:48:31.395794+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Alimentation et nutrition humaine",
+      "url": "https://www.anses.fr/fr/thematique/alimentation-et-nutrition-humaine",
+      "source": "ANSES",
+      "sourceKind": "OFFICIEL",
+      "summary": "Notre alimentation est au cœur de notre quotidien. Saine et sûre, elle est un allié puissant pour notre santé. Pourtant, un déséquilibre nutritionnel ou des aliments contaminés peuvent toutefois nous exposer à des risques immédiats ou à des maladies chroniques. L’Anses apporte son expertise scientifique à toutes les étapes de la chaîne alimentaire, depuis la production des aliments d’origine animale ou végétale jusqu’à l’assiette du consommateur. Elle évalue les risques liés à la contamination des aliments par des agents pathogènes et des substances toxiques. Elle évalue également la qualité nutritionnelle et les risques liés à l’inactivité physique et la sédentarité.Découvrez tous nos articles \"Alimentation et nutrition humaine\"",
+      "publishedAt": "2026-09-08T12:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:49:15.727631+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Voitures d'occasion",
+      "url": "https://www.quechoisir.org/comparatif-voiture-occasion-n164888/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Le marché de la voiture d’occasion ne cesse de croître pour être désormais trois fois supérieur à celui de la voiture neuve. Les prix d’achat plus avantageux ne sont sûrement pas étrangers à cet engouement pour la seconde main. Ce test regroupe les voitures que nous avons précédemment testées, avec un protocole exigeant, et qui ne sont plus commercialisées en tant que véhicules neufs par les fabricants et les concessionnaires. Elles ont depuis été remplacées par une nouvelle génération ou la motorisation testée n’est plus disponible dans les catalogues des constructeurs. Attention, les résultats de ce test sont ceux obtenus avec les voitures neuves, nous ne les avons pas retestées d’occasion. Mais nos évaluations ainsi que nos avis d’experts vous permettront de disposer des informations nécessaires pour évaluer les performances des voitures au moment de leur mise en vente sur le marché du neuf.",
+      "publishedAt": "2026-09-02T03:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:53.051835+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Plat de poisson à préparer à l'avance : gratin de cabillaud",
+      "url": "https://www.cuisineaz.com/recettes/plat-de-poisson-a-preparer-a-l-avance-gratin-de-cabillaud-125369.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez le réconfort d’un gratin de cabillaud, parfait à préparer à l’avance pour simplifier vos repas quotidiens. Ce plat marie la douceur du poisson et des...",
+      "publishedAt": "2026-08-31T06:40:04.650000+00:00",
+      "discoveredAt": "2026-09-18T22:49:41.749835+00:00",
+      "topics": [
+        "Four"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Actualisation du taux de prélèvement à la source",
+      "url": "https://www.agirc-arrco.fr/nous-connaitre/nos-actualites/actualisation-des-taux-de-prelevement-a-la-source/",
+      "source": "Agirc-Arrco",
+      "sourceKind": "OFFICIEL",
+      "summary": "Les nouveaux taux de prélèvement à la source seront appliqués à partir de septembre 2026 sur les retraites complémentaires Agirc-Arrco.",
+      "publishedAt": "2026-08-31T06:00:31+00:00",
+      "discoveredAt": "2026-09-18T22:48:31.395940+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Pesticides",
+      "url": "https://www.quechoisir.org/comparatif-observatoire-des-pesticides-n98916/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Un nombre croissant d’études suggèrent que l’ingestion quotidienne de cocktails de résidus de pesticides est néfaste pour la santé. Pour aider les consommateurs à identifier les aliments pour lesquels le bénéfice individuel à privilégier le label bio semble le plus important, nous vous présentons ici les informations de contamination de 58 produits différents (bien sûr, l’intérêt de choisir une version bio peut aussi varier en fonction d’autres critères, notamment selon que le produit peut ou non être pelé). Nous avons pour cela recensé les résultats d’analyses de plus de 5000 aliments d’origine végétale, réalisées entre 2022 et 2024 par les autorités françaises (voir « comment nous avons procédé »).",
+      "publishedAt": "2026-08-16T03:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:53.052405+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Boulettes d'épinards et chèvre U, sauce tomate maison",
+      "url": "https://www.cuisineaz.com/recettes/boulettes-d-epinards-et-chevre-u-sauce-tomate-maison-124892.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Des boulettes végétariennes qui font l'unanimité : des épinards en branches surgelés U Origine France, un cœur de chèvre U fondant, une sauce tomate maison mijotée...",
+      "publishedAt": "2026-08-12T13:22:47.030000+00:00",
+      "discoveredAt": "2026-09-18T22:49:43.349367+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "La vraie ratatouille maison : la recette d'été qui ne gaspille rien",
+      "url": "https://www.cuisineaz.com/articles/la-vraie-ratatouille-maison-la-recette-d-ete-qui-ne-gaspille-rien-20474.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cet été, on vous a trouvé un bon plan pour une recette gourmande et économique. Rendez-vous au rayon fruits et légumes des Magasins U pour la concocter : aubergines...",
+      "publishedAt": "2026-08-03T14:15:10.090000+00:00",
+      "discoveredAt": "2026-09-18T22:49:44.064875+00:00",
+      "topics": [
+        "Économique"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Frais, surgelé ou conserve : bien choisir ses légumes U pour cuisiner malin cet été",
+      "url": "https://www.cuisineaz.com/articles/frais-surgele-ou-conserve-bien-choisir-ses-legumes-u-pour-cuisiner-malin-cet-ete-20473.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Frais, surgelé ou conserve, on ne sait pas toujours lequel choisir. La bonne nouvelle, c'est qu'il n'y a pas vraiment de mauvais choix : juste une question de...",
+      "publishedAt": "2026-08-03T14:14:31.060000+00:00",
+      "discoveredAt": "2026-09-18T22:49:44.787733+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Ma retraite en… 1 minute max’ : des réponses rapides à vos questions retraite",
+      "url": "https://www.agirc-arrco.fr/nous-connaitre/nos-actualites/ma-retraite-en-1-minute-max-des-reponses-rapides-a-vos-questions-retraite/",
+      "source": "Agirc-Arrco",
+      "sourceKind": "OFFICIEL",
+      "summary": "Pour mieux comprendre votre retraite complémentaire, retrouvez « Ma retraite en… 1 minute max’ », une série de vidéos courtes et une playlist régulièrement mise à jour pour répondre à vos questions.",
+      "publishedAt": "2026-07-27T07:22:34+00:00",
+      "discoveredAt": "2026-09-18T22:48:31.396374+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Tarte aux mirabelles : La recette de ma grand-mère",
+      "url": "https://www.cuisineaz.com/recettes/tarte-aux-mirabelles-la-recette-de-ma-grand-mere-120280.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Retrouvez le goût authentique des étés en Lorraine avec cette tarte aux mirabelles, inspirée des recettes de nos grands-mères. Généreusement garnie de mirabelles...",
+      "publishedAt": "2025-08-12T14:34:23.880000+00:00",
+      "discoveredAt": "2026-09-18T22:49:42.546932+00:00",
+      "topics": []
+    }
+  ],
+  "errors": [
+    {
+      "theme": "Paie",
+      "source": "BOSS",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "theme": "Paie",
+      "source": "Légifrance",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Paie",
+      "source": "URSSAF",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "theme": "Paie",
+      "source": "Assurance Maladie",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "ADEME",
+      "error": "HTTP Error 403: Forbidden"
+    }
+  ]
+}
