@@ -1,1 +1,47 @@
+name: Actualiser la veille PointJour
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "23 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: pointjour-veille-update
+  cancel-in-progress: false
+
+jobs:
+  update-veille:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Collecter les nouveautés (Paie, Auto, Cuisine)
+        run: python scripts/scrape.py
+
+      - name: Enregistrer les nouveautés
+        run: |
+          if git diff --quiet -- data/veille.json; then
+            echo "Aucune modification."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/veille.json
+          git commit -m "Mise à jour automatique de la veille"
+
+          git pull --rebase origin main
+          git push origin HEAD:main
