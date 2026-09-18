@@ -32,7 +32,7 @@ jobs:
 
       - name: Enregistrer les nouveautés
         run: |
-          if git diff --quiet -- data/veille.json; then
+          if [ -z "$(git status --porcelain -- data/veille.json)" ]; then
             echo "Aucune modification."
             exit 0
           fi
