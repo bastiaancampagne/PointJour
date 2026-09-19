@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-09-19T06:40:14.395591+00:00",
+  "generated_at": "2026-09-19T07:35:45.716698+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-09-19T07:24:15+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "L'ingrédient mystère à glisser dans votre pâte pour des crêpes incroyablement moelleuses",
+      "url": "https://www.750g.com/l-ingredient-mystere-a-glisser-dans-votre-pate-pour-des-crepes-incroyablement-moelleuses-a44562.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Quel que soit le moment de la journée, les crêpes sont toujours un véritable délice. Et vous remarquerez que cette recette sera encore meilleure avec l'ajout de cet ingrédient un peu spécial.",
+      "publishedAt": "2026-09-19T07:00:00+00:00",
+      "discoveredAt": "2026-09-19T07:35:23.572511+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Essai Porsche Cayenne Turbo Coupé Electric (2026) : la caresse et la claque",
@@ -674,20 +699,6 @@
       "discoveredAt": "2026-09-18T22:47:59.062817+00:00",
       "topics": [
         "Cotisations"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-09-18T18:23:47+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
@@ -1549,6 +1560,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
