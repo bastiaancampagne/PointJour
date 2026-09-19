@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T11:35:06.867617+00:00",
+  "generated_at": "2026-09-19T12:32:02.023746+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,10 +8,23 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-09-19T07:24:15+00:00",
+      "publishedAt": "2026-09-19T12:24:15+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Match. La nouvelle Dacia Spring défie la BYD Dolphin Surf",
+      "url": "https://www.largus.fr/actualite-automobile/match-la-nouvelle-dacia-spring-defie-la-byd-dolphin-surf-40007410.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "La Dacia Spring II fait partie des grandes nouveautés de la rentrée. Avant son arrivée en concessions fin 2026, nous avons décidé de l’opposer à la BYD Dolphin Surf, l’une de ses plus sérieuses concurrentes. La puce électrique roumaine prendra-t-elle l'avantage sur sa rivale chinoise ?",
+      "publishedAt": "2026-09-19T12:03:00+00:00",
+      "discoveredAt": "2026-09-19T12:31:06.158198+00:00",
+      "topics": [
         "Carburant"
       ]
     },
