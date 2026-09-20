@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-20T21:36:10.013461+00:00",
+  "generated_at": "2026-09-20T22:35:28.982944+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Filet mignon de porc au four",
+      "url": "https://www.750g.com/filet-mignon-de-porc-au-four-r99713.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez la recette de Filet mignon de porc au four à faire en 20 minutes. Préchauffez le four à 200°C. Dans une poêle bien chaude, versez un filet d'huile d'olive. Salez le filet mignon puis déposez-le dans la poêle bien chaude. Faites colorer la viande sur toutes les faces, c'est important pour donner du goût. Une fois bien saisi",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-20T22:35:15.018165+00:00",
+      "topics": [
+        "Rapide",
+        "Four"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -569,7 +583,7 @@
     },
     {
       "theme": "Cuisine",
-      "title": "Recettes arrow icon",
+      "title": "Voir toutes les recettes",
       "url": "https://www.750g.com/home_rubrique_-_recettes.htm",
       "source": "750g",
       "sourceKind": "RECETTES",
