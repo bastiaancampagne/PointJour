@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-09-20T07:35:49.312274+00:00",
+  "generated_at": "2026-09-20T08:37:21.167864+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Leapmotor D19 (2026). Ce très grand SUV électrique sera au Mondial de Paris en octobre",
+      "url": "https://www.largus.fr/actualite-automobile/leapmotor-d19-2026-ce-tres-grand-suv-electrique-sera-au-mondial-de-paris-2026-40007886.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Leapmotor sera présent au Mondial de Paris 2026 du 12 au 18 octobre avec, entre autres, le D19. Ce SUV électrique géant long de 5,25 m, vaisseau amiral de la marque en Chine, sera sa vitrine technologique sur son stand parisien. De là à envisager sa commercialisation chez nous ?",
+      "publishedAt": "2026-09-20T08:27:00+00:00",
+      "discoveredAt": "2026-09-20T08:36:31.113414+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -1573,11 +1586,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
