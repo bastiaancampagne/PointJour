@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-21T11:38:20.052458+00:00",
+  "generated_at": "2026-09-21T12:40:09.164775+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-09-21T12:24:01+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Cuisine",
       "title": "Risque important d'intoxication : Carrefour rappelle d'urgence ces tomates pelées vendues dans toute la France",
@@ -15,17 +29,16 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-09-21T07:23:47+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "theme": "Paie",
+      "title": "21 septembre 09h56 Arrêts maladie : un an maximum d'IJSS pour les « ALD non exonérantes » à partir du 15 octobre 2026 Social Paye Journal officiel",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/arrets-maladie-un-an-maximum-d-ijss-pour-les-ald-non-exonerantes-a-partir-du-15-octobre-2026",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Deux décrets du 16 septembre 2026 (publiés le 18) réduisent de trois ans à un an la durée maximale d’indemnisation des arrêts de",
+      "publishedAt": "2026-09-21T07:56:03+00:00",
+      "discoveredAt": "2026-09-21T12:38:55.560272+00:00",
       "topics": [
-        "Achat",
-        "Carburant"
+        "IJSS"
       ]
     },
     {
