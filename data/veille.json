@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-09-21T14:37:43.101478+00:00",
+  "generated_at": "2026-09-21T15:36:19.118447+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-09-21T15:23:54+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Mondial de Paris 2026. Jouez et gagnez votre billet pour le Salon avec L’argus",
+      "url": "https://www.largus.fr/actualite-automobile/mondial-de-paris-2026-jouez-et-gagnez-votre-billet-pour-le-salon-avec-largus-40008084.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "La 91e édition du Mondial de l’Auto se tiendra du 12 au 18 octobre 2026 à Paris Expo porte de Versailles. Pour l’occasion, L’argus organise un jeu-concours avec 250 invitations à la clé afin de ne pas rater ce rendez-vous incontournable qui s’annonce comme un festival de nouveautés.",
+      "publishedAt": "2026-09-21T15:00:00+00:00",
+      "discoveredAt": "2026-09-21T15:35:37.912905+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Essai Peugeot E-208 GTi (2026) : électrique mais fantastique !",
@@ -35,20 +62,6 @@
       "publishedAt": "2026-09-21T12:39:00+00:00",
       "discoveredAt": "2026-09-21T13:36:06.959118+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-09-21T12:24:01+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Cuisine",
