@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T09:38:13.346492+00:00",
+  "generated_at": "2026-09-21T10:37:15.499263+00:00",
   "items": [
     {
       "theme": "Cuisine",
@@ -889,6 +889,19 @@
       "summary": "Les nombreuses dispositions du code du travail relatives à la rupture du contrat de travail s’appliquent aux personnes ayant le statut de",
       "publishedAt": "2026-09-18T16:20:58+00:00",
       "discoveredAt": "2026-09-18T22:48:41.776934+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "18 septembre 18h20 Indemnité de licenciement des gérants de succursale : comment s’apprécie l’ancienneté lorsqu’un contrat de gérant succède à un contrat de travail ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/indemnite-de-licenciement-des-gerants-de-succursale-comment-s-apprecie-l-anciennete-lorsqu-un-contrat-de-gerant-succede-a-un-contrat-de-travail-15801b12-801c-8404-9214-0a4ffa69ba35",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les nombreuses dispositions du code du travail relatives à la rupture du contrat de travail s’appliquent aux personnes ayant le statut de",
+      "publishedAt": "2026-09-18T16:20:58+00:00",
+      "discoveredAt": "2026-09-21T10:36:14.261403+00:00",
       "topics": [
         "Ruptures"
       ]
