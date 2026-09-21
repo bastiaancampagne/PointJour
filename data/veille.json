@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T21:36:40.770850+00:00",
+  "generated_at": "2026-09-21T22:36:47.862545+00:00",
   "items": [
     {
       "theme": "Paie",
@@ -771,7 +771,7 @@
     },
     {
       "theme": "Cuisine",
-      "title": "Voir toutes les recettes",
+      "title": "Recettes arrow icon",
       "url": "https://www.750g.com/home_rubrique_-_recettes.htm",
       "source": "750g",
       "sourceKind": "RECETTES",
@@ -1841,11 +1841,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
