@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-09-21T08:38:53.905450+00:00",
+  "generated_at": "2026-09-21T09:38:13.346492+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Risque important d'intoxication : Carrefour rappelle d'urgence ces tomates pelées vendues dans toute la France",
+      "url": "https://www.750g.com/risque-important-d-intoxication-carrefour-rappelle-d-urgence-ces-tomates-pelees-vendues-dans-toute-la-france-a44595.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Le distributeur Carrefour procède au rappel urgent de boîtes de tomates entières pelées au jus de sa marque Simpl. Ce produit de grande consommation présente un risque de contamination par des graines de Datura, une plante sauvage hautement toxique1",
+      "publishedAt": "2026-09-21T09:00:00+00:00",
+      "discoveredAt": "2026-09-21T09:37:53.804937+00:00",
+      "topics": [
+        "Four"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -1712,6 +1725,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
