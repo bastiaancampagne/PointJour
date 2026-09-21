@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-21T17:35:11.182493+00:00",
+  "generated_at": "2026-09-21T18:40:59.170976+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-09-21T18:23:46+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carburant : toutes les aides disponibles en France en 2026",
@@ -10,20 +24,6 @@
       "summary": "Face à la flambée des prix à la pompe, le gouvernement a mis en place quelques dispositifs pour tenter d’alléger la facture de carburant. Mais ces aides sont faibles et ne s’adressent pas à tous les automobilistes. Voici les principaux dispositifs en cours selon le profil et l’usage du véhicule.",
       "publishedAt": "2026-09-21T16:02:00+00:00",
       "discoveredAt": "2026-09-21T16:37:32.099036+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-09-21T15:23:54+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
