@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-21T15:36:19.118447+00:00",
+  "generated_at": "2026-09-21T16:38:30.301344+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carburant : toutes les aides disponibles en France en 2026",
+      "url": "https://www.largus.fr/actualite-automobile/carburant-toutes-les-aides-disponibles-en-france-en-2026-40008237.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Face à la flambée des prix à la pompe, le gouvernement a mis en place quelques dispositifs pour tenter d’alléger la facture de carburant. Mais ces aides sont faibles et ne s’adressent pas à tous les automobilistes. Voici les principaux dispositifs en cours selon le profil et l’usage du véhicule.",
+      "publishedAt": "2026-09-21T16:02:00+00:00",
+      "discoveredAt": "2026-09-21T16:37:32.099036+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
