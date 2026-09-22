@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-09-22T15:36:35.100992+00:00",
+  "generated_at": "2026-09-22T16:39:02.165490+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carburant. Aide \"grands rouleurs\" prolongée et élargie, prime carburant augmentée... les dernières annonces du gouvernement sur les aides disponibles",
+      "url": "https://www.largus.fr/actualite-automobile/carburant-toutes-les-aides-disponibles-en-france-en-2026-40008237.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Face à la flambée des prix à la pompe, le gouvernement a annoncé de nouvelles mesures ce 22 septembre pour tenter d’alléger la facture de carburant. Mais ces aides sont faibles et ne s’adressent pas à tous les automobilistes. Voici les principaux dispositifs en cours selon le profil et l’usage du véhicule.",
+      "publishedAt": "2026-09-22T16:07:00+00:00",
+      "discoveredAt": "2026-09-21T16:37:32.099036+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Voici l'ingrédient secret recommandé par les bouchers pour réussir une escalope panée croustillante et sans gras",
+      "url": "https://www.750g.com/voici-l-ingredient-secret-recommande-par-les-bouchers-pour-reussir-une-escalope-panee-croustillante-et-sans-gras-a44599.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez l'astuce imparable des professionnels pour obtenir une escalope milanaise ultra-croustillante et légère en remplaçant simplement la chapelure classique par une combinaison magique qui n'absorbe pas l'huile de cuisson.",
+      "publishedAt": "2026-09-22T16:00:00+00:00",
+      "discoveredAt": "2026-09-22T16:38:38.738049+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Carburant. Le gazole été prolongé jusqu’au 15 novembre pour éviter la pénurie",
+      "url": "https://www.largus.fr/actualite-automobile/carburant-le-gazole-ete-prolonge-jusquau-15-novembre-pour-eviter-la-penurie-40008507.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Normalement, à partir du 1er novembre, les distributeurs de carburants doivent proposer un gazole « d’hiver » capable de résister à des températures inférieures à zéro. Mais le gouvernement vient de prolonger la vente du gazole « d’été » jusqu’au 15 novembre. Un moyen de prévenir une éventuelle pénurie ?",
+      "publishedAt": "2026-09-22T15:43:00+00:00",
+      "discoveredAt": "2026-09-22T16:38:06.726897+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -129,20 +167,6 @@
       "topics": [
         "IJSS",
         "Congés"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carburant : toutes les aides disponibles en France en 2026",
-      "url": "https://www.largus.fr/actualite-automobile/carburant-toutes-les-aides-disponibles-en-france-en-2026-40008237.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Face à la flambée des prix à la pompe, le gouvernement a mis en place quelques dispositifs pour tenter d’alléger la facture de carburant. Mais ces aides sont faibles et ne s’adressent pas à tous les automobilistes. Voici les principaux dispositifs en cours selon le profil et l’usage du véhicule.",
-      "publishedAt": "2026-09-21T16:02:00+00:00",
-      "discoveredAt": "2026-09-21T16:37:32.099036+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
