@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-09-22T11:37:18.160806+00:00",
+  "generated_at": "2026-09-22T12:42:04.429582+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Ceer Motors, nouvelle marque saoudienne. Les rois du pétrole se mettent à l’électrique",
+      "url": "https://www.largus.fr/actualite-automobile/ceer-motors-nouvelle-marque-saoudienne-les-rois-du-petrole-se-mettent-a-lelectrique-40008321.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "L’Arabie saoudite présente Ceer motors, son premier constructeur automobile national, qui se lance avec une berline et un SUV électriques surpuissants à l’allure futuriste. Baptisés Exobot, ils doivent être les premiers d’une gamme de sept modèles attendus d’ici à 2032.",
+      "publishedAt": "2026-09-22T12:31:00+00:00",
+      "discoveredAt": "2026-09-22T12:41:16.528993+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-09-22T12:24:10+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Paie",
       "title": "22 septembre 12h00 S'approprier des informations confidentielles au travers d'un ex-salarié caractérise la concurrence déloyale Social Jurisprudence",
@@ -11,20 +38,6 @@
       "publishedAt": "2026-09-22T10:00:00+00:00",
       "discoveredAt": "2026-09-22T11:36:15.943240+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-09-22T07:24:08+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Auto",
