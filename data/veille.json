@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-09-22T14:38:52.275772+00:00",
+  "generated_at": "2026-09-22T15:36:35.100992+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-09-22T15:24:05+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Lexus ES (2026) : hybride ou électrique, la routière japonaise change d’échelle",
+      "url": "https://www.largus.fr/actualite-automobile/essai-lexus-es-2026-hybride-ou-electrique-la-routiere-japonaise-change-dechelle-40007937.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Montée en gamme, hausse de gabarit, arrivée d’une version électrique, la nouvelle Lexus ES prend ses aises. La grande berline premium japonaise soigne particulièrement son confort et conserve en parallèle un moteur hybride simple. Fait rare, les deux mécaniques sont vendues au même tarif.",
+      "publishedAt": "2026-09-22T15:16:00+00:00",
+      "discoveredAt": "2026-09-22T15:35:48.214998+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Ceer Motors, nouvelle marque saoudienne. Les rois du pétrole se mettent à l’électrique",
@@ -15,17 +42,16 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-09-22T12:24:10+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "theme": "Paie",
+      "title": "22 septembre 12h09 Une convention collective peut réserver le droit à une indemnité de licenciement en cas de faute grave aux salariés cadres Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/une-convention-collective-peut-reserver-le-droit-a-une-indemnite-de-licenciement-en-cas-de-faute-grave-aux-salaries-cadres",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Une disposition conventionnelle opérant une différence de traitement entre les salariés cadres et les salariés non-cadres est-elle",
+      "publishedAt": "2026-09-22T10:09:46+00:00",
+      "discoveredAt": "2026-09-22T15:35:36.514602+00:00",
       "topics": [
-        "Achat",
-        "Carburant"
+        "Ruptures"
       ]
     },
     {
