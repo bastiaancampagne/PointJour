@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-09-22T05:37:18.184402+00:00",
+  "generated_at": "2026-09-22T06:41:50.240324+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Ultimate Supercar Garage 2027. Affiche, billets… le Salon des sportives revient en février à Paris",
+      "url": "https://www.largus.fr/actualite-automobile/ultimate-supercar-garage-2027-affiche-billets-le-salon-des-sportives-revient-en-fevrier-a-paris-40008183.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "La seconde édition du Salon Ultimate Supercar Garage se tiendra à Paris en parallèle de Rétromobile du 3 au 7 février 2027, sur une surface plus grande afin d'accueillir davantage d'exposants. Son affiche se dévoile pour l’ouverture de la billetterie.",
+      "publishedAt": "2026-09-22T05:59:00+00:00",
+      "discoveredAt": "2026-09-22T06:41:14.759396+00:00",
+      "topics": [
+        "Réparation"
+      ]
+    },
     {
       "theme": "Paie",
       "title": "Les mesures RH de la loi de programmation militaire",
@@ -1852,6 +1865,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
