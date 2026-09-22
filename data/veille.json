@@ -1,9 +1,20 @@
 {
-  "generated_at": "2026-09-22T16:39:02.165490+00:00",
+  "generated_at": "2026-09-22T17:36:18.698539+00:00",
   "items": [
     {
+      "theme": "Cuisine",
+      "title": "Cette technique de cuisson sans eau bouillante permet d'obtenir des œufs durs parfaitement écalés",
+      "url": "https://www.750g.com/cette-technique-de-cuisson-sans-eau-bouillante-permet-d-obtenir-des-oeufs-durs-parfaitement-ecales-a44598.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Vous avez du mal à écaler vos œufs durs sans arracher la moitié du blanc ? Le problème ne vient peut-être pas de votre façon de retirer la coquille, mais directement de la cuisson. Une méthode très simple, sans plonger les œufs dans l'eau bouillante1",
+      "publishedAt": "2026-09-22T17:00:00+00:00",
+      "discoveredAt": "2026-09-22T17:36:01.161056+00:00",
+      "topics": []
+    },
+    {
       "theme": "Auto",
-      "title": "Carburant. Aide \"grands rouleurs\" prolongée et élargie, prime carburant augmentée... les dernières annonces du gouvernement sur les aides disponibles",
+      "title": "Carburant. Aide « grands rouleurs » prolongée et élargie, prime carburant augmentée... les dernières annonces du gouvernement sur les aides disponibles",
       "url": "https://www.largus.fr/actualite-automobile/carburant-toutes-les-aides-disponibles-en-france-en-2026-40008237.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
@@ -1966,11 +1977,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
