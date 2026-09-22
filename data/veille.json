@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-22T06:41:50.240324+00:00",
+  "generated_at": "2026-09-22T07:37:19.300478+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-09-22T07:24:08+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Ultimate Supercar Garage 2027. Affiche, billets… le Salon des sportives revient en février à Paris",
@@ -54,17 +68,17 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-09-21T18:23:46+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "theme": "Paie",
+      "title": "21 septembre 21h11 Arrêt maladie et indemnité compensatrice de congés payés : la Cour de cassation rend son verdict sur l’application des règles de prescription Social Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/arret-maladie-et-indemnite-compensatrice-de-conges-payes-la-cour-de-cassation-rend-son-verdict-sur-l-application-des-regles-de-prescription-13881b82-941c-8401-9454-b0b7aa0a2887",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "On s’en souvient, la loi d'adaptation au droit de l'Union européenne (DDADUE) du 22 avril 2024 a mis le code du travail en conformité",
+      "publishedAt": "2026-09-21T19:11:25+00:00",
+      "discoveredAt": "2026-09-22T07:36:31.212417+00:00",
       "topics": [
-        "Achat",
-        "Carburant"
+        "IJSS",
+        "Congés"
       ]
     },
     {
