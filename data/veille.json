@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-09-23T13:38:34.600561+00:00",
+  "generated_at": "2026-09-23T14:38:40.499900+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Comparez les prix du carburant près de chez vous !",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A16018",
+      "source": "Service-Public",
+      "sourceKind": "OFFICIEL",
+      "summary": "Une carte interactive officielle recense les prix des carburants et l’état d’approvisionnement en essence et en gazole, par station-service.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-23T14:37:54.503603+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Prix Suzuki Across (2026). Le clone du RAV4 hybride rechargeable plus attractif que l’original ?",
+      "url": "https://www.largus.fr/actualite-automobile/prix-suzuki-across-2026-le-clone-du-rav4-hybride-rechargeable-plus-attractif-que-loriginal-40008538.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Version rebadgée du dernier Toyota RAV4 hybride rechargeable, le nouveau Suzuki Across propose l’équipement le plus fourni pour le prix le plus bas de ce dernier. Le SUV rival des Citroën C5 Aircross et Ford Kuga est affiché 55 150 €. Une remise de lancement de 6 000 € est à déduire.",
+      "publishedAt": "2026-09-23T14:07:00+00:00",
+      "discoveredAt": "2026-09-23T14:37:57.746787+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "23 septembre 15h26 Conjoints collaborateurs : l’URSSAF alerte sur la fin du statut au 31 décembre 2026 pour certains et conseille d’anticiper le changement Social Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/conjoints-collaborateurs-l-urssaf-alerte-sur-la-fin-du-statut-au-31-decembre-2026-pour-certains-et-conseille-d-anticiper-le-changement",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La loi de financement de la sécurité sociale pour 2022 a limité le statut de conjoint collaborateur à 5 ans maximum. Ainsi, au 1er",
+      "publishedAt": "2026-09-23T13:26:11+00:00",
+      "discoveredAt": "2026-09-23T14:37:45.844859+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
