@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-09-23T03:38:00.202063+00:00",
+  "generated_at": "2026-09-23T04:38:02.652159+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "Absence du salarié : trois zones de risque juridique à ne pas sous-estimer",
+      "url": "https://www.legisocial.fr/actualites-sociales/8118-absence-salarie-trois-zones-risque-juridique-ne-estimer.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La gestion de l’absence d’un salarié relève d’un régime juridique strict. Trois points concentrent l’essentiel du contentieux.",
+      "publishedAt": "2026-09-23T04:00:00+00:00",
+      "discoveredAt": "2026-09-23T04:37:12.348189+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Congés payés acquis pendant un arrêt maladie : précisions jurisprudentielles sur la prescription",
+      "url": "https://www.legisocial.fr/actualites-sociales/8149-conges-payes-acquis-arret-maladie-precisions-jurisprudentielles-prescription.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Quand la Cour de cassation revient sur les congés payés acquis et non pris en raison d'un arrêt de travail pour maladie...",
+      "publishedAt": "2026-09-23T04:00:00+00:00",
+      "discoveredAt": "2026-09-23T04:37:12.348348+00:00",
+      "topics": [
+        "IJSS",
+        "Congés"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Arrêts maladie : un an maximum d’IJSS pour les ALD non exonérantes",
+      "url": "https://www.legisocial.fr/actualites-sociales/8150-arrets-maladie-maximum-ijss-ald-exonerantes.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "À compter du 15 octobre 2026, la durée maximale de versement des IJSS pour les assurés en ALD non exonérante passe de trois ans à un an. Les assurés dont l’affection était déjà reconnue à cette date conservent toutefois le bénéfice des anciennes règles.",
+      "publishedAt": "2026-09-23T04:00:00+00:00",
+      "discoveredAt": "2026-09-23T04:37:12.348524+00:00",
+      "topics": [
+        "IJSS"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Actualité - Impôts 2026 : le paiement du solde débute le 25 septembre",
