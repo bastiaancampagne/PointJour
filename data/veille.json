@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-23T15:38:35.646169+00:00",
+  "generated_at": "2026-09-23T16:39:19.293375+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Voiture prêtée à un ami ou partagée en famille : qui est couvert par l'assurance ?",
+      "url": "https://www.largus.fr/actualite-automobile/voiture-pretee-a-un-ami-ou-partagee-en-famille-qui-est-couvert-par-lassurance-40008737.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Prêter sa voiture à un proche ou partager un véhicule familial soulève des questions concrètes sur la couverture assurantielle. Voici ce que dit vraiment votre contrat.",
+      "publishedAt": "2026-09-23T16:30:00+00:00",
+      "discoveredAt": "2026-09-23T16:38:39.736817+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "L'ingrédient secret de ce flancake ultra rassasiant permet de manger équilibré sans jamais avoir faim",
+      "url": "https://www.750g.com/l-ingredient-secret-de-ce-flancake-ultra-rassasiant-permet-de-manger-equilibre-sans-jamais-avoir-faim-a44607.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "À première vue, ce flancake ressemble à un simple gâteau moelleux. Pourtant, un ingrédient bien particulier lui permet d'afficher une texture ultra fondante tout en étant particulièrement rassasiant. Et bonne nouvelle : pas besoin de protéines en po1",
+      "publishedAt": "2026-09-23T16:00:00+00:00",
+      "discoveredAt": "2026-09-23T16:39:03.742999+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
