@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-24T13:39:09.856459+00:00",
+  "generated_at": "2026-09-24T14:39:32.898370+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "\"Si ça s'arrête...\" Philippe Etchebest dévoile son plan pour l'après Cauchemar en cuisine",
+      "url": "https://www.750g.com/si-ca-s-arrete-philippe-etchebest-devoile-son-plan-pour-l-apres-cauchemar-en-cuisine-a44613.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Que fera Philippe Etchebest si un jour, son émission Cauchemar en cuisine s'arrête ? La question lui a été posée par Cyril Hanouna sur W9.",
+      "publishedAt": "2026-09-24T14:30:00+00:00",
+      "discoveredAt": "2026-09-24T14:39:18.565254+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Bentley Torcal (2026). Luxe et puissance pour le premier SUV électrique de la marque",
+      "url": "https://www.largus.fr/actualite-automobile/bentley-torcal-2026-luxe-et-puissance-pour-le-premier-suv-electrique-de-la-marque-40008941.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Premier modèle électrique de série badgé Bentley, le grand SUV Torcal offre jusqu’à 888 ch ou 600 km d’autonomie WLTP pour concurrencer le Mercedes-Maybach EQS SUV L’ambiance intérieure fait la part belle aux matériaux nobles sans oublier d’être high-tech.",
+      "publishedAt": "2026-09-24T14:21:00+00:00",
+      "discoveredAt": "2026-09-24T14:38:55.093801+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Essai Leapmotor B03X (2026) : l’attractif SUV électrique sur un terrain glissant",
