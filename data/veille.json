@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:38:00.175781+00:00",
+  "generated_at": "2026-09-24T06:43:37.575980+00:00",
   "items": [
     {
       "theme": "Paie",
@@ -8,10 +8,23 @@
       "source": "RF Paye",
       "sourceKind": "EXPERT PAIE",
       "summary": "Deux nouvelles branches professionnelles ont décidé de confier au réseau des URSSAF le recouvrement de leurs contributions",
-      "publishedAt": null,
+      "publishedAt": "2026-09-24T06:30:00+00:00",
       "discoveredAt": "2026-09-24T05:36:52.054722+00:00",
       "topics": [
         "Cotisations"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Renault 8 Gordini Concept (2026). Retour gagnant pour « la Gorde » ?",
+      "url": "https://www.largus.fr/actualite-automobile/renault-8-gordini-concept-2026-retour-gagnant-pour-la-gorde-40008773.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Version sportive dérivée d’un modèle de grande série, la Renault 8 Gordini a été une GTI avant l’heure. 56 ans après sa disparition, le constructeur français remet « la Gorde » au goût du jour sous la forme d’un coupé sportif 100 % électrique de 270 ch qui multiplie les clins d’œil à sa glorieuse aînée.",
+      "publishedAt": "2026-09-24T06:00:00+00:00",
+      "discoveredAt": "2026-09-24T06:42:36.297834+00:00",
+      "topics": [
+        "Carburant"
       ]
     },
     {
@@ -2258,6 +2271,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
