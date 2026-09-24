@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-24T00:43:03.928056+00:00",
+  "generated_at": "2026-09-24T01:36:56.804219+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Conseils - Location de voiture - Comment rouler malin et sans stress",
+      "url": "https://www.quechoisir.org/conseils-location-de-voiture-comment-rouler-malin-et-sans-stress-n178298/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Louer un véhicule peut réserver de mauvaises surprises. Découvrez comment payer le juste prix, éviter les frais cachés et faire valoir vos droits en cas de litige avec le loueur.",
+      "publishedAt": "2026-09-24T01:00:00+00:00",
+      "discoveredAt": "2026-09-24T01:36:15.874235+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Enquête - Data centers - Ça coince sur l’électricité",
+      "url": "https://www.quechoisir.org/enquete-data-centers-ca-coince-sur-l-electricite-n178446/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "À Mulhouse, Châteauroux, Valence… et surtout dans les Hauts-de-France ou autour de Paris : les projets gigantesques de data centers se multiplient. Or, leurs besoins colossaux en électricité ont de quoi inquiéter.",
+      "publishedAt": "2026-09-24T01:00:00+00:00",
+      "discoveredAt": "2026-09-24T01:36:15.874568+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
