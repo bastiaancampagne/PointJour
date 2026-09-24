@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-24T06:43:37.575980+00:00",
+  "generated_at": "2026-09-24T07:38:16.122287+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-09-24T07:24:14+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Paie",
       "title": "24 septembre 08h30 Contributions conventionnelles de dialogue social : deux nouvelles branches confient leur recouvrement aux URSSAF à partir de 2027 Paye Autres sources",
@@ -25,6 +39,19 @@
       "discoveredAt": "2026-09-24T06:42:36.297834+00:00",
       "topics": [
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Licenciement pour absence perturbant le fonctionnement de l’entreprise : absence de présomption de discrimination",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/licenciement-pour-absence-perturbant-le-fonctionnement-de-lentreprise-absence-de-presomption-de-discrimination",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-09-24T06:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:47.960529+00:00",
+      "topics": [
+        "Ruptures"
       ]
     },
     {
@@ -97,20 +124,6 @@
     },
     {
       "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-09-23T18:24:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
       "title": "Voiture prêtée à un ami ou partagée en famille : qui est couvert par l'assurance ?",
       "url": "https://www.largus.fr/actualite-automobile/voiture-pretee-a-un-ami-ou-partagee-en-famille-qui-est-couvert-par-lassurance-40008737.html",
       "source": "L’Argus",
@@ -166,7 +179,7 @@
       "url": "https://www.largus.fr/actualite-automobile/prix-suzuki-across-2026-le-clone-du-rav4-hybride-rechargeable-plus-attractif-que-loriginal-40008538.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "Version rebadgée du dernier Toyota RAV4 hybride rechargeable, le nouveau Suzuki Across propose l’équipement le plus fourni pour le prix le plus bas de ce dernier. Le SUV rival des Citroën C5 Aircross et Ford Kuga est affiché 55 150 €. Une remise de lancement de 6 000 € est à déduire.",
+      "summary": "Version rebadgée du dernier Toyota RAV4 hybride rechargeable, le nouveau Suzuki Across propose l’équipement le plus fourni pour le prix le plus bas de ce dernier. Le SUV rival des Citroën C5 Aircross et Ford Kuga est affiché à 55 150 €. Une remise de lancement de 6 000 € est à déduire.",
       "publishedAt": "2026-09-23T14:07:00+00:00",
       "discoveredAt": "2026-09-23T14:37:57.746787+00:00",
       "topics": [
@@ -1938,19 +1951,6 @@
       "discoveredAt": "2026-09-18T22:48:47.960346+00:00",
       "topics": [
         "IJSS",
-        "Ruptures"
-      ]
-    },
-    {
-      "theme": "Paie",
-      "title": "Licenciement pour absence perturbant le fonctionnement de l’entreprise : absence de présomption de discrimination",
-      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/licenciement-pour-absence-perturbant-le-fonctionnement-de-lentreprise-absence-de-presomption-de-discrimination",
-      "source": "Éditions Tissot",
-      "sourceKind": "EXPERT PAIE",
-      "summary": "",
-      "publishedAt": "2026-09-14T06:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:47.960529+00:00",
-      "topics": [
         "Ruptures"
       ]
     },
