@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-09-24T08:39:23.274319+00:00",
+  "generated_at": "2026-09-24T09:37:54.120408+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Stellantis BOW (2026). L’utilitaire électrique et autonome du futur",
+      "url": "https://www.largus.fr/actualite-automobile/stellantis-bow-2026-lutilitaire-electrique-et-autonome-du-futur-40008580.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le concept Box On Wheels du groupe Stellantis, ou BOW, préfigure des véhicules utilitaires électriques et autonomes capables d’effectuer des livraisons dans des zones à circulation restreinte à n’importe quelle heure du jour ou de la nuit.",
+      "publishedAt": "2026-09-24T08:48:00+00:00",
+      "discoveredAt": "2026-09-24T09:37:27.400481+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -2280,6 +2293,11 @@
     {
       "theme": "Auto",
       "source": "ADEME",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Cuisine",
+      "source": "CuisineAZ",
       "error": "HTTP Error 403: Forbidden"
     }
   ]
