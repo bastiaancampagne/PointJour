@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-25T15:38:05.240824+00:00",
+  "generated_at": "2026-09-25T16:39:47.199339+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Salon des Véhicules de Loisirs 2026. Infos pratiques et nouveautés à découvrir",
+      "url": "https://www.largus.fr/actualite-automobile/salon-des-vehicules-de-loisirs-2026-infos-pratiques-et-nouveautes-a-decouvrir-40009350.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "La 60e édition du Salon des Véhicules de Loisirs se tiendra du 26 septembre au 4 octobre 2026 au Parc des Expositions de Paris-Le Bourget. Camping-cars, vans aménagés, caravanes… les nouveautés s’annoncent nombreuses. Voici toutes les informations pratiques pour profiter pleinement de l'évènement.",
+      "publishedAt": "2026-09-25T15:47:00+00:00",
+      "discoveredAt": "2026-09-25T16:39:02.138900+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -51,6 +62,17 @@
       "topics": []
     },
     {
+      "theme": "Paie",
+      "title": "25 septembre 15h31 CSSCT : l’employeur peut-il être tenu d’organiser une réunion extraordinaire ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/cssct-l-employeur-peut-il-etre-tenu-d-organiser-une-reunion-extraordinaire-1cc01906-102d-86a0-b051-a1dd6435853f",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La Cour de cassation répond à cette question dans un arrêt du 23 septembre 2026 et fixe ses conditions. L’employeur est tenu",
+      "publishedAt": "2026-09-25T13:31:33+00:00",
+      "discoveredAt": "2026-09-25T16:38:44.903309+00:00",
+      "topics": []
+    },
+    {
       "theme": "Auto",
       "title": "Equipement auto. La radio bientôt obligatoire ?",
       "url": "https://www.largus.fr/actualite-automobile/equipement-auto-la-radio-bientot-obligatoire-40009186.html",
@@ -70,6 +92,19 @@
       "summary": "L’existence de faits de harcèlement moral ou de discrimination syndicale, commis par l’employeur au préjudice du salarié protégé,",
       "publishedAt": "2026-09-25T13:20:01+00:00",
       "discoveredAt": "2026-09-25T14:38:10.777305+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "25 septembre 15h20 L’inspecteur du travail ne doit pas autoriser une rupture conventionnelle si le consentement du salarié protégé est vicié Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/l-inspecteur-du-travail-ne-doit-pas-autoriser-une-rupture-conventionnelle-si-le-consentement-du-salarie-protege-est-vicie-17c29904-9088-86a1-b044-a2a9f1052c16",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’existence de faits de harcèlement moral ou de discrimination syndicale, commis par l’employeur au préjudice du salarié protégé,",
+      "publishedAt": "2026-09-25T13:20:01+00:00",
+      "discoveredAt": "2026-09-25T16:38:47.086381+00:00",
       "topics": [
         "Ruptures"
       ]
