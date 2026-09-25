@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-25T13:38:57.237862+00:00",
+  "generated_at": "2026-09-25T14:39:00.781110+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Essai Kia EV4 GT (2026) : la chère de poule",
+      "url": "https://www.largus.fr/actualite-automobile/essai-kia-ev4-gt-2026-la-chere-de-poule-40008619.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Une compacte électrique qui donne des frissons ? C’est la promesse de l’attachante Kia EV4 GT : 292 ch, quatre roues motrices et une fausse boîte de vitesses pour transcender les sensations. Mais diable qu’elle est chère !",
+      "publishedAt": "2026-09-25T14:09:00+00:00",
+      "discoveredAt": "2026-09-25T14:38:22.550061+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "25 septembre 15h31 CSSCT : l’employeur peut-il être tenu d’organiser une réunion extraordinaire ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/cssct-l-employeur-peut-il-etre-tenu-d-organiser-une-reunion-extraordinaire",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La Cour de cassation répond à cette question dans un arrêt du 23 septembre 2026 et fixe ses conditions. L’employeur est tenu",
+      "publishedAt": "2026-09-25T13:31:33+00:00",
+      "discoveredAt": "2026-09-25T14:38:08.889542+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Equipement auto. La radio bientôt obligatoire ?",
@@ -11,6 +35,19 @@
       "publishedAt": "2026-09-25T13:29:00+00:00",
       "discoveredAt": "2026-09-25T13:38:02.553394+00:00",
       "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "25 septembre 15h20 L’inspecteur du travail ne doit pas autoriser une rupture conventionnelle si le consentement du salarié protégé est vicié Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/l-inspecteur-du-travail-ne-doit-pas-autoriser-une-rupture-conventionnelle-si-le-consentement-du-salarie-protege-est-vicie",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’existence de faits de harcèlement moral ou de discrimination syndicale, commis par l’employeur au préjudice du salarié protégé,",
+      "publishedAt": "2026-09-25T13:20:01+00:00",
+      "discoveredAt": "2026-09-25T14:38:10.777305+00:00",
+      "topics": [
+        "Ruptures"
+      ]
     },
     {
       "theme": "Auto",
