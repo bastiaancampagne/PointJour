@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-09-25T14:39:00.781110+00:00",
+  "generated_at": "2026-09-25T15:38:05.240824+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-09-25T15:23:56+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Rappel Volkswagen. Le groupe allemand rappelle près de 3 millions de véhicules dans le monde",
+      "url": "https://www.largus.fr/actualite-automobile/rappel-volkswagen-le-groupe-allemand-rappelle-pres-de-3-millions-de-vehicules-dans-le-monde-40009267.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le groupe Volkswagen lance une vaste campagne de rappel sur plus de 2,8 millions de modèles dans le monde, dont plus de 900 000 rien qu’en Allemagne. Sont concernés des Golf, des Touran, des Tiguan et des Caddy fabriqués entre 2013 et 2024, mais aussi, des Audi Q3 assemblés entre 2017 et 2024. Explications…",
+      "publishedAt": "2026-09-25T15:12:00+00:00",
+      "discoveredAt": "2026-09-25T15:37:11.863913+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Essai Kia EV4 GT (2026) : la chère de poule",
@@ -47,20 +72,6 @@
       "discoveredAt": "2026-09-25T14:38:10.777305+00:00",
       "topics": [
         "Ruptures"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-09-25T12:24:25+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
