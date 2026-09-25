@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-09-25T03:37:49.425791+00:00",
+  "generated_at": "2026-09-25T04:39:29.227242+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "Heures de délégation : règles essentielles et bonnes pratiques pour les employeurs",
+      "url": "https://www.legisocial.fr/actualites-sociales/8120-heures-delegation-regles-essentielles-bonnes-pratiques-employeurs.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Heures de délégation : quels sont les élus qui en bénéficient et comment ? L'employeur peut-il les contester.",
+      "publishedAt": "2026-09-25T04:00:00+00:00",
+      "discoveredAt": "2026-09-25T04:38:23.222399+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Inaptitude : les bons réflexes à adopter",
+      "url": "https://www.legisocial.fr/actualites-sociales/8121-inaptitude-bons-reflexes-adopter.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un de vos salariés est déclaré inapte à son poste de travail ? Comment réagir efficacement et quels sont les points de vigilance ?",
+      "publishedAt": "2026-09-25T04:00:00+00:00",
+      "discoveredAt": "2026-09-25T04:38:23.222523+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Chômage intempéries dans le BTP : Quels sont les paramètres de la campagne 2026-2027 ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8152-chomage-intemperies-btp-sont-parametres-campagne-2026-2027.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Pour la campagne de chômage intempéries 2026-2027, les taux de cotisation des entreprises du BTP restent fixés à 0,68 % et 0,13 %. L’abattement passe à 96 168 €, tandis que la part de remboursement prévue pour les arrêts liés à la canicule est relevée à 80 %.",
+      "publishedAt": "2026-09-25T04:00:00+00:00",
+      "discoveredAt": "2026-09-25T04:38:23.222671+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Rupture conventionnelle : l’accord d’entreprise peut fixer le montant minimum de l’indemnité",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1691-rupture-conventionnelle-accord-entreprise-fixer-montant-minimum-indemnite.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un arrêt du 1er juillet 2026, la Cour de cassation précise que l’indemnité minimale de rupture conventionnelle peut être calculée selon l’accord d’entreprise, même si la convention collective prévoit aussi une indemnité de licenciement. Pour établir le montant à verser, le gestionnaire de paie doit donc vérifier les deux textes applicables et déterminer lequel prévaut.",
+      "publishedAt": "2026-09-25T04:00:00+00:00",
+      "discoveredAt": "2026-09-25T04:38:23.222833+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
