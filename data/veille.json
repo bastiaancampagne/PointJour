@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-25T12:43:27.217361+00:00",
+  "generated_at": "2026-09-25T13:38:57.237862+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Equipement auto. La radio bientôt obligatoire ?",
+      "url": "https://www.largus.fr/actualite-automobile/equipement-auto-la-radio-bientot-obligatoire-40009186.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Alors que le bon vieil autoradio tend à céder sa place aux applications de streaming, la filière française des diffuseurs radio se mobilise pour réclamer que les voitures disposent obligatoirement d’un récepteur FM et DAB+. Elle souligne, entre autre, un enjeu de sécurité civile.",
+      "publishedAt": "2026-09-25T13:29:00+00:00",
+      "discoveredAt": "2026-09-25T13:38:02.553394+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -13,6 +24,19 @@
       "topics": [
         "Achat",
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "25 septembre 12h42 Contrôle URSSAF : l’avis de contrôle doit mentionner les moyens d'accéder à la Charte du cotisant contrôlé, un lien direct n’est pas exigé Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/controle-urssaf-l-avis-de-controle-doit-mentionner-les-moyens-d-acceder-a-la-charte-du-cotisant-controle-un-lien-direct-n-est-pas-exige",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un avis de contrôle Urssaf doit faire état de l’existence de la Charte du cotisant contrôlé, préciser l’adresse électronique où",
+      "publishedAt": "2026-09-25T10:42:25+00:00",
+      "discoveredAt": "2026-09-25T13:37:49.122769+00:00",
+      "topics": [
+        "Cotisations"
       ]
     },
     {
@@ -35,6 +59,17 @@
       "summary": "À l'occasion de sa tournée historique en France, le pape Léon XIV aura l'opportunité de goûter au summum de la gastronomie tricolore. Un Meilleur Ouvrier de France a imaginé pour le souverain pontife une œuvre fromagère exceptionnelle, véritable car1",
       "publishedAt": "2026-09-25T09:30:00+00:00",
       "discoveredAt": "2026-09-25T09:38:10.211074+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking du midi",
+      "url": "https://www.cuisineaz.com/diaporamas/batch-cooking-10-recettes-du-midi-faciles-pour-la-semaine-du-28-septembre-au-2-octobre-2026-8590/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-09-25T07:20:08.610000+00:00",
+      "discoveredAt": "2026-09-25T13:38:57.217265+00:00",
       "topics": []
     },
     {
@@ -2489,6 +2524,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
