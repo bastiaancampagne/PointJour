@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-25T05:38:13.084895+00:00",
+  "generated_at": "2026-09-25T06:43:52.636509+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Musée Peugeot. La bourse aux pièces détachées revient les 3 et 4 octobre 2026 à Sochaux",
+      "url": "https://www.largus.fr/actualite-automobile/musee-peugeot-la-bourse-aux-pieces-detachees-revient-les-3-et-4-octobre-2026-a-sochaux-40009126.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le Musée de l’Aventure Peugeot de Sochaux accueillera sa 11e bourse aux pièces détachées les 3 et 4 octobre 2026. Composants mécaniques de toutes marques, documents et illustrations seront proposés. Les véhicules de collection bénéficieront de places de parking réservées.",
+      "publishedAt": "2026-09-25T06:06:00+00:00",
+      "discoveredAt": "2026-09-25T06:43:06.070749+00:00",
+      "topics": []
+    },
     {
       "theme": "Cuisine",
       "title": "Rando, vélo, trail : la recette inratable pour faire ses barres énergétiques maison (et faire de sacrées économies)",
@@ -2445,6 +2456,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
