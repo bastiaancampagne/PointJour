@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-09-26T10:37:22.735230+00:00",
+  "generated_at": "2026-09-26T11:36:15.231175+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Toyota Prius (2026). La berline hybride rechargeable quitte le marché français",
+      "url": "https://www.largus.fr/actualite-automobile/toyota-prius-2026-la-berline-hybride-rechargeable-quitte-le-marche-francais-40009270.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "La Toyota Prius n’est plus disponible en France. Pionnière de l’hybridation en 1997, elle devenue exclusivement rechargeable à l’arrivée de sa 5e et actuelle génération en 2023. Ce choix, combiné à de nombreux autres facteurs, a contribué à une chute de ses ventes dans l’Hexagone.",
+      "publishedAt": "2026-09-26T11:17:00+00:00",
+      "discoveredAt": "2026-09-26T11:35:35.289303+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Cuisine",
       "title": "Lidl : cette sauteuse en fonte à moins de 20 euros rivalise avec les grandes marques en cuisine",
@@ -2644,6 +2657,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
