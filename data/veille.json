@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-26T09:37:12.373114+00:00",
+  "generated_at": "2026-09-26T10:37:22.735230+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Lidl : cette sauteuse en fonte à moins de 20 euros rivalise avec les grandes marques en cuisine",
+      "url": "https://www.750g.com/lidl-cette-sauteuse-en-fonte-a-moins-de-20-euros-rivalise-avec-les-grandes-marques-en-cuisine-a44623.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "S'équiper en cuisine en fonte émaillée sans se ruiner est enfin possible. Le géant Lidl propose une sauteuse premium aux caractéristiques professionnelles, déjà plébiscitée par de nombreux acheteurs pour sublimer les plats mijotés.",
+      "publishedAt": "2026-09-26T10:00:00+00:00",
+      "discoveredAt": "2026-09-26T10:37:06.653341+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Alpine A390 Array (2026). Le SUV électrique transformé en art car par Trevor Jackson",
@@ -2633,11 +2644,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
