@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-27T13:36:59.746809+00:00",
+  "generated_at": "2026-09-27T14:37:29.353637+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Insolite. Cette Fiat Panda est la voiture la plus étroite du monde",
+      "url": "https://www.largus.fr/actualite-automobile/insolite-cette-fiat-panda-est-la-voiture-la-plus-etroite-du-monde-40008662.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Un mécanicien italien a concrétisé un projet fou : celui de fabriquer la voiture la plus étroite du monde. Avec ses 50 cm de large, sa Fiat Panda sur mesure vient de faire son entrée au Guinness Book 2027. Voici son histoire.",
+      "publishedAt": "2026-09-27T14:27:00+00:00",
+      "discoveredAt": "2026-09-27T14:36:34.983808+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -2692,6 +2703,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
