@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-09-28T03:40:53.794799+00:00",
+  "generated_at": "2026-09-28T04:41:18.142173+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "L’insuffisance professionnelle : un motif de licenciement à manier avec prudence",
+      "url": "https://www.legisocial.fr/actualites-sociales/8122-insuffisance-professionnelle-motif-licenciement-manier-prudence.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L'insuffisance professionnelle est source de nombreux contentieux prud'homaux. Un motif de licenciement à manier avec prudence !",
+      "publishedAt": "2026-09-28T04:00:00+00:00",
+      "discoveredAt": "2026-09-28T04:40:15.631256+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Lanceur d’alerte en entreprise : êtes‑vous conforme aux dispositions légales ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8123-lanceur-alerte-entreprise-conforme-dispositions-legales.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans les entreprises de 50 salariés et plus, l'employeur est tenu de mettre en place une procédure de traitement des alertes.",
+      "publishedAt": "2026-09-28T04:00:00+00:00",
+      "discoveredAt": "2026-09-28T04:40:15.631388+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Prime carburant : jusqu’à 1 000 € exonérés en 2026",
+      "url": "https://www.legisocial.fr/actualites-sociales/8153-prime-carburant-1000-exoneres-2026.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La prime carburant bénéficie d’un régime temporaire plus favorable en 2026. Son plafond d’exonération atteint 1 000 € par salarié et par an, tandis que ses conditions d’attribution et de cumul avec un abonnement aux transports publics sont assouplies. Les employeurs peuvent appliquer ces mesures dans leurs déclarations avant même la publication des textes réglementaires.",
+      "publishedAt": "2026-09-28T04:00:00+00:00",
+      "discoveredAt": "2026-09-28T04:40:15.631544+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "“Je voudrais vous dire quelque chose” : cette nutritionniste donne les clés de la réussite pour un déjeuner à emporter au bureau équilibré",
+      "url": "https://www.750g.com/je-voudrais-vous-dire-quelque-chose-cette-nutritionniste-donne-les-cles-de-la-reussite-pour-un-dejeuner-a-emporter-au-bureau-equilibre-a44618.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Pour gagner du temps et faire des économies, quoi de mieux que d'emporter son déjeuner au bureau ? Une nutritionniste nous aide à composer un menu sain et équilibré.",
+      "publishedAt": "2026-09-28T04:00:00+00:00",
+      "discoveredAt": "2026-09-28T04:41:00.969024+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
