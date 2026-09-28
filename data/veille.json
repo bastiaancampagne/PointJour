@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T16:39:59.410407+00:00",
+  "generated_at": "2026-09-28T17:38:48.404500+00:00",
   "items": [
     {
       "theme": "Paie",
@@ -24,6 +24,19 @@
       "topics": [
         "Achat",
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "28 septembre 17h07 Fermeture pour congés payés : et les salariés n'ayant pas suffisamment de droits à congé ? Social Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/fermeture-pour-conges-payes-et-les-salaries-n-ayant-pas-suffisamment-de-droits-a-conge",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Certains employeurs choisissent de fermer l'entreprise pour tout ou partie des congés payés. Or les salariés n'ont pas tous",
+      "publishedAt": "2026-09-28T15:07:01+00:00",
+      "discoveredAt": "2026-09-28T17:37:33.007348+00:00",
+      "topics": [
+        "Congés"
       ]
     },
     {
