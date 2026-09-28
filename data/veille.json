@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-09-28T14:42:10.246930+00:00",
+  "generated_at": "2026-09-28T15:41:08.011240+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-09-28T15:23:58+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Philippe Etchebest dévoile la véritable recette de cette célèbre salade venue du Mexique",
+      "url": "https://www.750g.com/philippe-etchebest-devoile-la-veritable-recette-de-cette-celebre-salade-venue-du-mexique-a44624.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Saviez-vous que la célèbre salade César était originaire du Mexique ? Et qu'elle n'avait absolument rien à avoir avec Jules César ? Et que la recette originale ne contient pas de blanc de poulet ? Tout cela, c'est Philippe Etchebest qui nous le dit.",
+      "publishedAt": "2026-09-28T15:00:00+00:00",
+      "discoveredAt": "2026-09-28T15:40:45.414664+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Peugeot E-T16 (2026). Retour sur les réinventions de la 205 Turbo 16 avant le concept du Mondial",
@@ -60,20 +85,6 @@
       "publishedAt": "2026-09-28T12:33:10.790000+00:00",
       "discoveredAt": "2026-09-28T13:41:47.545065+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-09-28T12:24:05+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Cuisine",
