@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-28T07:40:33.411667+00:00",
+  "generated_at": "2026-09-28T08:40:57.833125+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "Conventions collectives : les grilles de salaires au 1er octobre 2026",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/conventions-collectives-les-dernieres-grilles-des-salaires",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-09-28T07:54:00+00:00",
+      "discoveredAt": "2026-09-28T08:40:09.840577+00:00",
+      "topics": []
+    },
     {
       "theme": "Paie",
       "title": "Pouvez-vous modifier les conditions de travail de vos salariés ?",
@@ -2784,6 +2795,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
