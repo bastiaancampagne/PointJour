@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T10:39:32.775051+00:00",
+  "generated_at": "2026-09-28T11:40:59.003190+00:00",
   "items": [
     {
       "theme": "Cuisine",
@@ -23,6 +23,17 @@
       "summary": "Cette décision, rendue en matière de droits d’enregistrement, présente un double intérêt. D’une part, elle rappelle que",
       "publishedAt": "2026-09-28T09:00:00+00:00",
       "discoveredAt": "2026-09-28T09:40:24.975594+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "28 septembre 11h00 Rachat d’actions propres d’un OPCI par voie de réduction de capital : absence de solidarité du cédant au paiement des droits d’enregistrement et application du droit d’enregistrement proportionnel de 5% Fiscal",
+      "url": "https://www.revue-fiduciaire.com/public/index.php/actualite/article/rachat-d-actions-propres-d-un-opci-par-voie-de-reduction-de-capital-absence-de-solidarite-du-cedant-au-paiement-des-droits-d-enregistrement-et-application-du-droit-d-enregistrement-proportionnel-de-5",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Cette décision, rendue en matière de droits d’enregistrement, présente un double intérêt. D’une part, elle rappelle que",
+      "publishedAt": "2026-09-28T09:00:00+00:00",
+      "discoveredAt": "2026-09-28T11:40:02.010130+00:00",
       "topics": []
     },
     {
@@ -298,6 +309,17 @@
       "topics": []
     },
     {
+      "theme": "Paie",
+      "title": "25 septembre 15h31 CSSCT : l’employeur peut-il être tenu d’organiser une réunion extraordinaire ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/public/index.php/actualite/article/cssct-l-employeur-peut-il-etre-tenu-d-organiser-une-reunion-extraordinaire-1cc01906-102d-86a0-b051-a1dd6435853f",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La Cour de cassation répond à cette question dans un arrêt du 23 septembre 2026 et fixe ses conditions. L’employeur est tenu",
+      "publishedAt": "2026-09-25T13:31:33+00:00",
+      "discoveredAt": "2026-09-28T11:40:03.985639+00:00",
+      "topics": []
+    },
+    {
       "theme": "Auto",
       "title": "Equipement auto. La radio bientôt obligatoire ?",
       "url": "https://www.largus.fr/actualite-automobile/equipement-auto-la-radio-bientot-obligatoire-40009186.html",
@@ -336,6 +358,19 @@
     },
     {
       "theme": "Paie",
+      "title": "25 septembre 15h20 L’inspecteur du travail ne doit pas autoriser une rupture conventionnelle si le consentement du salarié protégé est vicié Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/public/index.php/actualite/article/l-inspecteur-du-travail-ne-doit-pas-autoriser-une-rupture-conventionnelle-si-le-consentement-du-salarie-protege-est-vicie-17c29904-9088-86a1-b044-a2a9f1052c16",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’existence de faits de harcèlement moral ou de discrimination syndicale, commis par l’employeur au préjudice du salarié protégé,",
+      "publishedAt": "2026-09-25T13:20:01+00:00",
+      "discoveredAt": "2026-09-28T11:40:06.376895+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
       "title": "25 septembre 12h42 Contrôle URSSAF : l’avis de contrôle doit mentionner les moyens d'accéder à la Charte du cotisant contrôlé, un lien direct n’est pas exigé Paye Jurisprudence",
       "url": "https://www.revue-fiduciaire.com/actualite/article/controle-urssaf-l-avis-de-controle-doit-mentionner-les-moyens-d-acceder-a-la-charte-du-cotisant-controle-un-lien-direct-n-est-pas-exige",
       "source": "RF Paye",
@@ -343,6 +378,19 @@
       "summary": "Un avis de contrôle Urssaf doit faire état de l’existence de la Charte du cotisant contrôlé, préciser l’adresse électronique où",
       "publishedAt": "2026-09-25T10:42:25+00:00",
       "discoveredAt": "2026-09-25T13:37:49.122769+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "25 septembre 12h42 Contrôle URSSAF : l’avis de contrôle doit mentionner les moyens d'accéder à la Charte du cotisant contrôlé, un lien direct n’est pas exigé Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/public/index.php/actualite/article/controle-urssaf-l-avis-de-controle-doit-mentionner-les-moyens-d-acceder-a-la-charte-du-cotisant-controle-un-lien-direct-n-est-pas-exige",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un avis de contrôle Urssaf doit faire état de l’existence de la Charte du cotisant contrôlé, préciser l’adresse électronique où",
+      "publishedAt": "2026-09-25T10:42:25+00:00",
+      "discoveredAt": "2026-09-28T11:40:08.199277+00:00",
       "topics": [
         "Cotisations"
       ]
