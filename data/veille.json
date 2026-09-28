@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-09-28T06:47:48.798544+00:00",
+  "generated_at": "2026-09-28T07:40:33.411667+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "Pouvez-vous modifier les conditions de travail de vos salariés ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/pouvez-vous-modifier-les-conditions-de-travail-de-vos-salaries",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-09-28T07:30:00+00:00",
+      "discoveredAt": "2026-09-28T07:39:34.474112+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-09-28T07:23:54+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Nouvelle Alpine A110 (2027). Premier aperçu de la future berlinette 100 % électrique",
+      "url": "https://www.largus.fr/actualite-automobile/nouvelle-alpine-a110-2027-premier-apercu-de-la-future-berlinette-100-electrique-40008754.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Après la présentation d’un mulet à Goodwood, Alpine dévoile un premier aperçu de sa future A110. Il s’agit d’une sculpture évoquant de manière très subtile les lignes de la prochaine berlinette électrique. Nous avons pu la découvrir en amont du Mondial de Paris. Voici nos dernières infos.",
+      "publishedAt": "2026-09-28T07:00:00+00:00",
+      "discoveredAt": "2026-09-28T07:39:39.497894+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Un guide pour les aidants qui travaillent",
+      "url": "https://www.agirc-arrco.fr/nous-connaitre/nos-actualites/un-guide-pour-les-aidants-qui-travaillent/",
+      "source": "Agirc-Arrco",
+      "sourceKind": "OFFICIEL",
+      "summary": "A l’occasion de la Journée des aidants du 6 octobre, l’Agirc-Arrco publie son guide “Salariés aidants 2026”. Ce guide est destiné aux aidants en activité professionnelle et vise à faciliter leur quotidien en regroupant des informations essentielles sur divers besoins.",
+      "publishedAt": "2026-09-28T06:38:22+00:00",
+      "discoveredAt": "2026-09-28T07:39:13.802964+00:00",
+      "topics": []
+    },
     {
       "theme": "Paie",
       "title": "L’insuffisance professionnelle : un motif de licenciement à manier avec prudence",
@@ -46,20 +95,6 @@
       "publishedAt": "2026-09-28T04:00:00+00:00",
       "discoveredAt": "2026-09-28T04:41:00.969024+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-09-27T18:23:55+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Auto",
