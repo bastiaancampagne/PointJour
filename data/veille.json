@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T12:47:04.974869+00:00",
+  "generated_at": "2026-09-28T13:41:50.023337+00:00",
   "items": [
     {
       "theme": "Paie",
@@ -21,6 +21,17 @@
       "summary": "Formation Gestionnaires paye Responsables de la paye ou de la supervision de la paye Collaborateurs des experts-comptables en charge du social",
       "publishedAt": null,
       "discoveredAt": "2026-09-28T12:45:55.443866+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Boulettes de viande hachée U bio aux lentilles blondes, épinards et sauce tomate maison",
+      "url": "https://www.cuisineaz.com/recettes/boulettes-de-viande-hachee-u-bio-aux-lentilles-blondes-epinards-et-sauce-tomate-maison-125817.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "On aime les boulettes à la maison. Mais on les aime encore plus depuis qu'on a eu l'idée d'y glisser des lentilles blondes U bio : plus généreuses, plus consistantes...",
+      "publishedAt": "2026-09-28T12:33:10.790000+00:00",
+      "discoveredAt": "2026-09-28T13:41:47.545065+00:00",
       "topics": []
     },
     {
@@ -558,6 +569,17 @@
       ]
     },
     {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking du soir",
+      "url": "https://www.cuisineaz.com/diaporamas/menu-batch-cooking-du-28-septembre-au-2-octobre-2026-10-recettes-du-soir-a-faire-en-1-h-seulement-8798/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-09-25T03:00:04.060000+00:00",
+      "discoveredAt": "2026-09-28T13:41:49.151775+00:00",
+      "topics": []
+    },
+    {
       "theme": "Auto",
       "title": "Bris de glace : ce que couvre vraiment votre assurance auto en 2026",
       "url": "https://www.largus.fr/actualite-automobile/bris-de-glace-assurance-40009135.html",
@@ -878,6 +900,17 @@
       "topics": [
         "Cotisations"
       ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking Thermomix",
+      "url": "https://www.cuisineaz.com/diaporamas/batch-cooking-10-recettes-du-soir-a-faire-au-thermomix-pour-la-semaine-du-28-septembre-au-2-octobre-2026-8589/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-09-23T12:00:06.510000+00:00",
+      "discoveredAt": "2026-09-28T13:41:49.999118+00:00",
+      "topics": []
     },
     {
       "theme": "Cuisine",
