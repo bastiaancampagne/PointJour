@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-28T08:40:57.833125+00:00",
+  "generated_at": "2026-09-28T09:41:39.073428+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "28 septembre 11h00 Rachat d’actions propres d’un OPCI par voie de réduction de capital : absence de solidarité du cédant au paiement des droits d’enregistrement et application du droit d’enregistrement proportionnel de 5% Fiscal",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/rachat-d-actions-propres-d-un-opci-par-voie-de-reduction-de-capital-absence-de-solidarite-du-cedant-au-paiement-des-droits-d-enregistrement-et-application-du-droit-d-enregistrement-proportionnel-de-5",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Cette décision, rendue en matière de droits d’enregistrement, présente un double intérêt. D’une part, elle rappelle que",
+      "publishedAt": "2026-09-28T09:00:00+00:00",
+      "discoveredAt": "2026-09-28T09:40:24.975594+00:00",
+      "topics": []
+    },
     {
       "theme": "Paie",
       "title": "Conventions collectives : les grilles de salaires au 1er octobre 2026",
@@ -11,6 +22,19 @@
       "publishedAt": "2026-09-28T07:54:00+00:00",
       "discoveredAt": "2026-09-28T08:40:09.840577+00:00",
       "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Arrêt maladie : pouvez-vous contacter votre salarié pendant son absence ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/arret-maladie-pouvez-vous-contacter-votre-salarie-pendant-son-absence",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-09-28T07:31:00+00:00",
+      "discoveredAt": "2026-09-28T09:40:36.186760+00:00",
+      "topics": [
+        "IJSS"
+      ]
     },
     {
       "theme": "Paie",
@@ -159,7 +183,7 @@
       "url": "https://www.largus.fr/actualite-automobile/toyota-prius-2026-la-berline-hybride-rechargeable-quitte-le-marche-francais-40009270.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "La Toyota Prius n’est plus disponible en France. Pionnière de l’hybridation en 1997, elle devenue exclusivement rechargeable à l’arrivée de sa 5e et actuelle génération en 2023. Ce choix, combiné à de nombreux autres facteurs, a contribué à une chute de ses ventes dans l’Hexagone.",
+      "summary": "La Toyota Prius n’est plus disponible en France. Pionnière de l’hybridation en 1997, elle est devenue exclusivement rechargeable à l’arrivée de sa 5e et actuelle génération en 2023. Ce choix, combiné à de nombreux autres facteurs, a contribué à une chute de ses ventes dans l’Hexagone.",
       "publishedAt": "2026-09-26T11:17:00+00:00",
       "discoveredAt": "2026-09-26T11:35:35.289303+00:00",
       "topics": [
