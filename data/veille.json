@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-09-29T05:39:21.098396+00:00",
+  "generated_at": "2026-09-29T06:45:56.894315+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Nouveau Nissan X-Trail (2027). Le SUV de 5e génération dévoilé en version américaine Rogue",
+      "url": "https://www.largus.fr/actualite-automobile/nouveau-nissan-x-trail-2027-le-suv-de-5e-generation-devoile-en-version-americaine-rogue-40009636.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Nissan dévoile la nouvelle génération du Rogue, alter ego américain du X-Trail. Le SUV familial change de style et son instrumentation se modernise. Ce rival des Toyota RAV4 et Citroën C5 Aircross est mû par une motorisation hybride e-Power. Son arrivée en Europe est attendue fin 2027 au plus tôt.",
+      "publishedAt": "2026-09-29T06:27:00+00:00",
+      "discoveredAt": "2026-09-29T06:44:59.498039+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Paie",
       "title": "Télétravail : est-ce un droit, un avantage ou une obligation ?",
@@ -3080,6 +3093,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
