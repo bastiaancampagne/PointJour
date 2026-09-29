@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-09-29T03:40:58.174300+00:00",
+  "generated_at": "2026-09-29T04:39:37.548395+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "Télétravail : est-ce un droit, un avantage ou une obligation ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8124-teletravail-droit-avantage-obligation.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le télétravail repose sur un accord mutuel, ce qui implique que l’employeur doit justifier tout refus, notamment pour les salariés handicapés ou aidants.",
+      "publishedAt": "2026-09-29T04:00:00+00:00",
+      "discoveredAt": "2026-09-29T04:38:36.668555+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Le dirigeant assimilé salarié",
+      "url": "https://www.legisocial.fr/actualites-sociales/6291-dirigeant-assimile-salarie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "En fonction de la structure juridique choisie, le statut social du dirigeant sera soit travailleur non salarié, soit assimilé salarié.",
+      "publishedAt": "2026-09-29T04:00:00+00:00",
+      "discoveredAt": "2026-09-29T04:38:36.668669+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Contributions conventionnelles de dialogue social : deux nouvelles branches passent au recouvrement par les URSSAF en 2027",
+      "url": "https://www.legisocial.fr/actualites-sociales/8154-contributions-conventionnelles-dialogue-social-nouvelles-branches-passent-recouvrement-urssaf-2027.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "À partir de 2027, les URSSAF recouvreront les contributions conventionnelles de dialogue social de la restauration rapide et de la branche des fleuristes, de la vente et des services des animaux familiers. Le taux de la contribution conventionnelle de formation professionnelle des hôtels-cafés-restaurants passera également à 0,35 %.",
+      "publishedAt": "2026-09-29T04:00:00+00:00",
+      "discoveredAt": "2026-09-29T04:38:36.668802+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
