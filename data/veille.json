@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-09-29T07:40:32.221254+00:00",
+  "generated_at": "2026-09-29T08:41:47.157135+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "La vérification du bulletin de paie par rapport au SMIC et aux minima conventionnels",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/la-verification-du-bulletin-de-paie-par-rapport-au-smic-et-aux-minima-conventionnels",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-09-29T08:17:00+00:00",
+      "discoveredAt": "2026-09-29T08:40:48.647251+00:00",
+      "topics": [
+        "SMIC"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -14,6 +27,17 @@
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Primes carburant : le plafond d’exonération est revalorisé à 1000 euros",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/primes-carburant-le-plafond-dexoneration-est-revalorise-a-1000-euros",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-09-29T06:39:00+00:00",
+      "discoveredAt": "2026-09-29T08:40:48.647377+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
