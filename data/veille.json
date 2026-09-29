@@ -1,13 +1,27 @@
 {
-  "generated_at": "2026-09-29T06:45:56.894315+00:00",
+  "generated_at": "2026-09-29T07:40:32.221254+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-09-29T07:24:13+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Nouveau Nissan X-Trail (2027). Le SUV de 5e génération dévoilé en version américaine Rogue",
       "url": "https://www.largus.fr/actualite-automobile/nouveau-nissan-x-trail-2027-le-suv-de-5e-generation-devoile-en-version-americaine-rogue-40009636.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "Nissan dévoile la nouvelle génération du Rogue, alter ego américain du X-Trail. Le SUV familial change de style et son instrumentation se modernise. Ce rival des Toyota RAV4 et Citroën C5 Aircross est mû par une motorisation hybride e-Power. Son arrivée en Europe est attendue fin 2027 au plus tôt.",
+      "summary": "Nissan dévoile la nouvelle génération du Rogue, alter ego américain du X-Trail. Le SUV familial change de style, et son instrumentation se modernise. Ce rival des Toyota RAV4 et Citroën C5 Aircross est mû par une motorisation hybride e-Power. Son arrivée en Europe est attendue fin 2027 au plus tôt.",
       "publishedAt": "2026-09-29T06:27:00+00:00",
       "discoveredAt": "2026-09-29T06:44:59.498039+00:00",
       "topics": [
@@ -47,20 +61,6 @@
       "discoveredAt": "2026-09-29T04:38:36.668802+00:00",
       "topics": [
         "Cotisations"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-09-28T18:23:54+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
