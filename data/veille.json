@@ -1,17 +1,6 @@
 {
-  "generated_at": "2026-09-29T14:40:56.349074+00:00",
+  "generated_at": "2026-09-29T15:41:11.570210+00:00",
   "items": [
-    {
-      "theme": "Auto",
-      "title": "Véhicules autonomes. Une navette publique testée sur l’A10 en première mondiale",
-      "url": "https://www.largus.fr/actualite-automobile/vehicules-autonomes-une-navette-publique-testee-sur-la10-en-premiere-mondiale-40009770.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Depuis mars 2026, une navette de transport en commun autonome est expérimentée sur l’autoroute A10 entre les Yvelines et l’Essonne, transportant quelque 150 passager sur 25 000 km depuis. Ce type de véhicule pourrait devenir une alternative à la voiture individuelle pour certains trajets.",
-      "publishedAt": "2026-09-29T13:38:00+00:00",
-      "discoveredAt": "2026-09-29T14:40:17.412015+00:00",
-      "topics": []
-    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -19,12 +8,36 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-09-29T12:24:21+00:00",
+      "publishedAt": "2026-09-29T15:24:03+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Dacia Spring (2026). Déjà un kit tuning déluré pour la nouvelle citadine électrique ?",
+      "url": "https://www.largus.fr/actualite-automobile/dacia-spring-2026-deja-un-kit-tuning-delure-pour-la-nouvelle-citadine-electrique-40009800.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le distributeur et préparateur allemand Carpoint imagine un kit carrosserie exubérant pour la nouvelle Dacia Spring, dans la lignée de ses créations pour Duster et Bigster. Dommage, la citadine électrique plafonne à 80 petits chevaux...",
+      "publishedAt": "2026-09-29T15:02:00+00:00",
+      "discoveredAt": "2026-09-29T15:40:24.895889+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Véhicules autonomes. Une navette publique testée sur l’A10 en première mondiale",
+      "url": "https://www.largus.fr/actualite-automobile/vehicules-autonomes-une-navette-publique-testee-sur-la10-en-premiere-mondiale-40009770.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Depuis mars 2026, une navette de transport en commun autonome est expérimentée sur l’autoroute A10 entre les Yvelines et l’Essonne, transportant quelque 150 passagers sur 25 000 km depuis. Ce type de véhicule pourrait devenir une alternative à la voiture individuelle pour certains trajets.",
+      "publishedAt": "2026-09-29T13:38:00+00:00",
+      "discoveredAt": "2026-09-29T14:40:17.412015+00:00",
+      "topics": []
     },
     {
       "theme": "Paie",
