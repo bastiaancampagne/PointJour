@@ -1,6 +1,157 @@
 {
-  "generated_at": "2026-09-30T11:38:35.750269+00:00",
+  "generated_at": "2026-09-30T12:49:09.698487+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Plats populaire",
+      "url": "https://www.750g.com/recettes-plats/traditionnels/",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez nos 7770 recettes de Plats traditionnels et populaires à faire à la maison. Notre meilleure recette: Quiche lorraine maison facile",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-30T12:48:55.525770+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes Companion",
+      "url": "https://www.750g.com/robots/companion/",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez de nombreuses idées recettes à réaliser au Companion Moulinex et retrouvez de nombreuses préparations variées pour cuisiner avec votre robot cuisine.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-30T12:48:55.463085+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Monsieur Cuisine",
+      "url": "https://www.750g.com/robots/mr-cuisine/",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez toutes nos 56 recettes à faire au Monsieur Cuisine comme : Purée de patate douce au Monsieur Cuisine, Brioche au Monsieur Cuisine, Purée de pommes de terre au Monsieur Cuisine",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-30T12:48:54.906313+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes Cookeo",
+      "url": "https://www.750g.com/robots/cookeo/",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Retrouvez nos meilleures recettes au Cookeo comme les plats mijotés, riz, pâtes, légumes, les desserts et idées gourmandes pour cuisiner avec votre robot Moulinex.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-30T12:48:54.810906+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes Thermomix",
+      "url": "https://www.750g.com/robots/thermomix/",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez de nombreuses idées recettes à réaliser au Thermomix et retrouvez de nombreuses préparations variées pour cuisiner avec votre robot cuisine.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-30T12:48:54.656686+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Tacos végétariens au chou-fleur, avocat et sauce au yaourt",
+      "url": "https://www.750g.com/tacos-vegetariens-au-chou-fleur-avocat-et-sauce-au-yaourt-r206884.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez la recette de Tacos végétariens au chou-fleur, avocat et sauce au yaourt à faire en 15 minutes. Préchauffez le four à 190°C.Détaillez le chou-fleur en fleurettes, mettez-les sur une plaque de cuisson, ajoutez l’huile d’olive, la coriandre en poudre, le paprika et le cumin. Salez, poivrez, mélangez puis enfournez pour 25 minutes. en mélang",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-30T12:48:53.940620+00:00",
+      "topics": [
+        "Rapide",
+        "Four"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Nos meilleures recettes italiennes",
+      "url": "https://www.750g.com/cuisine/italie/",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez nos meilleures idées recettes de la cuisine italienne parmi antipasti, pâtes, plats traditionnels, desserts, sauces maison et cocktails typiques d’Italie.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-30T12:48:53.904476+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Tiramisu spéculoos rapide",
+      "url": "https://www.750g.com/tiramisu-speculoos-r85780.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez la recette de Tiramisu spéculoos rapide à faire en 10 minutes. Séparer les blancs des jaunes. Dans un bol, mélanger les jaunes avec le sucre. Ajouter le mascarpone. Ajouter 3 cuillères à café de café. Monter les blancs en neige. Les incorporer délicatement au mélange précédent. Écraser grossièrement les biscuits. Dans chaque verrine, mett",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-30T12:48:53.858639+00:00",
+      "topics": [
+        "Rapide"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Châtaignes grillées au four",
+      "url": "https://www.750g.com/chataignes-grillees-au-four-r206903.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez la recette de Châtaignes grillées au four à faire en 20 minutes. Préchauffez votre four à 210°C.Faites tremper vos châtaignes dans un grand volume d’eau (votre évier par exemple) afin de les trier.Retirez les châtaignes qui remontent à la surface, c’est le signe que leur chair est abîmée.Rincez les châtaignes puis égouttez-les. Incisez ch",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-30T12:48:53.698756+00:00",
+      "topics": [
+        "Rapide",
+        "Four"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-09-30T12:24:22+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Avec Cotisations, l’Agirc-Arrco offre un pilotage 360 des obligations déclaratives",
+      "url": "https://www.agirc-arrco.fr/nous-connaitre/nos-actualites/avec-cotisations-lagirc-arrco-offre-un-pilotage-360-des-obligations-declaratives/",
+      "source": "Agirc-Arrco",
+      "sourceKind": "OFFICIEL",
+      "summary": "L’Agirc-Arrco et les caisses de retraite complémentaire mettent à la disposition des employeurs et tiers-déclarants le service en ligne Cotisations. Objectif : suivre en temps réel l’état précis du solde des cotisations Agirc-Arrco d’une entreprise.",
+      "publishedAt": "2026-09-30T12:05:33+00:00",
+      "discoveredAt": "2026-09-30T12:48:08.836904+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Billet de la présidente - Jeux vidéo - Les joueurs ne sont pas des consommateurs de seconde zone !",
+      "url": "https://www.quechoisir.org/billet-de-la-presidente-jeux-video-les-joueurs-ne-sont-pas-des-consommateurs-de-seconde-zone-n178590/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "En 2024, avec nos homologues européens, nous avons alerté les autorités sur les pratiques de sept grands éditeurs de jeux vidéo. Notre cible était alors les monnaies virtuelles payantes, ces « Robux », « V-bucks » ou « Minecoins » qui brouillent la perception du prix réel des contenus virtuels achetés dans les jeux (armes, costumes, accessoires, etc.). L’annonce d’aujourd’hui par le réseau européen des autorités de protection des consommateurs (CPC), dont fait partie la DGCCRF, d’une action coordonnée à l’encontre d’une dizaine d’éditeurs constitue une avancée majeure. Elle montre que les autorités prennent enfin la mesure des problèmes auxquels sont confrontés les joueurs en France et en Europe.",
+      "publishedAt": "2026-09-30T11:30:00+00:00",
+      "discoveredAt": "2026-09-30T12:48:29.763424+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
     {
       "theme": "Paie",
       "title": "30 septembre 09h30 Indemnité transactionnelle : la réorganisation du groupe ne justifie pas l’exonération fiscale Fiscal Jurisprudence",
@@ -11,20 +162,6 @@
       "publishedAt": "2026-09-30T07:30:00+00:00",
       "discoveredAt": "2026-09-30T06:44:47.273436+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-09-30T07:24:17+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Paie",
