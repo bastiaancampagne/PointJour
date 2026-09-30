@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-09-30T05:39:34.567795+00:00",
+  "generated_at": "2026-09-30T06:45:47.176317+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "30 septembre 09h30 Indemnité transactionnelle : la réorganisation du groupe ne justifie pas l’exonération fiscale Fiscal Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/indemnite-transactionnelle-la-reorganisation-du-groupe-ne-justifie-pas-l-exoneration-fiscale",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La cour administrative d'appel de Versailles a eu l’opportunité de rappeler que l’exonération d’une indemnité transactionnelle",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-30T06:44:47.273436+00:00",
+      "topics": []
+    },
     {
       "theme": "Paie",
       "title": "Assiette plafonnée vieillesse en DSN : Quelles sont les anomalies à corriger ?",
@@ -3227,11 +3238,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
