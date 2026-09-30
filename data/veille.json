@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T06:45:47.176317+00:00",
+  "generated_at": "2026-09-30T07:41:04.709830+00:00",
   "items": [
     {
       "theme": "Paie",
@@ -8,9 +8,23 @@
       "source": "RF Paye",
       "sourceKind": "EXPERT PAIE",
       "summary": "La cour administrative d'appel de Versailles a eu l’opportunité de rappeler que l’exonération d’une indemnité transactionnelle",
-      "publishedAt": null,
+      "publishedAt": "2026-09-30T07:30:00+00:00",
       "discoveredAt": "2026-09-30T06:44:47.273436+00:00",
       "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-09-30T07:24:17+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
     },
     {
       "theme": "Paie",
@@ -60,20 +74,6 @@
       "publishedAt": "2026-09-29T22:01:00+00:00",
       "discoveredAt": "2026-09-29T22:37:30.764482+00:00",
       "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-09-29T18:24:02+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
         "Carburant"
       ]
     },
@@ -3238,6 +3238,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
