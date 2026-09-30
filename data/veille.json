@@ -1,6 +1,28 @@
 {
-  "generated_at": "2026-09-30T21:40:29.538027+00:00",
+  "generated_at": "2026-09-30T22:39:33.867562+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Voir les autres ingrédients du mois",
+      "url": "https://www.750g.com/ingredients/octobre.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "A chaque saison ses produits : tous les ingrédients du mois d'octobre",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-30T22:39:09.863638+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Les recettes de Noël",
+      "url": "https://www.750g.com/evt/noel/",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Envie de réussir votre repas de Noël ? Foie gras, saumon, Saint-Jacques, huîtres, crustacés, chapon, bûches de Noël, sablés... 750g vous guide pour un menu de Noël réussi.",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-30T22:39:09.597065+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -3467,11 +3489,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
