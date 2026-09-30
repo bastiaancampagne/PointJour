@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-09-30T13:40:04.281802+00:00",
+  "generated_at": "2026-09-30T14:43:20.399539+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "30 septembre 14h09 Maladies professionnelles : les conditions de diagnostic des maladies professionnelles listées par tableaux sont simplifiées Social Paye Journal officiel Loi de finances pour 2026",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/maladies-professionnelles-les-conditions-de-diagnostic-des-maladies-professionnelles-listees-par-tableaux-sont-simplifiees",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-09-30T14:42:10.339077+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Ce délicieux gâteau aux pommes ultra économique se prépare en seulement 15 minutes chrono",
+      "url": "https://www.750g.com/ce-delicieux-gateau-aux-pommes-ultra-economique-se-prepare-en-seulement-15-minutes-chrono-a44642.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Vous êtes en manque d'idée pour le dessert ce soir et vous avez peu peu de temps devant vous ? Cette recette de gâteau aux pommes express va vous sauver la mise !",
+      "publishedAt": "2026-09-30T14:00:00+00:00",
+      "discoveredAt": "2026-09-30T14:43:05.212826+00:00",
+      "topics": [
+        "Desserts",
+        "Économique",
+        "Rapide"
+      ]
+    },
     {
       "theme": "Cuisine",
       "title": "Plats populaire",
@@ -792,11 +818,11 @@
     },
     {
       "theme": "Auto",
-      "title": "Equipement auto. La radio bientôt obligatoire ?",
+      "title": "Équipement auto. La radio bientôt obligatoire ?",
       "url": "https://www.largus.fr/actualite-automobile/equipement-auto-la-radio-bientot-obligatoire-40009186.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "Alors que le bon vieil autoradio tend à céder sa place aux applications de streaming, la filière française des diffuseurs radio se mobilise pour réclamer que les voitures disposent obligatoirement d’un récepteur FM et DAB+. Elle souligne, entre autre, un enjeu de sécurité civile.",
+      "summary": "Alors que le bon vieil autoradio tend à céder sa place aux applications de streaming, la filière française des diffuseurs radio se mobilise pour réclamer que les voitures disposent obligatoirement d’un récepteur FM et DAB+. Elle souligne, entre autres, un enjeu de sécurité civile.",
       "publishedAt": "2026-09-25T13:29:00+00:00",
       "discoveredAt": "2026-09-25T13:38:02.553394+00:00",
       "topics": []
