@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-09-30T17:39:46.978940+00:00",
+  "generated_at": "2026-09-30T18:44:03.907471+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-09-30T18:24:01+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Mondial de Paris 2026. Les nouveautés que vous ne verrez pas au Salon de l’auto",
@@ -33,20 +47,6 @@
       "publishedAt": null,
       "discoveredAt": "2026-09-30T15:41:36.774660+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-09-30T15:24:21+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Paie",
