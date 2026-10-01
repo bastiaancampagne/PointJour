@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-01T00:50:26.340591+00:00",
+  "generated_at": "2026-10-01T01:38:49.099337+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Actualité - Le nouveau vaccin à ARNm contre la grippe sera-t-il plus efficace ?",
+      "url": "https://www.quechoisir.org/actualite-le-nouveau-vaccin-a-arnm-contre-la-grippe-sera-t-il-plus-efficace-n178598/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Un vaccin contre la grippe utilisant la technologie à ARN messager vient d’être autorisé aux États-Unis. Plus rapide à produire, il pourrait mieux s’adapter aux souches en circulation et donc être potentiellement plus efficace. Mais les données disponibles permettent-elles vraiment de conclure à sa supériorité ? Et que peut-on en attendre en France ?",
+      "publishedAt": "2026-10-01T01:00:00+00:00",
+      "discoveredAt": "2026-10-01T01:37:55.185027+00:00",
+      "topics": []
+    },
     {
       "theme": "Cuisine",
       "title": "Voir les autres ingrédients du mois",
@@ -3487,8 +3498,18 @@
     },
     {
       "theme": "Paie",
+      "source": "Service-Public Pro",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Service-Public",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
