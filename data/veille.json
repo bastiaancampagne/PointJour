@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-01T09:41:14.196170+00:00",
+  "generated_at": "2026-10-01T10:45:04.869796+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "La plateforme de dialogue autour des AMM des produits phytopharmaceutiques",
+      "url": "https://www.anses.fr/fr/content/plateforme-de-dialogue-autour-des-autorisations-de-mise-sur-le-marche-des-produits",
+      "source": "ANSES",
+      "sourceKind": "OFFICIEL",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-01T10:42:49.276373+00:00",
+      "topics": []
+    },
     {
       "theme": "Cuisine",
       "title": "Recettes d'octobre",
