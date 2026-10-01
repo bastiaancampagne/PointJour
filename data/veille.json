@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T12:48:18.500299+00:00",
+  "generated_at": "2026-10-01T13:42:41.378526+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -3640,16 +3640,6 @@
     {
       "theme": "Auto",
       "source": "ADEME",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Cuisine",
-      "source": "ANSES",
-      "error": "The read operation timed out"
-    },
-    {
-      "theme": "Cuisine",
-      "source": "CuisineAZ",
       "error": "HTTP Error 403: Forbidden"
     }
   ]
