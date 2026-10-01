@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-01T08:44:49.636527+00:00",
+  "generated_at": "2026-10-01T09:41:14.196170+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Recettes d'octobre",
+      "url": "https://www.cuisineaz.com/les-aliments-de-saison-en-octobre-p690",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Pour profiter de toutes les saveurs des aliments, il faut les manger quand ils sont de saison. Découvrez tous les aliments de saison du mois d'octobre.",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-01T09:41:10.560302+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -24,6 +35,19 @@
       "summary": "Le décret divisant par trois (un peu plus, en réalité) la limite maximale du salaire de référence servant de base au calcul des",
       "publishedAt": "2026-10-01T06:00:00+00:00",
       "discoveredAt": "2026-10-01T06:46:10.044323+00:00",
+      "topics": [
+        "IJSS"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "1 octobre 08h00 Le décret « tour de vis » sur les IJSS AT/MP est sorti Social Paye Journal officiel",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-decret-tour-de-vis-sur-les-ijss-at-mp-est-sorti-130a0994-04a8-8424-9a05-0c377e33af24",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le décret divisant par trois (un peu plus, en réalité) la limite maximale du salaire de référence servant de base au calcul des",
+      "publishedAt": "2026-10-01T06:00:00+00:00",
+      "discoveredAt": "2026-10-01T09:40:02.545055+00:00",
       "topics": [
         "IJSS"
       ]
@@ -1038,6 +1062,17 @@
       "topics": [
         "Ruptures"
       ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu étudiant du 28 septembre au 2 octobre",
+      "url": "https://www.cuisineaz.com/diaporamas/menu-pas-cher-special-recettes-etudiantes-les-ingredients-pour-la-semaine-du-28-septembre-au-2-octobre-2026-8795/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-09-25T11:30:09.780000+00:00",
+      "discoveredAt": "2026-10-01T09:41:14.166681+00:00",
+      "topics": []
     },
     {
       "theme": "Paie",
@@ -3539,6 +3574,19 @@
       "publishedAt": "2026-07-27T07:22:34+00:00",
       "discoveredAt": "2026-09-18T22:48:31.396374+00:00",
       "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Plat de poisson à préparer à l'avance : gratin de cabillaud",
+      "url": "https://www.cuisineaz.com/recettes/soupe-de-courge-butternut-a-tomber-par-terre-123009.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Onctueuse et diététique, la soupe de butternut est idéale pour commencer l'automne en beauté ! Cuits dans un bouillon de volaille, les dés de courge s'allient...",
+      "publishedAt": "2026-05-03T20:03:38.070000+00:00",
+      "discoveredAt": "2026-10-01T09:41:11.284730+00:00",
+      "topics": [
+        "Four"
+      ]
     },
     {
       "theme": "Cuisine",
