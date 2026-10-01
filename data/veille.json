@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-01T14:44:02.919248+00:00",
+  "generated_at": "2026-10-01T15:42:14.324841+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Cette recette de pâtes express de Philippe Etchebest est le dîner idéal des soirs de flemme",
+      "url": "https://www.750g.com/cette-recette-de-pates-express-de-philippe-etchebest-est-le-diner-ideal-des-soirs-de-flemme-a44644.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "On ne va pas se mentir, ça nous est déjà arrivé à tous : il y a des soirs où l'on n'a pas envie de faire à manger. Mais ça ne veut pas dire pour autant qu'il faut prendre ce qu'on a sous la main et s'en contenter. Philippe Etchebest à LA recette de1",
+      "publishedAt": "2026-10-01T15:30:00+00:00",
+      "discoveredAt": "2026-10-01T15:41:48.639580+00:00",
+      "topics": [
+        "Rapide"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -8,12 +21,49 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-01T12:24:09+00:00",
+      "publishedAt": "2026-10-01T15:23:59+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Opel STX Concept (2026). Un break inédit à découvrir au Mondial de Paris",
+      "url": "https://www.largus.fr/actualite-automobile/opel-stx-concept-2026-un-break-inedit-a-decouvrir-au-mondial-de-paris-40010320.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Opel va profiter du prochain Mondial de Paris pour révéler le STX Concept, un modèle de Salon annonciateur d’un futur break dans sa gamme. Avant de le présenter au public, le constructeur allemand entretient le suspense en dévoilant quelques images.",
+      "publishedAt": "2026-10-01T15:21:00+00:00",
+      "discoveredAt": "2026-10-01T15:40:55.508429+00:00",
+      "topics": [
+        "Entretien"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai DS N°7 E-Tense : quelle est la vraie autonomie de la DS7 électrique ?",
+      "url": "https://www.largus.fr/actualite-automobile/essai-ds-n7-e-tense-quelle-est-la-vraie-autonomie-de-la-ds7-electrique-40009710.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "La nouvelle DS N°7 Long Range est passée sur notre parcours dédié à l’autonomie des voitures électriques. Avec un portée réelle de plus de 610 km sur la route et 450 km sur l’autoroute, elle affiche une belle performance, toutefois tempérée par la recharge rapide.",
+      "publishedAt": "2026-10-01T14:44:00+00:00",
+      "discoveredAt": "2026-10-01T15:40:55.508547+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "1 octobre 14h03 CPF, apprentissage, emploi des jeunes : les mesures « emploi et formation » du PLF 2027 Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/cpf-apprentissage-emploi-des-jeunes-les-mesures-emploi-et-formation-du-plf-2027-1a820904-1039-8681-bc55-2e8c562b5124",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lors d'une conférence de presse organisée le 1er octobre 2026, le gouvernement a dévoilé les grandes lignes du projet de loi de finances",
+      "publishedAt": "2026-10-01T12:03:58+00:00",
+      "discoveredAt": "2026-10-01T15:40:42.140626+00:00",
+      "topics": []
     },
     {
       "theme": "Cuisine",
