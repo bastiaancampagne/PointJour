@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:40:44.487033+00:00",
+  "generated_at": "2026-10-01T17:41:52.563890+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -264,6 +264,52 @@
       "summary": "Le plan d’épargne entreprise (PEE) est un dispositif central de l’épargne salariale. Il permet aux salariés de se constituer une épargne dans un cadre social et fiscal avantageux. Fonctionnement, alimentation, déblocage : voici les règles à maîtriser.",
       "publishedAt": "2026-10-01T16:15:34+00:00",
       "discoveredAt": "2026-10-01T16:38:39.940140+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Revue salariale : le cycle annuel de la rémunération étape par étape",
+      "url": "https://www.legisocial.fr/pilotage-rh/revue-salariale-cycle-annuel.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La politique de rémunération s’applique à travers un ensemble de processus récurrents qui, ensemble, forment un cycle annuel. Le recrutement fixe le salaire d’entrée ; les objectifs posés en début d’exercice orientent l’activité ; l’évaluation mesure la contribution ; la revue salariale traduit ces éléments en décisions ; les négociations obligatoires les inscrivent dans le dialogue social. Chaque étape repose sur la même exigence : des rôles définis, un calendrier tenu, des données communes.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T17:39:24.701254+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Cadre légal de la rémunération : Smic, égalité, transparence salariale",
+      "url": "https://www.legisocial.fr/pilotage-rh/egalite-professionnelle-affichages-obligatoires/cadre-legal-remuneration-droits-devoirs-employeur.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’employeur fixe librement les rémunérations, dans les limites posées par la loi, la branche et le juge. Ces limites se rangent en cinq familles d’obligations, formaliser et tenir ses engagements, payer un minimum, traiter les salariés à égalité, négocier et partager, rendre les rémunérations lisibles, dont la méconnaissance expose à des sanctions (§ 06).",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T17:39:24.701580+00:00",
+      "topics": [
+        "SMIC"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Politique salariale : les 8 principes et arbitrages à trancher",
+      "url": "https://www.legisocial.fr/pilotage-rh/principes-politique-salariale.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Une grille de salaires est le résultat de plusieurs variables : une politique salariale, qui fixe les orientations, et les arbitrages qui suivent, portant sur ce que l’entreprise rend public, sur ce qu’elle différencie, sur l’endroit où elle concentre son effort et sur la manière dont elle formalise ses règles.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T17:39:24.701734+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "PERECO et PERO : Quelles sont les règles pour l'épargne retraite en entreprise ?",
+      "url": "/paie-remuneration/avantages-epargne-salariale-partage-valeur/pereco-pero-regles-epargne-retraite-entreprise.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le PERECO et le PERO permettent aux salariés de se constituer une épargne retraite dans un cadre social et fiscal avantageux. Fonctionnement, alimentation, déblocage et fiscalité : découvrez les règles essentielles à maîtriser en paie.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T17:39:24.702019+00:00",
       "topics": []
     },
     {
@@ -3968,11 +4014,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
