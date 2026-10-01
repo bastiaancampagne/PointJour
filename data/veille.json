@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-10-01T04:44:12.963685+00:00",
+  "generated_at": "2026-10-01T05:40:11.603741+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "1 octobre 08h00 Le décret « tour de vis » sur les IJSS AT/MP est sorti Social Paye Journal officiel",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-decret-tour-de-vis-sur-les-ijss-at-mp-est-sorti",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le décret divisant par trois (un peu plus, en réalité) la limite de salaire plafond servant de base au calcul des indemnités",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-01T05:39:06.570799+00:00",
+      "topics": [
+        "IJSS"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Nutrition sportive : les 5 aliments à index glycémique bas à privilégier la veille d'un effort",
+      "url": "https://www.750g.com/nutrition-sportive-les-5-aliments-a-index-glycemique-bas-a-privilegier-la-veille-d-un-effort-a44537.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Préparer son corps pour une épreuve sportive nécessite de saturer ses réserves de glycogène sans provoquer de pic d'insuline ni de lourdeur digestive. Misez sur ces cinq sources de glucides à index glycémique bas ou modéré lors de vos repas de la ve1",
+      "publishedAt": "2026-10-01T05:00:00+00:00",
+      "discoveredAt": "2026-10-01T05:39:48.182911+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Ai-je le droit de justifier une différence de salaire entre deux salariés par le fait que l'un d'eux a « mieux négocié » à l'embauche ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/ai-je-le-droit-de-justifier-une-difference-de-salaire-entre-deux-salaries-par-le-fait-que-lun-deux-a-mieux-negocie-a-lembauche",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-01T04:39:00+00:00",
+      "discoveredAt": "2026-10-01T05:39:10.660592+00:00",
+      "topics": []
+    },
     {
       "theme": "Paie",
       "title": "Arrêts de travail papier : Les conséquences d'un envoi tardif",
