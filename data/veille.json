@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:46:09.034281+00:00",
+  "generated_at": "2026-10-01T19:42:40.410748+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -325,6 +325,32 @@
       "publishedAt": "2026-10-01T16:15:34+00:00",
       "discoveredAt": "2026-10-01T17:39:24.702019+00:00",
       "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer en DSN les données individuelles du salarié",
+      "url": "/paie/declarations-sociales/declarer-dsn-donnees-individuelles-salarie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Cette fiche vous explique comment renseigner correctement le bloc d’identification des salariés dans la DSN, en détaillant les rubriques essentielles et les points de vigilance. Elle vous aide à garantir la fiabilité des données, à éviter les anomalies et à sécuriser le rattachement des droits.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T19:38:34.235357+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Qui est concerné par la DSN ?",
+      "url": "/paie/declarations-sociales/qui-est-concerne-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La DSN est aujourd'hui obligatoire pour la quasi-totalité des employeurs. Toutefois, certaines catégories d'employeurs, quelques territoires et plusieurs procédures déclaratives restent encore partiellement exclus du dispositif. Cette fiche fait le point sur le champ d'application de la DSN et les principales exceptions à connaître.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T19:38:34.235433+00:00",
+      "topics": [
+        "DSN"
+      ]
     },
     {
       "theme": "Cuisine",
@@ -4014,11 +4040,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
