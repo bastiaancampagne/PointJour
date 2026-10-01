@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-01T03:42:10.707823+00:00",
+  "generated_at": "2026-10-01T04:44:12.963685+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "Arrêts de travail papier : Les conséquences d'un envoi tardif",
+      "url": "https://www.legisocial.fr/actualites-sociales/8158-arrets-travail-papier-consequences-envoi-tardif.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un arrêt papier transmis tardivement à l’Assurance Maladie peut bloquer le paiement des IJSS à l’employeur subrogé. La caisse rappelle les démarches à respecter et propose un support pour sensibiliser les salariés.",
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "discoveredAt": "2026-10-01T04:41:14.515218+00:00",
+      "topics": [
+        "IJSS"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "La mise en place du CSE est une obligation légale dès 11 salariés et ce n’est pas une simple formalité !",
+      "url": "https://www.legisocial.fr/actualites-sociales/8130-mise-place-cse-obligation-legale-11-salaries-simple-formalite.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le CSE est obligatoire lorsque l’entreprise atteint au moins 11 salariés pendant 12 mois consécutifs. Points de vigilance pour des élections dans les règles !",
+      "publishedAt": "2026-10-01T04:00:00+00:00",
+      "discoveredAt": "2026-10-01T04:41:14.515453+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Actualité - Le nouveau vaccin à ARNm contre la grippe sera-t-il plus efficace ?",
