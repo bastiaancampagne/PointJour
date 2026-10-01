@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T21:42:53.149049+00:00",
+  "generated_at": "2026-10-01T22:39:27.182149+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -4038,18 +4038,8 @@
     },
     {
       "theme": "Paie",
-      "source": "Service-Public Pro",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Service-Public",
-      "error": "<urlopen error timed out>"
     },
     {
       "theme": "Auto",
