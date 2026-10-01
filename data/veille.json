@@ -1,6 +1,282 @@
 {
-  "generated_at": "2026-10-01T15:42:14.324841+00:00",
+  "generated_at": "2026-10-01T16:40:44.487033+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Grippe et Covid-19 : nouvelle campagne de vaccination conjointe cet automne",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17729",
+      "source": "Service-Public",
+      "sourceKind": "OFFICIEL",
+      "summary": "Grippe et Covid-19 : la campagne de vaccination démarre le 13 octobre 2026",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-01T16:38:53.690271+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Prime de partage de la valeur (PPV) : Conditions, montants et exonérations",
+      "url": "/paie-remuneration/avantages-epargne-salariale-partage-valeur/prime-partage-ppv-conditions-montants-exonerations.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Prime pérenne depuis 2022, la PPV offre un cadre souple pour verser un complément de rémunération aux salariés. Mais son traitement en paie reste spécifique : exonérations conditionnées, impact sur le bulletin, CSG/CRDS, net social, PAS et DSN.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.937155+00:00",
+      "topics": [
+        "DSN",
+        "Net social"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Plan d'épargne interentreprises (PEI) : l'épargne salariale mutualisée des petites entreprises",
+      "url": "/paie-remuneration/avantages-epargne-salariale-partage-valeur/plan-epargne-interentreprises-pei-epargne-salariale-petites-entreprises.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le plan d’épargne interentreprises (PEI) permet aux petites entreprises d’accéder à un dispositif d’épargne salariale mutualisé. Fonctionnement, mise en place et intérêt pour les structures de moins de 50 salariés : l’essentiel à connaître.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.937394+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Abondement de l'employeur : traitement en paie, plafonds et déclaration DSN",
+      "url": "/paie-remuneration/avantages-epargne-salariale-partage-valeur/abondement-employeur-traitement-paie-plafonds-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’abondement de l’employeur complète les versements des salariés sur les dispositifs d’épargne salariale tout en bénéficiant d’un régime social et fiscal avantageux. Fonctionnement, traitement en paie et déclaration en DSN : les points clés à maîtriser.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.937546+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Actions gratuites, stock-options, BSPCE : ce qui se traite en paie et ce qui ne s'y traite pas",
+      "url": "/paie-remuneration/avantages-epargne-salariale-partage-valeur/actions-gratuites-stock-options-bspce-paie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’actionnariat salarié permet d’associer les salariés au capital de l’entreprise via des dispositifs spécifiques comme les actions gratuites, les stock-options ou les BSPCE. Leur traitement en paie reste toutefois particulier : entre exonérations, contributions spécifiques et obligations déclaratives en DSN, la maîtrise des règles est essentielle pour sécuriser les pratiques.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.937711+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer le prélèvement à la source (PAS) et la retenue à la source en DSN",
+      "url": "/paie/declarations-sociales/declarer-prelevement-source-retenue-source-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le prélèvement à la source et la retenue à la source doivent être déclarés dans plusieurs blocs de la DSN. Taux appliqué, assiette fiscale, montant prélevé, reversement à la DGFiP, régularisations et cas particuliers : cette fiche présente les principales modalités déclaratives à connaître.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.937873+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Structure de la DSN : Comprendre les principaux blocs",
+      "url": "/paie/declarations-sociales/structure-dsn-comprendre-principaux-blocs.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La DSN repose sur une architecture normalisée composée de structures, de blocs et de rubriques identifiées par des codes. Comprendre cette organisation permet de lire plus facilement un fichier DSN, d'utiliser le cahier technique, d'analyser les comptes rendus métiers (CRM) et de sécuriser les déclarations.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.938018+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Qu'est-ce que la DSN ?",
+      "url": "/paie/declarations-sociales/comprendre-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La Déclaration Sociale Nominative (DSN) est aujourd'hui au cœur des obligations déclaratives des employeurs. Elle centralise les données issues de la paie et alimente l'ensemble des organismes sociaux. Cette fiche présente les principes fondamentaux de la DSN, son fonctionnement, les employeurs concernés et les principales déclarations qu'elle remplace.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.938158+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Qui sont les organismes destinataires de la DSN ?",
+      "url": "/paie/declarations-sociales/organismes-destinataires-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La DSN centralise les données issues de la paie et les transmet automatiquement aux organismes sociaux et aux administrations habilitées. Chaque destinataire reçoit uniquement les informations nécessaires à l'exercice de ses missions. Cette fiche présente les principaux organismes destinataires de la DSN et les données qu'ils exploitent.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.938316+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer un signalement d'amorçage des données variables en DSN",
+      "url": "/paie/declarations-sociales/declarer-signalement-amorcage-donnees-variables-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le signalement d’amorçage des données variables permet de transmettre certaines informations avant la première DSN mensuelle du salarié. Il facilite notamment la récupération du taux de prélèvement à la source, l’affiliation aux organismes complémentaires et la sécurisation des données d’identification et du contrat.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.938466+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Fait générateur des cotisations : Rattacher les rémunérations en DSN",
+      "url": "/paie/declarations-sociales/generateur-cotisations-rattacher-remunerations-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le fait générateur détermine la période à laquelle les rémunérations, les bases et les cotisations doivent être rattachées en DSN. Les règles pleinement opposables à compter du 1er janvier 2027 nécessitent de distinguer la période d’emploi, la date de prise en compte en paie et la date de versement.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.938617+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Corriger une DSN avant l'échéance : la procédure « annule et remplace »",
+      "url": "/paie/declarations-sociales/corriger-dsn-echeance-procedure-annule-remplace.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsqu’une erreur est détectée avant l’échéance, la procédure « annule et remplace » permet de substituer une DSN corrigée à la déclaration initiale. Les délais et les conditions techniques diffèrent selon qu’elle concerne une DSN mensuelle ou un signalement d’événement.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.938766+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Corriger une DSN après l'échéance : le bloc de régularisation",
+      "url": "/paie/declarations-sociales/corriger-dsn-echeance-bloc-regularisation.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Après l’échéance, une DSN ne peut plus être corrigée au moyen de la procédure « annule et remplace ». L’erreur doit être régularisée dans une DSN ultérieure à l’aide de blocs rattachés à la période d’origine.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.938907+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Comment lire et exploiter les comptes rendus métiers (CRM) ?",
+      "url": "/paie/declarations-sociales/comment-lire-exploiter-comptes-rendus-metiers-crm.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Après le dépôt d’une DSN, les différents retours transmis permettent de suivre son traitement et d’identifier les anomalies à corriger. AEE, ARE, certificat de conformité, bilan d’anomalies ou CRM : chaque document répond à un objectif précis et peut nécessiter une action du déclarant.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.939051+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "DSN de substitution : fonctionnement, procédure et contrôles à effectuer",
+      "url": "/paie/declarations-sociales/dsn-substitution-fonctionnement-procedure-controles-effectuer.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsqu’une anomalie persiste malgré les CRM transmis, l’Urssaf peut corriger certaines données au moyen d’une DSN de substitution. L’employeur dispose toutefois de deux échéances déclaratives pour régulariser les informations concernées ou exercer son droit d’opposition.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.939194+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Politique salariale : les 8 principes et arbitrages à trancher",
+      "url": "/pilotage-rh/principes-politique-salariale.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Une grille de salaires est le résultat de plusieurs variables : une politique salariale, qui fixe les orientations, et les arbitrages qui suivent, portant sur ce que l’entreprise rend public, sur ce qu’elle différencie, sur l’endroit où elle concentre son effort et sur la manière dont elle formalise ses règles.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.939352+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Revue salariale : le cycle annuel de la rémunération étape par étape",
+      "url": "/pilotage-rh/revue-salariale-cycle-annuel.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La politique de rémunération s’applique à travers un ensemble de processus récurrents qui, ensemble, forment un cycle annuel. Le recrutement fixe le salaire d’entrée ; les objectifs posés en début d’exercice orientent l’activité ; l’évaluation mesure la contribution ; la revue salariale traduit ces éléments en décisions ; les négociations obligatoires les inscrivent dans le dialogue social. Chaque étape repose sur la même exigence : des rôles définis, un calendrier tenu, des données communes.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.939531+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Cadre légal de la rémunération : Smic, égalité, transparence salariale",
+      "url": "/pilotage-rh/egalite-professionnelle-affichages-obligatoires/cadre-legal-remuneration-droits-devoirs-employeur.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’employeur fixe librement les rémunérations, dans les limites posées par la loi, la branche et le juge. Ces limites se rangent en cinq familles d’obligations, formaliser et tenir ses engagements, payer un minimum, traiter les salariés à égalité, négocier et partager, rendre les rémunérations lisibles, dont la méconnaissance expose à des sanctions (§ 06).",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.939707+00:00",
+      "topics": [
+        "SMIC"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Prime d'intéressement : Comment la traiter en paie ?",
+      "url": "/paie-remuneration/avantages-epargne-salariale-partage-valeur/prime-interessement-comment-traiter-paie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La prime d’intéressement obéit à des règles spécifiques en paie, tant en matière de cotisations que de fiscalité. Son traitement dépend directement du choix du salarié entre versement immédiat et placement, avec des impacts concrets sur le bulletin, le net imposable et le montant net social. Découvrez dans cette fiche pratique comment traiter en paie la prime d’intéressement.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.939865+00:00",
+      "topics": [
+        "Cotisations",
+        "Net social"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Prime de participation : calcul, versement et traitement en paie",
+      "url": "/paie-remuneration/avantages-epargne-salariale-partage-valeur/prime-participation-calcul-versement-traitement-paie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La prime de participation obéit à des règles spécifiques en paie. Fonctionnement, bénéficiaires, régime social et fiscal : maîtrisez les points clés pour sécuriser son traitement et éviter les erreurs.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.940002+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Plan d'épargne entreprise (PEE) : fonctionnement, versements et traitement en paie",
+      "url": "/paie-remuneration/avantages-epargne-salariale-partage-valeur/plan-epargne-entreprise-pee-fonctionnement-versements-traitement-paie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le plan d’épargne entreprise (PEE) est un dispositif central de l’épargne salariale. Il permet aux salariés de se constituer une épargne dans un cadre social et fiscal avantageux. Fonctionnement, alimentation, déblocage : voici les règles à maîtriser.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-01T16:38:39.940140+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "\"Simplement poêlés\" : Laurent Mariotte relance l'étonnante recette des œufs à la diable de 1903",
+      "url": "https://www.750g.com/simplement-poeles-laurent-mariotte-relance-l-etonnante-recette-des-oeufs-a-la-diable-de-1903-a44643.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Vous aimez les recettes simples et pleines de saveurs ? Et si on vous disait qu'avec juste des œufs et un ingrédient mystère vous pouviez faire un plat datant du début du XXème siècle et qui n'a pas pris une ride ? Voici la fameuse recette où les œu1",
+      "publishedAt": "2026-10-01T16:00:00+00:00",
+      "discoveredAt": "2026-10-01T16:40:20.315442+00:00",
+      "topics": []
+    },
     {
       "theme": "Cuisine",
       "title": "Cette recette de pâtes express de Philippe Etchebest est le dîner idéal des soirs de flemme",
@@ -63,6 +339,17 @@
       "summary": "Lors d'une conférence de presse organisée le 1er octobre 2026, le gouvernement a dévoilé les grandes lignes du projet de loi de finances",
       "publishedAt": "2026-10-01T12:03:58+00:00",
       "discoveredAt": "2026-10-01T15:40:42.140626+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "1 octobre 14h03 CPF, apprentissage, emploi des jeunes : les mesures « emploi et formation » du PLF 2027 Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/cpf-apprentissage-emploi-des-jeunes-les-mesures-emploi-et-formation-du-plf-2027-11c20b04-9099-86a1-9c45-fcabb37be158",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lors d'une conférence de presse organisée le 1er octobre 2026, le gouvernement a dévoilé les grandes lignes du projet de loi de finances",
+      "publishedAt": "2026-10-01T12:03:58+00:00",
+      "discoveredAt": "2026-10-01T16:38:43.460291+00:00",
       "topics": []
     },
     {
