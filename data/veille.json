@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-02T09:41:15.427473+00:00",
+  "generated_at": "2026-10-02T10:39:59.884013+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Le secret inattendu de cette grand-mère pour transformer une banale purée en plat plus savoureux encore",
+      "url": "https://www.750g.com/le-secret-inattendu-de-cette-grand-mere-pour-transformer-une-banale-puree-en-plat-plus-savoureux-encore-a44651.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Une grand-mère partage son astuce toute simple pour rendre la purée encore plus savoureuse, parfumée et parfaitement onctueuse. Un régal !",
+      "publishedAt": "2026-10-02T10:00:00+00:00",
+      "discoveredAt": "2026-10-02T10:39:37.662956+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -25,6 +36,22 @@
       "publishedAt": "2026-10-02T06:00:00+00:00",
       "discoveredAt": "2026-10-02T06:45:48.072397+00:00",
       "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Rappel de salaire : du calcul au bulletin, sans créer une nouvelle erreur",
+      "url": "https://www.legisocial.fr/paie-remuneration/bulletin-paie-salaire/rappels-salaire-principes-traitement-paie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Vous avez oublié d’intégrer des éléments de rémunération sur le bulletin de salaire : heures supplémentaires, prime, augmentation rétroactive ou encore application tardive d’une disposition conventionnelle. Une régularisation doit alors être effectuée afin de verser au salarié les sommes qui lui sont dues. Mais comment traiter ce rappel de salaire en paie ? Quelles sont les règles applicables en matière de cotisations sociales, du plafond de la sécurité sociale et de la déclaration à la DSN ?",
+      "publishedAt": "2026-10-02T06:00:00+00:00",
+      "discoveredAt": "2026-10-02T10:38:52.003722+00:00",
+      "topics": [
+        "DSN",
+        "PMSS",
+        "Cotisations",
+        "Heures supplémentaires"
+      ]
     },
     {
       "theme": "Paie",
@@ -4126,11 +4153,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
