@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T12:46:23.062833+00:00",
+  "generated_at": "2026-10-02T13:42:16.807610+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -14,6 +14,17 @@
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu étudiant du 5 au 9 octobre",
+      "url": "https://www.cuisineaz.com/diaporamas/menu-pas-cher-special-recettes-etudiantes-les-ingredients-pour-la-semaine-du-5-au-9-octobre-2026-8878/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-10-02T11:30:08.510000+00:00",
+      "discoveredAt": "2026-10-02T13:42:16.771243+00:00",
+      "topics": []
     },
     {
       "theme": "Paie",
@@ -37,6 +48,17 @@
       "summary": "Une grand-mère partage son astuce toute simple pour rendre la purée encore plus savoureuse, parfumée et parfaitement onctueuse. Un régal !",
       "publishedAt": "2026-10-02T10:00:00+00:00",
       "discoveredAt": "2026-10-02T10:39:37.662956+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking du midi",
+      "url": "https://www.cuisineaz.com/diaporamas/batch-cooking-10-recettes-du-midi-faciles-pour-la-semaine-du-5-au-9-octobre-2026-8827/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-10-02T07:20:08.440000+00:00",
+      "discoveredAt": "2026-10-02T13:42:14.326369+00:00",
       "topics": []
     },
     {
@@ -115,6 +137,17 @@
       "topics": [
         "Cotisations"
       ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking du soir",
+      "url": "https://www.cuisineaz.com/diaporamas/menu-batch-cooking-du-5-au-9-octobre-2026-10-recettes-du-soir-a-faire-en-1-h-seulement-8883/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-10-02T03:00:04.410000+00:00",
+      "discoveredAt": "2026-10-02T13:42:15.118313+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
@@ -894,6 +927,17 @@
       "topics": [
         "Cotisations"
       ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking Thermomix",
+      "url": "https://www.cuisineaz.com/diaporamas/batch-cooking-10-recettes-du-soir-a-faire-au-thermomix-pour-la-semaine-du-5-au-9-octobre-2026-8826/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-09-30T12:00:04.730000+00:00",
+      "discoveredAt": "2026-10-02T13:42:15.945877+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
