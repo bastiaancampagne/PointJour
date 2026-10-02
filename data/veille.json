@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-02T10:39:59.884013+00:00",
+  "generated_at": "2026-10-02T11:39:59.015178+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "2 octobre 12h37 Licenciement pour faute lourde : l’intention de nuire est avérée lorsqu’un directeur commercial exerce un chantage sur des commerciaux pour s’enrichir Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/licenciement-pour-faute-lourde-l-intention-de-nuire-est-averee-lorsqu-un-directeur-commercial-exerce-un-chantage-sur-des-commerciaux-pour-s-enrichir-130a8984-9099-8601-ba50-838d88e7d457",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La faute lourde du salarié ne peut être retenue que si une intention de nuire à l’employeur ou à l’entreprise est caractérisée. La",
+      "publishedAt": "2026-10-02T10:37:00+00:00",
+      "discoveredAt": "2026-10-02T11:38:59.482324+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
     {
       "theme": "Cuisine",
       "title": "Le secret inattendu de cette grand-mère pour transformer une banale purée en plat plus savoureux encore",
@@ -4153,6 +4166,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
