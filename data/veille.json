@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T18:43:42.591819+00:00",
+  "generated_at": "2026-10-02T19:40:51.929802+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -568,6 +568,19 @@
       "topics": [
         "DSN",
         "Net social"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Actions gratuites, stock-options, BSPCE : ce qui se traite en paie et ce qui ne s'y traite pas",
+      "url": "https://www.legisocial.fr/paie-remuneration/avantages-epargne-salariale-partage-valeur/actions-gratuites-stock-options-bspce-paie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’actionnariat salarié permet d’associer les salariés au capital de l’entreprise via des dispositifs spécifiques comme les actions gratuites, les stock-options ou les BSPCE. Leur traitement en paie reste toutefois particulier : entre exonérations, contributions spécifiques et obligations déclaratives en DSN, la maîtrise des règles est essentielle pour sécuriser les pratiques.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-02T19:39:37.978058+00:00",
+      "topics": [
+        "DSN"
       ]
     },
     {
@@ -4269,11 +4282,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
