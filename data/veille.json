@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-02T03:41:32.743598+00:00",
+  "generated_at": "2026-10-02T04:40:43.924819+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "IJSS AT/MP : Abaissement du plafond au 1er novembre 2026",
+      "url": "https://www.legisocial.fr/actualites-sociales/8160-ijss-atmp-abaissement-plafond-1er-novembre-2026.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le plafond du salaire journalier servant au calcul des IJSS AT/MP sera fortement réduit pour les sinistres survenus à compter du 1er novembre 2026. En cas de maintien de salaire, cette baisse pourra alourdir le complément à la charge de l’employeur.",
+      "publishedAt": "2026-10-02T04:00:00+00:00",
+      "discoveredAt": "2026-10-02T04:39:43.240918+00:00",
+      "topics": [
+        "IJSS"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Impact de la fermeture annuelle de l'entreprise sur la rémunération des salariés n'ayant pas acquis les congés payés suffisants",
+      "url": "https://www.legisocial.fr/actualites-sociales/8156-impact-fermeture-annuelle-entreprise-remuneration-salaries-acquis-conges-payes-suffisants.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsque l'entreprise choisit de fermer pour tout ou partie des congés payés, les salariés n'ont pas tous nécessairement acquis suffisamment de droits à congés payés pour couvrir l'intégralité de la période de fermeture.",
+      "publishedAt": "2026-10-02T04:00:00+00:00",
+      "discoveredAt": "2026-10-02T04:39:43.241113+00:00",
+      "topics": [
+        "Congés"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Sur la volonté claire et non équivoque de démissionner...",
+      "url": "https://www.legisocial.fr/actualites-sociales/8157-volonte-claire-equivoque-demissionner.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Pour que la démission soit valable, la volonté du salarié de rompre son contrat doit être claire et non équivoque.",
+      "publishedAt": "2026-10-02T04:00:00+00:00",
+      "discoveredAt": "2026-10-02T04:39:43.241261+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Contrôle URSSAF : un lien direct vers la Charte du cotisant n’est pas obligatoire",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1693-controle-urssaf-charte-cotisant-obligatoire.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un arrêt du 24 septembre 2026, la Cour de cassation précise que l’avis de contrôle URSSAF n’a pas à comporter un lien direct vers la Charte du cotisant contrôlé. Il doit mentionner son existence, l’adresse électronique où elle est consultable et la possibilité de la recevoir sur demande. L’absence de lien direct ne suffit donc pas à obtenir l’annulation d’un redressement.",
+      "publishedAt": "2026-10-02T04:00:00+00:00",
+      "discoveredAt": "2026-10-02T04:39:43.241441+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
