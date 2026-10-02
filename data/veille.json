@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T14:43:26.651858+00:00",
+  "generated_at": "2026-10-02T15:43:03.993233+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,11 +8,24 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-02T12:24:20+00:00",
+      "publishedAt": "2026-10-02T15:24:02+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai MG IM6 (2026) : le nouveau Porsche Cayenne chinois ?",
+      "url": "https://www.largus.fr/actualite-automobile/essai-mg-im6-2026-le-nouveau-porsche-cayenne-chinois-40007171.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Architecture 800 V, suspension pneumatique, roues arrière directrices, jusqu’à 751 ch en version à deux moteurs : voilà qui pourrait décrire le dernier Porsche Cayenne. Mais nous parlons ici du nouveau SUV de MG, l’IM6, vendu deux fois moins cher… car deux fois moins bien ?",
+      "publishedAt": "2026-10-02T15:09:00+00:00",
+      "discoveredAt": "2026-10-02T15:41:35.664956+00:00",
+      "topics": [
+        "Pneus"
       ]
     },
     {
