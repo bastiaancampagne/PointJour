@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T00:47:02.171693+00:00",
+  "generated_at": "2026-10-02T01:39:48.547264+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -350,6 +350,31 @@
       "discoveredAt": "2026-10-01T19:38:34.235433+00:00",
       "topics": [
         "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Stratégie de rémunération : quel levier pour quel effet recherché ?",
+      "url": "/paie-remuneration/avantages-epargne-salariale-partage-valeur/strategie-remuneration-leviers.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Payer ses collaborateurs est une obligation ; en faire un levier est un choix. Chaque élément de rémunération poursuit un objectif - attirer, motiver, fidéliser, engager, reconnaître - et mobilise pour cela des leviers différents. Y recourir à mauvais escient peut produire des politiques coûteuses sans effet réel : une variable qui récompense l’ancienneté, une prime considérée comme un dû, un avantage que personne ne valorise.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-02T01:38:46.547749+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer le montant net social et le montant net versé en DSN",
+      "url": "/paie/declarations-sociales/declarer-montant-net-social-montant-net-verse-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le montant net social et le montant net versé sont deux données distinctes transmises en DSN. Déclarées respectivement dans les blocs S21.G00.58 et S21.G00.50, ils servent au calcul de plusieurs prestations sociales. Cette fiche présente leurs règles de calcul, de rattachement et de correction.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-02T01:38:46.547933+00:00",
+      "topics": [
+        "DSN",
+        "Net social"
       ]
     },
     {
