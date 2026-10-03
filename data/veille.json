@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T07:42:06.845175+00:00",
+  "generated_at": "2026-10-03T08:39:09.102131+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -4295,11 +4295,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
