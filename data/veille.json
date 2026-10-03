@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-03T09:39:43.883990+00:00",
+  "generated_at": "2026-10-03T10:42:52.838607+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "La Contribution Solidarité Autonomie",
+      "url": "https://www.legisocial.fr/paie-remuneration/cotisations-exonerations-allegements/contributionsolidariteautonomie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Qu'est-ce que la CSA ? Qui doit la payer et à quel taux ? Est-elle due pour les artistes du spectacle et les journalistes ? Cette fiche pratique répond à toutes vos questions sur cette contribution patronale de 0,30 % : assiette, exemples de calcul",
+      "publishedAt": "2026-10-03T09:48:54+00:00",
+      "discoveredAt": "2026-10-03T10:41:41.334164+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -4295,6 +4306,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
