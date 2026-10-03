@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-03T10:42:52.838607+00:00",
+  "generated_at": "2026-10-03T14:47:08.134676+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-03T12:24:57+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Paie",
       "title": "La Contribution Solidarité Autonomie",
@@ -11,20 +25,6 @@
       "publishedAt": "2026-10-03T09:48:54+00:00",
       "discoveredAt": "2026-10-03T10:41:41.334164+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-03T07:24:16+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Cuisine",
@@ -59,6 +59,17 @@
       "summary": "Le projet de loi de finances pour 2027 a été adopté en conseil des ministres le 1er octobre 2026. Il comprend plusieurs mesures « paye",
       "publishedAt": "2026-10-02T15:38:12+00:00",
       "discoveredAt": "2026-10-02T17:38:51.150375+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "2 octobre 17h38 Les mesures « paye » du projet de loi de finances (PLF) pour 2027 Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/les-mesures-paye-du-projet-de-loi-de-finances-plf-pour-2027",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le projet de loi de finances (PLF) pour 2027 a été adopté en conseil des ministres le 1er octobre 2026. Il comprend plusieurs mesures «",
+      "publishedAt": "2026-10-02T15:38:12+00:00",
+      "discoveredAt": "2026-10-03T14:46:14.955262+00:00",
       "topics": []
     },
     {
@@ -4306,11 +4317,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
