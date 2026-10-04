@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T15:29:12.003938+00:00",
+  "generated_at": "2026-10-04T19:46:11.265692+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,11 +8,24 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-04T15:24:23+00:00",
+      "publishedAt": "2026-10-04T18:23:52+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Ce flan traditionnel méconnu de la région du Lot est le dessert le plus réconfortant de l'automne",
+      "url": "https://www.750g.com/ce-flan-traditionnel-meconnu-de-la-region-du-lot-est-le-dessert-le-plus-reconfortant-de-l-automne-a44658.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Pourquoi ne pas profiter de l'automne pour découvrir de nouvelles spécialités culinaires ? On vous présente de suite la recette du Millas, un flan à la citrouille spécifique à la région du Lot.",
+      "publishedAt": "2026-10-04T16:00:00+00:00",
+      "discoveredAt": "2026-10-04T19:45:51.084435+00:00",
+      "topics": [
+        "Desserts"
       ]
     },
     {
