@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-10-04T10:00:30.837799+00:00",
+  "generated_at": "2026-10-04T15:29:12.003938+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-04T15:24:23+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Les chefs sont formels, cette erreur avec l'eau de cuisson ruine la texture de votre purée",
+      "url": "https://www.750g.com/les-chefs-sont-formels-cette-erreur-avec-l-eau-de-cuisson-ruine-la-texture-de-votre-puree-a44637.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Si préparer une purée de pommes de terre maison est assez facile, il y a toutefois quelques étapes à respecter. À commencer par la température de l'eau de cuisson. Elle est très importante pour obtenir une texture fondante et agréable de votre purée1",
+      "publishedAt": "2026-10-04T15:00:00+00:00",
+      "discoveredAt": "2026-10-04T15:28:54.692453+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Rallye. Ford officialise son retour en WRC pour 2028",
+      "url": "https://www.largus.fr/actualite-automobile/rallye-ford-officialise-son-retour-en-wrc-a-partir-de-2028-40010459.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Après un retour remarqué en F1 cette année, Ford officialise son come-back dans le Championnat du monde des rallyes FIA (WRC) pour la saison 2028. Cette participation en partenariat avec M-Sport se soldera par la conception d’une nouvelle voiture de course, qui sera révélée en 2029. Explications.",
+      "publishedAt": "2026-10-04T11:21:00+00:00",
+      "discoveredAt": "2026-10-04T15:28:24.295669+00:00",
+      "topics": []
+    },
     {
       "theme": "Cuisine",
       "title": "5 recettes gourmandes sans gluten pour se faire plaisir malgré tout",
@@ -11,20 +47,6 @@
       "publishedAt": "2026-10-04T10:00:00+00:00",
       "discoveredAt": "2026-10-04T10:00:16.097113+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-04T07:24:04+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Cuisine",
