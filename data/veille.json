@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-05T09:18:58.818118+00:00",
+  "generated_at": "2026-10-05T18:41:04.939925+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Pâte à crêpes : la meilleure recette facile et rapide",
+      "url": "https://www.750g.com/pate-a-crepes-r1370.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez la recette de Pâte à crêpes : la meilleure recette facile et rapide à faire en 10 minutes. Versez la farine dans un saladier avec le sucre et 1 pincée de sel. Creusez ensuite une fontaine. Mettez-y 2 gros œufs et 2 jaunes. Mélangez en versant lentement 50 cl de lait tiède. Laisser reposer 10 minutes. Au moment de faire les crêpes, faites",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-05T18:40:40.885505+00:00",
+      "topics": [
+        "Rapide"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -8,12 +21,114 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-05T07:23:53+00:00",
+      "publishedAt": "2026-10-05T18:23:56+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Recharge des électriques : E.Leclerc et Lidl se lancent dans une guerre des prix aux bornes",
+      "url": "https://www.largus.fr/actualite-automobile/recharge-des-electriques-e-leclerc-et-lidl-se-lancent-dans-une-guerre-des-prix-aux-bornes-40010743.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le 19 juillet 2026, le groupe E.Leclerc ouvrait les hostilités avec une recharge à seulement 0,19 €/kWh dans ses stations. Le 18 septembre, Lidl rispostait en affichant un « plein » à 0,18 €/kWh. Mais aujourd’hui, Lelclerc veut tuer le match avec un kilowatt heure à… 0,17 €.",
+      "publishedAt": "2026-10-05T16:12:00+00:00",
+      "discoveredAt": "2026-10-05T18:40:09.490697+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Citroën 2CV concept (2026). Premières images officielles de la citadine électrique",
+      "url": "https://www.largus.fr/actualite-automobile/citroen-2cv-concept-2026-premieres-images-officielles-de-la-citadine-electrique-40010699.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "A quelques jours de l’ouverture du Mondial de Paris 2026, Citroën publie les premières images du concept de 2CV électrique qui y sera présenté. Celui-ci annonce une citadine néo-rétro qui doit être lancée en 2028 avec un prix de base d’environ 15 000 €.",
+      "publishedAt": "2026-10-05T15:41:00+00:00",
+      "discoveredAt": "2026-10-05T18:40:09.490899+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Petit budget : Laurent Mariotte partage sa recette des œufs Orsini avec un jaune encore coulant",
+      "url": "https://www.750g.com/petit-budget-laurent-mariotte-partage-sa-recette-des-oeufs-orsini-avec-un-jaune-encore-coulant-a44662.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Sur le plat, à la coque ou en omelette, l'œuf est incontournable. Mais connaissez-vous l'œuf Orsini ? Le chef Laurent Mariotte nous la présente ! Vous allez adorer !",
+      "publishedAt": "2026-10-05T15:00:00+00:00",
+      "discoveredAt": "2026-10-05T18:40:40.704578+00:00",
+      "topics": [
+        "Économique"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Les meilleures (et les pires) voitures d’auto-école pour décrocher le permis en France",
+      "url": "https://www.largus.fr/actualite-automobile/les-meilleures-et-les-pires-voitures-dauto-ecole-pour-decrocher-le-permis-en-france-40010669.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Chaque auto-école a le choix des voitures qu’elle utilise pour préparer ses élèves aux épreuves pratiques du permis de conduire. Or, une récente étude révèle que tous les modèles ne se valent pas quand il s’agit de s’exercer pour décrocher le précieux sésame en France. Explications.",
+      "publishedAt": "2026-10-05T14:11:00+00:00",
+      "discoveredAt": "2026-10-05T18:40:09.491090+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Dahl de lentilles : la vraie raison pour laquelle la plupart des gens ratent la texture de ce plat",
+      "url": "https://www.750g.com/dahl-de-lentilles-la-vraie-raison-pour-laquelle-la-plupart-des-gens-ratent-la-texture-de-ce-plat-a44659.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "C'est l'un des plats les plus emblématiques de la gastronomie indienne. Un plat qui peut rapidement devenir pâteux ou trop sec si l'on s'y prend mal. Découvrez comment réaliser un dahl de lentilles dans les règles de l'art.",
+      "publishedAt": "2026-10-05T10:30:00+00:00",
+      "discoveredAt": "2026-10-05T18:40:40.791557+00:00",
+      "topics": [
+        "Rapide"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "5 octobre 12h14 Licenciement économique : le seul refus du salarié du poste proposé vaut-il à lui seul respect de l’obligation de reclassement ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/licenciement-economique-le-seul-refus-du-salarie-du-poste-propose-vaut-il-a-lui-seul-respect-de-l-obligation-de-reclassement-104a0892-0000-86a1-b094-8524e2f927d8",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Il ne suffit pas que l'employeur ait proposé à une salariée menacée de licenciement économique un poste de reclassement pour",
+      "publishedAt": "2026-10-05T10:14:49+00:00",
+      "discoveredAt": "2026-10-05T18:39:52.759955+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "5 octobre 10h30 Indemnités de rupture : le PLFSS 2027 prévoit une seule limite d'exonération égale à une fois le plafond de la sécurité sociale Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/indemnites-de-rupture-le-plfss-2027-prevoit-une-seule-limite-d-exoneration-egale-a-une-fois-le-plafond-de-la-securite-sociale-198a1a80-1000-86a1-94d5-f9de3202da0f",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Comme le projet de loi de finances (PLF), le projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 prévoit de fixer une",
+      "publishedAt": "2026-10-05T08:30:00+00:00",
+      "discoveredAt": "2026-10-05T18:39:54.948156+00:00",
+      "topics": [
+        "PMSS"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "5 octobre 10h15 PLFSS 2027 : des mesures en paye pour les employeurs touchés par les incendies de l'été 2026 et le cyclone Chido à Mayotte Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/plfss-2027-des-mesures-en-paye-pour-les-employeurs-touches-par-les-incendies-de-l-ete-2026-et-le-cyclone-chido-a-mayotte-14889880-80a0-86a0-9081-c1cc770f4d87",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Présenté en conseil des ministres le 1er octobre 2026, le projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 comprend",
+      "publishedAt": "2026-10-05T08:15:00+00:00",
+      "discoveredAt": "2026-10-05T18:39:56.976232+00:00",
+      "topics": []
     },
     {
       "theme": "Paie",
@@ -320,17 +435,6 @@
       "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
       "publishedAt": "2026-10-02T07:20:08.440000+00:00",
       "discoveredAt": "2026-10-02T13:42:14.326369+00:00",
-      "topics": []
-    },
-    {
-      "theme": "Paie",
-      "title": "Prime de partage de la valeur (PPV) : les règles d’exonération changent le 1er janvier 2027",
-      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/prime-de-partage-de-la-valeur-ppv-les-regles-dexoneration-changent-le-1er-janvier-2027",
-      "source": "Éditions Tissot",
-      "sourceKind": "EXPERT PAIE",
-      "summary": "",
-      "publishedAt": "2026-10-02T06:00:00+00:00",
-      "discoveredAt": "2026-10-02T06:45:48.072397+00:00",
       "topics": []
     },
     {
@@ -786,6 +890,32 @@
       ]
     },
     {
+      "theme": "Paie",
+      "title": "Corriger une DSN avant l’échéance : la procédure « annule et remplace »",
+      "url": "https://www.legisocial.fr/paie/declarations-sociales/corriger-dsn-echeance-procedure-annule-remplace.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsqu’une erreur est détectée avant l’échéance, la procédure « annule et remplace » permet de substituer une DSN corrigée à la déclaration initiale. Les délais et les conditions techniques diffèrent selon qu’elle concerne une DSN mensuelle ou un signalement d’événement.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-05T18:39:49.468362+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Corriger une DSN après l’échéance : le bloc de régularisation",
+      "url": "https://www.legisocial.fr/paie/declarations-sociales/corriger-dsn-echeance-bloc-regularisation.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Après l’échéance, une DSN ne peut plus être corrigée au moyen de la procédure « annule et remplace ». L’erreur doit être régularisée dans une DSN ultérieure à l’aide de blocs rattachés à la période d’origine.",
+      "publishedAt": "2026-10-01T16:15:34+00:00",
+      "discoveredAt": "2026-10-05T18:39:49.468897+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
       "theme": "Cuisine",
       "title": "\"Simplement poêlés\" : Laurent Mariotte relance l'étonnante recette des œufs à la diable de 1903",
       "url": "https://www.750g.com/simplement-poeles-laurent-mariotte-relance-l-etonnante-recette-des-oeufs-a-la-diable-de-1903-a44643.htm",
@@ -834,6 +964,17 @@
       "topics": [
         "Carburant"
       ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Prime de partage de la valeur (PPV) : le régime de faveur serait maintenu en 2027",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/prime-de-partage-de-la-valeur-ppv-les-regles-dexoneration-changent-le-1er-janvier-2027",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-01T13:30:00+00:00",
+      "discoveredAt": "2026-10-02T06:45:48.072397+00:00",
+      "topics": []
     },
     {
       "theme": "Paie",
@@ -4478,7 +4619,7 @@
     {
       "theme": "Paie",
       "source": "URSSAF",
-      "error": "Remote end closed connection without response"
+      "error": "<urlopen error timed out>"
     },
     {
       "theme": "Paie",
