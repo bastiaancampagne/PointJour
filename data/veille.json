@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T02:11:44.101986+00:00",
+  "generated_at": "2026-10-05T09:18:58.818118+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,12 +8,86 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-04T18:23:52+00:00",
+      "publishedAt": "2026-10-05T07:23:53+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Mon collaborateur peut-il cumuler deux activités salariées ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/mon-collaborateur-peut-il-cumuler-deux-activites-salariees",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-05T06:30:00+00:00",
+      "discoveredAt": "2026-10-05T09:18:09.279470+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Musculation et CrossFit : oubliez les shakers, voici 3 repas ultra-protéinés 100 % naturels",
+      "url": "https://www.750g.com/musculation-et-crossfit-oubliez-les-shakers-voici-3-repas-ultra-proteines-100-naturels-a44569.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Envie de construire du muscle sans avaler de la poudre industrielle ? Découvrez trois repas savoureux, économiques et naturellement riches en protéines pour optimiser votre récupération après une grosse séance d'entraînement.",
+      "publishedAt": "2026-10-05T06:00:00+00:00",
+      "discoveredAt": "2026-10-05T09:18:44.639803+00:00",
+      "topics": [
+        "Économique"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Mercedes GLC EQ (2026) : quelle autonomie réelle pour le rival du BMW iX3 ?",
+      "url": "https://www.largus.fr/actualite-automobile/essai-mercedes-glc-eq-2026-quelle-autonomie-reelle-pour-le-rival-du-bmw-ix3-40009219.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Nous avons conduit le nouveau Mercedes GLC 400 4Matic sur notre parcours-test pour voitures électriques. Malgré un poids et une puissance d’éléphant, il révèle un appétit d’oiseau sur route et autoroute. Les recharges de guépard séduisent aussi… à un détail près.",
+      "publishedAt": "2026-10-05T05:42:00+00:00",
+      "discoveredAt": "2026-10-05T09:18:15.215884+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "PLF et PLFSS 2027 : Quelles sont les mesures en paie ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8161-plf-plfss-2027-mesures-paie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Allègements généraux, IJSS, indemnités de rupture, PPV… Les projets de budget pour 2027 annoncent plusieurs évolutions importantes pour la paie. Tour d’horizon des mesures proposées, avant leur examen au Parlement.",
+      "publishedAt": "2026-10-05T04:00:00+00:00",
+      "discoveredAt": "2026-10-05T09:17:59.995484+00:00",
+      "topics": [
+        "IJSS"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Rupture conventionnelle : simple en apparence mais pas sans risque !",
+      "url": "https://www.legisocial.fr/actualites-sociales/8135-rupture-conventionnelle-simple-apparence-risque.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La rupture conventionnelle est un outil fréquemment utilisé pour mettre fin à un CDI « proprement ». Mais derrière sa réputation de procédure « facile », se cachent des règles strictes, des délais impératifs et des risques réels si elle est mal menée.",
+      "publishedAt": "2026-10-05T04:00:00+00:00",
+      "discoveredAt": "2026-10-05T09:17:59.995695+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "L'employeur peut être tenu d'organiser une réunion extraordinaire du CSE",
+      "url": "https://www.legisocial.fr/actualites-sociales/8159-employeur-tenu-organiser-reunion-extraordinaire-cse.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Deux élus du CSE peuvent-ils imposer une réunion de la CSSCT sur n'importe quel sujet de leur choix, sans contrôle du contenu de l'ordre du jour ?",
+      "publishedAt": "2026-10-05T04:00:00+00:00",
+      "discoveredAt": "2026-10-05T09:17:59.995844+00:00",
+      "topics": []
     },
     {
       "theme": "Cuisine",
@@ -144,6 +218,17 @@
       "topics": []
     },
     {
+      "theme": "Paie",
+      "title": "2 octobre 17h38 Les mesures « paye » du projet de loi de finances (PLF) pour 2027 Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/les-mesures-paye-du-projet-de-loi-de-finances-plf-pour-2027-16c20a90-9020-84a5-b084-fc4ddfb73fda",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le projet de loi de finances (PLF) pour 2027 a été adopté en conseil des ministres le 1er octobre 2026. Il comprend plusieurs mesures «",
+      "publishedAt": "2026-10-02T15:38:12+00:00",
+      "discoveredAt": "2026-10-05T09:18:03.108522+00:00",
+      "topics": []
+    },
+    {
       "theme": "Auto",
       "title": "Essai MG IM6 (2026) : le nouveau Porsche Cayenne chinois ?",
       "url": "https://www.largus.fr/actualite-automobile/essai-mg-im6-2026-le-nouveau-porsche-cayenne-chinois-40007171.html",
@@ -176,6 +261,17 @@
       "summary": "Le salarié dont l’employeur ne prend pas en considération des restrictions d’aptitudes formulées par le médecin du travail a",
       "publishedAt": "2026-10-02T11:10:55+00:00",
       "discoveredAt": "2026-10-02T14:42:34.777100+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "2 octobre 13h10 Le salarié a automatiquement droit à dommages et intérêts en cas de non-respect par l’employeur des préconisations du médecin du travail Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-salarie-a-automatiquement-droit-a-dommages-et-interets-en-cas-de-non-respect-par-l-employeur-des-preconisations-du-medecin-du-travail-1c881994-1008-86a1-bc44-adc6e5b04953",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le salarié dont l’employeur ne prend pas en considération des restrictions d’aptitudes formulées par le médecin du travail a",
+      "publishedAt": "2026-10-02T11:10:55+00:00",
+      "discoveredAt": "2026-10-05T09:18:05.532430+00:00",
       "topics": []
     },
     {
@@ -4388,6 +4484,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
