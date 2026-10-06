@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-05T18:41:04.939925+00:00",
+  "generated_at": "2026-10-06T00:58:43.992809+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Rosbeef au four",
+      "url": "https://www.750g.com/rosbif-au-four-r40482.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez la recette de Rôti de boeuf (rosbeef) au four à faire en 15 minutes. Préchauffez le four à 210°C. Piquez le rosbif avec une fourchette. Glissez-y des lamelles d'ail. Badigeonnez-le de beurre. Placez le rosbif dans un plat allant au four. Ajoutez l'ail restant. Coupez les oignons en quartiers. Ajoutez-les. Versez 1/2 verre d'",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-06T00:58:29.299566+00:00",
+      "topics": [
+        "Rapide",
+        "Four"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Confiture de tomates vertes rapide",
+      "url": "https://www.750g.com/confiture-de-tomates-vertes-r39607.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez la recette de Confiture de tomates vertes rapide à faire en 15 minutes. Lavez les tomates, coupez-les en morceaux et mettez-les dans une bassine à confiture. Lavez les citrons et râpez leurs zestes.Pressez leur jus, fendez la gousse de vanille en deux.Versez le tout avec les tomates.Ajouter le sucre. Portez à ébullition et remuez bien pou",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-06T00:58:29.251204+00:00",
+      "topics": [
+        "Rapide"
+      ]
+    },
     {
       "theme": "Cuisine",
       "title": "Pâte à crêpes : la meilleure recette facile et rapide",
@@ -4623,13 +4650,13 @@
     },
     {
       "theme": "Paie",
-      "source": "Assurance Maladie",
-      "error": "HTTP Error 403: Forbidden"
+      "source": "Service-Public Pro",
+      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
     },
     {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
+      "theme": "Paie",
+      "source": "Assurance Maladie",
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "theme": "Auto",
