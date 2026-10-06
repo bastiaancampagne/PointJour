@@ -1,13 +1,40 @@
 {
-  "generated_at": "2026-10-06T15:23:04.191631+00:00",
+  "generated_at": "2026-10-06T20:28:20.926835+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-06T18:23:53+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Volkswagen ID. Polo 52 kWh : quelle autonomie réelle pour la Polo électrique ?",
+      "url": "https://www.largus.fr/actualite-automobile/essai-volkswagen-id-polo-52-kwh-quelle-autonomie-reelle-pour-la-polo-electrique-40010770.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Bâtie sur une nouvelle plate-forme, la Volkswagen ID. Polo est attendue plus sobre encore que son économe grande sœur ID.3. Vérifions son autonomie réelle et ses temps de recharge rapide sur notre parcours-test pour voitures électriques.",
+      "publishedAt": "2026-10-06T15:59:00+00:00",
+      "discoveredAt": "2026-10-06T20:27:15.692577+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Prix Leapmotor C10 (2026). Gamme du SUV familial électrique et hybride amélioré",
       "url": "https://www.largus.fr/actualite-automobile/prix-leapmotor-c10-2026-gamme-du-suv-familial-electrique-et-hybride-ameliore-40010975.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "Le Leapmotor C10 gagne en puissance, en autonomie et en équipement. Le SUV chinois, proposé en 100 % électrique ou avec un prolongateur d’autonomie thermique, demeure compétitif face aux Peugeot 5008 et consorts avec un prix de base désormais fixé à 34 380 € en hybride et 39 900 € en électrique.",
+      "summary": "Le Leapmotor C10 gagne en puissance, en autonomie et en équipement. Le SUV chinois, proposé en 100 % électrique ou avec un prolongateur d’autonomie thermique, demeure compétitif face aux Peugeot 5008 et consorts avec un prix de base désormais fixé à 34 380 € en hybride et à 39 900 € en électrique.",
       "publishedAt": "2026-10-06T15:03:00+00:00",
       "discoveredAt": "2026-10-06T15:22:02.756247+00:00",
       "topics": [
@@ -27,6 +54,17 @@
       "topics": [
         "Rapide"
       ]
+    },
+    {
+      "theme": "Paie",
+      "title": "6 octobre 16h31 Droit à l’effacement des données de candidats ou d’anciens salariés : une société « prend » 300 000 € d’amende administrative Social",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/droit-a-l-effacement-des-donnees-de-candidats-ou-d-anciens-salaries-une-societe-prend-300-000-d-amende-administrative",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "En application du RGPD, les candidats à l’embauche et d’anciens salariés peuvent exercer leur droit à l’effacement de leurs",
+      "publishedAt": "2026-10-06T14:31:44+00:00",
+      "discoveredAt": "2026-10-06T20:27:03.287962+00:00",
+      "topics": []
     },
     {
       "theme": "Cuisine",
@@ -88,20 +126,6 @@
       "publishedAt": "2026-10-06T08:00:00+00:00",
       "discoveredAt": "2026-10-06T15:22:04.298672+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-06T07:24:06+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Cuisine",
@@ -4804,11 +4828,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
