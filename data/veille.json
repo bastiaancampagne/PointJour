@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-10-06T00:58:43.992809+00:00",
+  "generated_at": "2026-10-06T07:43:13.075620+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-06T07:24:06+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Petit-déjeuner IG bas : 5 idées de recettes gourmandes pour ne plus jamais avoir faim à 11h",
+      "url": "https://www.750g.com/petit-dejeuner-ig-bas-5-idees-de-recettes-gourmandes-pour-ne-plus-jamais-avoir-faim-a-11h-a44664.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Le coup de barre de milieu de matinée n'est pas une fatalité liée à un manque de volonté, mais la conséquence directe de la composition de notre premier repas. En misant sur un petit-déjeuner IG bas, riche en nutriments protecteurs et pauvre en sucr1",
+      "publishedAt": "2026-10-06T05:00:00+00:00",
+      "discoveredAt": "2026-10-06T07:42:47.033688+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Sécuriser un contrat de travail : les bonnes pratiques à maîtriser",
+      "url": "https://www.legisocial.fr/actualites-sociales/8138-securiser-contrat-travail-bonnes-pratiques-maitriser.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un contrat de travail, ce n’est pas un simple document administratif : c’est la colonne vertébrale de la relation employeur-salarié. Voici les points essentiels pour sécuriser vos pratiques.",
+      "publishedAt": "2026-10-06T04:00:00+00:00",
+      "discoveredAt": "2026-10-06T07:41:58.706663+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "DSN 2027 : les tables de référence de la norme P27V01 sont disponibles",
+      "url": "https://www.legisocial.fr/actualites-sociales/8162-dsn-2027-tables-reference-norme-p27v01-sont-disponibles.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les référentiels DSN P27V01 sont accessibles sur Net-entreprises depuis le 24 septembre 2026. Téléchargement des tables, identification des rubriques concernées et abonnement aux actualisations : le point sur les ressources proposées aux déclarants.",
+      "publishedAt": "2026-10-06T04:00:00+00:00",
+      "discoveredAt": "2026-10-06T07:41:58.706786+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Salarié en arrêt maladie depuis plusieurs semaines ou mois : que faire… et surtout ne pas faire ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8137-salarie-arret-maladie-plusieurs-semaines-mois-surtout-ne.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Entre obligations légales, prévention des risques et préparation du retour, chaque étape compte !",
+      "publishedAt": "2026-10-06T04:00:00+00:00",
+      "discoveredAt": "2026-10-06T07:41:58.706902+00:00",
+      "topics": [
+        "IJSS"
+      ]
+    },
     {
       "theme": "Cuisine",
       "title": "Rosbeef au four",
@@ -39,20 +101,6 @@
       "discoveredAt": "2026-10-05T18:40:40.885505+00:00",
       "topics": [
         "Rapide"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-05T18:23:56+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
@@ -4650,13 +4698,13 @@
     },
     {
       "theme": "Paie",
-      "source": "Service-Public Pro",
-      "error": "<urlopen error _ssl.c:993: The handshake operation timed out>"
-    },
-    {
-      "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
