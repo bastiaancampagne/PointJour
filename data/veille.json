@@ -1,6 +1,81 @@
 {
-  "generated_at": "2026-10-07T00:54:21.673835+00:00",
+  "generated_at": "2026-10-07T07:23:18.017915+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "7 octobre 10h00 Réduction générale de cotisations patronales (RGDU) : la réforme proposée par le PLFSS 2027 est défavorable aux employeurs Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/reduction-generale-de-cotisations-patronales-rgdu-la-reforme-proposee-par-le-plfss-2027-est-defavorable-aux-employeurs",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 prévoit de réviser la définition de certains des paramètres",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-07T07:22:17.484834+00:00",
+      "topics": [
+        "RGDU",
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Fermeture annuelle de l’entreprise : les droits des nouveaux embauchés en l’absence de congés payés",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/fermeture-annuelle-de-lentreprise-les-droits-des-nouveaux-embauches-en-labsence-de-conges-payes",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-07T05:30:00+00:00",
+      "discoveredAt": "2026-10-07T07:22:24.206219+00:00",
+      "topics": [
+        "Congés"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Congé supplémentaire de naissance : Comment le déclarer à partir d’octobre 2026 ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8168-conge-supplementaire-naissance-declarer-octobre-2026.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Net-entreprises précise les démarches à effectuer dès octobre 2026 pour déclarer le congé supplémentaire de naissance. Le formulaire Excel reste obligatoire et doit être transmis le même jour que le signalement DSN ou l’attestation de salaire, sous cinq jours.",
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "discoveredAt": "2026-10-07T07:22:14.350277+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Congés payés : qui décide des dates et jusqu’où l’employeur peut aller ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8111-conges-payes-decide-dates-employeur-aller.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Mémento juridique sur les congés payés, la fixation des dates, les droits des salariés et de l'employeur.",
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "discoveredAt": "2026-10-07T07:22:14.350394+00:00",
+      "topics": [
+        "Congés"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Vidéosurveillance au travail : attention au terrain miné !",
+      "url": "https://www.legisocial.fr/actualites-sociales/8113-videosurveillance-travail-attention-terrain.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "À quelles conditions la surveillance des salariés via des caméras est-elle licite et quelles sont les obligations de l'employeur en la matière ?",
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "discoveredAt": "2026-10-07T07:22:14.350474+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Actualité - Imbroglio autour du remboursement des climatiseurs en Ehpad",
+      "url": "https://www.quechoisir.org/actualite-imbroglio-autour-du-remboursement-des-climatiseurs-en-ehpad-n178654/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Cet été, alors que les vagues de chaleur s'enchaînent, le gouvernement annonce rembourser les dépenses engagées par les Ehpad pour rafraîchir leurs locaux et protéger leurs résidents. Quelques mois plus tard, cette belle promesse se fissure et les établissements craignent de voir une bonne partie de la facture rester à leur charge.",
+      "publishedAt": "2026-10-07T01:00:00+00:00",
+      "discoveredAt": "2026-10-07T07:22:31.653647+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Jaguar Type 01 (2027). A bord de la grande GT électrique qui doit relancer la marque",
@@ -4841,6 +4916,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
