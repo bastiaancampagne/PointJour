@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-10-07T07:23:18.017915+00:00",
+  "generated_at": "2026-10-07T14:40:59.933560+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Enchères. Supercars, classiques et prototypes à la vente du Zoute Grand Prix 2026",
+      "url": "https://www.largus.fr/actualite-automobile/encheres-supercars-classiques-et-prototypes-a-la-vente-du-zoute-grand-prix-2026-40011282.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Ce 9 octobre 2026, en marge du Zoute Grand Prix en Belgique, la vente aux enchères Broad Arrow proposera des voitures particulièrement remarquables. Prototype BMW M5 W10, MCA Centenaire et autre Lancia Delta Integrale restomod sont au programme.",
+      "publishedAt": "2026-10-07T13:03:00+00:00",
+      "discoveredAt": "2026-10-07T14:39:58.317877+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "7 octobre 12h15 Prime de partage de la valeur : le PLFSS 2027 prévoit de prolonger d'un an le volet social de l'exonération renforcée Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/prime-de-partage-de-la-valeur-le-plfss-2027-prevoit-de-prolonger-d-un-an-le-volet-social-de-l-exoneration-renforcee-1f0a0816-8480-8404-b0c4-c19dfe0c05e1",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les primes de partage de la valeur (PPV) versées par des employeurs de moins de 50 salariés à leurs salariés rémunérés moins de 3",
+      "publishedAt": "2026-10-07T10:15:00+00:00",
+      "discoveredAt": "2026-10-07T14:39:39.146237+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "7 octobre 11h20 Un nouvel organisme ouvre droit aux autorisations d’absences pour participer à des instances d’emploi ou de formation Social Paye Journal officiel",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/un-nouvel-organisme-ouvre-droit-aux-autorisations-d-absences-pour-participer-a-des-instances-d-emploi-ou-de-formation-194a9884-8431-8421-92d4-d452746601b5",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La liste des organismes donnant lieu à une autorisation d’absence pour participer à des instances d’emploi ou de formation",
+      "publishedAt": "2026-10-07T09:20:22+00:00",
+      "discoveredAt": "2026-10-07T14:39:41.315565+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "7 octobre 10h15 Le plafond de la sécurité sociale pour 2027 pourrait s'établir à 4 075 € par mois Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-plafond-de-la-securite-sociale-pour-2027-pourrait-s-etablir-a-4-075-par-mois",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le plafond de la sécurité sociale pour 2027 devrait être en hausse de 1,7 %, si l'on s'en tient au rapport provisoire de la commission",
+      "publishedAt": "2026-10-07T08:15:00+00:00",
+      "discoveredAt": "2026-10-07T14:39:43.432710+00:00",
+      "topics": [
+        "PMSS"
+      ]
+    },
     {
       "theme": "Paie",
       "title": "7 octobre 10h00 Réduction générale de cotisations patronales (RGDU) : la réforme proposée par le PLFSS 2027 est défavorable aux employeurs Paye Projet de texte",
@@ -8,7 +56,7 @@
       "source": "RF Paye",
       "sourceKind": "EXPERT PAIE",
       "summary": "Le projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 prévoit de réviser la définition de certains des paramètres",
-      "publishedAt": null,
+      "publishedAt": "2026-10-07T08:00:00+00:00",
       "discoveredAt": "2026-10-07T07:22:17.484834+00:00",
       "topics": [
         "RGDU",
@@ -64,6 +112,76 @@
       "publishedAt": "2026-10-07T04:00:00+00:00",
       "discoveredAt": "2026-10-07T07:22:14.350474+00:00",
       "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Heures supplémentaires et DSN : Quels impacts sur les cotisations et les droits du salarié ?",
+      "url": "https://www.legisocial.fr/paie/declarations-sociales/heures-supplementaires-dsn-impact.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Structurelles ou ponctuelles, les heures supplémentaires ont un impact direct sur la rémunération, les cotisations et les droits sociaux du salarié. Découvrez les règles applicables, les données à déclarer en DSN et les contrôles à effectuer pour sécuriser les exonérations sociales et fiscales.",
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "discoveredAt": "2026-10-07T14:39:35.355830+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations",
+        "Heures supplémentaires"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Sortie du salarié : Quels impacts sur la DSN ?",
+      "url": "https://www.legisocial.fr/paie/declarations-sociales/sortie-salarie-impacts-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La sortie d’un salarié a des conséquences immédiates sur la paie et la DSN. Du calcul du solde de tout compte au signalement FCTU, découvrez les données à sécuriser pour transmettre une attestation employeur conforme et préserver les droits du salarié.",
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "discoveredAt": "2026-10-07T14:39:35.356176+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Avantages en nature : Quels impacts sur la paie et la DSN ?",
+      "url": "https://www.legisocial.fr/paie/declarations-sociales/avantages-nature-impacts-paie-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Repas, logement, véhicule ou outils numériques : les avantages en nature doivent être évalués et intégrés à la paie. Découvrez leur traitement social, leur déclaration en DSN et les contrôles à réaliser pour limiter le risque de redressement Urssaf.",
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "discoveredAt": "2026-10-07T14:39:35.356354+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Frais professionnels : Quels impacts sur la paie et la DSN ?",
+      "url": "https://www.legisocial.fr/paie/declarations-sociales/frais-professionnels-impacts-paie-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le remboursement des frais professionnels doit respecter des conditions précises pour bénéficier d’une exonération de cotisations. Découvrez les règles de prise en charge, les codes à utiliser en DSN et les contrôles à mettre en place pour sécuriser les notes de frais.",
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "discoveredAt": "2026-10-07T14:39:35.356715+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Temps de travail du salarié et DSN : Comment le déclarer ?",
+      "url": "https://www.legisocial.fr/paie/declarations-sociales/temps-travail-salarie-dsn-comment-declarer.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Durée contractuelle, temps partiel, forfait, heures supplémentaires ou jours de repos : l’organisation du temps de travail a un impact direct sur la paie et les informations transmises en DSN. Découvrez les principales règles à respecter et les données à contrôler pour sécuriser vos déclarations.",
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "discoveredAt": "2026-10-07T14:39:35.356879+00:00",
+      "topics": [
+        "DSN",
+        "Heures supplémentaires"
+      ]
     },
     {
       "theme": "Auto",
@@ -818,7 +936,7 @@
     },
     {
       "theme": "Auto",
-      "title": "Grippe et Covid-19 : nouvelle campagne de vaccination conjointe cet automne",
+      "title": "Grippe et Covid-19 : une nouvelle campagne de vaccination conjointe cet automne",
       "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17729",
       "source": "Service-Public",
       "sourceKind": "OFFICIEL",
