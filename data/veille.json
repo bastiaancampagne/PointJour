@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-07T14:40:59.933560+00:00",
+  "generated_at": "2026-10-07T20:44:14.650389+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-07T18:23:56+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Skoda Octavia (2026). De l’hybride pour la berline et le break Combi",
+      "url": "https://www.largus.fr/actualite-automobile/skoda-octavia-2026-de-lhybride-pour-la-berline-et-le-break-combi-40010631.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Comme les Volkswagen Golf et T-Roc, les Skoda Octavia et Octavia Combi (break) voient leur gamme des motorisations s’enrichir d’un groupe motopropulseur hybride classique façon Honda (HEV) avec 136 ou 170 ch au choix ce qui leur permet d’échapper au malus écologique.",
+      "publishedAt": "2026-10-07T15:56:00+00:00",
+      "discoveredAt": "2026-10-07T20:43:20.102759+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Le croissant a du souci à se faire : voici la recette du salted bread qui rend fou Paris",
+      "url": "https://www.750g.com/le-croissant-a-du-souci-a-se-faire-voici-la-recette-du-salted-bread-qui-rend-fou-paris-a44683.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "C'est la nouvelle obsession boulangère qui affole les réseaux sociaux et fait trembler nos viennoiseries traditionnelles. À mi-chemin entre la brioche fondante et le pain au lait, le \"salted bread\" venu de Corée du Sud conquiert la capitale français1",
+      "publishedAt": "2026-10-07T15:00:00+00:00",
+      "discoveredAt": "2026-10-07T20:43:51.903830+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Enchères. Supercars, classiques et prototypes à la vente du Zoute Grand Prix 2026",
@@ -23,6 +61,17 @@
       "summary": "Les primes de partage de la valeur (PPV) versées par des employeurs de moins de 50 salariés à leurs salariés rémunérés moins de 3",
       "publishedAt": "2026-10-07T10:15:00+00:00",
       "discoveredAt": "2026-10-07T14:39:39.146237+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "7 octobre 12h15 Prime de partage de la valeur : le PLFSS 2027 prévoit de prolonger d'un an le volet social de l'exonération renforcée Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/prime-de-partage-de-la-valeur-le-plfss-2027-prevoit-de-prolonger-d-un-an-le-volet-social-de-l-exoneration-renforcee-104a8896-1430-8405-96c4-6624a0f8b48e",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les primes de partage de la valeur (PPV) versées par des employeurs de moins de 50 salariés à leurs salariés rémunérés moins de 3",
+      "publishedAt": "2026-10-07T10:15:00+00:00",
+      "discoveredAt": "2026-10-07T20:43:03.744762+00:00",
       "topics": []
     },
     {
@@ -184,6 +233,20 @@
       ]
     },
     {
+      "theme": "Paie",
+      "title": "Déclarer les données du contrat en DSN",
+      "url": "https://www.legisocial.fr/paie/declarations-sociales/declarer-donnees-contrat-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le bloc « Contrat - S21.G00.40 » constitue l'un des blocs les plus importants de la DSN. Il décrit l'ensemble des caractéristiques du contrat de travail et sert de base au calcul des cotisations, des droits sociaux et des différents traitements réalisés par les organismes destinataires. Cette fiche détaille les rubriques du bloc Contrat, les modalités de déclaration des changements contractuels (bloc S21.G00.41) ainsi que les principales précisions apportées par les fiches-consignes DSN.",
+      "publishedAt": "2026-10-07T04:00:00+00:00",
+      "discoveredAt": "2026-10-07T20:43:00.182175+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations"
+      ]
+    },
+    {
       "theme": "Auto",
       "title": "Actualité - Imbroglio autour du remboursement des climatiseurs en Ehpad",
       "url": "https://www.quechoisir.org/actualite-imbroglio-autour-du-remboursement-des-climatiseurs-en-ehpad-n178654/",
@@ -204,20 +267,6 @@
       "publishedAt": "2026-10-07T00:00:00+00:00",
       "discoveredAt": "2026-10-07T00:53:20.821134+00:00",
       "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-06T18:23:53+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
         "Carburant"
       ]
     },
