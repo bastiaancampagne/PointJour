@@ -1,6 +1,88 @@
 {
-  "generated_at": "2026-10-08T01:09:03.064362+00:00",
+  "generated_at": "2026-10-08T07:37:19.114846+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-08T07:24:13+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "8 octobre 09h00 Le dispositif de monétisation des jours de RTT pourrait être pérennisé par le PLFSS 2027 Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-dispositif-de-monetisation-des-jours-de-rtt-pourrait-etre-perennise-par-le-plfss-2027",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Présenté en conseil des ministres le 1er octobre 2026, le projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 entend",
+      "publishedAt": "2026-10-08T07:00:00+00:00",
+      "discoveredAt": "2026-10-08T07:36:00.210855+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Coup de pompe en plein run : comment se remettre d'une hypoglycémie grâce à la nutrition ?",
+      "url": "https://www.750g.com/coup-de-pompe-en-plein-run-comment-se-remettre-d-une-hypoglycemie-grace-a-la-nutrition-a44536.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Les jambes en coton, des sueurs froides, une vision qui se trouble... Le fameux \"mur\" ou la fringale soudaine en course à pied n'est autre qu'une hypoglycémie brutale. Lorsque vos réserves de glycogène sont à sec, votre cerveau et vos muscles crient1",
+      "publishedAt": "2026-10-08T05:00:00+00:00",
+      "discoveredAt": "2026-10-08T07:36:52.061750+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Ai-je le droit d’utiliser des critères comportementaux plutôt que des critères chiffrés pour évaluer mes salariés ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/ai-je-le-droit-dutiliser-des-criteres-comportementaux-plutot-que-des-criteres-chiffres-pour-evaluer-mes-salaries",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-08T04:42:00+00:00",
+      "discoveredAt": "2026-10-08T07:36:05.649218+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Montant net social : Des contributions patronales pourraient être intégrées dès 2027",
+      "url": "https://www.legisocial.fr/actualites-sociales/8170-montant-net-social-contributions-patronales-pourraient-integrees-2027.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le calcul du montant net social pourrait évoluer en 2027 avec l’intégration des contributions patronales de protection sociale complémentaire et du versement santé. Une modification à anticiper en paie, sous réserve de la publication du décret annoncé.",
+      "publishedAt": "2026-10-08T04:00:00+00:00",
+      "discoveredAt": "2026-10-08T07:35:56.948648+00:00",
+      "topics": [
+        "Net social"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Le DUERP : l’obligation centrale de la prévention des risques professionnels",
+      "url": "https://www.legisocial.fr/actualites-sociales/8115-duerp-obligation-centrale-prevention-risques-professionnels.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le DUERP constitue la pierre angulaire de l’obligation de sécurité qui incombe à l’employeur.",
+      "publishedAt": "2026-10-08T04:00:00+00:00",
+      "discoveredAt": "2026-10-08T07:35:56.948773+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Smartphones",
+      "url": "https://www.quechoisir.org/comparatif-smartphone-n431/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Avec un système d’exploitation (OS) sous Android ou Apple iOS, un écran tactile gigantesque ou plus petit, un appareil photo de qualité ou médiocre, une autonomie limitée ou impressionnante, les smartphones sont devenus des appareils multifonctions indispensables pour de nombreux utilisateurs.",
+      "publishedAt": "2026-10-08T03:00:00+00:00",
+      "discoveredAt": "2026-10-08T07:36:18.923607+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Actualité - Vélo, trottinette : dans quelles situations le casque est-il obligatoire ?",
@@ -11,20 +93,6 @@
       "publishedAt": "2026-10-08T01:00:00+00:00",
       "discoveredAt": "2026-10-08T01:08:20.682284+00:00",
       "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-07T18:23:56+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
         "Carburant"
       ]
     },
@@ -58,7 +126,7 @@
       "url": "https://www.largus.fr/actualite-automobile/encheres-supercars-classiques-et-prototypes-a-la-vente-du-zoute-grand-prix-2026-40011282.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "Ce 9 octobre 2026, en marge du Zoute Grand Prix en Belgique, la vente aux enchères Broad Arrow proposera des voitures particulièrement remarquables. Prototype BMW M5 W10, MCA Centenaire et autre Lancia Delta Integrale restomod sont au programme.",
+      "summary": "Vendredi 9 octobre 2026, en marge du Zoute Grand Prix en Belgique, la vente aux enchères Broad Arrow proposera des voitures particulièrement remarquables. Prototype BMW M5 W10, MCA Centenaire et autre Lancia Delta Integrale restomod sont au programme.",
       "publishedAt": "2026-10-07T13:03:00+00:00",
       "discoveredAt": "2026-10-07T14:39:58.317877+00:00",
       "topics": [
@@ -5096,6 +5164,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
