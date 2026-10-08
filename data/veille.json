@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-10-08T15:47:35.750604+00:00",
+  "generated_at": "2026-10-08T21:27:30.075577+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-08T18:24:04+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Citroën 2CV : ces surnoms affectueux qui font de la Deudeuche une icône dans le monde entier",
+      "url": "https://www.largus.fr/actualite-automobile/citroen-2cv-ces-surnoms-affectueux-qui-font-de-la-deudeuche-une-icone-dans-le-monde-entier-40011112.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Peu de voitures peuvent se targuer d’être plus souvent désignées par un surnom que par leur nom officiel. C’est le cas de la Citroën 2CV, affectueusement appelée « Deudeuche » en France. Mais l’icône, qui renaîtra en électrique en 2028, possède aussi de nombreux surnoms à l’étranger. Les connaissez-vous ?",
+      "publishedAt": "2026-10-08T17:48:00+00:00",
+      "discoveredAt": "2026-10-08T21:26:40.440729+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Flemme de cuisiner ce soir ? Voici le gratin de pâtes ultra-crémeux à réaliser avec 4 ingrédients",
+      "url": "https://www.750g.com/flemme-de-cuisiner-ce-soir-voici-le-gratin-de-pates-ultra-cremeux-a-realiser-avec-4-ingredients-a44685.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Besoin d'un repas réconfortant en un temps record après une longue journée ? Découvrez ce gratin de pâtes filant et doré à souhait. Avec seulement quatre ingrédients du quotidien, c'est la recette anti-prise de tête par excellence pour régaler toute1",
+      "publishedAt": "2026-10-08T16:30:00+00:00",
+      "discoveredAt": "2026-10-08T21:27:12.479763+00:00",
+      "topics": [
+        "Four"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Le téléphone au volant peut entraîner une suspension administrative du permis de conduire",
@@ -35,20 +75,6 @@
       "publishedAt": "2026-10-08T15:32:00+00:00",
       "discoveredAt": "2026-10-08T15:46:39.558936+00:00",
       "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-08T15:24:03+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
         "Carburant"
       ]
     },
@@ -5312,11 +5338,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
