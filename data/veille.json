@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-10-08T07:37:19.114846+00:00",
+  "generated_at": "2026-10-08T15:47:35.750604+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Le téléphone au volant peut entraîner une suspension administrative du permis de conduire",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19086",
+      "source": "Service-Public",
+      "sourceKind": "OFFICIEL",
+      "summary": "Sur tout le territoire, les conducteurs tenant un téléphone portable dans leur main peuvent voir leur permis de conduire suspendu immédiatement.",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-08T15:46:34.289596+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "L’Urssaf propose un formulaire de procuration",
+      "url": "https://entreprendre.service-public.gouv.fr/actualites/A19082",
+      "source": "Service-Public Pro",
+      "sourceKind": "OFFICIEL",
+      "summary": "Rédiger une procuration permet de donner pouvoir à un mandataire. L’Urssaf met à disposition un formulaire pour encadrer cette représentation.",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-08T15:45:36.567660+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Technologie. Les essuie-glaces électriques ont 100 ans",
+      "url": "https://www.largus.fr/actualite-automobile/technologie-les-essuie-glaces-electriques-ont-100-ans-40011733.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Inventé en 1903 aux USA par Mary Anderson, l’essuie-glace pour automobile, d’abord manuel, ne s’est pas tout de suite imposé aux constructeurs. Mais l’arrivée d’un système électrique imaginé par l’équipementier allemand Bosch a permis d’accélérer le mouvement. C’était en 1926… il y a 100 ans.",
+      "publishedAt": "2026-10-08T15:32:00+00:00",
+      "discoveredAt": "2026-10-08T15:46:39.558936+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -8,12 +45,109 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-08T07:24:13+00:00",
+      "publishedAt": "2026-10-08T15:24:03+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Aion UT (2026) : peut-on faire confiance à cette nouvelle compacte électrique ?",
+      "url": "https://www.largus.fr/actualite-automobile/essai-aion-ut-2026-peut-on-faire-confiance-a-cette-nouvelle-compacte-electrique-40009115.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le groupe chinois GAC arrive en France avec sa marque Aion pour commencer. Spécialisée dans l’électrique, celle-ci souhaite notamment se faire connaître avec une berline compacte nommée UT, au tarif forcément attractif. Qu’a-t-elle d’autre à offrir ? Nous en avons pris le volant pour le découvrir.",
+      "publishedAt": "2026-10-08T14:51:00+00:00",
+      "discoveredAt": "2026-10-08T15:46:39.559136+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Carburant. L’Etat débloque 10 millions de barils de gazole et espère une baisse de 12 à 18 centimes du litre",
+      "url": "https://www.largus.fr/actualite-automobile/carburant-letat-debloque-10-millions-de-barils-de-gazole-et-espere-une-baisse-de-12-a-18-centimes-du-litre-40011705.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le Gouvernement va puiser dans les réserves stratégiques françaises pour libérer 10 millions de barils de gazole. Le but de cette opération, qui sera très encadrée et surveillée, est de provoquer une baisse des prix à la pompe estimée entre 12 et 18 centimes d'euro par litre de diesel.",
+      "publishedAt": "2026-10-08T10:41:00+00:00",
+      "discoveredAt": "2026-10-08T15:46:39.559330+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "8 octobre 12h27 Arrêts de travail : le PLFSS 2027 veut renforcer la coordination médicale autour du salarié pour limiter la désinsertion professionnelle Social Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/arrets-de-travail-le-plfss-2027-veut-renforcer-la-coordination-medicale-autour-du-salarie-pour-limiter-la-desinsertion-professionnelle",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Afin de mieux prévenir la désinsertion professionnelle des salariés, dans un contexte de vieillissement de la population active, le",
+      "publishedAt": "2026-10-08T10:27:26+00:00",
+      "discoveredAt": "2026-10-08T15:46:21.699102+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "5 recettes de cocktails d’Halloween faciles et effrayantes pour une soirée inoubliable",
+      "url": "https://www.750g.com/voici-nos-5-recettes-de-cocktails-d-halloween-pour-une-soiree-reussie-a35328.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Préparez-vous à une soirée d'Halloween mémorable en plongeant dans l'atmosphère mystérieuse et effrayante de cette fête avec des cocktails originaux. Voici 5 recettes pour éveiller l'esprit du soir le plus terrifiant de l'année.",
+      "publishedAt": "2026-10-08T10:20:00+00:00",
+      "discoveredAt": "2026-10-08T15:47:12.214033+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Le non respect des préconisations du médecin du travail et ses conséquences<",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1694-respect-preconisations-medecin-travail-consequences.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le seul manquement de l’employeur aux préconisations d’aménagement du médecin du travail ouvre droit à réparation, sans que le salarié ait à démontrer son préjudice.",
+      "publishedAt": "2026-10-08T10:00:00+00:00",
+      "discoveredAt": "2026-10-08T15:46:18.178631+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "8 octobre 10h42 PLFSS 2027 : le « malus seniors » sur les cotisations patronales d’assurance vieillesse serait abandonné, sans avoir vu le jour Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/plfss-2027-le-malus-seniors-sur-les-cotisations-patronales-d-assurance-vieillesse-serait-abandonne-sans-avoir-vu-le-jour-12c20884-94b5-8624-9691-bc9725ac0773",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 prévoit d’abroger le dispositif du « malus seniors » sur les",
+      "publishedAt": "2026-10-08T08:42:03+00:00",
+      "discoveredAt": "2026-10-08T15:46:23.791256+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Plafond de la Sécurité sociale 2027 : une revalorisation préconisée de 1,7 %",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/plafond-de-la-securite-sociale",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-08T08:00:00+00:00",
+      "discoveredAt": "2026-10-08T15:46:31.167695+00:00",
+      "topics": [
+        "PMSS"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "8 octobre 09h45 Arrêts de travail : les partenaires sociaux invités à négocier une « réforme structurelle » pour la fin 2026 Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/arrets-de-travail-les-partenaires-sociaux-invites-a-negocier-une-reforme-structurelle-pour-la-fin-2026-13c01894-9405-86a4-b0c1-d17239603cca",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Comme annoncé lors de la présentation du projet de loi de financement de la sécurité sociale (PLFSS) pour 2027, le ministère du Travail",
+      "publishedAt": "2026-10-08T07:45:00+00:00",
+      "discoveredAt": "2026-10-08T15:46:25.916921+00:00",
+      "topics": []
     },
     {
       "theme": "Paie",
@@ -73,6 +207,20 @@
       "topics": []
     },
     {
+      "theme": "Paie",
+      "title": "Signaler un arrêt de travail en DSN",
+      "url": "https://www.legisocial.fr/paie/declarations-sociales/signaler-arret-travail-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsqu’un salarié est en arrêt de travail, l’employeur doit effectuer un signalement en DSN afin de permettre le calcul et le versement des indemnités journalières. Cette fiche présente les délais à respecter ainsi que les modalités de déclaration de l’arrêt, de la subrogation et de la reprise dans le bloc S21.G00.60.",
+      "publishedAt": "2026-10-08T04:00:00+00:00",
+      "discoveredAt": "2026-10-08T15:46:18.179193+00:00",
+      "topics": [
+        "DSN",
+        "IJSS"
+      ]
+    },
+    {
       "theme": "Auto",
       "title": "Comparatif - Smartphones",
       "url": "https://www.quechoisir.org/comparatif-smartphone-n431/",
@@ -102,7 +250,7 @@
       "url": "https://www.largus.fr/actualite-automobile/skoda-octavia-2026-de-lhybride-pour-la-berline-et-le-break-combi-40010631.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "Comme les Volkswagen Golf et T-Roc, les Skoda Octavia et Octavia Combi (break) voient leur gamme des motorisations s’enrichir d’un groupe motopropulseur hybride classique façon Honda (HEV) avec 136 ou 170 ch au choix ce qui leur permet d’échapper au malus écologique.",
+      "summary": "Comme les Volkswagen Golf et T-Roc, les Skoda Octavia et Octavia Combi (break) voient leurs gammes des motorisations s’enrichir d’un groupe motopropulseur hybride classique façon Honda (HEV) avec 136 ou 170 ch au choix, ce qui leur permet d’échapper au malus écologique.",
       "publishedAt": "2026-10-07T15:56:00+00:00",
       "discoveredAt": "2026-10-07T20:43:20.102759+00:00",
       "topics": [
