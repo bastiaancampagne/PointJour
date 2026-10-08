@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-07T20:44:14.650389+00:00",
+  "generated_at": "2026-10-08T01:09:03.064362+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Actualité - Vélo, trottinette : dans quelles situations le casque est-il obligatoire ?",
+      "url": "https://www.quechoisir.org/actualite-velo-trottinette-dans-quelles-situations-le-casque-est-il-obligatoire-n178662/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Le Conseil national de la sécurité routière va devoir se prononcer sur le port du casque obligatoire. Prioritairement pour les utilisateurs de trottinettes électriques et autres engins de déplacement personnel motorisés (EDPM), mais les cyclistes sont aussi évoqués. Dans plusieurs villes et départements, des arrêtés rendent la situation illisible.",
+      "publishedAt": "2026-10-08T01:00:00+00:00",
+      "discoveredAt": "2026-10-08T01:08:20.682284+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -5083,11 +5096,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
