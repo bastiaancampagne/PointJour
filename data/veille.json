@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-09T16:27:27.164245+00:00",
+  "generated_at": "2026-10-09T21:50:26.586887+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-09T18:23:59+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Quelles évolutions pour la prime carburant jusqu’à fin 2026 ?",
@@ -24,20 +38,6 @@
       "publishedAt": "2026-10-09T16:00:00+00:00",
       "discoveredAt": "2026-10-09T16:27:10.762243+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-09T15:24:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Auto",
@@ -74,6 +74,17 @@
       "summary": "L’employeur a une obligation de prévention des agissements de harcèlement moral. Le salarié qui lui reproche d’avoir manqué à cette",
       "publishedAt": "2026-10-09T13:16:19+00:00",
       "discoveredAt": "2026-10-09T16:26:19.053260+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "9 octobre 15h16 Harcèlement moral : le salarié a 2 ans pour agir en manquement de l’employeur à son obligation de prévention Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/harcelement-moral-le-salarie-a-2-ans-pour-agir-en-manquement-de-l-employeur-a-son-obligation-de-prevention-1f801a82-10b4-8420-bac5-6f1b8e78db62",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’employeur a une obligation de prévention des agissements de harcèlement moral. Le salarié qui lui reproche d’avoir manqué à cette",
+      "publishedAt": "2026-10-09T13:16:19+00:00",
+      "discoveredAt": "2026-10-09T21:49:22.066799+00:00",
       "topics": []
     },
     {
@@ -5576,11 +5587,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
