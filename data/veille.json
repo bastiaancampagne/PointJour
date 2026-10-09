@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-08T21:27:30.075577+00:00",
+  "generated_at": "2026-10-09T02:22:14.611635+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Actualité - 60 % des œufs de poulaillers amateurs sont contaminés aux PFAS",
+      "url": "https://www.quechoisir.org/actualite-60-des-oeufs-de-poulaillers-amateurs-sont-contamines-aux-pfas-n178670/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "La cellule investigation de Radio France et le réseau Ici ont fait tester 91 œufs prélevés en différents points de l’Hexagone. Les résultats sont édifiants : 52 œufs contiennent des PFAS (substances per- et polyfluoroalkylées), 23 dépassent le seuil maximal autorisé, dont deux présentent des taux extrêmement élevés.",
+      "publishedAt": "2026-10-09T01:30:00+00:00",
+      "discoveredAt": "2026-10-09T02:21:36.214885+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
