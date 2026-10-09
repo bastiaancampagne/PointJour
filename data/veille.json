@@ -1,6 +1,105 @@
 {
-  "generated_at": "2026-10-09T02:22:14.611635+00:00",
+  "generated_at": "2026-10-09T09:23:38.931244+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "Les travailleurs indépendants ne peuvent pas payer l’Urssaf par carte bancaire au-delà de 1 000 euros",
+      "url": "https://entreprendre.service-public.gouv.fr/actualites/A19090",
+      "source": "Service-Public Pro",
+      "sourceKind": "OFFICIEL",
+      "summary": "Le règlement de cotisations sociales ou d’une dette par carte bancaire est limité aux montants inférieurs à 1 000 €.",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-09T09:21:37.175232+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-09T07:24:20+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "9 octobre 09h00 Le PLFSS 2027 réécrit l’article sur l’assujettissement au forfait social sans changement majeur sur le fond Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-plfss-2027-reecrit-l-article-sur-l-assujettissement-au-forfait-social-sans-changement-majeur-sur-le-fond",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 propose une réécriture de l’article du code de la sécurité",
+      "publishedAt": "2026-10-09T07:00:00+00:00",
+      "discoveredAt": "2026-10-09T09:22:19.212669+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "L'ingrédient secret à ajouter dans vos gâteaux au chocolat pour diviser leur index glycémique par 2",
+      "url": "https://www.750g.com/l-ingredient-secret-a-ajouter-dans-vos-gateaux-au-chocolat-pour-diviser-leur-index-glycemique-par-2-a44671.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Et si vous pouviez savourer une part de fondant sans subir le redoutable coup de fatigue d'après-goûter ? En glissant un aliment végétal inattendu au cœur de votre pâte, il devient possible de réduire drastiquement l'indice glycémique de votre desse1",
+      "publishedAt": "2026-10-09T06:05:00+00:00",
+      "discoveredAt": "2026-10-09T09:23:15.674057+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Reclassement : l’obligation que les employeurs sous‑estiment encore trop souvent !",
+      "url": "https://www.legisocial.fr/actualites-sociales/8131-reclassement-obligation-employeurs-estiment.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le reclassement n’est pas une formalité. C’est une obligation légale préalable à certains licenciements, strictement contrôlée par les juges. Et les juges rappellent régulièrement que l’employeur doit être actif, loyal et exhaustif dans sa recherche.",
+      "publishedAt": "2026-10-09T04:00:00+00:00",
+      "discoveredAt": "2026-10-09T09:22:15.631664+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Plafond de la sécurité sociale 2027 : un montant provisoire de 4 075 euros",
+      "url": "https://www.legisocial.fr/actualites-sociales/8171-plafond-securite-sociale-2027-montant-provisoire-4-075-euros.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le rapport provisoire de la CCSS envisage une hausse de 1,7 % du plafond de la sécurité sociale en 2027. Celui-ci pourrait atteindre 4 075 € par mois, sous réserve de sa confirmation par arrêté.",
+      "publishedAt": "2026-10-09T04:00:00+00:00",
+      "discoveredAt": "2026-10-09T09:22:15.631801+00:00",
+      "topics": [
+        "PMSS"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Intéressement et participation : optimisez votre politique de rémunération collective tout en respectant vos obligations",
+      "url": "https://www.legisocial.fr/actualites-sociales/8117-interessement-participation-optimisez-politique-remuneration-collective-respectant-obligations.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Comment faire de l'épargne salariale un levier d'optimisation de votre politique de rémunération ?",
+      "publishedAt": "2026-10-09T04:00:00+00:00",
+      "discoveredAt": "2026-10-09T09:22:15.631925+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Salarié protégé : le transfert tripartite nécessite une autorisation préalable",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1695-salarie-protege-transfert-tripartite-necessite-autorisation-prealable.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un arrêt du 7 octobre 2026, la Cour de cassation rappelle que le transfert d’un salarié protégé par convention tripartite nécessite l’autorisation préalable de l’inspection du travail. L’accord du salarié ne dispense pas l’employeur de cette démarche. Pour les services RH et paie, une mobilité entre sociétés d’un même groupe doit donc être sécurisée avant le changement d’employeur.",
+      "publishedAt": "2026-10-09T04:00:00+00:00",
+      "discoveredAt": "2026-10-09T09:22:15.632104+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Actualité - 60 % des œufs de poulaillers amateurs sont contaminés aux PFAS",
@@ -11,20 +110,6 @@
       "publishedAt": "2026-10-09T01:30:00+00:00",
       "discoveredAt": "2026-10-09T02:21:36.214885+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-08T18:24:04+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Auto",
@@ -82,7 +167,7 @@
       "url": "https://www.largus.fr/actualite-automobile/technologie-les-essuie-glaces-electriques-ont-100-ans-40011733.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "Inventé en 1903 aux USA par Mary Anderson, l’essuie-glace pour automobile, d’abord manuel, ne s’est pas tout de suite imposé aux constructeurs. Mais l’arrivée d’un système électrique imaginé par l’équipementier allemand Bosch a permis d’accélérer le mouvement. C’était en 1926… il y a 100 ans.",
+      "summary": "Inventé en 1903 aux USA par Mary Anderson, l’essuie-glace pour automobile, d’abord manuel, ne s’est pas tout de suite imposé aux constructeurs. Mais l’arrivée d’un système électrique imaginé par l’équipementier allemand Bosch a permis d’accélérer le mouvement. C’était en 1926… il y a cent ans.",
       "publishedAt": "2026-10-08T15:32:00+00:00",
       "discoveredAt": "2026-10-08T15:46:39.558936+00:00",
       "topics": [
@@ -158,6 +243,19 @@
       "summary": "Le projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 prévoit d’abroger le dispositif du « malus seniors » sur les",
       "publishedAt": "2026-10-08T08:42:03+00:00",
       "discoveredAt": "2026-10-08T15:46:23.791256+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "8 octobre 10h42 PLFSS 2027 : le « malus seniors » sur les cotisations patronales d’assurance vieillesse serait abandonné, sans avoir vu le jour Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/plfss-2027-le-malus-seniors-sur-les-cotisations-patronales-d-assurance-vieillesse-serait-abandonne-sans-avoir-vu-le-jour-180a9886-1090-86a4-9495-8bb52b2a6dbc",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le projet de loi de financement de la sécurité sociale (PLFSS) pour 2027 prévoit d’abroger le dispositif du « malus seniors » sur les",
+      "publishedAt": "2026-10-08T08:42:03+00:00",
+      "discoveredAt": "2026-10-09T09:22:23.238688+00:00",
       "topics": [
         "Cotisations"
       ]
@@ -5349,6 +5447,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
