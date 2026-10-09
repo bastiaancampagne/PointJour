@@ -1,6 +1,103 @@
 {
-  "generated_at": "2026-10-09T09:23:38.931244+00:00",
+  "generated_at": "2026-10-09T16:27:27.164245+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Quelles évolutions pour la prime carburant jusqu’à fin 2026 ?",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18926",
+      "source": "Service-Public",
+      "sourceKind": "OFFICIEL",
+      "summary": "Afin de soutenir les dépenses des salariés en carburant, le montant maximum de la prime carburant passe à 1 000 € par an jusqu’à fin 2026.",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-09T16:26:33.426281+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Ces cookies ultra gourmands et allégés en sucre se préparent avec seulement trois ingrédients",
+      "url": "https://www.750g.com/ces-cookies-ultra-gourmands-et-alleges-en-sucre-se-preparent-avec-seulement-trois-ingredients-a44698.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Des cookies sans beurre, ni sucre, mais néanmoins gourmands et délicieux ? Impossible me direz-vous... Et bien voici la preuve que si !",
+      "publishedAt": "2026-10-09T16:00:00+00:00",
+      "discoveredAt": "2026-10-09T16:27:10.762243+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-09T15:24:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Epoqu’auto 2026 : gagnez votre invitation grâce à notre jeu-concours",
+      "url": "https://www.largus.fr/actualite-automobile/epoquauto-2026-gagnez-votre-invitation-grace-a-notre-jeu-concours-40011837.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "À l’occasion de la 47e édition du Salon Epoqu’auto, L’argus vous offre votre billet d’entrée ! Pour gagner votre invitation pour le grand Salon lyonnais dédié à l’automobile ancienne, il vous suffit de répondre correctement à trois questions ! À vous de jouer…",
+      "publishedAt": "2026-10-09T15:00:00+00:00",
+      "discoveredAt": "2026-10-09T16:26:38.520067+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Xpeng L03 Performance Ultra (2026). Un SUV pour technophiles",
+      "url": "https://www.largus.fr/actualite-automobile/essai-xpeng-l03-performance-ultra-2026-un-suv-pour-technophiles-40011009.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Avec le L03, la jeune marque Xpeng descend en gamme tout en conservant l’identité qu’elle s’est déjà forgée sur la technologie. Ce nouveau SUV fastback électrique de 4,65 m mise avant tout sur ses tarifs, son équipement et sa recharge efficace, malgré une architecture électrique en 400 V.",
+      "publishedAt": "2026-10-09T14:48:00+00:00",
+      "discoveredAt": "2026-10-09T16:26:38.520212+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "9 octobre 15h16 Harcèlement moral : le salarié a 2 ans pour agir en manquement de l’employeur à son obligation de prévention Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/harcelement-moral-le-salarie-a-2-ans-pour-agir-en-manquement-de-l-employeur-a-son-obligation-de-prevention-16020a12-9401-8480-9a85-f579569c9568",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’employeur a une obligation de prévention des agissements de harcèlement moral. Le salarié qui lui reproche d’avoir manqué à cette",
+      "publishedAt": "2026-10-09T13:16:19+00:00",
+      "discoveredAt": "2026-10-09T16:26:19.053260+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Enchères. R5 peu kilométrée, sportives oubliées et pistardes de prestige à Bruxelles ce 10 octobre",
+      "url": "https://www.largus.fr/actualite-automobile/encheres-r5-peu-kilometree-sportives-oubliees-et-pistardes-de-prestige-a-bruxelles-ce-10-octobre-40011851.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "La vente aux enchères Aguttes qui se tiendra ce 10 octobre 2026 au musée Autoworld de Bruxelles, en Belgique, regorgera de pépites. D’une Porsche 906 restaurée à une Mercedes convertie en pick-up pour Fangio en passant par une Supercinq affichant 43 000 km, en voici quelques-unes.",
+      "publishedAt": "2026-10-09T12:52:00+00:00",
+      "discoveredAt": "2026-10-09T16:26:38.520345+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu étudiant du 12 au 16 octobre",
+      "url": "https://www.cuisineaz.com/diaporamas/menu-pas-cher-special-recettes-etudiantes-les-ingredients-pour-la-semaine-du-12-au-16-octobre-2026-8966/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-10-09T11:30:09.770000+00:00",
+      "discoveredAt": "2026-10-09T16:27:27.128955+00:00",
+      "topics": []
+    },
     {
       "theme": "Paie",
       "title": "Les travailleurs indépendants ne peuvent pas payer l’Urssaf par carte bancaire au-delà de 1 000 euros",
@@ -15,18 +112,28 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-09T07:24:20+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "theme": "Paie",
+      "title": "9 octobre 11h09 En cas de licenciement économique, le juge doit s’assurer que la baisse de chiffre d’affaires est bien significative Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/en-cas-de-licenciement-economique-le-juge-doit-s-assurer-que-la-baisse-de-chiffre-d-affaires-est-bien-significative",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "En cas de licenciement économique fondé sur la baisse du chiffre d’affaires, il appartient aux juges d’apprécier si cette chute est",
+      "publishedAt": "2026-10-09T09:09:50+00:00",
+      "discoveredAt": "2026-10-09T16:26:21.017939+00:00",
       "topics": [
-        "Achat",
-        "Carburant"
+        "Ruptures"
       ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking du midi",
+      "url": "https://www.cuisineaz.com/diaporamas/batch-cooking-10-recettes-du-midi-faciles-pour-la-semaine-du-12-au-16-octobre-2026-8888/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-10-09T07:20:10.040000+00:00",
+      "discoveredAt": "2026-10-09T16:27:25.275433+00:00",
+      "topics": []
     },
     {
       "theme": "Paie",
@@ -98,6 +205,17 @@
       "summary": "Dans un arrêt du 7 octobre 2026, la Cour de cassation rappelle que le transfert d’un salarié protégé par convention tripartite nécessite l’autorisation préalable de l’inspection du travail. L’accord du salarié ne dispense pas l’employeur de cette démarche. Pour les services RH et paie, une mobilité entre sociétés d’un même groupe doit donc être sécurisée avant le changement d’employeur.",
       "publishedAt": "2026-10-09T04:00:00+00:00",
       "discoveredAt": "2026-10-09T09:22:15.632104+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking du soir",
+      "url": "https://www.cuisineaz.com/diaporamas/menu-batch-cooking-du-12-au-16-octobre-2026-10-recettes-du-soir-a-faire-en-1-h-seulement-8970/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-10-09T03:00:04.970000+00:00",
+      "discoveredAt": "2026-10-09T16:27:25.872326+00:00",
       "topics": []
     },
     {
@@ -415,6 +533,17 @@
       "topics": [
         "Achat"
       ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking Thermomix",
+      "url": "https://www.cuisineaz.com/diaporamas/batch-cooking-10-recettes-du-soir-a-faire-au-thermomix-pour-la-semaine-du-12-au-16-octobre-2026-8886/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-10-07T12:00:04.380000+00:00",
+      "discoveredAt": "2026-10-09T16:27:26.476044+00:00",
+      "topics": []
     },
     {
       "theme": "Paie",
