@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T08:44:12.752481+00:00",
+  "generated_at": "2026-10-10T15:31:52.189073+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,11 +8,24 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-10T07:24:23+00:00",
+      "publishedAt": "2026-10-10T15:24:09+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Petits pains express à la poêle avec seulement 2 ingrédients et prêts en 10 minutes pour le dimanche matin",
+      "url": "https://www.750g.com/petits-pains-express-a-la-poele-avec-seulement-2-ingredients-et-prets-en-10-minutes-pour-le-dimanche-matin-a44677.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez comment préparer de délicieux petits pains maison cuits à la poêle en un temps record pour régaler toute la famille.",
+      "publishedAt": "2026-10-10T10:00:00+00:00",
+      "discoveredAt": "2026-10-10T15:31:38.092522+00:00",
+      "topics": [
+        "Rapide"
       ]
     },
     {
@@ -5600,11 +5613,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
