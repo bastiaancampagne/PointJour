@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T01:53:19.005322+00:00",
+  "generated_at": "2026-10-10T08:44:12.752481+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,10 +8,23 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-09T18:23:59+00:00",
+      "publishedAt": "2026-10-10T07:24:23+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai longue distance Jaecoo 7 hybride : notre verdict après 1 500 km",
+      "url": "https://www.largus.fr/actualite-automobile/essai-longue-distance-jaecoo-7-hybride-notre-verdict-apres-1-500-km-40011487.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Rien de mieux qu’un périple pour repérer les qualités et défauts d’un véhicule et mesurer sa consommation réelle. Comment le SUV familial Jaecoo 7 en version hybride de 224 ch se sort-il de cette épreuve ? Nos réponses, à l’heure où la marque chinoise fait une percée tonitruante en France.",
+      "publishedAt": "2026-10-10T06:10:00+00:00",
+      "discoveredAt": "2026-10-10T08:43:19.916887+00:00",
+      "topics": [
         "Carburant"
       ]
     },
@@ -5587,6 +5600,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
