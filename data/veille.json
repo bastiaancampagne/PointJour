@@ -1,6 +1,82 @@
 {
-  "generated_at": "2026-10-11T13:12:02.311777+00:00",
+  "generated_at": "2026-10-11T18:14:09.407300+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Citroën 2 CV Concept (2026). A bord (ou presque) de la future citadine électrique rétro à 15 000 €",
+      "url": "https://www.largus.fr/actualite-automobile/citroen-2-cv-concept-2026-a-bord-ou-presque-de-la-future-citadine-electrique-retro-a-15-000-e-40010840.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Juste avant sa présentation au Mondial de Paris 2026 du 12 au 18 octobre, L’argus a pu approcher la Citroën 2 CV Concept. Celle-ci annonce le retour de la plus célèbre auto des chevrons à travers une nouvelle génération 100 % électrique qui sera proposée fin 2028 dès 15 000 €. Revue de détail.",
+      "publishedAt": "2026-10-11T17:00:00+00:00",
+      "discoveredAt": "2026-10-11T18:13:28.581950+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Peugeot RCZ Vision (2026). Le coupé au lion renaît à travers un concept technologique",
+      "url": "https://www.largus.fr/actualite-automobile/peugeot-rcz-vision-2026-le-coupe-au-lion-renait-a-travers-un-concept-technologique-40011974.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Peugeot lève le voile sur le RCZ Vision, un concept de GT électrique qui revisite le coupé RCZ ayant tiré sa révérence fin 2015. Avec son design affûté et ses technologies de pointe au service de la conduite et de la charge ultra-rapide, il constitue un laboratoire de choix pour la marque tricolore.",
+      "publishedAt": "2026-10-11T17:00:00+00:00",
+      "discoveredAt": "2026-10-11T18:13:28.582152+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Peugeot E-T16 Concept (2026). Un show-car radical en hommage à la mythique 205 T16",
+      "url": "https://www.largus.fr/actualite-automobile/peugeot-e-t16-concept-2026-un-show-car-radical-en-hommage-a-la-mythique-205-t16-40011104.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Peugeot dévoile l'E-T16 Concept, réinterprétation moderne de la mythique 205 T16 double championne du monde des rallyes dans les années 1980. L’argus vous propose de découvrir ce show-car électrique spectaculaire de plus de 800 ch qui sera l'une des attractions du stand de la marque au lion au Mondial de Paris 2026.",
+      "publishedAt": "2026-10-11T17:00:00+00:00",
+      "discoveredAt": "2026-10-11T18:13:28.582326+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Alfa Romeo Cuorerosso (2026). Un concept de berline sportive pour renaître à Paris",
+      "url": "https://www.largus.fr/actualite-automobile/alfa-romeo-cuorerosso-2026-un-concept-de-berline-sportive-pour-renaitre-a-paris-40012223.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Alfa Romeo présente pour le Mondial de Paris 2026 le concept Cuorerosso, une berline sportive hybride annonçant le style et l’offre mécanique de ses prochains modèles. Avec elle, le constructeur premium italien fait entrer ses fondamentaux dans une nouvelle ère.",
+      "publishedAt": "2026-10-11T17:00:00+00:00",
+      "discoveredAt": "2026-10-11T18:13:28.582489+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Fiat Multiplay (2026). Le retour du Multipla en version 3-en-1",
+      "url": "https://www.largus.fr/actualite-automobile/fiat-multiplay-2026-le-retour-du-multipla-en-version-3-en-1-40012331.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Fiat profite du Mondial de l’auto (du 12 au 18 octobre 2026) pour dévoiler le Multiplay. Mélange de monospace, de SUV et de pick-up, cette vision moderne du Multipla est présentée comme un laboratoire d’idées et non comme un futur modèle de série. Dommage ?",
+      "publishedAt": "2026-10-11T17:00:00+00:00",
+      "discoveredAt": "2026-10-11T18:13:28.582635+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "DS F3ver concept (2026). Premier contact avec la future compacte DS N°3",
+      "url": "https://www.largus.fr/actualite-automobile/ds-f3ver-concept-2026-premier-contact-avec-la-future-compacte-ds-n3-40010451.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Avant sa révélation au Mondial de Paris, L’argus vous présente le concept DS F3ver. Cette grande citadine électrique annonce la future N°3 qui remplacera l'actuel SUV DS 3. La marque reviendra à une carrosserie qui lui avait réussi, tout en renouvelant son style. La DS N°3 est attendue fin 2028 autour de 30 000 €.",
+      "publishedAt": "2026-10-11T17:00:00+00:00",
+      "discoveredAt": "2026-10-11T18:13:28.582791+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -8,11 +84,24 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-11T12:23:54+00:00",
+      "publishedAt": "2026-10-11T15:23:56+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Oubliez la carbonara : ces pâtes crémeuses au pesto et à la burrata sont le plat réconfortant ultime",
+      "url": "https://www.750g.com/oubliez-la-carbonara-ces-pates-cremeuses-au-pesto-et-a-la-burrata-sont-le-plat-reconfortant-ultime-a44688.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Besoin d'un repas gourmand pour décompresser après le travail ? Découvrez cette recette de pâtes ultra-crémeuses qui associe la fraîcheur de la burrata au croquant du lard grillé. Un plat express et décadent.",
+      "publishedAt": "2026-10-11T15:00:00+00:00",
+      "discoveredAt": "2026-10-11T18:13:53.966992+00:00",
+      "topics": [
+        "Rapide"
       ]
     },
     {
@@ -5637,6 +5726,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
