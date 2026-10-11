@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-10-11T06:05:28.903813+00:00",
+  "generated_at": "2026-10-11T13:12:02.311777+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-11T12:23:54+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Ce chef est formel : ce simple ingrédient sauve instantanément une sauce beaucoup trop salée",
+      "url": "https://www.750g.com/ce-chef-est-formel-ce-simple-ingredient-sauve-instantanement-une-sauce-beaucoup-trop-salee-a44679.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Qui n'a jamais eu la main un peu trop lourde sur le sel en cuisinant ? Cela arrive malheureusement fréquemment, mais ça ne signifie pas forcément que vous devez jeter tout ce que vous aviez préparé. Le chef Thibaut Spiwack vous explique comment ratt1",
+      "publishedAt": "2026-10-11T10:00:00+00:00",
+      "discoveredAt": "2026-10-11T13:11:37.838390+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Actualité - Hyundai Ioniq 3 - Premières impressions",
@@ -11,20 +36,6 @@
       "publishedAt": "2026-10-11T01:00:00+00:00",
       "discoveredAt": "2026-10-11T06:04:30.560400+00:00",
       "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-10T18:24:01+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
         "Carburant"
       ]
     },
