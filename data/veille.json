@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-10-12T01:29:44.233343+00:00",
+  "generated_at": "2026-10-12T09:30:32.279686+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "Congé parental : pouvez-vous refuser la demande de votre salarié ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/conge-parental-pouvez-vous-refuser-la-demande-de-votre-salarie",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-12T08:17:00+00:00",
+      "discoveredAt": "2026-10-12T09:29:21.465125+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "12 octobre 10h00 Le PLFSS 2027 propose de pérenniser la réduction de cotisations patronales « sapeurs-pompiers volontaires » Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-plfss-2027-propose-de-perenniser-la-reduction-de-cotisations-patronales-sapeurs-pompiers-volontaires",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Présenté en conseil des ministres le 1er octobre 2026, le projet de loi de financement de la sécurité sociale pour 2027 prévoit de",
+      "publishedAt": "2026-10-12T08:00:00+00:00",
+      "discoveredAt": "2026-10-12T09:29:12.563236+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Smart #2 (2026). La reine des villes est de retour !",
+      "url": "https://www.largus.fr/actualite-automobile/smart-2-2026-la-reine-des-villes-est-de-retour-40011004.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Plus de deux ans après la fin de sa commercialisation, la (vraie) Smart des villes fait son retour sous le nom de #2. Cette quatrième génération exclusivement électrique reprend les atouts qui ont forgé la renommée de ce modèle, écoulé à environ 1,5 million d’exemplaires depuis ses débuts en 1997.",
+      "publishedAt": "2026-10-12T07:30:00+00:00",
+      "discoveredAt": "2026-10-12T09:29:29.385993+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -8,10 +45,84 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-11T18:23:47+00:00",
+      "publishedAt": "2026-10-12T07:23:54+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Renault E-Space Concept (2026). Le monospace électrique du futur inspiré de l’Espace",
+      "url": "https://www.largus.fr/actualite-automobile/renault-e-space-concept-2026-le-monospace-electrique-du-futur-inspire-de-lespace-40012268.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Renault présente officiellement son E-Space Concept au Mondial de Paris 2026 (12-18 octobre). Ce show-car électrique au style futuriste réinvente l’Espace, repousse les limites de la modularité et inaugure des technologies inédites au service du conducteur et de ses passagers.",
+      "publishedAt": "2026-10-12T06:30:00+00:00",
+      "discoveredAt": "2026-10-12T09:29:29.386295+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Quelles sont les démarches de l’employeur concernant le congé de paternité et le congé supplémentaire de naissance ?",
+      "url": "https://www.legisocial.fr/temps-travail-conges-absences/conges-speciaux-familiaux/demarches-employeur-concernant-conge-paternite-conge-supplementaire-naissance.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "À l’occasion de la naissance ou de l’arrivée d’un enfant, l’employeur doit accomplir plusieurs démarches afin de permettre au salarié de bénéficier de ses congés dans les conditions prévues par la réglementation. Ces démarches nécessitent une attention particulière en paie et en gestion administrative, notamment concernant l’attestation de salaire et la déclaration des périodes de congé.",
+      "publishedAt": "2026-10-12T06:00:00+00:00",
+      "discoveredAt": "2026-10-12T09:29:08.784428+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Licenciement économique : la baisse du chiffre d’affaires ne suffit pas toujours à prouver les difficultés économiques",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/licenciement-economique-la-baisse-du-chiffre-daffaires-ne-suffit-pas-toujours-a-prouver-les-difficultes-economiques",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-12T06:00:00+00:00",
+      "discoveredAt": "2026-10-12T09:29:21.465271+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Net-entreprises : un nouvel espace connecté",
+      "url": "https://www.legisocial.fr/actualites-sociales/8173-net-entreprises-nouvel-espace-connecte.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Depuis le 29 septembre 2026, Net-entreprises propose un nouvel accueil centralisant l’accès aux services déclaratifs. Une prochaine étape est annoncée le 21 octobre pour réunir le menu personnalisé et le tableau de bord DSN.",
+      "publishedAt": "2026-10-12T04:00:00+00:00",
+      "discoveredAt": "2026-10-12T09:29:08.784659+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Le règlement intérieur : un instrument juridique essentiel pour sécuriser l’entreprise",
+      "url": "https://www.legisocial.fr/actualites-sociales/8132-reglement-interieur-instrument-juridique-essentiel-securiser-entreprise.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le règlement intérieur est obligatoire dans les entreprises ou établissements employant au moins 50 salariés. Il doit comporter certaines clauses obligatoires. D'autres sont interdites.",
+      "publishedAt": "2026-10-12T04:00:00+00:00",
+      "discoveredAt": "2026-10-12T09:29:08.784874+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Future Citroën 2CV (2028). Et si la Deudeuche revenait aussi en version Fourgonnette ?",
+      "url": "https://www.largus.fr/actualite-automobile/future-citroen-2cv-2028-et-si-la-deudeuche-revenait-aussi-en-version-fourgonnette-40012013.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Scoop L'argus. Citroën n’exclut pas de proposer une version Fourgonnette de la future 2CV électrique prévue pour 2028. À partir de la 2 CV Concept du Mondial de Paris 2026 et d’esquisses des designers de la marque, nous avons imaginé à quoi elle pourrait ressembler.",
+      "publishedAt": "2026-10-12T03:57:00+00:00",
+      "discoveredAt": "2026-10-12T09:29:29.386494+00:00",
+      "topics": [
         "Carburant"
       ]
     },
@@ -232,7 +343,7 @@
       "url": "https://www.largus.fr/actualite-automobile/encheres-r5-peu-kilometree-sportives-oubliees-et-pistardes-de-prestige-a-bruxelles-ce-10-octobre-40011851.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "La vente aux enchères Aguttes qui se tiendra ce 10 octobre 2026 au musée Autoworld de Bruxelles, en Belgique, regorgera de pépites. D’une Porsche 906 restaurée à une Mercedes convertie en pick-up pour Fangio en passant par une Supercinq affichant 43 000 km, en voici quelques-unes.",
+      "summary": "La vente aux enchères Aguttes, qui se tiendra ce 10 octobre 2026 au musée Autoworld de Bruxelles, en Belgique, regorgera de pépites. D’une Porsche 906 restaurée à une Mercedes convertie en pick-up pour Fangio en passant par une Supercinq affichant 43 000 km, en voici quelques-unes.",
       "publishedAt": "2026-10-09T12:52:00+00:00",
       "discoveredAt": "2026-10-09T16:26:38.520345+00:00",
       "topics": []
@@ -5726,6 +5837,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
