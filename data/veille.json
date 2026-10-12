@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-10-12T09:30:32.279686+00:00",
+  "generated_at": "2026-10-12T19:56:43.255830+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "Versement trimestriel de la taxe sur les salaires : prochaine échéance au 15 octobre",
+      "url": "https://entreprendre.service-public.gouv.fr/actualites/A17480",
+      "source": "Service-Public Pro",
+      "sourceKind": "OFFICIEL",
+      "summary": "Les entreprises ayant payé entre 4 000 € et 10 000 € de taxe sur les salaires en 2025 doivent effectuer le versement trimestriel de la taxe avant le 15 octobre",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-12T19:54:50.265971+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "L'incroyable recette express de Laurent Mariotte se prépare avec seulement 3 petits ingrédients",
+      "url": "https://www.750g.com/l-incroyable-recette-express-de-laurent-mariotte-se-prepare-avec-seulement-3-petits-ingredients-a44705.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Pas envie ni le temps de passer des heures en cuisine ce soir ? Cette recette de crêpes d'un nouveau genre signée Laurent Mariotte tombe à pic !",
+      "publishedAt": "2026-10-12T15:30:00+00:00",
+      "discoveredAt": "2026-10-12T19:56:20.635013+00:00",
+      "topics": [
+        "Rapide"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Hyundai Bayon (2027). Nouveau look pour une nouvelle vie ?",
+      "url": "https://www.largus.fr/actualite-automobile/hyundai-bayon-2027-nouveau-look-pour-une-nouvelle-vie-40011664.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Dans l’ombre des Kona et Tucson, le petit SUV Bayon mène une carrière en demi-teinte face aux ténors de la catégorie. La deuxième génération prend du muscle, se fait plus accueillante, plus raffinée, et se dote enfin d’un moteur hybride. La métamorphose du vilain petit canard ?",
+      "publishedAt": "2026-10-12T13:20:00+00:00",
+      "discoveredAt": "2026-10-12T19:55:48.851577+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "12 octobre 11h22 Un salarié qui obtient la nullité de son licenciement en raison d'un harcèlement moral peut-il être réintégré alors qu’il a fait valoir ses droits à la retraite ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/un-salarie-qui-obtient-la-nullite-de-son-licenciement-en-raison-d-un-harcelement-moral-peut-il-etre-reintegre-alors-qu-il-a-fait-valoir-ses-droits-a-la-retraite-1b800a06-9091-8420-bcc4-1604b74b6bf3",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le licenciement d'un salarié en raison d'un harcèlement moral est nul. L'intéress\" peut alors demander sa réintégration et a droit,",
+      "publishedAt": "2026-10-12T09:22:50+00:00",
+      "discoveredAt": "2026-10-12T19:55:34.231742+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
     {
       "theme": "Paie",
       "title": "Congé parental : pouvez-vous refuser la demande de votre salarié ?",
@@ -21,6 +71,19 @@
       "summary": "Présenté en conseil des ministres le 1er octobre 2026, le projet de loi de financement de la sécurité sociale pour 2027 prévoit de",
       "publishedAt": "2026-10-12T08:00:00+00:00",
       "discoveredAt": "2026-10-12T09:29:12.563236+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "12 octobre 10h00 Le PLFSS 2027 propose de pérenniser la réduction de cotisations patronales « sapeurs-pompiers volontaires » Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-plfss-2027-propose-de-perenniser-la-reduction-de-cotisations-patronales-sapeurs-pompiers-volontaires-1a408a14-90b4-8401-9a84-e8e932c720e2",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Présenté en conseil des ministres le 1er octobre 2026, le projet de loi de financement de la sécurité sociale pour 2027 prévoit de",
+      "publishedAt": "2026-10-12T08:00:00+00:00",
+      "discoveredAt": "2026-10-12T19:55:36.804106+00:00",
       "topics": [
         "Cotisations"
       ]
