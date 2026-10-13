@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T19:56:43.255830+00:00",
+  "generated_at": "2026-10-13T02:11:02.602536+00:00",
   "items": [
     {
       "theme": "Paie",
@@ -11,6 +11,20 @@
       "publishedAt": null,
       "discoveredAt": "2026-10-12T19:54:50.265971+00:00",
       "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-12T18:23:49+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
     },
     {
       "theme": "Cuisine",
@@ -36,6 +50,20 @@
       "discoveredAt": "2026-10-12T19:55:48.851577+00:00",
       "topics": [
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Congés payés acquis pendant un arrêt maladie et point de départ de la prescription triennale",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1696-conges-payes-acquis-arret-maladie-point-depart-prescription-triennale.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le délai de prescription triennale pour l’action en paiement d’une indemnité compensatrice de congés payés court à compter de la rupture du contrat, et non de l’établissement du solde de tout compte.",
+      "publishedAt": "2026-10-12T10:00:00+00:00",
+      "discoveredAt": "2026-10-13T02:09:54.935642+00:00",
+      "topics": [
+        "IJSS",
+        "Congés"
       ]
     },
     {
@@ -98,20 +126,6 @@
       "publishedAt": "2026-10-12T07:30:00+00:00",
       "discoveredAt": "2026-10-12T09:29:29.385993+00:00",
       "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-12T07:23:54+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
         "Carburant"
       ]
     },
