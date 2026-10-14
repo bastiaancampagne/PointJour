@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-10-14T02:03:53.249264+00:00",
+  "generated_at": "2026-10-14T07:51:39.963705+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-14T07:24:19+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Projet de réforme des titres restaurant : vers une pérennisation de leur utilisation et de nouveaux droits pour les salariés",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/projet-de-reforme-des-titres-restaurant-vers-une-perennisation-de-leur-utilisation-et-de-nouveaux-droits-pour-les-salaries",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-14T05:30:00+00:00",
+      "discoveredAt": "2026-10-14T07:50:44.117373+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Aménagement du temps de travail et arrêt maladie : la Cour de cassation fixe une méthode de calcul des heures supplémentaires en trois étapes",
+      "url": "https://www.legisocial.fr/actualites-sociales/8166-amenagement-temps-travail-arret-maladie-cour-cassation-fixe-methode-calcul-heures-supplementaires-trois-etapes.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L'articulation entre l'arrêt maladie et l'aménagement du temps de travail sur l'année constitue une question particulièrement sensible en droit du travail. Lorsqu'un salarié est absent pendant une période de forte activité dans le cadre d'une annualisation du temps de travail, comment déterminer le seuil à partir duquel les heures supplémentaires deviennent exigibles ?",
+      "publishedAt": "2026-10-14T04:00:00+00:00",
+      "discoveredAt": "2026-10-14T07:50:38.356344+00:00",
+      "topics": [
+        "IJSS",
+        "Heures supplémentaires"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Quand l’atteinte à la vie privée n’est pas constituée et que licenciement disciplinaire est justifié",
+      "url": "https://www.legisocial.fr/actualites-sociales/8165-atteinte-vie-privee-n-constituee-licenciement-disciplinaire-justifie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le droit au respect de la vie privée constitue une liberté fondamentale dont bénéficie le salarié, y compris au sein de l’entreprise. Toutefois, cette protection n’a pas vocation à faire obstacle à toute sanction disciplinaire lorsque les faits reprochés trouvent un écho dans la sphère professionnelle ou sont commis dans un contexte de travail.",
+      "publishedAt": "2026-10-14T04:00:00+00:00",
+      "discoveredAt": "2026-10-14T07:50:38.356677+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Taxe sur les salaires : un versement trimestriel à effectuer au 15 octobre 2026",
+      "url": "https://www.legisocial.fr/actualites-sociales/8185-taxe-salaires-versement-trimestriel-15-octobre-2026.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le 15 octobre 2026 marque la prochaine échéance trimestrielle de taxe sur les salaires. Les entreprises ayant payé entre 4 000 € et 10 000 € en 2025 doivent déposer leur relevé provisionnel et effectuer leur paiement en ligne.",
+      "publishedAt": "2026-10-14T04:00:00+00:00",
+      "discoveredAt": "2026-10-14T07:50:38.356891+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Le Parlement européen appelle à une meilleure protection de la santé mentale et physique des salariés",
+      "url": "https://www.legisocial.fr/actualites-sociales/8169-parlement-europeen-appelle-meilleure-protection-sante-mentale-physique-salaries.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les députés européens viennent d'émettre des recommandations en vue d'une nouvelle proposition de législation européenne afin de prévenir et réduire les risques psychosociaux et le stress lié au travail.",
+      "publishedAt": "2026-10-14T04:00:00+00:00",
+      "discoveredAt": "2026-10-14T07:50:38.357090+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Actualité - Tests de sécurité des voitures Euro NCAP 2026 : le retour des boutons physiques",
@@ -11,20 +85,6 @@
       "publishedAt": "2026-10-14T01:00:00+00:00",
       "discoveredAt": "2026-10-14T02:02:55.361638+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-13T18:24:04+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Cuisine",
@@ -6072,6 +6132,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
