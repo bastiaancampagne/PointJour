@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-10-14T07:51:39.963705+00:00",
+  "generated_at": "2026-10-14T13:55:00.624476+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Cadmium dans les engrais : abaissement des seuils autorisés à partir de 2027",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A19091",
+      "source": "Service-Public",
+      "sourceKind": "OFFICIEL",
+      "summary": "Cadmium : abaissement des seuils autorisés dans les engrais phosphatés à compter de 2027",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-14T13:53:59.564259+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Hyundai Ioniq 3 (2026). Faut-il craquer pour cette atypique citadine ?",
+      "url": "https://www.largus.fr/actualite-automobile/essai-hyundai-ioniq-3-2026-faut-il-craquer-pour-cette-originale-citadine-electrique-40012219.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "La gamme électrique de Hyundai s’élargit avec l’arrivée de cette inédite Ioniq 3, qui se positionne comme une grande citadine à l’autonomie WLTP généreuse (jusqu’à 500 km). Le style décalé rappelle que le coréen aime sortir des sentiers battus.",
+      "publishedAt": "2026-10-14T13:07:00+00:00",
+      "discoveredAt": "2026-10-14T13:54:04.717078+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Renault 4 E-Tech (2026). Autonomie en hausse, nouvelle version et série spéciale Roland-Garros",
+      "url": "https://www.largus.fr/actualite-automobile/renault-4-e-tech-2026-autonomie-en-hausse-nouvelle-version-et-serie-speciale-roland-garros-40012745.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "À l’occasion du Mondial de Paris 2026, la Renault 4 E-Tech fait évoluer son catalogue. Au programme : autonomie en hausse, finition d’accès inédite et introduction de la série spéciale Roland-Garros. Les commandes de la nouvelle gamme du SUV urbain sont ouvertes.",
+      "publishedAt": "2026-10-14T10:23:00+00:00",
+      "discoveredAt": "2026-10-14T13:54:04.717231+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -218,6 +255,20 @@
       "discoveredAt": "2026-10-13T17:42:46.668067+00:00",
       "topics": [
         "Pneus"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Brève - Prix du carburant - Comment se fixe le prix à la pompe",
+      "url": "https://www.quechoisir.org/decryptage-prix-du-carburant-comment-se-fixe-le-prix-a-la-pompe-n99776/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Les carburants routiers sont indispensables. Les Français s’en servent chaque jour pour se déplacer. Pour l’État, les produits pétroliers sont une manne fiscale dont il est incapable de se passer. Voici pourquoi.",
+      "publishedAt": "2026-10-13T01:00:00+00:00",
+      "discoveredAt": "2026-10-14T13:54:06.185081+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
       ]
     },
     {
@@ -475,11 +526,11 @@
     },
     {
       "theme": "Auto",
-      "title": "Fiat Multiplay (2026). Le retour du Multipla en version 3-en-1",
+      "title": "Fiat Multiplay (2026). Revue de détail de ce Multipla à la fois monospace, SUV et pick-up",
       "url": "https://www.largus.fr/actualite-automobile/fiat-multiplay-2026-le-retour-du-multipla-en-version-3-en-1-40012331.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "Fiat profite du Mondial de l’auto (du 12 au 18 octobre 2026) pour dévoiler le Multiplay. Mélange de monospace, de SUV et de pick-up, cette vision moderne du Multipla est présentée comme un laboratoire d’idées et non comme un futur modèle de série. Dommage ?",
+      "summary": "Fiat profite du Mondial de l’auto (du 12 au 18 octobre 2026) pour dévoiler le Multiplay. L'argus vous présente ce mélange de monospace, de SUV et de pick-up. Cette vision moderne du Multipla est présentée comme un laboratoire d’idées et non comme un futur modèle de série. Dommage ?",
       "publishedAt": "2026-10-11T17:00:00+00:00",
       "discoveredAt": "2026-10-11T18:13:28.582635+00:00",
       "topics": []
