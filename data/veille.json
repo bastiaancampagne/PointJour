@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-10-14T13:55:00.624476+00:00",
+  "generated_at": "2026-10-14T18:47:55.455485+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-14T18:24:06+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Retraites complémentaires Agirc-Arrco : une revalorisation de +1,4 % au 1er novembre 2026",
+      "url": "https://www.agirc-arrco.fr/nous-connaitre/nos-actualites/retraites-complementaires-agirc-arrco-une-revalorisation-de-14-au-1er-novembre-2026/",
+      "source": "Agirc-Arrco",
+      "sourceKind": "OFFICIEL",
+      "summary": "Chaque année, le Conseil d’administration de la fédération Agirc-Arrco décide du niveau de revalorisation des retraites complémentaires des salariés du secteur privé.",
+      "publishedAt": "2026-10-14T16:19:08+00:00",
+      "discoveredAt": "2026-10-14T18:46:36.979865+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Déjà 178 véhicules d’intervention percutés en 2026 : Vinci Autoroutes sensibilise le public du Mondial de l’auto",
+      "url": "https://www.largus.fr/actualite-automobile/deja-178-vehicules-dintervention-percutes-en-2026-vinci-autoroutes-sensibilise-le-public-au-mondial-de-lauto-40012590.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "En 2026, 178 véhicules d’intervention ont déjà été heurtés, dont 36 sur le seul réseau géré par Vinci Autoroutes. Cela représente près d'un véhicule patrouilleur accidenté par semaine. Présent au Mondial de l’auto 2026, l’opérateur entend sensibiliser le public au respect des corridors de sécurité.",
+      "publishedAt": "2026-10-14T15:19:00+00:00",
+      "discoveredAt": "2026-10-14T18:46:58.782999+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Citroën 2 CV Fourgonnette Concept (2026). L’utilitaire urbain, rétro et électrique à Paris",
+      "url": "https://www.largus.fr/actualite-automobile/citroen-2-cv-fourgonnette-concept-2026-lutilitaire-urbain-retro-et-electrique-a-paris-40012742.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Citroën expose une version Fourgonnette de la 2 CV Concept au Mondial de Paris 2026, préfigurant ce que pourrait être une version utilitaire de la future citadine électrique néo-rétro. Détails de design, contraintes d’un modèle de série… L’argus vous en dévoile les secrets.",
+      "publishedAt": "2026-10-14T14:18:00+00:00",
+      "discoveredAt": "2026-10-14T18:46:58.783134+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Cadmium dans les engrais : abaissement des seuils autorisés à partir de 2027",
@@ -36,20 +85,6 @@
       "discoveredAt": "2026-10-14T13:54:04.717231+00:00",
       "topics": [
         "Achat"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-14T07:24:19+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
@@ -6181,13 +6216,13 @@
     },
     {
       "theme": "Paie",
-      "source": "Assurance Maladie",
-      "error": "HTTP Error 403: Forbidden"
+      "source": "Ministère du Travail",
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
+      "theme": "Paie",
+      "source": "Assurance Maladie",
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "theme": "Auto",
