@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-15T07:38:38.132440+00:00",
+  "generated_at": "2026-10-15T13:36:05.262557+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Gâteau à la citrouille rapide",
+      "url": "https://www.750g.com/gateau-a-la-citrouille-r19417.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez la recette de Gâteau à la citrouille rapide à faire en 30 minutes. Détaillez les 600g de citrouille en petits morceaux, les placer dans un plat creux et ajouter une cuillère à soupe d'eau.Mettez au four à micro-onde pendant 15 à 20 mn afin de ramollir la citrouille. Dans un autre plat, mélangez le sucre et les 4 oeufs.Quand le mélang",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-15T13:35:51.204385+00:00",
+      "topics": [
+        "Desserts",
+        "Rapide",
+        "Four"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -8,8 +23,46 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-15T07:24:11+00:00",
+      "publishedAt": "2026-10-15T12:24:24+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Bison Futé. Les prévisions de trafic pour le premier week-end des vacances de la Toussaint",
+      "url": "https://www.largus.fr/actualite-automobile/bison-fute-les-previsions-de-trafic-pour-le-premier-week-end-des-vacances-de-la-toussaint-40013035.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le premier week-end des vacances de la Toussaint connaîtra une intensification du trafic dans toute la France, en particulier le vendredi 16 octobre. Voici ce qui vous attend si vous envisagez de prendre la route en cette fin de semaine chargée sur les routes.",
+      "publishedAt": "2026-10-15T11:57:00+00:00",
+      "discoveredAt": "2026-10-15T13:35:18.205857+00:00",
+      "topics": [
+        "Entretien"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "15 octobre 11h17 Titres-restaurant : l'Assemblée adopte la proposition de loi avec quelques nouveautés Social Paye",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/titres-restaurant-l-assemblee-adopte-la-proposition-de-loi-avec-quelques-nouveautes",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La proposition de loi visant à moderniser et rééquilibrer le fonctionnement du titre-restaurant a été adoptée en première lecture par",
+      "publishedAt": "2026-10-15T09:17:15+00:00",
+      "discoveredAt": "2026-10-15T13:35:09.627668+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Fiat Multiplina Concept (2026). On approche la voiturette électrique à 4 places à Paris",
+      "url": "https://www.largus.fr/actualite-automobile/fiat-multiplina-concept-2026-on-approche-la-voiturette-electrique-a-4-places-a-paris-40012958.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Au Mondial de Paris 2026, nous avons pu découvrir de plus près la Fiat Multiplina, voiturette électrique à quatre places utilisable dès 16 ans qui sera lancée début 2028. Cette concurrente du Dacia Hipster pourrait être accessible au prix de 10 000 €.",
+      "publishedAt": "2026-10-15T08:40:00+00:00",
+      "discoveredAt": "2026-10-15T13:35:18.206209+00:00",
       "topics": [
         "Achat",
         "Carburant"
@@ -21,7 +74,7 @@
       "url": "https://www.largus.fr/actualite-automobile/dacia-jogger-2026-arret-du-moteur-tce-110-de-la-finition-journey-et-nouveaux-equipements-de-serie-40012885.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "Le Dacia Jogger va faire évoluer son offre. Selon nos informations, le break va perdre son moteur TCe de 110 ch, la finition Journey ainsi que la version Essentiel 7 places. En parallèle, le degré Expression va gagner des équipements de série et accueillir la motorisation Eco-G en boîte auto.",
+      "summary": "Le Dacia Jogger va faire évoluer son offre. Selon nos informations, le break va perdre son moteur TCe de 110 ch, la finition Journey, ainsi que la version Essentiel 7 places. En parallèle, le degré Expression va gagner des équipements de série et accueillir la motorisation Eco-G en boîte auto.",
       "publishedAt": "2026-10-15T06:32:00+00:00",
       "discoveredAt": "2026-10-15T07:37:40.061336+00:00",
       "topics": []
@@ -597,11 +650,11 @@
     },
     {
       "theme": "Auto",
-      "title": "Alfa Romeo Cuorerosso (2026). Un concept de berline sportive pour renaître à Paris",
+      "title": "Alfa Romeo Cuorerosso (2026). Découverte du concept de berline sportive à Paris",
       "url": "https://www.largus.fr/actualite-automobile/alfa-romeo-cuorerosso-2026-un-concept-de-berline-sportive-pour-renaitre-a-paris-40012223.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "Alfa Romeo présente pour le Mondial de Paris 2026 le concept Cuorerosso, une berline sportive hybride annonçant le style et l’offre mécanique de ses prochains modèles. Avec elle, le constructeur premium italien fait entrer ses fondamentaux dans une nouvelle ère.",
+      "summary": "Alfa Romeo présente pour le Mondial de Paris 2026 le concept Cuorerosso, une berline sportive hybride annonçant le style et l’offre mécanique de ses prochains modèles. Avec lui, le constructeur premium italien fait entrer ses fondamentaux dans une nouvelle ère. L'argus fait le tour du propriétaire.",
       "publishedAt": "2026-10-11T17:00:00+00:00",
       "discoveredAt": "2026-10-11T18:13:28.582489+00:00",
       "topics": [
@@ -6251,11 +6304,6 @@
       "theme": "Paie",
       "source": "URSSAF",
       "error": "Remote end closed connection without response"
-    },
-    {
-      "theme": "Paie",
-      "source": "Ministère du Travail",
-      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "theme": "Paie",
