@@ -1,6 +1,59 @@
 {
-  "generated_at": "2026-10-15T13:36:05.262557+00:00",
+  "generated_at": "2026-10-15T18:28:38.431129+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Scoop Jeep Renegade. La 2e génération du SUV urbain s’annonce et s’illustre",
+      "url": "https://www.largus.fr/actualite-automobile/scoop-jeep-renegade-la-2e-generation-du-suv-urbain-sannonce-et-sillustre-40013146.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Jeep va finalement lancer une nouvelle génération de Renegade en Europe, où ce SUV urbain à succès a tiré sa révérence fin 2025. Cette 2è mouture, qu partagera ses desosus avec le futur Peugeot 2008, sera proposée en hybride comme en électrique. Voici ce à quoi il pourrait ressembler.",
+      "publishedAt": "2026-10-15T16:40:00+00:00",
+      "discoveredAt": "2026-10-15T18:27:58.864868+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Économique et ultra réconfortante : la vraie recette des lentilles mijotées aux légumes pour affronter l'automne",
+      "url": "https://www.750g.com/economique-et-ultra-reconfortante-la-vraie-recette-des-lentilles-mijotees-aux-legumes-pour-affronter-l-automne-a44733.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez la recette classique des lentilles mijotées aux légumes, un plat familial sain, économique et riche en saveurs à intégrer dans vos menus de la semaine.",
+      "publishedAt": "2026-10-15T16:00:00+00:00",
+      "discoveredAt": "2026-10-15T18:28:24.966151+00:00",
+      "topics": [
+        "Économique"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-15T15:23:57+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Citroën 2 CV et Fourgonnette (2026). Le chef du design présente les concept-cars",
+      "url": "https://www.largus.fr/actualite-automobile/citroen-2-cv-et-fourgonnette-2026-le-chef-du-design-presente-les-concept-cars-40013095.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Pierre Leclercq, directeur du design de Citroën, nous explique en vidéo comment les concept-cars 2 CV et 2 CV Fourgonnette du Mondial de Paris 2026 ont été pensés. La citadine électrique de série à 15 000 € est attendue pour 2028. L’arrivée de sa variante utilitaire reste sujette à caution.",
+      "publishedAt": "2026-10-15T14:25:00+00:00",
+      "discoveredAt": "2026-10-15T18:27:58.865026+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Cuisine",
       "title": "Gâteau à la citrouille rapide",
@@ -17,18 +70,15 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-15T12:24:24+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
+      "theme": "Paie",
+      "title": "15 octobre 15h00 Préconisation du médecin du travail : peut-il imposer le type de motorisation du véhicule utilisé par le salarié ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/preconisation-du-medecin-du-travail-peut-il-imposer-le-type-de-motorisation-du-vehicule-utilise-par-le-salarie",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le médecin du travail peut proposer des mesures d'aménagement du poste de travail au regard de l'état de santé du salarié. Pour un",
+      "publishedAt": "2026-10-15T13:00:00+00:00",
+      "discoveredAt": "2026-10-15T18:26:53.160682+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
@@ -6309,6 +6359,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
