@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-10-14T22:28:14.373326+00:00",
+  "generated_at": "2026-10-15T01:38:45.938393+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Actualité - Les Français face à l’inflation : vers de grands renoncements",
+      "url": "https://www.quechoisir.org/actualite-les-francais-face-a-l-inflation-vers-de-grands-renoncements-n178738/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Un prix de l’essence et du diesel à 2,20 €/l voire 2,40 €/l, un prix du fioul une fois et demie celui de l’année précédente quand le tarif du gaz progresse de plus de 20 % en un trimestre, alors que les prix des denrées alimentaires tutoient toujours les sommets : jamais la question des prix n’aura autant préoccupé les consommateurs. Dans ce contexte, l’Observatoire de la consommation de Que Choisir a sondé les Français sur leurs difficultés, mais aussi sur leur manière de s’adapter à cette inflation galopante.",
+      "publishedAt": "2026-10-15T01:30:00+00:00",
+      "discoveredAt": "2026-10-15T01:37:45.496606+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -6223,11 +6237,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
