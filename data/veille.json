@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-10-15T01:38:45.938393+00:00",
+  "generated_at": "2026-10-15T07:38:38.132440+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-15T07:24:11+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Dacia Jogger (2026). Arrêt du moteur TCe 110, de la finition Journey et nouveaux équipements de série",
+      "url": "https://www.largus.fr/actualite-automobile/dacia-jogger-2026-arret-du-moteur-tce-110-de-la-finition-journey-et-nouveaux-equipements-de-serie-40012885.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le Dacia Jogger va faire évoluer son offre. Selon nos informations, le break va perdre son moteur TCe de 110 ch, la finition Journey ainsi que la version Essentiel 7 places. En parallèle, le degré Expression va gagner des équipements de série et accueillir la motorisation Eco-G en boîte auto.",
+      "publishedAt": "2026-10-15T06:32:00+00:00",
+      "discoveredAt": "2026-10-15T07:37:40.061336+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Ai-je le droit de fixer un plafond de remboursement pour les frais de restauration de mes salariés ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/ai-je-le-droit-de-fixer-un-plafond-de-remboursement-pour-les-frais-de-restauration-de-mes-salaries",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-15T04:35:00+00:00",
+      "discoveredAt": "2026-10-15T07:37:32.910478+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Avantages en nature et gratifications : Quelles consignes DSN pour le PAS ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8188-avantages-nature-gratifications-consignes-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Comment déclarer le PAS lorsqu’un salarié bénéficie d’un avantage en nature ou d’une gratification ? La fiche consigne DSN actualisée le 5 octobre précise les situations selon l’existence d’un versement financier et indique les cas dans lesquels aucun prélèvement n’est effectué.",
+      "publishedAt": "2026-10-15T04:00:00+00:00",
+      "discoveredAt": "2026-10-15T07:37:26.857575+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Actualité - Les Français face à l’inflation : vers de grands renoncements",
@@ -10,20 +59,6 @@
       "summary": "Un prix de l’essence et du diesel à 2,20 €/l voire 2,40 €/l, un prix du fioul une fois et demie celui de l’année précédente quand le tarif du gaz progresse de plus de 20 % en un trimestre, alors que les prix des denrées alimentaires tutoient toujours les sommets : jamais la question des prix n’aura autant préoccupé les consommateurs. Dans ce contexte, l’Observatoire de la consommation de Que Choisir a sondé les Français sur leurs difficultés, mais aussi sur leur manière de s’adapter à cette inflation galopante.",
       "publishedAt": "2026-10-15T01:30:00+00:00",
       "discoveredAt": "2026-10-15T01:37:45.496606+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-14T18:24:06+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
@@ -6128,17 +6163,6 @@
       "summary": "Les nouveaux taux de prélèvement à la source seront appliqués à partir de septembre 2026 sur les retraites complémentaires Agirc-Arrco.",
       "publishedAt": "2026-08-31T06:00:31+00:00",
       "discoveredAt": "2026-09-18T22:48:31.395940+00:00",
-      "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Comparatif - Pesticides",
-      "url": "https://www.quechoisir.org/comparatif-observatoire-des-pesticides-n98916/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Un nombre croissant d’études suggèrent que l’ingestion quotidienne de cocktails de résidus de pesticides est néfaste pour la santé. Pour aider les consommateurs à identifier les aliments pour lesquels le bénéfice individuel à privilégier le label bio semble le plus important, nous vous présentons ici les informations de contamination de 58 produits différents (bien sûr, l’intérêt de choisir une version bio peut aussi varier en fonction d’autres critères, notamment selon que le produit peut ou non être pelé). Nous avons pour cela recensé les résultats d’analyses de plus de 5000 aliments d’origine végétale, réalisées entre 2022 et 2024 par les autorités françaises (voir « comment nous avons procédé »).",
-      "publishedAt": "2026-08-16T03:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:53.052405+00:00",
       "topics": []
     },
     {
