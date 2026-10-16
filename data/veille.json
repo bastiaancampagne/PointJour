@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-10-16T01:34:10.555174+00:00",
+  "generated_at": "2026-10-16T07:24:30.673854+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "16 octobre 10h00 Licenciement économique : il est possible de conclure un accord PSE au niveau du groupe Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/licenciement-economique-il-est-possible-de-conclure-un-accord-pse-au-niveau-du-groupe",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le Conseil d'État considère qu'un accord portant plan de sauvegarde de l'emploi (PSE) peut être conclu au niveau du groupe. Il apporte",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-16T07:23:27.715986+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Pluriactivité à l’étranger : les nouveaux certificats désormais valables 24 mois",
+      "url": "https://www.legisocial.fr/actualites-sociales/8193-pluriactivite-etranger-nouveaux-certificats-desormais-valables-24-mois.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les nouveaux certificats de pluriactivité peuvent couvrir une période de deux ans depuis le 8 octobre 2026. L’Urssaf précise toutefois que les documents déjà en cours de validité restent limités à 12 mois.",
+      "publishedAt": "2026-10-16T04:00:00+00:00",
+      "discoveredAt": "2026-10-16T07:23:24.001531+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Inaptitude : Le refus par le salarié d'un poste de reclassement conforme justifie le licenciement",
+      "url": "https://www.legisocial.fr/actualites-sociales/8174-inaptitude-refus-salarie-poste-reclassement-conforme-justifie-licenciement.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Avant tout licenciement, l’employeur a l’obligation de rechercher des possibilités de reclassement pour le salarié déclaré inapte par le médecin du travail.",
+      "publishedAt": "2026-10-16T04:00:00+00:00",
+      "discoveredAt": "2026-10-16T07:23:24.001640+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "CSE : l’utilisation de bons de délégation est-elle obligatoire ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/7049-cse-utilisation-bons-delegation-obligatoire.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le bon de délégation n’est pas obligatoire, mais il permet à l’employeur d’être informé de l’absence du représentant du personnel avant son départ ainsi que de comptabiliser les heures de délégation prises.",
+      "publishedAt": "2026-10-16T04:00:00+00:00",
+      "discoveredAt": "2026-10-16T07:23:24.001730+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Solde de tout compte non signé : l’employeur doit prouver le paiement",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1697-solde-compte-signe-employeur-prouver-paiement.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un arrêt du 30 septembre 2026, la Cour de cassation rappelle qu’un reçu pour solde de tout compte non signé ne prouve pas le paiement des sommes mentionnées. En cas de contestation, l’employeur doit justifier leur versement. Pour le service paie, établir les documents de fin de contrat ne suffit donc pas : il faut aussi conserver les preuves du règlement.",
+      "publishedAt": "2026-10-16T04:00:00+00:00",
+      "discoveredAt": "2026-10-16T07:23:24.001825+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Actualité - Scott Sweep - Que vaut le nouveau vélo électrique urbain de Scott ?",
@@ -6372,6 +6435,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
