@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-10-16T12:40:16.861351+00:00",
+  "generated_at": "2026-10-16T17:35:12.020254+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Faciles et économiques : les meilleures recettes pour sublimer la patate douce cet automne",
+      "url": "https://www.750g.com/faciles-et-economiques-les-meilleures-recettes-pour-sublimer-la-patate-douce-cet-automne-a44728.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Et si vous cuisiniez la patate douce pour cet automne ? On vous a justement sélectionné quelques-unes de nos meilleures recettes testées et validées par nos lecteurs, de quoi vous mettre l'eau à la bouche.",
+      "publishedAt": "2026-10-16T16:00:00+00:00",
+      "discoveredAt": "2026-10-16T17:34:56.146686+00:00",
+      "topics": [
+        "Économique"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Tesla Roadster (2028). La nouvelle sportive électrique américaine capable de voler enfin dévoilée",
+      "url": "https://www.largus.fr/actualite-automobile/tesla-roadster-2028-la-nouvelle-sportive-electrique-americaine-capable-de-voler-enfin-devoilee-40013268.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Tesla lève enfin le voile sur son nouveau Roadster. Annoncé il y a neuf ans déjà, le modèle signe un retour remarqué en promettant de défier les lois de la gravité et de battre (presque) tous les records. Découvrez-le en détail avant son lancement prévu courant 2028.",
+      "publishedAt": "2026-10-16T14:58:00+00:00",
+      "discoveredAt": "2026-10-16T17:34:29.493794+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "16 octobre 15h15 La déclaration préalable à l'embauche (DPAE) par signalement DSN de nouveau reportée Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/la-declaration-prealable-a-l-embauche-dpae-par-signalement-dsn-de-nouveau-reportee",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans une mise à jour du 15 octobre 2026 de sa fiche consacrée à la déclaration préalable à l'embauche (DPAE), le GIP-MDS, en charge de",
+      "publishedAt": "2026-10-16T13:15:00+00:00",
+      "discoveredAt": "2026-10-16T17:34:17.990591+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "16 octobre 15h00 La nullité d’un licenciement pour discrimination liée au handicap implique que le salarié ait présenté des éléments le laissant supposer Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/la-nullite-d-un-licenciement-pour-discrimination-liee-au-handicap-implique-que-le-salarie-ait-presente-des-elements-le-laissant-supposer-2e42c91a-e92b-4d6b-bc91-0cc8ae2bd3fd",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsqu’un salarié demande la nullité de son licenciement pour discrimination en raison d'un handicap, il convient d'appliquer le régime",
+      "publishedAt": "2026-10-16T13:00:00+00:00",
+      "discoveredAt": "2026-10-16T17:34:20.049809+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Indemnité carburant : de nouvelles conditions pour le dernier trimestre 2026",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/indemnite-carburant-de-nouvelles-conditions-pour-le-dernier-trimestre-2026",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-16T13:00:00+00:00",
+      "discoveredAt": "2026-10-16T17:34:24.804743+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -99,6 +162,17 @@
       ]
     },
     {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking du midi",
+      "url": "https://www.cuisineaz.com/diaporamas/batch-cooking-10-recettes-du-midi-faciles-pour-la-semaine-du-19-au-23-octobre-2026-8911/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-10-16T07:20:09.270000+00:00",
+      "discoveredAt": "2026-10-16T17:35:10.791315+00:00",
+      "topics": []
+    },
+    {
       "theme": "Paie",
       "title": "Pluriactivité à l’étranger : les nouveaux certificats désormais valables 24 mois",
       "url": "https://www.legisocial.fr/actualites-sociales/8193-pluriactivite-etranger-nouveaux-certificats-desormais-valables-24-mois.html",
@@ -147,6 +221,17 @@
       "topics": [
         "Ruptures"
       ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking du soir",
+      "url": "https://www.cuisineaz.com/diaporamas/menu-batch-cooking-du-19-au-23-octobre-2026-10-recettes-du-soir-a-faire-en-1-h-seulement-9027/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-10-16T03:00:04.350000+00:00",
+      "discoveredAt": "2026-10-16T17:35:11.391925+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
@@ -382,6 +467,17 @@
       "topics": [
         "Carburant"
       ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking Thermomix",
+      "url": "https://www.cuisineaz.com/diaporamas/batch-cooking-10-recettes-du-soir-a-faire-au-thermomix-pour-la-semaine-du-19-au-23-octobre-2026-8909/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-10-14T12:00:05.050000+00:00",
+      "discoveredAt": "2026-10-16T17:35:11.970901+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
