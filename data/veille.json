@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-10-16T07:24:30.673854+00:00",
+  "generated_at": "2026-10-16T12:40:16.861351+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-16T12:24:18+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "“Ça marche a tout les coups avec mes formules” : Julie Andrieu livre sa recette de la meilleure tarte Tatin",
+      "url": "https://www.750g.com/ca-marche-a-tout-les-coups-avec-mes-formules-julie-andrieu-livre-sa-recette-de-la-meilleure-tarte-tatin-a44738.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "La tarte Tatin vous impressionne ? Julie Andrieu partage sa recette de ce grand classique, avec ses conseils pour réussir la pâte, le caramel et la cuisson des pommes. De quoi se lancer sans craindre de rater son dessert !",
+      "publishedAt": "2026-10-16T11:00:00+00:00",
+      "discoveredAt": "2026-10-16T12:39:51.745605+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Reçu pour solde de tout compte : à défaut de signature, c’est à l’employeur de prouver le paiement des sommes inscrites",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/recu-pour-solde-de-tout-compte-a-defaut-de-signature-cest-a-lemployeur-de-prouver-le-paiement-des-sommes-inscrites",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-16T10:30:00+00:00",
+      "discoveredAt": "2026-10-16T12:39:10.758890+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Volkswagen ID. Polo face à la Renault 5 E-Tech : laquelle est la meilleure citadine électrique ?",
+      "url": "https://www.largus.fr/actualite-automobile/essai-volkswagen-id-polo-face-a-la-renault-5-e-tech-laquelle-est-la-meilleure-citadine-electrique-40012121.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Compacte et habitable, la nouvelle Volkswagen ID. Polo met les petits plats dans les grands pour bousculer la plus vendue des citadines électriques. La Renault 5 E-Tech ne va pourtant pas lui faciliter la tâche avec des arguments toujours aussi solides.",
+      "publishedAt": "2026-10-16T10:12:00+00:00",
+      "discoveredAt": "2026-10-16T12:39:17.125856+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Courges d'automne : nos astuces pour les cuisiner sans se ruiner avec les produits U Bleu-Blanc-Cœur",
+      "url": "https://www.cuisineaz.com/articles/courges-d-automne-nos-astuces-pour-les-cuisiner-sans-se-ruiner-avec-les-produits-u-bleu-blanc-coeur-21926.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Potiron, butternut, potimarron : à chaque courge ses spécificités et ses recettes. Alors que l'automne s'installe et que les choix se multiplient sur les étals...",
+      "publishedAt": "2026-10-16T09:39:41.070000+00:00",
+      "discoveredAt": "2026-10-16T12:40:14.675751+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Rôti de dinde U Bleu-Blanc-Cœur aux champignons, sauce légère à la crème U",
+      "url": "https://www.cuisineaz.com/recettes/roti-de-dinde-u-bleu-blanc-coeur-aux-champignons-sauce-legere-a-la-creme-u-125943.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Il y a des plats du dimanche qu'on refait sans même y réfléchir. Celui-là en fait partie depuis qu'on a découvert le geste du déglaçage à la crème légère U Bleu...",
+      "publishedAt": "2026-10-16T09:38:32.740000+00:00",
+      "discoveredAt": "2026-10-16T12:40:13.983659+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Mondial de l’auto 2026. Citroën récompense L’argus pour ses illustrations de la 2 CV Concept",
+      "url": "https://www.largus.fr/actualite-automobile/mondial-de-lauto-2026-citroen-recompense-largus-pour-ses-illustrations-de-la-2cv-concept-40013115.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "L’équipe de design de Citroën a récompensé les médias ayant publié les meilleures illustrations de la 2CV avant la présentation officielle du concept au Mondial de l’auto 2026. L’argus décroche la première place devant Auto Moto et Auto Plus grâce aux croquis réalisés par Jean-François Hubert.",
+      "publishedAt": "2026-10-16T09:30:00+00:00",
+      "discoveredAt": "2026-10-16T12:39:17.125991+00:00",
+      "topics": []
+    },
     {
       "theme": "Paie",
       "title": "16 octobre 10h00 Licenciement économique : il est possible de conclure un accord PSE au niveau du groupe Social Jurisprudence",
@@ -8,7 +92,7 @@
       "source": "RF Paye",
       "sourceKind": "EXPERT PAIE",
       "summary": "Le Conseil d'État considère qu'un accord portant plan de sauvegarde de l'emploi (PSE) peut être conclu au niveau du groupe. Il apporte",
-      "publishedAt": null,
+      "publishedAt": "2026-10-16T08:00:00+00:00",
       "discoveredAt": "2026-10-16T07:23:27.715986+00:00",
       "topics": [
         "Ruptures"
@@ -79,25 +163,11 @@
     },
     {
       "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-15T18:23:53+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
       "title": "Scoop Jeep Renegade. La 2e génération du SUV urbain s’annonce et s’illustre",
       "url": "https://www.largus.fr/actualite-automobile/scoop-jeep-renegade-la-2e-generation-du-suv-urbain-sannonce-et-sillustre-40013146.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "Jeep va finalement lancer une nouvelle génération de Renegade en Europe, où ce SUV urbain à succès a tiré sa révérence fin 2025. Cette 2è mouture, qu partagera ses desosus avec le futur Peugeot 2008, sera proposée en hybride comme en électrique. Voici ce à quoi il pourrait ressembler.",
+      "summary": "Jeep va finalement lancer une nouvelle génération de Renegade en Europe, où ce SUV urbain à succès a tiré sa révérence fin 2025. Cette deuxième mouture, qui partagera ses dessous avec le futur Peugeot 2008, sera proposée en hybride comme en électrique. Voici à quoi elle pourrait ressembler.",
       "publishedAt": "2026-10-15T16:40:00+00:00",
       "discoveredAt": "2026-10-15T18:27:58.864868+00:00",
       "topics": [
@@ -123,7 +193,7 @@
       "url": "https://www.largus.fr/actualite-automobile/citroen-2-cv-et-fourgonnette-2026-le-chef-du-design-presente-les-concept-cars-40013095.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "Pierre Leclercq, directeur du design de Citroën, nous explique en vidéo comment les concept-cars 2 CV et 2 CV Fourgonnette du Mondial de Paris 2026 ont été pensés. La citadine électrique de série à 15 000 € est attendue pour 2028. L’arrivée de sa variante utilitaire reste sujette à caution.",
+      "summary": "Pierre Leclercq, directeur du design de Citroën, nous explique en vidéo comment les concept-cars 2 CV et 2 CV Fourgonnette présents au Mondial de Paris 2026 ont été pensés. La citadine électrique de série à 15 000 € est prévue pour 2028. L’arrivée de sa variante utilitaire reste à sujette à caution.",
       "publishedAt": "2026-10-15T14:25:00+00:00",
       "discoveredAt": "2026-10-15T18:27:58.865026+00:00",
       "topics": [
@@ -154,6 +224,17 @@
       "summary": "Le médecin du travail peut proposer des mesures d'aménagement du poste de travail au regard de l'état de santé du salarié. Pour un",
       "publishedAt": "2026-10-15T13:00:00+00:00",
       "discoveredAt": "2026-10-15T18:26:53.160682+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "15 octobre 15h00 Préconisation du médecin du travail : peut-il imposer le type de motorisation du véhicule utilisé par le salarié ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/preconisation-du-medecin-du-travail-peut-il-imposer-le-type-de-motorisation-du-vehicule-utilise-par-le-salarie-7b8f4cf7-7b6a-4bff-8349-907ef8446dc1",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le médecin du travail peut proposer des mesures d'aménagement du poste de travail au regard de l'état de santé du salarié. Pour un",
+      "publishedAt": "2026-10-15T13:00:00+00:00",
+      "discoveredAt": "2026-10-16T12:39:06.195896+00:00",
       "topics": []
     },
     {
@@ -6435,11 +6516,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
