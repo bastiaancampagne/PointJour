@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-10-16T17:35:12.020254+00:00",
+  "generated_at": "2026-10-16T21:27:55.018527+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Mondial de Paris 2026. Petit guide du visiteur pressé",
+      "url": "https://www.largus.fr/actualite-automobile/mondial-de-paris-2026-petit-guide-du-visiteur-presse-40013397.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Jusqu’au 18 octobre, la 91e édition du Mondial de l’Auto de Paris réunit plus de 60 constructeurs dans cinq halls. L’argus vous a concocté un guide du « visiteur pressé » pour découvrir les nouveautés, optimiser votre temps sur place et ménager vos pieds. La visite commence à l’entrée principale A2.",
+      "publishedAt": "2026-10-16T18:52:00+00:00",
+      "discoveredAt": "2026-10-16T21:27:08.504103+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-16T18:24:05+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Cuisine",
       "title": "Faciles et économiques : les meilleures recettes pour sublimer la patate douce cet automne",
@@ -63,20 +88,6 @@
       "publishedAt": "2026-10-16T13:00:00+00:00",
       "discoveredAt": "2026-10-16T17:34:24.804743+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-16T12:24:18+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Cuisine",
