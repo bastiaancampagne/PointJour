@@ -1,6 +1,21 @@
 {
-  "generated_at": "2026-10-17T11:02:29.154053+00:00",
+  "generated_at": "2026-10-17T14:20:28.516672+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Prête en 10 minutes et avec 2 pommes : cette tarte express à la poêle va vous sauver la mise pour le goûter",
+      "url": "https://www.750g.com/prete-en-10-minutes-et-avec-2-pommes-cette-tarte-express-a-la-poele-va-vous-sauver-la-mise-pour-le-gouter-a44739.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Envie d'un dessert fruité et réconfortant mais vous n'avez ni le temps ni l'envie d'allumer votre four ? Découvrez l'astuce de la tarte aux pommes caramélisées cuite directement à la poêle pour régaler toute la famille.",
+      "publishedAt": "2026-10-17T14:00:00+00:00",
+      "discoveredAt": "2026-10-17T14:20:14.390393+00:00",
+      "topics": [
+        "Desserts",
+        "Rapide",
+        "Four"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -8,10 +23,23 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-17T07:24:17+00:00",
+      "publishedAt": "2026-10-17T12:24:11+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Kia Seltos (2026). A bord du SUV hybride compact qui pourrait bousculer le Renault Symbioz",
+      "url": "https://www.largus.fr/actualite-automobile/kia-seltos-2026-a-bord-du-suv-hybride-compact-qui-pourrait-bousculer-le-renault-symbioz-40013325.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "L’argus a profité du Mondial de Paris 2026, qui se tient jusqu’au 18 octobre, pour découvrir de près le Kia Seltos. Ce SUV compact hybride rival des Renault Symbioz et Volkswagen T-Roc pourrait bien bousculer la hiérarchie du segment sur le marché, malgré sa concurrence fratricide avec le Niro.",
+      "publishedAt": "2026-10-17T11:27:00+00:00",
+      "discoveredAt": "2026-10-17T14:19:39.756428+00:00",
+      "topics": [
         "Carburant"
       ]
     },
