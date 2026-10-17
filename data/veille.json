@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-17T00:39:53.088469+00:00",
+  "generated_at": "2026-10-17T05:45:41.805565+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Mondial de Paris 2026. Découverte du stand Citroën en photos et en vidéo",
+      "url": "https://www.largus.fr/actualite-automobile/mondial-de-paris-2026-decouverte-du-stand-citroen-en-photos-et-en-video-40013260.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Voiture sans permis, monoplace de course, concept-cars néo-rétro et autres séries spéciales se côtoient sur le stand Citroën du Mondial de Paris 2026. De la 2 CV Concept au C5 Aircross Emeraude en passant par l’Ami Outdoor et les produits dérivés, suivez le guide en vidéo.",
+      "publishedAt": "2026-10-17T03:43:00+00:00",
+      "discoveredAt": "2026-10-17T05:44:54.384447+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Actualité - Assurance : refuser le prélèvement automatique ne doit pas vous coûter plus cher",
+      "url": "https://www.quechoisir.org/actualite-assurance-refuser-le-prelevement-automatique-ne-doit-pas-vous-couter-plus-cher-n178794/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Vous préférez régler votre assurance par carte bancaire ou virement plutôt que par prélèvement automatique ? Votre assureur n'a pas le droit de vous facturer un supplément pour cette raison. Le médiateur de l'assurance vient de le rappeler à une compagnie qui avait augmenté les cotisations d'un client.",
+      "publishedAt": "2026-10-17T01:00:00+00:00",
+      "discoveredAt": "2026-10-17T05:44:55.213257+00:00",
+      "topics": [
+        "Assurance"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Mondial de Paris 2026. Petit guide du visiteur pressé",
@@ -90,6 +114,19 @@
       "topics": []
     },
     {
+      "theme": "Paie",
+      "title": "16 octobre 15h00 La nullité d’un licenciement pour discrimination liée au handicap implique que le salarié ait présenté des éléments le laissant supposer Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/la-nullite-d-un-licenciement-pour-discrimination-liee-au-handicap-implique-que-le-salarie-ait-presente-des-elements-le-laissant-supposer-8c413210-dc58-4ac9-88dd-3981e3c1b299",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsqu’un salarié demande la nullité de son licenciement pour discrimination en raison d'un handicap, il convient d'appliquer le régime",
+      "publishedAt": "2026-10-16T13:00:00+00:00",
+      "discoveredAt": "2026-10-17T05:44:42.621263+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
       "theme": "Cuisine",
       "title": "“Ça marche a tout les coups avec mes formules” : Julie Andrieu livre sa recette de la meilleure tarte Tatin",
       "url": "https://www.750g.com/ca-marche-a-tout-les-coups-avec-mes-formules-julie-andrieu-livre-sa-recette-de-la-meilleure-tarte-tatin-a44738.htm",
@@ -168,6 +205,19 @@
       "summary": "Le Conseil d'État considère qu'un accord portant plan de sauvegarde de l'emploi (PSE) peut être conclu au niveau du groupe. Il apporte",
       "publishedAt": "2026-10-16T08:00:00+00:00",
       "discoveredAt": "2026-10-16T07:23:27.715986+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "16 octobre 10h00 Licenciement économique : il est possible de conclure un accord PSE au niveau du groupe Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/licenciement-economique-il-est-possible-de-conclure-un-accord-pse-au-niveau-du-groupe-159df232-a2d2-4d12-909e-fcfbe2b30a94",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le Conseil d'État considère qu'un accord portant plan de sauvegarde de l'emploi (PSE) peut être conclu au niveau du groupe. Il apporte",
+      "publishedAt": "2026-10-16T08:00:00+00:00",
+      "discoveredAt": "2026-10-17T05:44:44.430538+00:00",
       "topics": [
         "Ruptures"
       ]
