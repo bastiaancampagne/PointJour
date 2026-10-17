@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-17T14:20:28.516672+00:00",
+  "generated_at": "2026-10-17T17:24:42.894242+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-17T15:24:04+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Ultra fondantes : l'irrésistible recette des poires rôties au four à la cannelle et noix de pécan",
+      "url": "https://www.750g.com/ultra-fondantes-l-irresistible-recette-des-poires-roties-au-four-a-la-cannelle-et-noix-de-pecan-a44731.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "La saison des poires a commencé ! Voici une recette gourmande et réconfortante, parfaite en de début d'automne.",
+      "publishedAt": "2026-10-17T15:00:00+00:00",
+      "discoveredAt": "2026-10-17T17:24:19.973304+00:00",
+      "topics": [
+        "Four"
+      ]
+    },
     {
       "theme": "Cuisine",
       "title": "Prête en 10 minutes et avec 2 pommes : cette tarte express à la poêle va vous sauver la mise pour le goûter",
@@ -14,20 +41,6 @@
         "Desserts",
         "Rapide",
         "Four"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-17T12:24:11+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
