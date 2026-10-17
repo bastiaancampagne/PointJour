@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-10-17T05:45:41.805565+00:00",
+  "generated_at": "2026-10-17T11:02:29.154053+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-17T07:24:17+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Ce célèbre nutritionniste de Harvard de 81 ans révèle pourquoi il boit un petit verre de jus d'orange chaque matin",
+      "url": "https://www.750g.com/ce-celebre-nutritionniste-de-harvard-de-81-ans-revele-pourquoi-il-boit-un-petit-verre-de-jus-d-orange-chaque-matin-a44730.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Le docteur Walter Willett, éminent professeur de nutrition à Harvard, partage ses secrets de longévité et explique pourquoi le jus d'orange matinal fait partie de sa routine santé.",
+      "publishedAt": "2026-10-17T06:00:00+00:00",
+      "discoveredAt": "2026-10-17T11:02:07.868076+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Mondial de Paris 2026. Découverte du stand Citroën en photos et en vidéo",
@@ -35,20 +60,6 @@
       "publishedAt": "2026-10-16T18:52:00+00:00",
       "discoveredAt": "2026-10-16T21:27:08.504103+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-16T18:24:05+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Cuisine",
