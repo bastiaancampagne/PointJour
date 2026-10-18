@@ -1,6 +1,34 @@
 {
-  "generated_at": "2026-10-18T11:28:12.735913+00:00",
+  "generated_at": "2026-10-18T16:03:35.928747+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Poulet au curry express : la recette magique pour des blancs ultra juteux et fondants prêts en 10 minutes chrono",
+      "url": "https://www.750g.com/poulet-au-curry-express-la-recette-magique-pour-des-blancs-ultra-juteux-et-fondants-prets-en-10-minutes-chrono-a44729.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez une méthode infaillible pour cuisiner un poulet au curry crémeux et parfumé sans dessécher la viande, idéal pour un repas de semaine rapide.",
+      "publishedAt": "2026-10-18T16:00:00+00:00",
+      "discoveredAt": "2026-10-18T16:03:14.554032+00:00",
+      "topics": [
+        "Asiatique",
+        "Rapide"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-18T15:24:01+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Cuisine",
       "title": "« Je n'achète plus aucun paquet au supermarché » : ces biscuits fourrés façon BN sont bien meilleurs que l'original",
@@ -12,20 +40,6 @@
       "discoveredAt": "2026-10-18T11:27:58.642149+00:00",
       "topics": [
         "Four"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-18T07:24:10+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
