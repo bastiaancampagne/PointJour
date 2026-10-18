@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-18T06:08:35.905217+00:00",
+  "generated_at": "2026-10-18T11:28:12.735913+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "« Je n'achète plus aucun paquet au supermarché » : ces biscuits fourrés façon BN sont bien meilleurs que l'original",
+      "url": "https://www.750g.com/je-n-achete-plus-aucun-paquet-au-supermarche-ces-biscuits-fourres-facon-bn-sont-bien-meilleurs-que-l-original-a44745.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Les BN font partie des biscuits emblématiques de notre enfance, mais ils peuvent aussi être préparés facilement à la maison. Cette version permet de choisir ses ingrédients, d'utiliser un bon chocolat et d'obtenir des biscuits plus généreux et crous1",
+      "publishedAt": "2026-10-18T10:00:00+00:00",
+      "discoveredAt": "2026-10-18T11:27:58.642149+00:00",
+      "topics": [
+        "Four"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -8,12 +21,23 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-17T18:23:55+00:00",
+      "publishedAt": "2026-10-18T07:24:10+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Mondial de Paris 2026. L’avis des visiteurs sur la 91e édition du Salon de l’auto",
+      "url": "https://www.largus.fr/actualite-automobile/mondial-de-paris-2026-lavis-des-visiteurs-sur-la-91e-edition-du-salon-de-lauto-40013128.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Alors que la 91e édition du Mondial de Paris (12-18 octobre) touche à sa fin, L’argus a décidé de donner la parole aux visiteurs. Pour quelles nouveautés ont-ils craqué ? Quels stands ont le plus attiré leur attention ? Éléments de réponse avec notre micro-trottoir réalisé dans les allées du Salon.",
+      "publishedAt": "2026-10-18T06:07:00+00:00",
+      "discoveredAt": "2026-10-18T11:27:30.985261+00:00",
+      "topics": []
     },
     {
       "theme": "Cuisine",
