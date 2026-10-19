@@ -1,6 +1,50 @@
 {
-  "generated_at": "2026-10-19T00:20:36.567773+00:00",
+  "generated_at": "2026-10-19T04:59:47.908012+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "SOLTéA : Les employeurs ont jusqu’au 21 octobre 2026 pour répartir leur solde",
+      "url": "https://www.legisocial.fr/actualites-sociales/8194-soltea-employeurs-21-octobre-2026-repartir-solde.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La campagne SOLTéA 2026 se termine le 21 octobre. Les employeurs disposent encore de quelques jours pour choisir les établissements bénéficiaires de leur solde de taxe d’apprentissage et enregistrer leur répartition. À défaut, les crédits seront attribués selon les critères réglementaires.",
+      "publishedAt": "2026-10-19T04:00:00+00:00",
+      "discoveredAt": "2026-10-19T04:58:42.092630+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Enregistrement des réunions du CSE : l'employeur doit respecter les conditions strictes posées par le Code du travail",
+      "url": "https://www.legisocial.fr/actualites-sociales/8177-enregistrement-reunions-cse-employeur-respecter-conditions-strictes-posees-code-travail.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les réunions du Comité Social et Économique (CSE) peuvent être enregistrées (audio ou sténographie) sous des conditions précises fixées par le Code du travail.",
+      "publishedAt": "2026-10-19T04:00:00+00:00",
+      "discoveredAt": "2026-10-19T04:58:42.092738+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Comment fermer l’entreprise pendant les fêtes de fin d’année ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/2947-comment-fermer-entreprise-fetes-fin-annee.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Vous souhaitez fermer l’entreprise pendant les fêtes de fin d’année et mettre l’ensemble de vos salariés en congés. Comment procéder ?",
+      "publishedAt": "2026-10-19T04:00:00+00:00",
+      "discoveredAt": "2026-10-19T04:58:42.092823+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Actualité - Prise en main de la voiture autonome Denza Z9GT (vidéo)",
+      "url": "https://www.quechoisir.org/actualite-prise-en-main-de-la-voiture-autonome-denza-z9gt-video-n178802/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "En 2027, Denza, la marque haut de gamme du constructeur chinois BYD, proposera une mise à jour pour rendre sa berline Z9GT autonome. Efficace à Paris, le système pris en main en version encore non définitive s’est montré un tantinet trop prévenant.",
+      "publishedAt": "2026-10-19T01:00:00+00:00",
+      "discoveredAt": "2026-10-19T04:59:02.044705+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -6765,23 +6809,8 @@
       "error": "HTTP Error 403: Forbidden"
     },
     {
-      "theme": "Paie",
-      "source": "Légisocial",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
-    },
-    {
       "theme": "Auto",
       "source": "ADEME",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Cuisine",
-      "source": "CuisineAZ",
       "error": "HTTP Error 403: Forbidden"
     }
   ]
