@@ -1,6 +1,88 @@
 {
-  "generated_at": "2026-10-19T04:59:47.908012+00:00",
+  "generated_at": "2026-10-19T11:02:00.121610+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Analyse socio-économique : l’Anses publie ses neuf premiers référentiels méthodologiques",
+      "url": "https://www.anses.fr/fr/actualite/analyse-socio-economique-lanses-publie-ses-neuf-premiers-referentiels-methodologiques",
+      "source": "ANSES",
+      "sourceKind": "OFFICIEL",
+      "summary": "Pour structurer et rendre compte de ses méthodes dans les différents champs de l’analyse socio-économique, l’Anses publie neuf premiers référentiels issus d’un travail de fond avec ses experts spécialisés avec l’appui du conseil scientifique de l’Agence. Tout comprendre sur ces référentiels.",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-19T11:01:31.880544+00:00",
+      "topics": [
+        "Économique"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Lancia Gamma (2026). L’indispensable SUV",
+      "url": "https://www.largus.fr/actualite-automobile/essai-lancia-gamma-2026-lindispensable-suv-40012640.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "À cheval entre le Peugeot 3008 et la DS N°7 dont elle reprend la base technique, la nouvelle Gamma trouve sa propre personnalité et permet à Lancia de se glisser dans le segment porteur des SUV compacts avec des motorisations hybride 48 V et électrique. Mais que vaut-elle volant en mains ?",
+      "publishedAt": "2026-10-19T10:11:00+00:00",
+      "discoveredAt": "2026-10-19T11:00:58.859209+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Mercedes-AMG GT SUV (2026). Photos, performances et prix du tout-chemin électrique musclé",
+      "url": "https://www.largus.fr/actualite-automobile/mercedes-amg-gt-suv-2026-photos-performances-et-prix-du-tout-chemin-electrique-muscle-40013471.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Mercedes-AMG lance son premier SUV, sobrement nommé GT SUV. Exclusivement électrique, ce concurrent du Porsche Cayenne Electric offre jusqu’à 1 169 ch et 700 km d’autonomie WLTP. Produit en Allemagne, il est disponible à partir de 112 350 €.",
+      "publishedAt": "2026-10-19T09:55:00+00:00",
+      "discoveredAt": "2026-10-19T11:00:58.859401+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Plafond de la Sécurité sociale 2027 : le BOSS annonce les nouveaux montants",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/plafond-de-la-securite-sociale-le-boss-annonce-les-nouveaux-montants",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-19T09:46:00+00:00",
+      "discoveredAt": "2026-10-19T11:00:52.361491+00:00",
+      "topics": [
+        "PMSS",
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-19T07:23:56+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "19 octobre 08h45 Le BOSS diffuse le plafond de la sécurité sociale pour 2027 et confirme qu'il sera de 4 075 € par mois Paye BOFIP et Circulaires",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-boss-diffuse-le-plafond-de-la-securite-sociale-pour-2027-et-confirme-qu-il-sera-de-4-075-par-mois",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Sans attendre la parution de l'arrêté au JO, le Bulletin officiel de la sécurité sociale (BOSS) a indiqué dans un communiqué du 16",
+      "publishedAt": "2026-10-19T06:45:00+00:00",
+      "discoveredAt": "2026-10-19T11:00:45.181152+00:00",
+      "topics": [
+        "PMSS",
+        "Cotisations"
+      ]
+    },
     {
       "theme": "Paie",
       "title": "SOLTéA : Les employeurs ont jusqu’au 21 octobre 2026 pour répartir leur solde",
@@ -44,20 +126,6 @@
       "publishedAt": "2026-10-19T01:00:00+00:00",
       "discoveredAt": "2026-10-19T04:59:02.044705+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-18T18:23:57+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Cuisine",
@@ -3656,6 +3724,19 @@
       "publishedAt": "2026-09-29T13:38:00+00:00",
       "discoveredAt": "2026-09-29T14:40:17.412015+00:00",
       "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "fonctionnalités DSN à votre espace connecté",
+      "url": "https://www.net-entreprises.fr/decouvrez-votre-nouvel-espace-connecte-net-entreprises/",
+      "source": "Net-entreprises",
+      "sourceKind": "OFFICIEL",
+      "summary": "Un nouvel écran d’accueil, un accès centralisé à vos services et un parcours simplifié : à compter de ce 29 septembre, Net-entreprises franchit une nouvelle…",
+      "publishedAt": "2026-09-29T13:27:39+00:00",
+      "discoveredAt": "2026-10-19T10:59:53.449693+00:00",
+      "topics": [
+        "DSN"
+      ]
     },
     {
       "theme": "Paie",
