@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T21:40:32.002251+00:00",
+  "generated_at": "2026-10-19T00:20:36.567773+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -6765,8 +6765,23 @@
       "error": "HTTP Error 403: Forbidden"
     },
     {
+      "theme": "Paie",
+      "source": "Légisocial",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
+    },
+    {
       "theme": "Auto",
       "source": "ADEME",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Cuisine",
+      "source": "CuisineAZ",
       "error": "HTTP Error 403: Forbidden"
     }
   ]
