@@ -1,6 +1,95 @@
 {
-  "generated_at": "2026-10-19T11:02:00.121610+00:00",
+  "generated_at": "2026-10-19T17:38:55.132752+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Meilleurs SUV familiaux hybrides en 2027 : confort, espace, technologie et coût d'usage",
+      "url": "https://www.largus.fr/actualite-automobile/meilleurs-suv-familiaux-hybrides-en-2027-confort-espace-technologie-et-cout-dusage-40013617.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Comparatif 2027 des SUV familiaux hybrides : confort, coffre, technologies et coût d'usage. Kuga, Austral, RAV4, 3008, Seal U et alternatives.",
+      "publishedAt": "2026-10-19T17:00:00+00:00",
+      "discoveredAt": "2026-10-19T17:38:06.777372+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Le plat parfait à petit budget : l'incontournable potage aux pois chiches de nos grands-mères",
+      "url": "https://www.750g.com/le-plat-parfait-a-petit-budget-l-incontournable-potage-aux-pois-chiches-de-nos-grands-meres-a44751.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Le potage aux pois chiches et aux épinards est le plat réconfortant par excellence. Découvrez la véritable recette de grand-mère pour vous réchauffer cet hiver.",
+      "publishedAt": "2026-10-19T17:00:00+00:00",
+      "discoveredAt": "2026-10-19T17:38:39.022622+00:00",
+      "topics": [
+        "Économique"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Mondial de l’auto. Après une édition 2026 réussie, le Salon sera plus grand et plus long en 2028",
+      "url": "https://www.largus.fr/actualite-automobile/mondial-de-lauto-apres-une-edition-2026-reussie-le-salon-sera-plus-grand-et-plus-long-en-2028-40013524.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le 91e Mondial de l’automobile de Paris a attiré 518 372 visiteurs et réuni plus de 60 constructeurs. De nombreux exposants souhaitent déjà revenir en 2028 pour une édition qui durera quatre jours de plus et bénéficiera d’une surface d’exposition agrandie de 25 %.",
+      "publishedAt": "2026-10-19T16:22:00+00:00",
+      "discoveredAt": "2026-10-19T17:38:06.777587+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Citroën 2CV, Fiat Pandina électrique (2028). Les E-Cars Stellantis conçues avec Leapmotor",
+      "url": "https://www.largus.fr/actualite-automobile/citroen-2cv-fiat-pandina-electrique-2028-les-e-cars-stellantis-concues-avec-leapmotor-40013602.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le groupe euro-américain Stellantis travaille avec le constructeur chinois Leapmotor sur la plate-forme qu’utiliseront ses futures citadines électriques à 15 000 €, Citroën 2CV et prochaine Fiat Pandina (ou Koala) en tête. Ces voitures doivent être produites en Italie à compter de 2028.",
+      "publishedAt": "2026-10-19T15:50:00+00:00",
+      "discoveredAt": "2026-10-19T17:38:06.777742+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-19T15:23:53+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Prix Volkswagen ID. Polo. La GTI électrique est maintenant disponible",
+      "url": "https://www.largus.fr/actualite-automobile/prix-volkswagen-id-polo-la-gti-electrique-est-maintenant-disponible-40013526.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Volkswagen lance la version GTI de l’ID. Polo. La citadine électrique sportive rivale des Peugeot E-208 GTI et Alpine A290 est disponible à partir de 41 450 €. La gamme de l’ID. Polo démarre toujours juste sous les 25 000 €.",
+      "publishedAt": "2026-10-19T13:25:00+00:00",
+      "discoveredAt": "2026-10-19T17:38:06.777891+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Alimentation et nutrition humaine",
+      "url": "https://www.anses.fr/fr/thematique/alimentation-et-nutrition-humaine",
+      "source": "ANSES",
+      "sourceKind": "OFFICIEL",
+      "summary": "Notre alimentation est au cœur de notre quotidien. Saine et sûre, elle est un allié puissant pour notre santé. Pourtant, un déséquilibre nutritionnel ou des aliments contaminés peuvent toutefois nous exposer à des risques immédiats ou à des maladies chroniques. L’Anses apporte son expertise scientifique à toutes les étapes de la chaîne alimentaire, depuis la production des aliments d’origine animale ou végétale jusqu’à l’assiette du consommateur. Elle évalue les risques liés à la contamination des aliments par des agents pathogènes et des substances toxiques. Elle évalue également la qualité nutritionnelle et les risques liés à l’inactivité physique et la sédentarité.Découvrez tous nos articles \"Alimentation et nutrition humaine\"",
+      "publishedAt": "2026-10-19T12:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:49:15.727631+00:00",
+      "topics": []
+    },
     {
       "theme": "Cuisine",
       "title": "Analyse socio-économique : l’Anses publie ses neuf premiers référentiels méthodologiques",
@@ -56,18 +145,26 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-19T07:23:56+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
+      "theme": "Paie",
+      "title": "19 octobre 11h11 L'indemnité carburant pour les travailleurs « grands rouleurs » est reconduite et élargie Fiscal Social Paye",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/l-indemnite-carburant-pour-les-travailleurs-grands-rouleurs-est-reconduite-et-elargie",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Au regard des prix toujours élevés des carburants, le gouvernement avait annoncé fin septembre une prolongation de l'aide carburant pour",
+      "publishedAt": "2026-10-19T09:11:05+00:00",
+      "discoveredAt": "2026-10-19T17:37:55.613884+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "19 octobre 10h09 Un salarié ne peut pas être inscrit sur une liste de candidat aux élections du CSE sans son accord Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/un-salarie-ne-peut-pas-etre-inscrit-sur-une-liste-de-candidat-aux-elections-du-cse-sans-son-accord",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Pour être candidat aux élections professionnelles, il faut non seulement remplir les conditions d'éligibilité mais aussi avoir donné",
+      "publishedAt": "2026-10-19T08:09:10+00:00",
+      "discoveredAt": "2026-10-19T17:37:57.848368+00:00",
+      "topics": []
     },
     {
       "theme": "Paie",
@@ -115,6 +212,106 @@
       "publishedAt": "2026-10-19T04:00:00+00:00",
       "discoveredAt": "2026-10-19T04:58:42.092823+00:00",
       "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Comment déclarer l’exonération LODEOM en DSN ?",
+      "url": "https://www.legisocial.fr/paie/reductions-de-cotisations-sociales/comment-declarer-exoneration-lodeom-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La déclaration de l’exonération LODEOM varie selon le barème, le territoire et l’organisme concerné. Retrouvez les CTP, les rubriques DSN et les modalités de régularisation.",
+      "publishedAt": "2026-10-19T04:00:00+00:00",
+      "discoveredAt": "2026-10-19T17:37:51.770596+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Comment déclarer en DSN l’exonération France ruralités revitalisation (ZFRR)",
+      "url": "https://www.legisocial.fr/paie/reductions-de-cotisations-sociales/comment-declarer-dsn-exoneration-france-ruralites-revitalisation-zfrr.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Comment déclarer l’exonération ZFRR en DSN ? CTP 099, code individuel 916, bases assujetties, signes des montants et correction des erreurs déclaratives.",
+      "publishedAt": "2026-10-19T04:00:00+00:00",
+      "discoveredAt": "2026-10-19T17:37:51.770729+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Comment déclarer en DSN l’exonération aide à domicile ?",
+      "url": "https://www.legisocial.fr/paie/reductions-de-cotisations-sociales/comment-declarer-dsn-exoneration-aide-domicile.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’exonération aide à domicile nécessite une déclaration des heures éligibles, de l’assiette et du montant exonéré. Retrouvez les rubriques DSN à renseigner, les CTP à utiliser et les modalités de correction.",
+      "publishedAt": "2026-10-19T04:00:00+00:00",
+      "discoveredAt": "2026-10-19T17:37:51.771156+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Voitures compactes",
+      "url": "https://www.quechoisir.org/comparatif-voiture-compacte-n1/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Les voitures compactes représentent un segment très convoité par tous les constructeurs et chacun y va de son modèle. Les versions les plus récentes (Volkswagen Golf, Renault Megane, Audi A3, Peugeot 308…) reçoivent désormais un équipement technologique relativement important et de nombreuses aides à la conduite (surveillance des angles morts, alerte de franchissement de ligne continue, régulateur de vitesse adaptatif…).",
+      "publishedAt": "2026-10-19T03:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:53.050711+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Voitures routières",
+      "url": "https://www.quechoisir.org/comparatif-voiture-routiere-n5/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Confortables et cossues, les routières permettent de voyager dans de très bonnes conditions. Les plus haut de gamme (Mercedes Classe C, BMW Série 3, Renault Laguna…) sont dotées d'équipements dernier cri (voiture connectée, climatisation 4 zones…) et leur ergonomie doit être irréprochable pour en maîtriser toutes les subtilités.",
+      "publishedAt": "2026-10-19T03:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:53.051040+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Voitures SUV et 4x4",
+      "url": "https://www.quechoisir.org/comparatif-voiture-4x4-suv-n9/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Baroudeurs ou plutôt urbains, les 4x4 (Land Rover Evoque, Mercedes Classe GLK, Nissan Pathfinder…) et SUV (Nissan Qashqai, Peugeot 3008, Volkswagen Tiguan…) se déclinent en diverses versions, courtes ou longues, permettant de transporter jusqu'à 7 personnes. Certains sont même proposés en version à deux ou quatre roues motrices (Dacia Duster, Ford, Kuga, BMW X3 et X5…).",
+      "publishedAt": "2026-10-19T03:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:53.051201+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Voitures électriques",
+      "url": "https://www.quechoisir.org/comparatif-voitures-electriques-n108194/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "L'interdiction de la vente de voitures neuves à moteur thermique en 2035 dans l'Union européenne a boosté le marché des voitures électriques. L’infrastructure des stations de recharge et l’autonomie encore limitée de la majorité des modèles disponibles méritent certes d’être améliorées, mais les avantages des voitures électriques sont de taille : pas d’émissions polluantes directes ni de gaz à effet de serre, coût à l’usage et entretien sensiblement inférieurs à ceux d’une voiture thermique, etc. Et même si leur bilan carbone sur le cycle de vie est loin d’être insignifiant, il reste meilleur que celui des voitures essence et diesel.",
+      "publishedAt": "2026-10-19T03:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:53.051406+00:00",
+      "topics": [
+        "Achat",
+        "Entretien",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Voitures d'occasion",
+      "url": "https://www.quechoisir.org/comparatif-voiture-occasion-n164888/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Le marché de la voiture d’occasion ne cesse de croître pour être désormais trois fois supérieur à celui de la voiture neuve. Les prix d’achat plus avantageux ne sont sûrement pas étrangers à cet engouement pour la seconde main. Ce test regroupe les voitures que nous avons précédemment testées, avec un protocole exigeant, et qui ne sont plus commercialisées en tant que véhicules neufs par les fabricants et les concessionnaires. Elles ont depuis été remplacées par une nouvelle génération ou la motorisation testée n’est plus disponible dans les catalogues des constructeurs. Attention, les résultats de ce test sont ceux obtenus avec les voitures neuves, nous ne les avons pas retestées d’occasion. Mais nos évaluations ainsi que nos avis d’experts vous permettront de disposer des informations nécessaires pour évaluer les performances des voitures au moment de leur mise en vente sur le marché du neuf.",
+      "publishedAt": "2026-10-19T03:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:53.051835+00:00",
+      "topics": [
+        "Achat"
+      ]
     },
     {
       "theme": "Auto",
@@ -2122,17 +2319,6 @@
       "summary": "En application du RGPD, les candidats à l’embauche et d’anciens salariés peuvent exercer leur droit à l’effacement de leurs",
       "publishedAt": "2026-10-06T14:31:44+00:00",
       "discoveredAt": "2026-10-06T20:27:03.287962+00:00",
-      "topics": []
-    },
-    {
-      "theme": "Cuisine",
-      "title": "Alimentation et nutrition humaine",
-      "url": "https://www.anses.fr/fr/thematique/alimentation-et-nutrition-humaine",
-      "source": "ANSES",
-      "sourceKind": "OFFICIEL",
-      "summary": "Notre alimentation est au cœur de notre quotidien. Saine et sûre, elle est un allié puissant pour notre santé. Pourtant, un déséquilibre nutritionnel ou des aliments contaminés peuvent toutefois nous exposer à des risques immédiats ou à des maladies chroniques. L’Anses apporte son expertise scientifique à toutes les étapes de la chaîne alimentaire, depuis la production des aliments d’origine animale ou végétale jusqu’à l’assiette du consommateur. Elle évalue les risques liés à la contamination des aliments par des agents pathogènes et des substances toxiques. Elle évalue également la qualité nutritionnelle et les risques liés à l’inactivité physique et la sédentarité.Découvrez tous nos articles \"Alimentation et nutrition humaine\"",
-      "publishedAt": "2026-10-06T12:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:49:15.727631+00:00",
       "topics": []
     },
     {
@@ -6692,17 +6878,6 @@
     },
     {
       "theme": "Auto",
-      "title": "Comparatif - Voitures compactes",
-      "url": "https://www.quechoisir.org/comparatif-voiture-compacte-n1/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Les voitures compactes représentent un segment très convoité par tous les constructeurs et chacun y va de son modèle. Les versions les plus récentes (Volkswagen Golf, Renault Megane, Audi A3, Peugeot 308…) reçoivent désormais un équipement technologique relativement important et de nombreuses aides à la conduite (surveillance des angles morts, alerte de franchissement de ligne continue, régulateur de vitesse adaptatif…).",
-      "publishedAt": "2026-09-09T03:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:53.050711+00:00",
-      "topics": []
-    },
-    {
-      "theme": "Auto",
       "title": "Comparatif - Voitures citadines",
       "url": "https://www.quechoisir.org/comparatif-voiture-citadine-n3/",
       "source": "Que Choisir",
@@ -6711,43 +6886,6 @@
       "publishedAt": "2026-09-09T03:00:00+00:00",
       "discoveredAt": "2026-09-18T22:48:53.050881+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Comparatif - Voitures routières",
-      "url": "https://www.quechoisir.org/comparatif-voiture-routiere-n5/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Confortables et cossues, les routières permettent de voyager dans de très bonnes conditions. Les plus haut de gamme (Mercedes Classe C, BMW Série 3, Renault Laguna…) sont dotées d'équipements dernier cri (voiture connectée, climatisation 4 zones…) et leur ergonomie doit être irréprochable pour en maîtriser toutes les subtilités.",
-      "publishedAt": "2026-09-09T03:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:53.051040+00:00",
-      "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Comparatif - Voitures SUV et 4x4",
-      "url": "https://www.quechoisir.org/comparatif-voiture-4x4-suv-n9/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Baroudeurs ou plutôt urbains, les 4x4 (Land Rover Evoque, Mercedes Classe GLK, Nissan Pathfinder…) et SUV (Nissan Qashqai, Peugeot 3008, Volkswagen Tiguan…) se déclinent en diverses versions, courtes ou longues, permettant de transporter jusqu'à 7 personnes. Certains sont même proposés en version à deux ou quatre roues motrices (Dacia Duster, Ford, Kuga, BMW X3 et X5…).",
-      "publishedAt": "2026-09-09T03:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:53.051201+00:00",
-      "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Comparatif - Voitures électriques",
-      "url": "https://www.quechoisir.org/comparatif-voitures-electriques-n108194/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "L'interdiction de la vente de voitures neuves à moteur thermique en 2035 dans l'Union européenne a boosté le marché des voitures électriques. L’infrastructure des stations de recharge et l’autonomie encore limitée de la majorité des modèles disponibles méritent certes d’être améliorées, mais les avantages des voitures électriques sont de taille : pas d’émissions polluantes directes ni de gaz à effet de serre, coût à l’usage et entretien sensiblement inférieurs à ceux d’une voiture thermique, etc. Et même si leur bilan carbone sur le cycle de vie est loin d’être insignifiant, il reste meilleur que celui des voitures essence et diesel.",
-      "publishedAt": "2026-09-09T03:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:53.051406+00:00",
-      "topics": [
-        "Achat",
-        "Entretien",
-        "Carburant"
-      ]
     },
     {
       "theme": "Paie",
@@ -6759,19 +6897,6 @@
       "publishedAt": "2026-09-08T14:34:52+00:00",
       "discoveredAt": "2026-09-18T22:48:31.395794+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Comparatif - Voitures d'occasion",
-      "url": "https://www.quechoisir.org/comparatif-voiture-occasion-n164888/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Le marché de la voiture d’occasion ne cesse de croître pour être désormais trois fois supérieur à celui de la voiture neuve. Les prix d’achat plus avantageux ne sont sûrement pas étrangers à cet engouement pour la seconde main. Ce test regroupe les voitures que nous avons précédemment testées, avec un protocole exigeant, et qui ne sont plus commercialisées en tant que véhicules neufs par les fabricants et les concessionnaires. Elles ont depuis été remplacées par une nouvelle génération ou la motorisation testée n’est plus disponible dans les catalogues des constructeurs. Attention, les résultats de ce test sont ceux obtenus avec les voitures neuves, nous ne les avons pas retestées d’occasion. Mais nos évaluations ainsi que nos avis d’experts vous permettront de disposer des informations nécessaires pour évaluer les performances des voitures au moment de leur mise en vente sur le marché du neuf.",
-      "publishedAt": "2026-09-02T03:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:53.051835+00:00",
-      "topics": [
-        "Achat"
-      ]
     },
     {
       "theme": "Cuisine",
