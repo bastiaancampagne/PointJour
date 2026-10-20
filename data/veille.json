@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-10-20T07:49:33.445419+00:00",
+  "generated_at": "2026-10-20T13:44:32.376556+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Ford Mustang VI. Un prototype de pick-up fabriqué en secret par le constructeur",
+      "url": "https://www.largus.fr/actualite-automobile/ford-mustang-vi-un-prototype-de-pick-up-fabrique-en-secret-par-le-constructeur-40013744.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Ford a construit une version pick-up de la Mustang de 6e génération, et l’a gardée secrete jusqu’à aujourd’hui. Ce prototype, qui rejoint la collection de véhicules historiques de la marque, souligne à quel point la « pony car » sert de base à nombre d’expérimentations.",
+      "publishedAt": "2026-10-20T13:03:00+00:00",
+      "discoveredAt": "2026-10-20T13:43:48.620712+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Alimentation et nutrition humaine",
+      "url": "https://www.anses.fr/fr/thematique/alimentation-et-nutrition-humaine",
+      "source": "ANSES",
+      "sourceKind": "OFFICIEL",
+      "summary": "Notre alimentation est au cœur de notre quotidien. Saine et sûre, elle est un allié puissant pour notre santé. Pourtant, un déséquilibre nutritionnel ou des aliments contaminés peuvent toutefois nous exposer à des risques immédiats ou à des maladies chroniques. L’Anses apporte son expertise scientifique à toutes les étapes de la chaîne alimentaire, depuis la production des aliments d’origine animale ou végétale jusqu’à l’assiette du consommateur. Elle évalue les risques liés à la contamination des aliments par des agents pathogènes et des substances toxiques. Elle évalue également la qualité nutritionnelle et les risques liés à l’inactivité physique et la sédentarité.Découvrez tous nos articles \"Alimentation et nutrition humaine\"",
+      "publishedAt": "2026-10-20T12:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:49:15.727631+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Hôtels, cafés, restaurants : revalorisation des salaires minimaux au 1er novembre 2026",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/hotels-cafes-restaurants-revalorisation-des-salaires-minimaux-au-1er-novembre-2026",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-20T11:30:00+00:00",
+      "discoveredAt": "2026-10-20T13:43:42.041211+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "20 octobre 12h31 Indemnité de congés payés : un nouvel exemple de prime de fin d'année à exclure de l'assiette de calcul Social Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/indemnite-de-conges-payes-un-nouvel-exemple-de-prime-de-fin-d-annee-a-exclure-de-l-assiette-de-calcul",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans une affaire jugée le 30 septembre 2026, la Cour de cassation rappelle aux employeurs un des principes de calcul d’une indemnité de",
+      "publishedAt": "2026-10-20T10:31:20+00:00",
+      "discoveredAt": "2026-10-20T13:43:37.318020+00:00",
+      "topics": [
+        "Congés"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Sauce trop pimentée : l'ingrédient magique pour adoucir votre plat sans tout recommencer",
+      "url": "https://www.750g.com/sauce-trop-pimentee-l-ingredient-magique-pour-adoucir-votre-plat-sans-tout-recommencer-a44749.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Vous vous apprêtez à passer à table et réalisez que la sauce qui devait accompagner votre viande ou votre poison est beaucoup trop pimentée ? Pas de panique, le chef Thibaut Spiwack vous donne une astuce toute simple pour la rattraper !",
+      "publishedAt": "2026-10-20T10:30:00+00:00",
+      "discoveredAt": "2026-10-20T13:44:17.696132+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Prix Honda Civic (2026). Nouveaux équipements pour la berline hybride",
+      "url": "https://www.largus.fr/actualite-automobile/prix-honda-civic-2026-nouveaux-equipements-pour-la-berline-hybride-40013701.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "La Honda Civic reçoit de nouveaux équipements dans certaines finitions, parmi lesquels la simulation de boîte de vitesses S+ Shift. Ses tarifs augmentent de 50 € mais, disponible à partir de 36 920 €, la berline hybride demeure moins chère que les Toyota Corolla et Volkswagen Golf équivalentes.",
+      "publishedAt": "2026-10-20T09:43:00+00:00",
+      "discoveredAt": "2026-10-20T13:43:48.620905+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Appel à témoignages - Recharge de voiture électrique",
+      "url": "https://www.quechoisir.org/appel-a-temoignages-recharge-de-voiture-electrique-n178894/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "",
+      "publishedAt": "2026-10-20T07:20:57+00:00",
+      "discoveredAt": "2026-10-20T13:43:49.232306+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "BYD Atto 8 (2027). Ce SUV électrique chinois promet 7 places, 775 ch et une recharge en 9 minutes",
@@ -26,6 +110,20 @@
       "topics": []
     },
     {
+      "theme": "Paie",
+      "title": "Comment déclarer un apprenti en DSN ?",
+      "url": "https://www.legisocial.fr/infos-conseils/comment-declarer-apprentis-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Déclarer la rémunération d’un apprenti nécessite de distinguer salaire réel, assiette exonérée et cotisations dues. Retrouvez les rubriques DSN et des exemples chiffrés pour les secteurs privé, agricole et public.",
+      "publishedAt": "2026-10-20T04:00:00+00:00",
+      "discoveredAt": "2026-10-20T13:43:34.262624+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations"
+      ]
+    },
+    {
       "theme": "Auto",
       "title": "Actualité - Vols Volotea annulés : la galère des passagers",
       "url": "https://www.quechoisir.org/actualite-vols-volotea-annules-la-galere-des-passagers-n178890/",
@@ -36,6 +134,20 @@
       "discoveredAt": "2026-10-20T01:58:29.647077+00:00",
       "topics": [
         "Achat"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Actualité - Alimentation, hygiène, droguerie - Les vrais chiffres de l’inflation",
+      "url": "https://www.quechoisir.org/actualite-alimentation-hygiene-droguerie-les-vrais-chiffres-de-l-inflation-n110542/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Depuis 2020 et les crises successives (covid, explosion des tarifs de l’énergie, hausses des cours des matières premières, conflits armés…), les prix des produits de grande consommation (alimentation, hygiène-beauté, entretien) ont connu une inflation inédite. Dès 2022, cette inflation a gagné les autres secteurs économiques (produits importés, services). Pour évaluer l’inflation réelle subie par les consommateurs, nous utilisons nos propres relevés en magasins ou via nos comparateurs (énergie, assurance…). Chaque mois, nous mettons à jour nos données sur l’évolution des prix afin de suivre au plus près ce que paient les consommateurs. Nous avons ainsi pu mesurer l’inflation réelle depuis fin 2021.",
+      "publishedAt": "2026-10-20T01:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.839675+00:00",
+      "topics": [
+        "Achat",
+        "Entretien"
       ]
     },
     {
@@ -115,17 +227,6 @@
         "Achat",
         "Carburant"
       ]
-    },
-    {
-      "theme": "Cuisine",
-      "title": "Alimentation et nutrition humaine",
-      "url": "https://www.anses.fr/fr/thematique/alimentation-et-nutrition-humaine",
-      "source": "ANSES",
-      "sourceKind": "OFFICIEL",
-      "summary": "Notre alimentation est au cœur de notre quotidien. Saine et sûre, elle est un allié puissant pour notre santé. Pourtant, un déséquilibre nutritionnel ou des aliments contaminés peuvent toutefois nous exposer à des risques immédiats ou à des maladies chroniques. L’Anses apporte son expertise scientifique à toutes les étapes de la chaîne alimentaire, depuis la production des aliments d’origine animale ou végétale jusqu’à l’assiette du consommateur. Elle évalue les risques liés à la contamination des aliments par des agents pathogènes et des substances toxiques. Elle évalue également la qualité nutritionnelle et les risques liés à l’inactivité physique et la sédentarité.Découvrez tous nos articles \"Alimentation et nutrition humaine\"",
-      "publishedAt": "2026-10-19T12:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:49:15.727631+00:00",
-      "topics": []
     },
     {
       "theme": "Cuisine",
@@ -6636,20 +6737,6 @@
     },
     {
       "theme": "Auto",
-      "title": "Actualité - Alimentation, hygiène, droguerie - Les vrais chiffres de l’inflation",
-      "url": "https://www.quechoisir.org/actualite-alimentation-hygiene-droguerie-les-vrais-chiffres-de-l-inflation-n110542/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Depuis 2020 et les crises successives (covid, explosion des tarifs de l’énergie, hausses des cours des matières premières, conflits armés…), les prix des produits de grande consommation (alimentation, hygiène-beauté, entretien) ont connu une inflation inédite. Dès 2022, cette inflation a gagné les autres secteurs économiques (produits importés, services). Pour évaluer l’inflation réelle subie par les consommateurs, nous utilisons nos propres relevés en magasins ou via nos comparateurs (énergie, assurance…). Chaque mois, nous mettons à jour nos données sur l’évolution des prix afin de suivre au plus près ce que paient les consommateurs. Nous avons ainsi pu mesurer l’inflation réelle depuis fin 2021.",
-      "publishedAt": "2026-09-16T01:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.839675+00:00",
-      "topics": [
-        "Achat",
-        "Entretien"
-      ]
-    },
-    {
-      "theme": "Auto",
       "title": "Actualité - Que vaut le Lundi 27, le nouveau vélo électrique urbain de Moustache ?",
       "url": "https://www.quechoisir.org/actualite-que-vaut-le-lundi-27-le-nouveau-velo-electrique-urbain-de-moustache-n178194/",
       "source": "Que Choisir",
@@ -7050,6 +7137,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
