@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-19T22:32:53.430508+00:00",
+  "generated_at": "2026-10-20T01:59:10.899348+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Actualité - Vols Volotea annulés : la galère des passagers",
+      "url": "https://www.quechoisir.org/actualite-vols-volotea-annules-la-galere-des-passagers-n178890/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Très présente sur les liaisons régionales françaises et vers l’Europe du Sud, Volotea rencontre de sérieuses difficultés financières. Lestée d’une lourde dette et pénalisée par la hausse des prix du kérosène, la compagnie aérienne annule des centaines de vols cet automne. Vacances bouleversées, service client évasif, remboursements tardifs… de nombreux lecteurs de Que Choisir racontent comment leur billet d’avion pas cher s’est mué en plan galère.",
+      "publishedAt": "2026-10-20T01:00:00+00:00",
+      "discoveredAt": "2026-10-20T01:58:29.647077+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -7013,11 +7026,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
