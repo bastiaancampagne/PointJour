@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-20T13:44:32.376556+00:00",
+  "generated_at": "2026-10-20T18:36:40.381618+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Pneus hiver, chaînes : quelles sont vos obligations jusqu’au 31 mars 2027 ?",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A14389",
+      "source": "Service-Public",
+      "sourceKind": "OFFICIEL",
+      "summary": "Pneus hiver, chaînes : quelles sont vos obligations à partir du 1er novembre ?",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-20T18:35:41.632805+00:00",
+      "topics": [
+        "Pneus"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-20T18:24:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Effet waouh garanti à Halloween : la recette facile des bougies trompe-l'œil comestibles façon Raffaello",
+      "url": "https://www.750g.com/effet-waouh-garanti-a-halloween-la-recette-facile-des-bougies-trompe-l-oeil-comestibles-facon-raffaello-a44732.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Envie d'impressionner vos invités avec une décoration de table effrayante et terriblement gourmande ? Découvrez comment réaliser des bougies entièrement comestibles au bon goût de noix de coco. Un trompe-l'œil parfait, inratable et bluffant.",
+      "publishedAt": "2026-10-20T15:00:00+00:00",
+      "discoveredAt": "2026-10-20T18:36:20.117073+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Ford Mustang VI. Un prototype de pick-up fabriqué en secret par le constructeur",
@@ -124,6 +162,19 @@
       ]
     },
     {
+      "theme": "Paie",
+      "title": "Bien déclarer le temps de travail du salarié en DSN",
+      "url": "https://www.legisocial.fr/temps-travail-conges-absences/duree-travail-heures-supplementaires/declarer-temps-travail-salarie-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Heures rémunérées, absences et jours du plafond : quelles rubriques renseigner pour bien déclarer le temps de travail du salarié en DSN ? Retrouvez les règles et des exemples.",
+      "publishedAt": "2026-10-20T04:00:00+00:00",
+      "discoveredAt": "2026-10-20T18:35:30.227761+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
       "theme": "Auto",
       "title": "Actualité - Vols Volotea annulés : la galère des passagers",
       "url": "https://www.quechoisir.org/actualite-vols-volotea-annules-la-galere-des-passagers-n178890/",
@@ -148,20 +199,6 @@
       "topics": [
         "Achat",
         "Entretien"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-19T18:23:56+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
@@ -7137,11 +7174,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
