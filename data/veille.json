@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T18:36:40.381618+00:00",
+  "generated_at": "2026-10-20T22:29:17.646491+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -172,6 +172,20 @@
       "discoveredAt": "2026-10-20T18:35:30.227761+00:00",
       "topics": [
         "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Comment déclarer la monétisation des jours de repos forfait jours en DSN ?",
+      "url": "https://www.legisocial.fr/temps-travail-conges-absences/duree-travail-heures-supplementaires/comment-declarer-monetisation-jours-repos-forfait-jours-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La monétisation des jours de repos d’un salarié au forfait jours nécessite plusieurs déclarations en DSN. Retrouvez les blocs à renseigner pour la rémunération, l’exonération fiscale et les réductions de cotisations.",
+      "publishedAt": "2026-10-20T04:00:00+00:00",
+      "discoveredAt": "2026-10-20T22:28:11.091276+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations"
       ]
     },
     {
@@ -7174,6 +7188,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
