@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-10-21T01:47:24.069026+00:00",
+  "generated_at": "2026-10-21T07:53:43.006432+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-21T07:24:17+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "21 octobre 08h04 Le droit à la vie privée ne remet pas en cause un licenciement pour des propos discriminants et haineux tenus dans une salle de pause Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-droit-a-la-vie-privee-ne-remet-pas-en-cause-un-licenciement-pour-des-propos-discriminants-et-haineux-tenus-dans-une-salle-de-pause",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le salarié a droit au respect de l’intimité de sa vie privée sur son lieu de travail. Pour autant, des propos discriminants et haineux",
+      "publishedAt": "2026-10-21T06:04:23+00:00",
+      "discoveredAt": "2026-10-21T07:52:28.137035+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Mondial de l’auto 2026. Découvrez les coups de coeur des journalistes de l’AMAM",
+      "url": "https://www.largus.fr/actualite-automobile/mondial-de-lauto-2026-decouvrez-les-coups-de-coeur-des-journalistes-de-lamam-40013952.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Les journalistes membres de l’Association des médias auto et moto (AMAM) ont profité du Mondial de l’automobile 2026 pour décerner leurs coups de cœur parmi les nombreuses nouveautés et concept cars exposés au Salon. Au total cinq modèles ont été récompensés. Voici le palmarès.",
+      "publishedAt": "2026-10-21T05:59:00+00:00",
+      "discoveredAt": "2026-10-21T07:52:45.260072+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Le délit d'entrave aux fonctions des représentants du personnel",
+      "url": "https://www.legisocial.fr/actualites-sociales/8167-delit-entrave-fonctions-representants-personnel.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Qu'est-ce que le délit d'entrave ? Comment se caractérise-t-il et que risque l'employeur ?",
+      "publishedAt": "2026-10-21T04:00:00+00:00",
+      "discoveredAt": "2026-10-21T07:52:24.447529+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "La Cour de cassation apporte des précisions sur la consultation de la messagerie instantanée d'un salarié",
+      "url": "https://www.legisocial.fr/actualites-sociales/8178-cour-cassation-apporte-precisions-consultation-messagerie-instantanee-salarie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La frontière entre vie professionnelle et vie privée au sein de l'entreprise a toujours constitué un terrain fertile en contentieux. Elle l'est d'autant plus depuis que les outils numériques (messageries électroniques, plateformes collaboratives, applications de messagerie instantanée) sont devenus le quotidien de chaque salarié.",
+      "publishedAt": "2026-10-21T04:00:00+00:00",
+      "discoveredAt": "2026-10-21T07:52:24.447862+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Plafond de la sécurité sociale 2027 : Quels sont les montants ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8197-plafond-securite-sociale-2027-sont-montants.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le BOSS confirme les valeurs du plafond de la sécurité sociale pour 2027, dans l’attente de l’arrêté. Le plafond mensuel atteindra 4 075 €, avec des conséquences sur de nombreuses variables en paie.",
+      "publishedAt": "2026-10-21T04:00:00+00:00",
+      "discoveredAt": "2026-10-21T07:52:24.448038+00:00",
+      "topics": [
+        "PMSS",
+        "Cotisations"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Actualité - Assurance : contester un refus d’indemnisation devient plus difficile",
@@ -23,20 +97,6 @@
       "discoveredAt": "2026-10-20T18:35:41.632805+00:00",
       "topics": [
         "Pneus"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-20T18:24:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
@@ -7199,6 +7259,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
