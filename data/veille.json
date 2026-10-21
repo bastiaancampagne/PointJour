@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T18:50:54.259552+00:00",
+  "generated_at": "2026-10-21T22:32:39.424596+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -35,6 +35,17 @@
       "summary": "Deux décrets publiés au Journal officiel (JO) du 21 octobre 2026 tirent les conséquences du déclassement du niveau légal au niveau",
       "publishedAt": "2026-10-21T14:15:00+00:00",
       "discoveredAt": "2026-10-21T18:49:59.655014+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "21 octobre 16h15 Prime transport, prime carburant, forfait mobilités durables : les limites sociales d'exonération sont temporairement relevées à 1 000 € Social Paye Journal officiel",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/prime-transport-prime-carburant-forfait-mobilites-durables-les-limites-sociales-d-exoneration-sont-temporairement-relevees-a-1-000-032d1f19-82ac-48d6-bd2a-5102f0fc6ca6",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Deux décrets publiés au Journal officiel (JO) du 21 octobre 2026 tirent les conséquences du déclassement du niveau légal au niveau",
+      "publishedAt": "2026-10-21T14:15:00+00:00",
+      "discoveredAt": "2026-10-21T22:31:58.308959+00:00",
       "topics": []
     },
     {
@@ -7318,9 +7329,9 @@
       "error": "HTTP Error 403: Forbidden"
     },
     {
-      "theme": "Paie",
-      "source": "Agirc-Arrco",
-      "error": "<urlopen error timed out>"
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
