@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-20T22:29:17.646491+00:00",
+  "generated_at": "2026-10-21T01:47:24.069026+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Actualité - Assurance : contester un refus d’indemnisation devient plus difficile",
+      "url": "https://www.quechoisir.org/actualite-assurance-contester-un-refus-d-indemnisation-devient-plus-difficile-n178922/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Mauvaise nouvelle pour les assurés. La Cour de cassation revient sur une jurisprudence qui leur permettait de contester plus facilement certains refus d'indemnisation. Désormais, une exclusion de garantie mal rédigée ne rend plus automatiquement inapplicables les autres exclusions figurant dans la même clause du contrat. Explications.",
+      "publishedAt": "2026-10-21T01:00:00+00:00",
+      "discoveredAt": "2026-10-21T01:46:29.734952+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Pneus hiver, chaînes : quelles sont vos obligations jusqu’au 31 mars 2027 ?",
@@ -7188,11 +7199,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
