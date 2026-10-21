@@ -1,6 +1,41 @@
 {
-  "generated_at": "2026-10-21T07:53:43.006432+00:00",
+  "generated_at": "2026-10-21T14:00:44.994337+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Combien de protéines notre corps peut-il vraiment absorber par repas : la fin du mythe scientifique des 30 grammes",
+      "url": "https://www.750g.com/combien-de-proteines-notre-corps-peut-il-vraiment-absorber-par-repas-la-fin-du-mythe-scientifique-des-30-grammes-a44755.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "On a longtemps pensé que notre organisme ne pouvait assimiler qu'une quantité limitée de protéines à chaque prise. De récentes découvertes scientifiques viennent balayer cette croyance populaire en révélant les véritables capacités d'assimilation du1",
+      "publishedAt": "2026-10-21T10:30:00+00:00",
+      "discoveredAt": "2026-10-21T14:00:30.812277+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai longue distance Omoda 9 PHEV (2026) : notre avis après 1 500 km",
+      "url": "https://www.largus.fr/actualite-automobile/essai-longue-distance-omoda-9-phev-2026-notre-avis-apres-1-500-km-40010028.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Long de 4,77 m, bardé d’équipements et animé par une mécanique hybride rechargeable de 537 ch, l’Omoda 9 vise sans complexe le segment des grands SUV familiaux. Nous avons testé les capacités de ce chinois au long d'un périple et vérifié s'il tenait sa promesse des 1 100 km d'autonomie.",
+      "publishedAt": "2026-10-21T09:55:00+00:00",
+      "discoveredAt": "2026-10-21T14:00:18.817430+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "21 octobre 11h01 Activité partielle et violences des 17 et 18 octobre 2026 : le ministère du Travail diffuse des précisions et annonce un zéro reste à charge Social Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/activite-partielle-et-violences-des-17-et-18-octobre-2026-le-ministere-du-travail-diffuse-des-precisions-et-annonce-un-zero-reste-a-charge",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "À la suite des violences urbaines du week-end du 17 et du 18 octobre 2026, le ministère du Travail a diffusé mardi 20 octobre en fin de",
+      "publishedAt": "2026-10-21T09:01:40+00:00",
+      "discoveredAt": "2026-10-21T14:00:05.367743+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -34,7 +69,7 @@
       "url": "https://www.largus.fr/actualite-automobile/mondial-de-lauto-2026-decouvrez-les-coups-de-coeur-des-journalistes-de-lamam-40013952.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "Les journalistes membres de l’Association des médias auto et moto (AMAM) ont profité du Mondial de l’automobile 2026 pour décerner leurs coups de cœur parmi les nombreuses nouveautés et concept cars exposés au Salon. Au total cinq modèles ont été récompensés. Voici le palmarès.",
+      "summary": "Les journalistes membres de l’Association des médias auto et moto (AMAM) ont profité du Mondial de l’automobile 2026 pour décerner leurs coups de cœur parmi les nombreuses nouveautés et concept-cars exposés au Salon. Au total, cinq modèles ont été récompensés. Voici le palmarès.",
       "publishedAt": "2026-10-21T05:59:00+00:00",
       "discoveredAt": "2026-10-21T07:52:45.260072+00:00",
       "topics": []
@@ -116,7 +151,7 @@
       "url": "https://www.largus.fr/actualite-automobile/ford-mustang-vi-un-prototype-de-pick-up-fabrique-en-secret-par-le-constructeur-40013744.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "Ford a construit une version pick-up de la Mustang de 6e génération, et l’a gardée secrete jusqu’à aujourd’hui. Ce prototype, qui rejoint la collection de véhicules historiques de la marque, souligne à quel point la « pony car » sert de base à nombre d’expérimentations.",
+      "summary": "Ford a construit une version pick-up de la Mustang de sixième génération et l’a gardée secrète jusqu’à aujourd’hui. Ce prototype, qui rejoint la collection de véhicules historiques de la marque, souligne à quel point la « pony car » sert de base à nombre d’expérimentations.",
       "publishedAt": "2026-10-20T13:03:00+00:00",
       "discoveredAt": "2026-10-20T13:43:48.620712+00:00",
       "topics": []
@@ -7261,14 +7296,9 @@
       "error": "HTTP Error 403: Forbidden"
     },
     {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
-    },
-    {
-      "theme": "Auto",
-      "source": "ADEME",
-      "error": "HTTP Error 403: Forbidden"
+      "theme": "Cuisine",
+      "source": "Manger Bouger",
+      "error": "HTTP Error 503: Service Unavailable"
     }
   ]
 }
