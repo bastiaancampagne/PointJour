@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-10-22T13:59:19.451123+00:00",
+  "generated_at": "2026-10-22T18:42:41.620774+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-22T18:23:47+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Vous avez un reste de potiron au frigo ? L'idée recette facile pour faire manger des légumes aux enfants sans qu'ils s'en rendent compte",
+      "url": "https://www.750g.com/vous-avez-un-reste-de-potiron-au-frigo-l-idee-recette-facile-pour-faire-manger-des-legumes-aux-enfants-sans-qu-ils-s-en-rendent-compte-a44768.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Faites manger des légumes à vos enfants avec ces petits muffins au potiron et au comté. Très gourmands, ils sont parfaits pour l'apéritif ou en entrée. Vous pouvez en plus facilement les emporter si vous êtes invité, pour faire découvrir cette délic1",
+      "publishedAt": "2026-10-22T17:00:00+00:00",
+      "discoveredAt": "2026-10-22T18:42:20.926505+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Prix Audi Q3 (2026). Nouveau moteur et puissances revues pour le SUV compact premium",
+      "url": "https://www.largus.fr/actualite-automobile/prix-audi-q3-2026-nouveau-moteur-et-puissances-revues-pour-le-suv-compact-premium-40014130.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Lancé en juin 2025, l’Audi Q3 de troisième génération continue d’étoffer sa gamme. Après le TDI quattro de 193 ch en février et le 2.0 TFSI en juillet dernier, le catalogue du SUV compact s’enrichit d’une seconde version hybride rechargeable. Le point sur la gamme de ce concurrent du BMW X1.",
+      "publishedAt": "2026-10-22T16:47:00+00:00",
+      "discoveredAt": "2026-10-22T18:42:06.270421+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Paie",
       "title": "22 octobre 14h45 Dégradations et vols liés aux violences des 17 et 18 octobre 2026 : l'URSSAF et le CPSTI en soutien des professionnels impactés Social Paye Autres sources",
@@ -67,18 +106,15 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-22T07:24:11+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
+      "theme": "Paie",
+      "title": "22 octobre 09h25 Les propositions de l'employeur faites au cours de la négociation obligatoire ne valent pas engagement unilatéral Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/les-propositions-de-l-employeur-faites-au-cours-de-la-negociation-obligatoire-ne-valent-pas-engagement-unilateral",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "À la suite de l’échec des négociations sur les salaires, des syndicats soutenaient que les propositions d’augmentation faites par",
+      "publishedAt": "2026-10-22T07:25:46+00:00",
+      "discoveredAt": "2026-10-22T18:41:53.652669+00:00",
+      "topics": []
     },
     {
       "theme": "Paie",
@@ -7462,11 +7498,6 @@
     },
     {
       "theme": "Paie",
-      "source": "Ministère du Travail",
-      "error": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
     },
@@ -7474,11 +7505,6 @@
       "theme": "Auto",
       "source": "ADEME",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Cuisine",
-      "source": "Manger Bouger",
-      "error": "HTTP Error 503: Service Unavailable"
     }
   ]
 }
