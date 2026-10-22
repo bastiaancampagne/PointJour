@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-21T22:32:39.424596+00:00",
+  "generated_at": "2026-10-22T01:41:59.817687+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Enquête - Dioxines et PCB - Le danger est confirmé",
+      "url": "https://www.quechoisir.org/enquete-dioxines-et-pcb-le-danger-est-confirme-n178830/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Cet été, l’Autorité européenne de sécurité des aliments réitérait son alerte de 2018 sur l’exposition alimentaire aux dioxines et aux PCB. Entre-temps, presque rien n’a été fait pour réduire le risque.",
+      "publishedAt": "2026-10-22T01:00:00+00:00",
+      "discoveredAt": "2026-10-22T01:41:30.044099+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Enquête - Calendriers de l’Avent beauté - Miroir, dis-moi si je pollue",
+      "url": "https://www.quechoisir.org/enquete-calendriers-de-l-avent-beaute-miroir-dis-moi-si-je-pollue-n178926/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Sous leurs dehors séduisants, les calendriers de l’Avent sont surtout des objets polluants qui entretiennent notre penchant pour la surconsommation. Loin de la bonne affaire mise en avant.",
+      "publishedAt": "2026-10-22T01:00:00+00:00",
+      "discoveredAt": "2026-10-22T01:41:30.044542+00:00",
+      "topics": [
+        "Entretien"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Sécurité routière : quels sont les véhicules qui ont le plus d’accidents ?",
@@ -7327,11 +7351,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
