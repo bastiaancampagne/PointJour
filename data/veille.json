@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-10-22T01:41:59.817687+00:00",
+  "generated_at": "2026-10-22T07:48:21.065143+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Envie de sucre : pourquoi ce gâteau sans farine ni beurre fait un carton chez les nutritionnistes",
+      "url": "https://www.750g.com/https://cuisine.750g.com/articles/envie-de-sucre-pourquoi-ce-gateau-sans-farine-ni-beurre-fait-un-carton-chez-les-nutritionnistes-a44707.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-22T07:48:10.731810+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-22T07:24:11+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Fermeture de l’A13 (2026). Durée et cause des travaux, déviations et pétition : tout ce qu’il faut savoir",
+      "url": "https://www.largus.fr/actualite-automobile/fermeture-de-la13-2026-duree-et-cause-des-travaux-deviations-et-petition-tout-ce-quil-faut-savoir-40000197.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "De novembre 2026 à août 2027, la circulation sera coupée pour travaux dans le tunnel de Saint-Cloud sur l’A13 dans le sens Paris-province. Cette situation annonce d’importantes difficultés de circulation, deux ans après une fermeture d'urgence due à un affaissement et des fissures sur la chaussée.",
+      "publishedAt": "2026-10-22T07:13:00+00:00",
+      "discoveredAt": "2026-10-22T07:48:00.863454+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Ai-je le droit d’imposer la fin du télétravail à un salarié ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/ai-je-le-droit-dimposer-la-fin-du-teletravail-a-un-salarie",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-22T04:44:00+00:00",
+      "discoveredAt": "2026-10-22T07:47:55.644549+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "DPAE en DSN : une ouverture reportée à la fin du premier semestre 2027",
+      "url": "https://www.legisocial.fr/actualites-sociales/8198-dpae-dsn-ouverture-reportee-fin-premier-semestre-2027.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le calendrier de la DPAE en DSN est de nouveau décalé. Le service devrait ouvrir à la fin du premier semestre 2027 pour les CDI et CDD du régime général, hors intérim. Son utilisation sera facultative au démarrage, les canaux habituels restant disponibles.",
+      "publishedAt": "2026-10-22T04:00:00+00:00",
+      "discoveredAt": "2026-10-22T07:47:47.980358+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Enquête - Dioxines et PCB - Le danger est confirmé",
@@ -35,20 +97,6 @@
       "publishedAt": "2026-10-21T16:02:00+00:00",
       "discoveredAt": "2026-10-21T18:50:16.530631+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-21T15:24:05+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Paie",
@@ -7361,6 +7409,11 @@
       "theme": "Cuisine",
       "source": "Manger Bouger",
       "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "theme": "Cuisine",
+      "source": "Marmiton",
+      "error": "HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently"
     }
   ]
 }
