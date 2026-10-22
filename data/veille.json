@@ -1,6 +1,45 @@
 {
-  "generated_at": "2026-10-22T07:48:21.065143+00:00",
+  "generated_at": "2026-10-22T13:59:19.451123+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "22 octobre 14h45 Dégradations et vols liés aux violences des 17 et 18 octobre 2026 : l'URSSAF et le CPSTI en soutien des professionnels impactés Social Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/degradations-et-vols-lies-aux-violences-des-17-et-18-octobre-2026-l-urssaf-et-le-cpsti-en-soutien-des-professionnels-impactes",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un communiqué de presse commun du 22 octobre 2026, l’URSSAF Caisse nationale et le CPSTI indiquent se mobiliser aux côtés des",
+      "publishedAt": "2026-10-22T12:45:00+00:00",
+      "discoveredAt": "2026-10-22T13:58:26.447549+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Connaissez-vous la croustade aux poires ? Ce dessert rustique prêt en 15 min pour moins de 3 € !",
+      "url": "https://www.750g.com/connaissez-vous-la-croustade-aux-poires-ce-dessert-rustique-pret-en-15-min-pour-moins-de-3-a44767.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Vous cherchez une idée de dessert fruité et gourmand pour régaler toute votre famille sans passer des heures en cuisine ? Alors rien de tel que la croustade aux poires ! Cette recette mêle le fondant de la poire cuite et le croquant des céréales pas1",
+      "publishedAt": "2026-10-22T10:00:00+00:00",
+      "discoveredAt": "2026-10-22T13:58:54.510767+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Bison Futé. Quelles prévisions de trafic pour ce deuxième week-end des vacances d’automne ?",
+      "url": "https://www.largus.fr/actualite-automobile/bison-fute-quelles-previsions-de-trafic-pour-ce-deuxieme-week-end-des-vacances-dautomne-40014083.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le deuxième week-end des vacances d’automne (23 au 25 octobre) devrait connaître une circulation dense en particulier le vendredi. En dehors de cette journée, Bison Futé prévoit un trafic habituel sur l’ensemble du territoire et dans les deux sens. Voici le détail des prévisions.",
+      "publishedAt": "2026-10-22T08:38:00+00:00",
+      "discoveredAt": "2026-10-22T13:58:40.011329+00:00",
+      "topics": [
+        "Entretien"
+      ]
+    },
     {
       "theme": "Cuisine",
       "title": "Envie de sucre : pourquoi ce gâteau sans farine ni beurre fait un carton chez les nutritionnistes",
@@ -15,6 +54,19 @@
       ]
     },
     {
+      "theme": "Paie",
+      "title": "Fractionnement des congés payés : faites le point !",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/fractionnement-des-conges-payes-faites-le-point",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsque les salariés prennent une partie de leur congé principal en dehors de la période qui est fixée par la loi du 1er mai au 31 octobre, ils bénéficient, sous certaines conditions, de jours de fractionnement. N’oubliez pas que dans le domaine des congés payés, vous avez la possibilité de modifier les règles de fractionnement par accord d’entreprise.",
+      "publishedAt": "2026-10-22T07:30:00+00:00",
+      "discoveredAt": "2026-10-22T13:58:34.021717+00:00",
+      "topics": [
+        "Congés"
+      ]
+    },
+    {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
       "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
@@ -26,6 +78,19 @@
       "topics": [
         "Achat",
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "22 octobre 09h20 Quand les relations de couple d'un directeur avec deux salariées justifient son licenciement pour trouble objectif Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/quand-les-relations-de-couple-d-un-directeur-avec-deux-salariees-justifient-son-licenciement-pour-trouble-objectif",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Entretenir des relations de couple avec des salariées de l'entreprise relève certes de la vie privée. Mais quand cela provient d'un",
+      "publishedAt": "2026-10-22T07:20:05+00:00",
+      "discoveredAt": "2026-10-22T13:58:28.514477+00:00",
+      "topics": [
+        "Ruptures"
       ]
     },
     {
@@ -7392,6 +7457,11 @@
     },
     {
       "theme": "Paie",
+      "source": "URSSAF",
+      "error": "Remote end closed connection without response"
+    },
+    {
+      "theme": "Paie",
       "source": "Ministère du Travail",
       "error": "HTTP Error 503: Service Unavailable"
     },
@@ -7409,11 +7479,6 @@
       "theme": "Cuisine",
       "source": "Manger Bouger",
       "error": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "theme": "Cuisine",
-      "source": "Marmiton",
-      "error": "HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Permanently"
     }
   ]
 }
