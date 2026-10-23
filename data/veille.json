@@ -1,6 +1,32 @@
 {
-  "generated_at": "2026-10-23T07:46:32.331525+00:00",
+  "generated_at": "2026-10-23T13:40:33.966625+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "23 octobre 14h34 Harcèlement moral : que dire de 279 sollicitations pendant les congés payés et des périodes d’activité partielle en moins d’un an ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/harcelement-moral-que-dire-de-279-sollicitations-pendant-les-conges-payes-et-des-periodes-d-activite-partielle-en-moins-d-un-an",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un harcèlement moral résulte d’agissements répétés. En janvier 2016, la chambre criminelle de la Cour de cassation a précisé que",
+      "publishedAt": "2026-10-23T12:34:53+00:00",
+      "discoveredAt": "2026-10-23T13:39:40.164657+00:00",
+      "topics": [
+        "Congés"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Dégradations des 17 et 18 octobre : l’URSSAF se mobilise et active des mesures d’urgence",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/degradations-des-17-et-18-octobre-lurssaf-se-mobilise-et-active-des-mesures-durgence",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-23T09:00:00+00:00",
+      "discoveredAt": "2026-10-23T13:39:48.949320+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -14,6 +40,17 @@
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking du midi",
+      "url": "https://www.cuisineaz.com/diaporamas/batch-cooking-10-recettes-du-midi-faciles-pour-la-semaine-du-26-au-30-octobre-2026-8948/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-10-23T07:20:05.630000+00:00",
+      "discoveredAt": "2026-10-23T13:40:32.469015+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
@@ -101,6 +138,17 @@
       "topics": []
     },
     {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking du soir",
+      "url": "https://www.cuisineaz.com/diaporamas/menu-batch-cooking-du-26-au-30-octobre-2026-10-recettes-du-soir-a-faire-en-1-h-seulement-9082/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-10-23T03:00:04.990000+00:00",
+      "discoveredAt": "2026-10-23T13:40:33.191853+00:00",
+      "topics": []
+    },
+    {
       "theme": "Auto",
       "title": "Comment nous testons - Pâtes à tartiner - Le protocole",
       "url": "https://www.quechoisir.org/comment-nous-testons-pates-a-tartiner-le-protocole-n73939/",
@@ -112,6 +160,31 @@
       "topics": [
         "Réparation"
       ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Guide d'achat - Comment bien choisir son foie gras",
+      "url": "https://www.quechoisir.org/guide-d-achat-foie-gras-n5079/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Oie ou canard, entier ou bloc, frais, mi-cuit ou en conserve… ou préférer un foie gras cru à préparer soi-même. Pas facile de s'y retrouver entre les différentes dénominations et les modes de préparation. Nos conseils pour choisir en connaissance de cause.",
+      "publishedAt": "2026-10-23T01:00:00+00:00",
+      "discoveredAt": "2026-10-23T13:39:56.518472+00:00",
+      "topics": [
+        "Achat",
+        "Réparation"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "23 octobre 00h30 L’employeur qui réalise des économies sur une activité sociale et culturelle qu’il gère à la place du CSE doit-il les reverser au comité ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/l-employeur-qui-realise-des-economies-sur-une-activite-sociale-et-culturelle-qu-il-gere-a-la-place-du-cse-doit-il-les-reverser-au-comite",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Pour la première fois, la Cour de cassation se prononce sur les nouvelles règles prévues depuis 2018 sur l’évolution du montant du",
+      "publishedAt": "2026-10-22T22:30:00+00:00",
+      "discoveredAt": "2026-10-23T13:39:42.093548+00:00",
+      "topics": []
     },
     {
       "theme": "Cuisine",
@@ -170,7 +243,7 @@
       "url": "https://www.largus.fr/actualite-automobile/bison-fute-quelles-previsions-de-trafic-pour-ce-deuxieme-week-end-des-vacances-dautomne-40014083.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "Le deuxième week-end des vacances d’automne (23 au 25 octobre) devrait connaître une circulation dense en particulier le vendredi. En dehors de cette journée, Bison Futé prévoit un trafic habituel sur l’ensemble du territoire et dans les deux sens. Voici le détail des prévisions.",
+      "summary": "Le deuxième week-end des vacances d’automne (23 au 25 octobre) devrait connaître une circulation dense, en particulier le vendredi. En dehors de cette journée, Bison Futé annonce un trafic habituel sur l’ensemble du territoire et dans les deux sens. Voici le détail des prévisions.",
       "publishedAt": "2026-10-22T08:38:00+00:00",
       "discoveredAt": "2026-10-22T13:58:40.011329+00:00",
       "topics": [
@@ -317,6 +390,17 @@
       "summary": "Deux décrets publiés au Journal officiel (JO) du 21 octobre 2026 tirent les conséquences du déclassement du niveau légal au niveau",
       "publishedAt": "2026-10-21T14:15:00+00:00",
       "discoveredAt": "2026-10-21T22:31:58.308959+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking Thermomix",
+      "url": "https://www.cuisineaz.com/diaporamas/batch-cooking-10-recettes-du-soir-a-faire-au-thermomix-pour-la-semaine-du-26-au-30-octobre-2026-8947/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-10-21T12:00:05.100000+00:00",
+      "discoveredAt": "2026-10-23T13:40:33.907000+00:00",
       "topics": []
     },
     {
@@ -7598,11 +7682,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
