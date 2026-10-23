@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T01:43:10.566055+00:00",
+  "generated_at": "2026-10-23T07:46:32.331525+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,11 +8,109 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-22T18:23:47+00:00",
+      "publishedAt": "2026-10-23T07:24:17+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Nissan Juke (2026). Une nouvelle version exclusive pour coiffer la gamme",
+      "url": "https://www.largus.fr/actualite-automobile/nissan-juke-2026-une-nouvelle-version-exclusive-pour-coiffer-la-gamme-40014224.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "En attendant son remplacement au printemps 2027 par une troisième génération 100 % électrique, l’actuel Nissan Juke poursuit sa carrière avec l’arrivée d’une inédite finition Pulse qui vient coiffer la gamme. Affichée à partir de 31 500 €, celle-ci profite d’un look spécifique et d’une dotation complète.",
+      "publishedAt": "2026-10-23T05:57:00+00:00",
+      "discoveredAt": "2026-10-23T07:46:02.363739+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Polestar 5 Performance (2026) : l'art d'attirer la tension",
+      "url": "https://www.largus.fr/actualite-automobile/essai-polestar-5-performance-2026-lart-dattirer-la-tension-40013734.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Division premium de Volvo, Polestar dévoile son nouveau pinacle : la Polestar 5 à dimensions, tension de batterie et puissance impressionnantes. Mais résumer cette élégante berline électrique à ses 884 ch serait bien réducteur…",
+      "publishedAt": "2026-10-23T05:54:00+00:00",
+      "discoveredAt": "2026-10-23T07:46:02.363854+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Licenciement pour un fait tiré de la vie privée : le comportement du salarié doit créer un trouble objectif caractérisé",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/licenciement-pour-un-fait-tire-de-la-vie-privee-le-comportement-du-salarie-doit-creer-un-trouble-objectif-caracterise",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-23T05:30:00+00:00",
+      "discoveredAt": "2026-10-23T07:45:55.829930+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Faute inexcusable et exposition à l’amiante : quand l'employeur est condamné…",
+      "url": "https://www.legisocial.fr/actualites-sociales/8180-faute-inexcusable-exposition-amiante-employeur-condamne.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Faute inexcusable et exposition à l’amiante : l’absence d’information des salariés et l’inefficacité des équipements de protection suffisent à engager la responsabilité de l’employeur.",
+      "publishedAt": "2026-10-23T04:00:00+00:00",
+      "discoveredAt": "2026-10-23T07:45:46.571988+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Indemnité carburant : l’aide de 100 € reconduite et élargie pour fin 2026",
+      "url": "https://www.legisocial.fr/actualites-sociales/8199-indemnite-carburant-aide-100-reconduite-elargie-fin-2026.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’aide carburant de 100 € est renouvelée pour le dernier trimestre 2026, avec un plafond de ressources relevé. Selon leur situation, les travailleurs bénéficient d’un versement automatique ou doivent déposer une demande à partir du 27 octobre.",
+      "publishedAt": "2026-10-23T04:00:00+00:00",
+      "discoveredAt": "2026-10-23T07:45:46.572100+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Harcèlement moral : deux arrêts précisent les règles de prescription et les conséquences d’un départ à la retraite",
+      "url": "https://www.legisocial.fr/actualites-sociales/8181-harcelement-moral-arrets-precisent-regles-prescription-consequences-depart-retraite.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Par deux arrêts rendus le 7 octobre 2026, la chambre sociale de la Cour de cassation apporte des précisions importantes en matière de harcèlement moral. La première décision concerne le délai de prescription applicable à l’action fondée sur le manquement de l’employeur à son obligation de prévention. La seconde détermine les conséquences du départ à la retraite d’un salarié dont le licenciement est reconnu nul en raison d’un harcèlement moral.",
+      "publishedAt": "2026-10-23T04:00:00+00:00",
+      "discoveredAt": "2026-10-23T07:45:46.572229+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Inaptitude : une offre de reclassement conforme peut suffire",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1698-inaptitude-offre-reclassement-conforme-suffire.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans son arrêt du 30 septembre 2026, la Cour de cassation rappelle qu’une proposition de reclassement conforme aux conditions légales permet de présumer l’obligation de reclassement satisfaite. Si le salarié refuse cette offre, l’employeur n’a pas à démontrer l’absence de tout autre poste disponible. Pour les services RH et paie, l’enjeu consiste à sécuriser la proposition et à suivre les obligations salariales jusqu’à la rupture.",
+      "publishedAt": "2026-10-23T04:00:00+00:00",
+      "discoveredAt": "2026-10-23T07:45:46.572337+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Comment nous testons - Pâtes à tartiner - Le protocole",
+      "url": "https://www.quechoisir.org/comment-nous-testons-pates-a-tartiner-le-protocole-n73939/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Nous avons testé 30 pâtes à tartiner à base de cacahuètes, noisettes, pistaches ou amandes. La majorité des références étudiées sont à la noisette et au cacao, comme le célèbre Nutella. D’autres sont des purées 100 % oléagineux ou des préparations sucrées. Elles sont vendues en supermarché ou en magasin bio, de marques nationales, de distributeur, aussi bien bio que conventionnelles. Des analyses nutritionnelles, sensorielles et une recherche des contaminants ont été menées en laboratoire. Une revue de la liste des ingrédients et des mentions de l’emballage a également été réalisée.",
+      "publishedAt": "2026-10-23T01:00:00+00:00",
+      "discoveredAt": "2026-10-23T07:46:03.034441+00:00",
+      "topics": [
+        "Réparation"
       ]
     },
     {
@@ -7500,6 +7598,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
