@@ -1,6 +1,58 @@
 {
-  "generated_at": "2026-10-23T13:40:33.966625+00:00",
+  "generated_at": "2026-10-23T18:33:13.575744+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-23T18:23:55+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Faites le plein d'oméga-3 : la recette géniale et très économique de Laurent Mariotte pour revisiter le croque-monsieur",
+      "url": "https://www.750g.com/faites-le-plein-d-omega-3-la-recette-geniale-et-tres-economique-de-laurent-mariotte-pour-revisiter-le-croque-monsieur-a44776.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Laurent Mariotte a le chic pour toujours nous proposer des recettes à la fois économiques, savoureuses et respectueuses de notre santé, et de l'environnement. En bref, des recettes vertueuses, à reproduire le plus vite possible à la maison. Exemple1",
+      "publishedAt": "2026-10-23T16:00:00+00:00",
+      "discoveredAt": "2026-10-23T18:32:58.252669+00:00",
+      "topics": [
+        "Économique"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Point S rembourse la TVA pour l'achat de pneus Bridgestone et offre 500 chariots de courses de 150 € chacun",
+      "url": "https://www.largus.fr/actualite-automobile/point-s-rembourse-la-tva-pour-lachat-de-pneus-bridgestone-et-offre-500-chariots-de-course-de-150-e-chacun-40014376.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Du 2 au 28 novembre, Point S relance son opération « TVA remboursée ». L’offre concerne les pneus Bridgestone. Elle est valable dès deux pneus achetés et montés dans l’un des centres participants. En parallèle, l’enseigne met en jeu 500 chariots de courses d’une valeur unitaire de 150 €.",
+      "publishedAt": "2026-10-23T14:22:00+00:00",
+      "discoveredAt": "2026-10-23T18:32:46.539148+00:00",
+      "topics": [
+        "Achat",
+        "Pneus"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "23 octobre 15h15 Lorsque la convention collective mentionne les éléments expressément exclus de l’assiette de la prime annuelle, aucun élément non mentionné ne peut être écarté Paye",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/lorsque-la-convention-collective-mentionne-les-elements-expressement-exclus-de-l-assiette-de-la-prime-annuelle-aucun-element-non-mentionne-ne-peut-etre-ecarte-dc9d6e48-a571-49b4-a64c-5c5b421aa93b",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans une affaire jugée le 14 octobre 2026, la Cour de cassation s’est penchée sur la question des éléments de salaire à retenir dans",
+      "publishedAt": "2026-10-23T13:15:00+00:00",
+      "discoveredAt": "2026-10-23T18:32:34.183087+00:00",
+      "topics": []
+    },
     {
       "theme": "Paie",
       "title": "23 octobre 14h34 Harcèlement moral : que dire de 279 sollicitations pendant les congés payés et des périodes d’activité partielle en moins d’un an ? Social Jurisprudence",
@@ -16,6 +68,19 @@
     },
     {
       "theme": "Paie",
+      "title": "23 octobre 14h34 Harcèlement moral : que dire de 279 sollicitations pendant les congés payés et des périodes d’activité partielle en moins d’un an ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/harcelement-moral-que-dire-de-279-sollicitations-pendant-les-conges-payes-et-des-periodes-d-activite-partielle-en-moins-d-un-an-afc3b2b3-5bea-439c-93bd-cc98e525daf9",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un harcèlement moral résulte d’agissements répétés. En janvier 2016, la chambre criminelle de la Cour de cassation a précisé que",
+      "publishedAt": "2026-10-23T12:34:53+00:00",
+      "discoveredAt": "2026-10-23T18:32:36.363414+00:00",
+      "topics": [
+        "Congés"
+      ]
+    },
+    {
+      "theme": "Paie",
       "title": "Dégradations des 17 et 18 octobre : l’URSSAF se mobilise et active des mesures d’urgence",
       "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/degradations-des-17-et-18-octobre-lurssaf-se-mobilise-et-active-des-mesures-durgence",
       "source": "Éditions Tissot",
@@ -25,20 +90,6 @@
       "discoveredAt": "2026-10-23T13:39:48.949320+00:00",
       "topics": [
         "Cotisations"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-23T07:24:17+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
