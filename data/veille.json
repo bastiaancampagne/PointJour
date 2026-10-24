@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T01:46:56.507627+00:00",
+  "generated_at": "2026-10-24T07:29:16.918945+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,12 +8,23 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-23T18:23:55+00:00",
+      "publishedAt": "2026-10-24T07:24:22+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Ventre plat et sport : l'astuce de cuisson indispensable pour savourer les légumineuses sans aucun ballonnement",
+      "url": "https://www.750g.com/ventre-plat-et-sport-l-astuce-de-cuisson-indispensable-pour-savourer-les-legumineuses-sans-aucun-ballonnement-a44675.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Vous rêvez de profiter des protéines végétales pour soutenir vos entraînements sans vous retrouver avec l'abdomen gonflé comme un ballon ? Une simple erreur commise devant vos casseroles est souvent la seule responsable de ces tiraillements digestif1",
+      "publishedAt": "2026-10-24T06:00:00+00:00",
+      "discoveredAt": "2026-10-24T07:29:01.824725+00:00",
+      "topics": []
     },
     {
       "theme": "Cuisine",
@@ -7733,6 +7744,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
