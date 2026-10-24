@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T12:50:31.470039+00:00",
+  "generated_at": "2026-10-24T16:46:44.695923+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,12 +8,23 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-24T12:24:19+00:00",
+      "publishedAt": "2026-10-24T15:23:59+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai extrême : l’Alpine A110 R Ultime au Nürburgring !",
+      "url": "https://www.largus.fr/actualite-automobile/essai-extreme-lalpine-a110-r-ultime-au-nurburgring-40013562.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Fidèle à son passé « rallye » à sa sortie en 2017, l’Alpine A110 moderne s’est peu à peu orientée vers le circuit. La preuve avec cette série d’adieu A110 R Ultime, conçue comme une voiture de piste homologuée pour la route. Voyons voir sur la boucle nord du Nürburgring, où une surprise nous attendait...",
+      "publishedAt": "2026-10-24T14:38:00+00:00",
+      "discoveredAt": "2026-10-24T16:46:07.163975+00:00",
+      "topics": []
     },
     {
       "theme": "Cuisine",
@@ -25,6 +36,33 @@
       "publishedAt": "2026-10-24T06:00:00+00:00",
       "discoveredAt": "2026-10-24T07:29:01.824725+00:00",
       "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Bons d'achat et cadeaux du CSE 2027 : 204 euros par an et par salarié",
+      "url": "https://www.legisocial.fr/reperes-sociaux/bons-achat-cadeaux-cse-2027-204-euros-an-salarie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "En 2027, le plafond d'exonération des bons d'achat et cadeaux du CSE est fixé à 204 € par salarié et par an, soit 5 % du plafond mensuel de la Sécurité sociale (PMSS). Lorsque ce seuil est dépassé, les bons cadeaux peuvent rester exonérés de cotisations sociales sous certaines conditions, notamment lorsqu'ils sont attribués à l'occasion de Noël, d'une naissance ou de la rentrée scolaire. Découvrez les plafonds applicables et les règles à respecter.",
+      "publishedAt": "2026-10-24T04:00:00+00:00",
+      "discoveredAt": "2026-10-24T16:45:46.042902+00:00",
+      "topics": [
+        "PMSS",
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Gratification des stagiaires 2027 : 4,50 € par heure de stage",
+      "url": "https://www.legisocial.fr/reperes-sociaux/gratification-stagiaires-2027-montant-minimum-limite-exonerations-fixe-450-heure.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "En 2027, le montant minimum de la gratification des stagiaires reste fixé à 4,50 € par heure de présence effective, soit 15 % du plafond horaire de la Sécurité sociale. Découvrez les montants applicables en 2027, les règles de calcul et les seuils d'exonération de cotisations sociales.",
+      "publishedAt": "2026-10-24T04:00:00+00:00",
+      "discoveredAt": "2026-10-24T16:45:46.043077+00:00",
+      "topics": [
+        "Cotisations"
+      ]
     },
     {
       "theme": "Cuisine",
