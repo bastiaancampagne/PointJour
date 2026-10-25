@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-10-25T11:56:13.923311+00:00",
+  "generated_at": "2026-10-25T16:39:21.976534+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-25T15:23:52+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Oubliez la sauce tomate : l'astuce de génie des Italiens pour sublimer vos pâtes avec du chou-fleur",
+      "url": "https://www.750g.com/oubliez-la-sauce-tomate-l-astuce-de-genie-des-italiens-pour-sublimer-vos-pates-avec-du-chou-fleur-a44781.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Marre du chou-fleur toujours en gratin ? En Italie, on le cuisine avec des pâtes ! Une idée simple et savoureuse pour transformer ce légume en plat complet, fondant et croustillant à la fois, grâce à la chapelure grillée qui fait toute la différence.",
+      "publishedAt": "2026-10-25T12:00:00+00:00",
+      "discoveredAt": "2026-10-25T16:39:07.742939+00:00",
+      "topics": [
+        "Four"
+      ]
+    },
     {
       "theme": "Cuisine",
       "title": "Oubliez la simple crème de marrons : la véritable recette ardéchoise à tester absolument le week-end",
@@ -12,20 +39,6 @@
       "discoveredAt": "2026-10-25T11:55:55.819570+00:00",
       "topics": [
         "Desserts"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-25T07:24:10+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
