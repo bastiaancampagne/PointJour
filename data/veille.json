@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-10-26T01:25:21.447067+00:00",
+  "generated_at": "2026-10-26T06:43:06.106983+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "Clause de dédit-formation : conditions de validité, mise en œuvre et limites",
+      "url": "https://www.legisocial.fr/actualites-sociales/8183-clause-dedit-formation-conditions-validite-mise-uvre-limites.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La clause de dédit-formation est un mécanisme fréquemment utilisé par les employeurs souhaitant sécuriser les investissements réalisés dans la formation de leurs salariés.",
+      "publishedAt": "2026-10-26T05:00:00+00:00",
+      "discoveredAt": "2026-10-26T06:42:05.211544+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Licenciement économique : la baisse du chiffre d’affaires doit traduire de véritables difficultés économiques",
+      "url": "https://www.legisocial.fr/actualites-sociales/8182-licenciement-economique-baisse-chiffre-affaires-traduire-veritables-difficultes-economiques.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La seule constatation d’une baisse du chiffre d’affaires sur la période de référence prévue par le Code du travail ne suffit pas automatiquement à caractériser un motif économique de licenciement. Le juge doit également vérifier que cette baisse est suffisamment significative, sérieuse et durable pour justifier la suppression d’emploi envisagée.",
+      "publishedAt": "2026-10-26T05:00:00+00:00",
+      "discoveredAt": "2026-10-26T06:42:05.211826+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Net-entreprises : nouveau tableau de bord DSN",
+      "url": "https://www.legisocial.fr/actualites-sociales/8200-net-entreprises-nouveau-tableau-bord-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Depuis le 21 octobre 2026, un nouveau tableau de bord DSN est disponible sur Net-entreprises. Recherche simplifiée des déclarations et des CRM, suivi centralisé et base de connaissances intégrée : découvrez les principales nouveautés pour les gestionnaires de paie.",
+      "publishedAt": "2026-10-26T05:00:00+00:00",
+      "discoveredAt": "2026-10-26T06:42:05.212018+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
