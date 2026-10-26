@@ -1,6 +1,144 @@
 {
-  "generated_at": "2026-10-26T06:43:06.106983+00:00",
+  "generated_at": "2026-10-26T20:40:34.651694+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-26T18:24:13+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Citroën ë-C3 Aircross : un lecteur de L'argus victime d'un défaut de conformité de sa batterie",
+      "url": "https://www.largus.fr/actualite-automobile/citroen-e-c3-aircross-un-lecteur-de-largus-victime-dun-defaut-de-conformite-de-sa-batterie-40014503.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Propriétaire d’un Citroën ë-C3 Aircross depuis décembre 2025, un lecteur de L'argus a découvert, rapport officiel à l’appui, une capacité de sa batterie de seulement 32,2 kWh nets contre 43,8 kWh annoncés. Il dénonce une autonomie décevante, mais aussi une dégradation précoce. Or, pour le moment, Citroën et Stellantis restent muets.",
+      "publishedAt": "2026-10-26T17:04:00+00:00",
+      "discoveredAt": "2026-10-26T20:40:11.021044+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Oubliez la crème au beurre : la chantilly brésilienne est la recette magique et inratable pour décorer tous vos gâteaux",
+      "url": "https://www.750g.com/oubliez-la-creme-au-beurre-la-chantilly-bresilienne-est-la-recette-magique-et-inratable-pour-decorer-tous-vos-gateaux-a44779.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Vous rêvez d'un glaçage onctueux, qui se tient parfaitement à température ambiante, sans avoir la lourdeur d'une crème au beurre ? Découvrez le secret du \"Chantininho\", la préparation express venue du Brésil qui est en train de révolutionner la pâti1",
+      "publishedAt": "2026-10-26T16:00:00+00:00",
+      "discoveredAt": "2026-10-26T20:40:20.274849+00:00",
+      "topics": [
+        "Desserts",
+        "Rapide"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Le chinois Chery finalise son petit SUV à moins de 20 000 € pour l’Europe",
+      "url": "https://www.largus.fr/actualite-automobile/le-chinois-chery-finalise-son-petit-suv-a-moins-de-20-000-e-pour-leurope-40014567.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Nous nous sommes rendus chez Chery en Chine pour découvrir la maquette de son futur modèle de segment B qui sera révélé fin 2027. Ce petit SUV électrique ou hybride s’annonce prometteur et pas cher. Il devrait être produit en Europe.",
+      "publishedAt": "2026-10-26T14:42:00+00:00",
+      "discoveredAt": "2026-10-26T20:40:11.021175+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "26 octobre 12h57 Complémentaires santé : le Conseil constitutionnel censure la mesure de gel du montant des cotisations de la LFSS 2026 Social Paye Journal officiel LFSS 2026",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/complementaires-sante-le-conseil-constitutionnel-censure-la-mesure-de-gel-du-montant-des-cotisations-de-la-lfss-2026",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans une décision rendue sur question prioritaire de constitutionnalité le 23 octobre 2026, le Conseil constitutionnel a censuré la",
+      "publishedAt": "2026-10-26T11:57:21+00:00",
+      "discoveredAt": "2026-10-26T20:39:57.849871+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Prix Renault Trafic (2026). Les versions fourgon et combi gardent leur diesel mais gagnent des équipements",
+      "url": "https://www.largus.fr/actualite-automobile/prix-renault-trafic-2026-les-versions-fourgon-et-combi-gardent-leur-diesel-mais-gagnent-des-equipements-40014525.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le Renault Trafic thermique reçoit quelques évolutions techniques ainsi que de nouveaux équipements, en version tourisme comme en utilitaire et ce, pour perdurer encore quelques années. La première débute à 42 900 € TTC quand la seconde réclame 33 900 € HT.",
+      "publishedAt": "2026-10-26T11:57:00+00:00",
+      "discoveredAt": "2026-10-26T20:40:11.021298+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "26 octobre 10h24 PLFSS 2027 : le texte rejeté en première lecture à l'Assemblée nationale Social Paye Projet de texte LFSS 2027",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/plfss-2027-le-texte-rejete-en-premiere-lecture-a-l-assemblee-nationale",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les débats en première lecture à l'Assemblée nationale sur le projet de loi de financement de la sécurité sociale (PLFSS) pour 2027",
+      "publishedAt": "2026-10-26T09:24:59+00:00",
+      "discoveredAt": "2026-10-26T20:39:59.970882+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "26 octobre 09h46 Prime carburant, prime transport, forfait mobilités durables : un communiqué du BOSS sur la limite dérogatoire de 1 000 € Social Paye BOFIP et Circulaires",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/prime-carburant-prime-transport-forfait-mobilites-durables-un-communique-du-boss-sur-la-limite-derogatoire-de-1-000-0469ade4-9e0e-4815-af88-66620da71a83",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le 22 octobre 2026, le Bulletin officiel de la sécurité sociale (BOSS) a publié un communiqué faisant suite aux deux décrets publiés",
+      "publishedAt": "2026-10-26T08:46:52+00:00",
+      "discoveredAt": "2026-10-26T20:40:03.393707+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Sous quelles conditions puis-je renouveler la période d’essai d’un salarié ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/sous-quelles-conditions-puis-je-renouveler-la-periode-dessai-dun-salarie",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-26T07:36:00+00:00",
+      "discoveredAt": "2026-10-26T20:40:06.644595+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Dartz Nightshark VI (2026). Le grand SUV blindé du jeu vidéo Grand Theft Auto Online devient réalité",
+      "url": "https://www.largus.fr/actualite-automobile/dartz-nightshark-vi-2026-le-grand-suv-blinde-du-jeu-video-grand-theft-auto-online-devient-realite-40014409.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le constructeur letton Dartz a fabriqué un exemplaire du HVY Nightshark, le SUV blindé apparu dans le jeu vidéo GTA Online en 2017. Cette réalisation extravagante fera sa première apparition publique à Miami durant la semaine où sortira Grand Theft Auto VI, le 19 novembre 2026.",
+      "publishedAt": "2026-10-26T07:22:00+00:00",
+      "discoveredAt": "2026-10-26T20:40:11.021429+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Comment mener une procédure de rupture conventionnelle ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/comment-mener-une-procedure-de-rupture-conventionnelle",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-26T07:08:00+00:00",
+      "discoveredAt": "2026-10-26T20:40:06.644678+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
     {
       "theme": "Paie",
       "title": "Clause de dédit-formation : conditions de validité, mise en œuvre et limites",
@@ -40,15 +178,14 @@
     },
     {
       "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "title": "Comment nous testons - Barres de son - Le protocole",
+      "url": "https://www.quechoisir.org/comment-nous-testons-barres-de-son-le-protocole-n15051/",
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-25T18:23:56+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "summary": "La qualité audio des barres de son est prépondérante dans l’évaluation. La facilité d’emploi, la consommation électrique et les fonctions multimédias complètent l’évaluation.",
+      "publishedAt": "2026-10-26T04:00:00+00:00",
+      "discoveredAt": "2026-10-26T20:40:11.613431+00:00",
       "topics": [
-        "Achat",
         "Carburant"
       ]
     },
