@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-10-27T13:26:37.793817+00:00",
+  "generated_at": "2026-10-27T19:32:57.254366+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-27T18:23:50+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Toyota. La future MR2 à moteur central prend forme en compétition",
+      "url": "https://www.largus.fr/actualite-automobile/toyota-la-future-mr2-a-moteur-central-prend-forme-en-competition-40014765.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Toyota a recarrossé le prototype GR Yaris M Concept à moteur central-arrière, utilisé en compétition, avec une silhouette de coupé. L’auto sert à mettre au point une sportive dotée d’un nouveau quatre-cylindres turbo et qui pourrait reprendre l’appellation MR2..",
+      "publishedAt": "2026-10-27T17:17:00+00:00",
+      "discoveredAt": "2026-10-27T19:32:19.999140+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Une exposition Bugatti débarque au Musée national de l’automobile de Mulhouse… par la route !",
+      "url": "https://www.largus.fr/actualite-automobile/une-exposition-bugatti-debarque-au-musee-national-de-lautomobile-de-mulhouse-par-la-route-40014795.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Du 28 novembre 2026 au 7 mars 2027, le Musée national de l’automobile de Mulhouse exposera une dizaine de voitures Bugatti, issues de la collection privée du collectionneur suisse Fritz Burkard. Or, une fois n’est pas coutume, les voitures ont rallié l’établissement par la route, sous la forme de convoi exceptionnel.",
+      "publishedAt": "2026-10-27T16:04:00+00:00",
+      "discoveredAt": "2026-10-27T19:32:19.999317+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Un crumble aux pommes sans cuisson au four : c'est possible, et c'est incroyablement croustillant avec cette astuce !",
+      "url": "https://www.750g.com/un-crumble-aux-pommes-sans-cuisson-au-four-c-est-possible-et-c-est-incroyablement-croustillant-avec-cette-astuce-a44782.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Envie d'un dessert fruité et réconfortant à la dernière minute, mais vous refusez d'allumer votre four pour patienter quarante-cinq minutes ? Découvrez la technique redoutable du crumble à la poêle, un hack culinaire qui garantit des fruits fondants1",
+      "publishedAt": "2026-10-27T16:00:00+00:00",
+      "discoveredAt": "2026-10-27T19:32:32.711604+00:00",
+      "topics": [
+        "Desserts",
+        "Four"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Prix Renault Twingo Réversible (2026). La citadine électrique disponible en version utilitaire",
+      "url": "https://www.largus.fr/actualite-automobile/prix-renault-twingo-reversible-2026-la-citadine-electrique-disponible-en-version-utilitaire-40014717.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "La version société de la Renault Twingo E-Tech est désormais disponible à la commande à partir de 17 900 € HT. Cette variante Réversible destinée aux professionnels complète la gamme utilitaire électrique du constructeur.",
+      "publishedAt": "2026-10-27T14:03:00+00:00",
+      "discoveredAt": "2026-10-27T19:32:19.999472+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Acheter une voiture : le crédit auto est-il le bon choix ?",
@@ -105,20 +169,6 @@
       "publishedAt": "2026-10-27T05:00:00+00:00",
       "discoveredAt": "2026-10-27T06:28:44.927185+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-26T18:24:13+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Auto",
@@ -8076,6 +8126,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
