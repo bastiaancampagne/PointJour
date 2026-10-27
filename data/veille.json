@@ -1,6 +1,87 @@
 {
-  "generated_at": "2026-10-27T06:29:39.413693+00:00",
+  "generated_at": "2026-10-27T13:26:37.793817+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Acheter une voiture : le crédit auto est-il le bon choix ?",
+      "url": "https://www.largus.fr/actualite-automobile/acheter-une-voiture-le-credit-auto-est-il-le-bon-choix-40014739.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Mensualité, durée, coût total : tout ce qu'il faut comparer avant de souscrire un crédit auto. Simulations chiffrées et points de vigilance pour faire le bon choix.",
+      "publishedAt": "2026-10-27T12:00:00+00:00",
+      "discoveredAt": "2026-10-27T13:26:09.314731+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Obligation de prévention du harcèlement moral et délai de prescription de l'action du salarié",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1700-obligation-prevention-harcelement-moral-delai-prescription-action-salariearie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’action pour manquement à l’obligation de prévention du harcèlement se prescrit par deux ans",
+      "publishedAt": "2026-10-27T11:00:00+00:00",
+      "discoveredAt": "2026-10-27T13:25:53.003826+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "27 octobre 12h00 L'indemnité carburant pour les travailleurs « grands rouleurs » est reconduite et élargie Fiscal Social Paye Journal officiel",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/l-indemnite-carburant-pour-les-travailleurs-grands-rouleurs-est-reconduite-et-elargie-fdd01869-8dcd-4467-8b05-e77eec54e90a",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Au regard des prix toujours élevés des carburants, un décret met en musique l'annonce faite par le gouvernement fin septembre de",
+      "publishedAt": "2026-10-27T11:00:00+00:00",
+      "discoveredAt": "2026-10-27T13:25:56.759953+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "27 octobre 12h00 Licenciement nul pour harcèlement : quelle réparation pour le salarié parti en retraite ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/licenciement-nul-pour-harcelement-quelle-reparation-pour-le-salarie-parti-en-retraite",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le salarié qui invoquait la nullité de son licenciement pour harcèlement mais qui a finalement pris sa retraite a droit aux salaires",
+      "publishedAt": "2026-10-27T11:00:00+00:00",
+      "discoveredAt": "2026-10-27T13:25:58.638423+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "27 octobre 12h00 Les pouvoirs publics au chevet des entreprises et des indépendants frappés par les violences urbaines Fiscal Vie des affaires Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/les-pouvoirs-publics-au-chevet-des-entreprises-et-des-independants-frappes-par-les-violences-urbaines",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Diverses mesures ont été annoncées pour aider les employeurs et les travailleurs indépendants à surmonter les conséquences des",
+      "publishedAt": "2026-10-27T11:00:00+00:00",
+      "discoveredAt": "2026-10-27T13:26:00.886931+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Citroën 2CV (1949-1990). Les séries spéciales et éditions limitées de la Deudeuche en images",
+      "url": "https://www.largus.fr/actualite-automobile/citroen-2cv-1949-1990-les-series-speciales-et-editions-limitees-de-la-deudeuche-en-images-40014581.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "La Citroën 2CV n’en finit pas de faire l’actualité. Après la révélation de la 2CV Concept le 12 octobre au Mondial de Paris 2026, la mythique française sera mise à l’honneur lors du Salon Epoqu’auto (6-8 novembre), qui réunira le concept et les principales séries spéciales ayant jalonné sa longue carrière.",
+      "publishedAt": "2026-10-27T10:48:00+00:00",
+      "discoveredAt": "2026-10-27T13:26:09.314902+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Indemnité carburant : de nouvelles conditions pour le dernier trimestre 2026",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/indemnite-carburant-de-nouvelles-conditions-pour-le-dernier-trimestre-2026",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-27T06:30:00+00:00",
+      "discoveredAt": "2026-10-16T17:34:24.804743+00:00",
+      "topics": []
+    },
     {
       "theme": "Paie",
       "title": "Cumul de contrats de travail : la CJUE renforce les droits des salariés en matière de congés payés et d’avantages liés à l’emploi",
@@ -1507,17 +1588,6 @@
       "topics": [
         "Ruptures"
       ]
-    },
-    {
-      "theme": "Paie",
-      "title": "Indemnité carburant : de nouvelles conditions pour le dernier trimestre 2026",
-      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/indemnite-carburant-de-nouvelles-conditions-pour-le-dernier-trimestre-2026",
-      "source": "Éditions Tissot",
-      "sourceKind": "EXPERT PAIE",
-      "summary": "",
-      "publishedAt": "2026-10-16T13:00:00+00:00",
-      "discoveredAt": "2026-10-16T17:34:24.804743+00:00",
-      "topics": []
     },
     {
       "theme": "Paie",
