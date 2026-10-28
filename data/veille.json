@@ -1,6 +1,134 @@
 {
-  "generated_at": "2026-10-28T06:00:06.640115+00:00",
+  "generated_at": "2026-10-28T13:17:55.776865+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Recettes Ramadan",
+      "url": "https://www.marmiton.org/dossier-ramadan",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez toutes les recettes traditionnelles pour un Ramadan gourmand et équilibré.",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-28T13:17:41.761039+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes Halloween",
+      "url": "https://www.marmiton.org/halloween/halloween-tp123693.html",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "De l'apéritif au dessert, ne ratez pas toutes nos bonnes idées effrayantes pour célébrer Halloween le soir du 31 octobre !",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-28T13:17:41.158044+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes Saint-Valentin",
+      "url": "https://www.marmiton.org/dossier-saint-valentin",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "Réalisez un menu de Saint-Valentin pour fêter l'amour avec votre moitié ou votre famille et partagez un repas Saint-Valentin ensemble.",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-28T13:17:40.849991+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes Pâques",
+      "url": "https://www.marmiton.org/dossier-paques",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "Préparez un repas de Pâques 2026 inoubliable avec nos recettes maison : entrées gourmandes,plats savoureux, desserts et gâteaux de Pâques faciles à réaliser.",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-28T13:17:40.390850+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Recettes Chandeleur",
+      "url": "https://www.marmiton.org/dossier-chandeleur",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez nos recettes de galettes et de crêpes de la chandeleur sucrées et salées fait maison & nos astuces pour les réussir. Régalez-vous !",
+      "publishedAt": null,
+      "discoveredAt": "2026-10-28T13:17:39.918122+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-28T12:24:20+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Alimentation et nutrition humaine",
+      "url": "https://www.anses.fr/fr/thematique/alimentation-et-nutrition-humaine",
+      "source": "ANSES",
+      "sourceKind": "OFFICIEL",
+      "summary": "Notre alimentation est au cœur de notre quotidien. Saine et sûre, elle est un allié puissant pour notre santé. Pourtant, un déséquilibre nutritionnel ou des aliments contaminés peuvent toutefois nous exposer à des risques immédiats ou à des maladies chroniques. L’Anses apporte son expertise scientifique à toutes les étapes de la chaîne alimentaire, depuis la production des aliments d’origine animale ou végétale jusqu’à l’assiette du consommateur. Elle évalue les risques liés à la contamination des aliments par des agents pathogènes et des substances toxiques. Elle évalue également la qualité nutritionnelle et les risques liés à l’inactivité physique et la sédentarité.Découvrez tous nos articles \"Alimentation et nutrition humaine\"",
+      "publishedAt": "2026-10-28T12:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:49:15.727631+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Conventions collectives : les grilles de salaires au 1er novembre 2026",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/conventions-collectives-les-dernieres-grilles-des-salaires",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-28T12:00:00+00:00",
+      "discoveredAt": "2026-09-28T08:40:09.840577+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "60 ans de Toyota Corolla. Comment la compacte japonaise est devenue un best-seller mondial",
+      "url": "https://www.largus.fr/actualite-automobile/60-ans-de-toyota-corolla-comment-la-compacte-japonaise-est-devenue-un-best-seller-mondial-40014834.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "La Toyota Corolla a 60 ans en 2026 et détient depuis près de 30 ans le titre de voiture la plus vendue du monde, avec plus de 57 millions d’unités produites à ce jour. Ce succès, Toyota l’a construit en adaptant la gamme et la production du modèle à ses marchés de destination. Rétrospective.",
+      "publishedAt": "2026-10-28T10:43:00+00:00",
+      "discoveredAt": "2026-10-28T13:17:25.142034+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "L'ingrédient secret de votre réfrigérateur pour réussir un effiloché de poulet parfaitement juteux",
+      "url": "https://www.750g.com/l-ingredient-secret-de-votre-refrigerateur-pour-reussir-un-effiloche-de-poulet-parfaitement-juteux-a44791.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez l'astuce imparable des chefs pour préparer un blanc de poulet effiloché d'une tendreté absolue à l'autocuiseur, grâce à une substitution très simple qui change tout.",
+      "publishedAt": "2026-10-28T07:30:00+00:00",
+      "discoveredAt": "2026-10-28T13:17:35.986979+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "SUV compacts qui s'adaptent à la ville ou à l'autoroute : consommation réelle à 130 km/h",
+      "url": "https://www.largus.fr/actualite-automobile/suv-compacts-qui-sadaptent-a-la-ville-ou-a-lautoroute-consommation-reelle-a-130-km-h-40012924.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le choix d'un véhicule familial impose de concilier deux environnements de conduite très différents. La recherche de polyvalence exige un gabarit capable de circuler facilement dans les rues étroites lors des trajets urbains quotidiens, tout en offrant le confort et l'autonomie nécessaires sur les grands axes routiers.",
+      "publishedAt": "2026-10-28T06:00:00+00:00",
+      "discoveredAt": "2026-10-28T13:17:25.142149+00:00",
+      "topics": []
+    },
     {
       "theme": "Paie",
       "title": "Les conditions de validité d'une clause de non-concurrence sont très strictes",
@@ -22,20 +150,6 @@
       "publishedAt": "2026-10-28T05:00:00+00:00",
       "discoveredAt": "2026-10-28T05:59:25.500824+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-27T18:23:50+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Auto",
@@ -79,7 +193,7 @@
       "url": "https://www.largus.fr/actualite-automobile/prix-renault-twingo-reversible-2026-la-citadine-electrique-disponible-en-version-utilitaire-40014717.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "La version société de la Renault Twingo E-Tech est désormais disponible à la commande à partir de 17 900 € HT. Cette variante Réversible destinée aux professionnels complète la gamme utilitaire électrique du constructeur.",
+      "summary": "La version société de la Renault Twingo E-Tech est désormais disponible à la commande à partir de 17 900 € HT. Cette variante Réversible, destinée aux professionnels, complète la gamme utilitaire électrique du constructeur.",
       "publishedAt": "2026-10-27T14:03:00+00:00",
       "discoveredAt": "2026-10-27T19:32:19.999472+00:00",
       "topics": [
@@ -1019,17 +1133,6 @@
       "summary": "Ford a construit une version pick-up de la Mustang de sixième génération et l’a gardée secrète jusqu’à aujourd’hui. Ce prototype, qui rejoint la collection de véhicules historiques de la marque, souligne à quel point la « pony car » sert de base à nombre d’expérimentations.",
       "publishedAt": "2026-10-20T13:03:00+00:00",
       "discoveredAt": "2026-10-20T13:43:48.620712+00:00",
-      "topics": []
-    },
-    {
-      "theme": "Cuisine",
-      "title": "Alimentation et nutrition humaine",
-      "url": "https://www.anses.fr/fr/thematique/alimentation-et-nutrition-humaine",
-      "source": "ANSES",
-      "sourceKind": "OFFICIEL",
-      "summary": "Notre alimentation est au cœur de notre quotidien. Saine et sûre, elle est un allié puissant pour notre santé. Pourtant, un déséquilibre nutritionnel ou des aliments contaminés peuvent toutefois nous exposer à des risques immédiats ou à des maladies chroniques. L’Anses apporte son expertise scientifique à toutes les étapes de la chaîne alimentaire, depuis la production des aliments d’origine animale ou végétale jusqu’à l’assiette du consommateur. Elle évalue les risques liés à la contamination des aliments par des agents pathogènes et des substances toxiques. Elle évalue également la qualité nutritionnelle et les risques liés à l’inactivité physique et la sédentarité.Découvrez tous nos articles \"Alimentation et nutrition humaine\"",
-      "publishedAt": "2026-10-20T12:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:49:15.727631+00:00",
       "topics": []
     },
     {
@@ -5343,17 +5446,6 @@
       "summary": "Cette décision, rendue en matière de droits d’enregistrement, présente un double intérêt. D’une part, elle rappelle que",
       "publishedAt": "2026-09-28T09:00:00+00:00",
       "discoveredAt": "2026-09-28T12:45:50.070735+00:00",
-      "topics": []
-    },
-    {
-      "theme": "Paie",
-      "title": "Conventions collectives : les grilles de salaires au 1er octobre 2026",
-      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/conventions-collectives-les-dernieres-grilles-des-salaires",
-      "source": "Éditions Tissot",
-      "sourceKind": "EXPERT PAIE",
-      "summary": "",
-      "publishedAt": "2026-09-28T07:54:00+00:00",
-      "discoveredAt": "2026-09-28T08:40:09.840577+00:00",
       "topics": []
     },
     {
