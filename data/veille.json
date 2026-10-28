@@ -1,6 +1,79 @@
 {
-  "generated_at": "2026-10-28T13:17:55.776865+00:00",
+  "generated_at": "2026-10-28T18:59:10.133018+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-28T18:23:58+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Omoda 4 hybride (2027). Crossover de conquête",
+      "url": "https://www.largus.fr/actualite-automobile/essai-omoda-4-hybride-2027-crossover-de-conquete-40015056.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "La marque Omoda Jaecoo poursuit son offensive en Europe avec ce nouveau crossover compact Omoda 4 aux traits acérés. L’argus est allé sur ses terres, en Chine, pour le tester en avant-première en attendant son arrivée en France au premier trimestre 2027.",
+      "publishedAt": "2026-10-28T17:55:00+00:00",
+      "discoveredAt": "2026-10-28T18:58:44.868146+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Aston Martin Valhalla Spider (2026). La supercar britannique enlève le haut et pointe à 350 km/h",
+      "url": "https://www.largus.fr/actualite-automobile/aston-martin-valhalla-spider-2026-la-supercar-britannique-enleve-le-haut-et-pointe-a-350-km-h-40015067.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Aston Martin dévoile la version Spider de la Valhalla. Animée par le V8 hybride rechargeable maison de plus de 1 000 ch, la supercar britannique à ciel ouvert promet des performances identiques à celles du coupé. La voici en détail avant son arrivée sur nos routes au cours du troisième trimestre 2027.",
+      "publishedAt": "2026-10-28T17:02:00+00:00",
+      "discoveredAt": "2026-10-28T18:58:44.868382+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Route des châteaux du Médoc : un road trip au départ de Bordeaux",
+      "url": "https://www.largus.fr/actualite-automobile/route-des-chateaux-du-medoc-un-road-trip-au-depart-de-bordeaux-40015017.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Au départ de Bordeaux, la route des châteaux du Médoc se parcourt en voiture le long de l'estuaire de la Gironde, de la D2 jusqu'au bac de Lamarque, le temps d'une journée ou d'un week-end.",
+      "publishedAt": "2026-10-28T17:00:00+00:00",
+      "discoveredAt": "2026-10-28T18:58:44.868539+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Terminez le banana bread trop dense : l'ingrédient secret des Américains pour le rendre ultra-aérien se prépare en 2 minutes à la maison",
+      "url": "https://www.750g.com/terminez-le-banana-bread-trop-dense-l-ingredient-secret-des-americains-pour-le-rendre-ultra-aerien-se-prepare-en-2-minutes-a-la-maison-a44808.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Pour retrouver le moelleux des banana breads américains, une blogueuse culinaire mise sur une petite astuce très facile à reproduire à la maison. Et le résultat donne envie !",
+      "publishedAt": "2026-10-28T17:00:00+00:00",
+      "discoveredAt": "2026-10-28T18:58:55.367169+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "28 octobre 16h33 Activité partielle et violences des 17 et 18 octobre 2026 : un décret officialise le « zéro reste à charge » pour les PME les plus impactées Social Paye Journal officiel Activité partielle",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/activite-partielle-et-violences-des-17-et-18-octobre-2026-un-decret-officialise-le-zero-reste-a-charge-pour-les-pme-les-plus-impactees",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un décret publié au JO du 28 octobre 2026 officialise le dispositif exceptionnel de prise en charge de l'activité partielle à 100 % (dit",
+      "publishedAt": "2026-10-28T15:33:10+00:00",
+      "discoveredAt": "2026-10-28T18:58:35.409542+00:00",
+      "topics": []
+    },
     {
       "theme": "Cuisine",
       "title": "Recettes Ramadan",
@@ -61,20 +134,6 @@
       "topics": []
     },
     {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-28T12:24:20+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
-    },
-    {
       "theme": "Cuisine",
       "title": "Alimentation et nutrition humaine",
       "url": "https://www.anses.fr/fr/thematique/alimentation-et-nutrition-humaine",
@@ -105,6 +164,17 @@
       "summary": "La Toyota Corolla a 60 ans en 2026 et détient depuis près de 30 ans le titre de voiture la plus vendue du monde, avec plus de 57 millions d’unités produites à ce jour. Ce succès, Toyota l’a construit en adaptant la gamme et la production du modèle à ses marchés de destination. Rétrospective.",
       "publishedAt": "2026-10-28T10:43:00+00:00",
       "discoveredAt": "2026-10-28T13:17:25.142034+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "28 octobre 10h54 Congé supplémentaire de naissance : pour les employeurs, un nouveau formulaire déclaratif à partir du 1er novembre 2026 Social Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/conge-supplementaire-de-naissance-pour-les-employeurs-un-nouveau-formulaire-declaratif-a-partir-du-1er-novembre-2026-959e6df5-d63f-44bd-9e7b-9eb4de0303e0",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans une information publiée sur son site internet le 20 octobre 2026, l’Assurance maladie a annoncé qu’à compter du 1er novembre",
+      "publishedAt": "2026-10-28T09:54:09+00:00",
+      "discoveredAt": "2026-10-28T18:58:37.879881+00:00",
       "topics": []
     },
     {
@@ -150,6 +220,19 @@
       "publishedAt": "2026-10-28T05:00:00+00:00",
       "discoveredAt": "2026-10-28T05:59:25.500824+00:00",
       "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Comment nous testons - Aspirateurs balais rechargeables",
+      "url": "https://www.quechoisir.org/comment-nous-testons-aspirateurs-balais-rechargeables-n14903/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Nous testons régulièrement les aspirateurs balais sans fil proposés dans le commerce. Les performances d’aspiration sont déterminantes mais nous mesurons également leur autonomie, leur rapidité de chargement ou leur niveau sonore, tout en évaluant également leur facilité d’utilisation et d’entretien.",
+      "publishedAt": "2026-10-28T04:00:00+00:00",
+      "discoveredAt": "2026-10-28T18:58:45.881427+00:00",
+      "topics": [
+        "Entretien"
+      ]
     },
     {
       "theme": "Auto",
