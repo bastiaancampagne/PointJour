@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T18:59:10.133018+00:00",
+  "generated_at": "2026-10-28T23:24:04.955254+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -175,6 +175,17 @@
       "summary": "Dans une information publiée sur son site internet le 20 octobre 2026, l’Assurance maladie a annoncé qu’à compter du 1er novembre",
       "publishedAt": "2026-10-28T09:54:09+00:00",
       "discoveredAt": "2026-10-28T18:58:37.879881+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "28 octobre 10h54 Congé supplémentaire de naissance : pour les employeurs, un nouveau formulaire déclaratif à partir du 1er novembre 2026 Social Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/conge-supplementaire-de-naissance-pour-les-employeurs-un-nouveau-formulaire-declaratif-a-partir-du-1er-novembre-2026-0d8c112e-9168-4103-8cc0-77803f00892a",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans une information publiée sur son site internet le 20 octobre 2026, l’Assurance maladie a annoncé qu’à compter du 1er novembre",
+      "publishedAt": "2026-10-28T09:54:09+00:00",
+      "discoveredAt": "2026-10-28T23:23:12.866248+00:00",
       "topics": []
     },
     {
@@ -8323,6 +8334,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
