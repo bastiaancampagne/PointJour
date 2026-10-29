@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-10-29T02:38:37.169664+00:00",
+  "generated_at": "2026-10-29T10:16:27.408541+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "Salaire moyen de base en ETP : comment le calculer et bien l’interpréter ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/salaire-moyen-de-base-en-etp-comment-le-calculer-et-bien-linterpreter",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-29T08:00:00+00:00",
+      "discoveredAt": "2026-10-29T10:15:47.456117+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-29T07:24:11+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Violences urbaines : l'Urssaf et le CPSTI proposent des aides aux professionnels",
+      "url": "https://www.legisocial.fr/actualites-sociales/8203-violences-urbaines-urssaf-cpsti-proposent-aides-professionnels.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "À la suite des violences urbaines d'octobre 2026, l'Urssaf et le CPSTI mettent en place des mesures exceptionnelles pour les professionnels victimes de dégradations ou de vols : reports de cotisations sociales jusqu'à 12 mois et aide financière pouvant atteindre 6 000 € pour les travailleurs indépendants.",
+      "publishedAt": "2026-10-29T05:00:00+00:00",
+      "discoveredAt": "2026-10-29T10:15:34.950537+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Pouvez-vous ouvrir votre commerce le dimanche et faire travailler vos salariés ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/6112--ouvrir-commerce-dimanche-travailler-salaries.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les commerces n'ouvrent pas en principe le dimanche sauf dans certains cas.",
+      "publishedAt": "2026-10-29T05:00:00+00:00",
+      "discoveredAt": "2026-10-29T10:15:34.950762+00:00",
+      "topics": []
+    },
     {
       "theme": "Paie",
       "title": "29 octobre 00h30 Un avocat condamné pour avoir mis sur pied avec un psychiatre un système de certificats de complaisance dans le cadre de licenciements Social Jurisprudence",
@@ -15,17 +64,16 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-28T18:23:58+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "theme": "Paie",
+      "title": "29 octobre 00h30 Un avocat sanctionné pour avoir mis sur pied avec un psychiatre un système de certificats de complaisance dans le cadre de licenciements Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/un-avocat-sanctionne-pour-avoir-mis-sur-pied-avec-un-psychiatre-un-systeme-de-certificats-de-complaisance-dans-le-cadre-de-licenciements-837aad92-4ee2-45dd-992d-0cae95585197",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La Cour de cassation vient de confirmer la sanction prononcée à l’égard d’un avocat qui, en lien avec un psychiatre, avait installé",
+      "publishedAt": "2026-10-28T23:30:00+00:00",
+      "discoveredAt": "2026-10-29T10:15:38.988062+00:00",
       "topics": [
-        "Achat",
-        "Carburant"
+        "Ruptures"
       ]
     },
     {
@@ -174,7 +222,7 @@
       "url": "https://www.largus.fr/actualite-automobile/60-ans-de-toyota-corolla-comment-la-compacte-japonaise-est-devenue-un-best-seller-mondial-40014834.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "La Toyota Corolla a 60 ans en 2026 et détient depuis près de 30 ans le titre de voiture la plus vendue du monde, avec plus de 57 millions d’unités produites à ce jour. Ce succès, Toyota l’a construit en adaptant la gamme et la production du modèle à ses marchés de destination. Rétrospective.",
+      "summary": "La Toyota Corolla a 60 ans en 2026 et détient depuis près de trente ans le titre de voiture la plus vendue du monde, avec plus de 57 millions d’unités produites à ce jour. Ce succès, Toyota l’a construit en adaptant la gamme et la production du modèle à ses marchés de destination. Rétrospective.",
       "publishedAt": "2026-10-28T10:43:00+00:00",
       "discoveredAt": "2026-10-28T13:17:25.142034+00:00",
       "topics": []
