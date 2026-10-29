@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-10-28T23:24:04.955254+00:00",
+  "generated_at": "2026-10-29T02:38:37.169664+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "29 octobre 00h30 Un avocat condamné pour avoir mis sur pied avec un psychiatre un système de certificats de complaisance dans le cadre de licenciements Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/un-avocat-condamne-pour-avoir-mis-sur-pied-avec-un-psychiatre-un-systeme-de-certificats-de-complaisance-dans-le-cadre-de-licenciements",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La Cour de cassation vient de confirmer la sanction prononcée à l’égard d’un avocat qui, en lien avec un psychiatre, avait installé",
+      "publishedAt": "2026-10-28T23:30:00+00:00",
+      "discoveredAt": "2026-10-29T02:37:45.954875+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -8334,11 +8347,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
