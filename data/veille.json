@@ -1,6 +1,106 @@
 {
-  "generated_at": "2026-10-29T10:16:27.408541+00:00",
+  "generated_at": "2026-10-29T17:02:24.552274+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Les objets les plus insolites oubliés dans un Uber en 2026",
+      "url": "https://www.largus.fr/actualite-automobile/les-objets-les-plus-insolites-oublies-dans-un-uber-en-2026-40015327.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Chaque année plus d’un million de téléphones portables sont oubliés par des clients dans les véhicules de la compagnie Uber. Mais à côté des portefeuilles, sacs à mains, clés, lunettes et autres pièces d’identité, les chauffeurs trouvent parfois des objets plus improbables laissés à bord par mégarde.",
+      "publishedAt": "2026-10-29T16:27:00+00:00",
+      "discoveredAt": "2026-10-29T17:01:54.219262+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-29T15:23:54+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Bison Futé. Quelques bouchons pour la fin des vacances de la Toussaint",
+      "url": "https://www.largus.fr/actualite-automobile/bison-fute-quelques-bouchons-pour-la-fin-des-vacances-de-la-toussaint-40015299.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Bison Futé annonce quelques encombrements pour le dernier week-end des vacances de la Toussaint, particulièrement vendredi, mais jusqu’à dimanche en Île-de-France. Voici les prévisions du 30 octobre au 1er novembre 2026.",
+      "publishedAt": "2026-10-29T15:21:00+00:00",
+      "discoveredAt": "2026-10-29T17:01:54.219400+00:00",
+      "topics": [
+        "Entretien"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "29 octobre 16h19 Montant net social : un autre changement à prévoir pour le 1er janvier 2027 Paye BOFIP et Circulaires BOSS",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/montant-net-social-un-autre-changement-a-prevoir-pour-le-1er-janvier-2027",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le Bulletin officiel de la sécurité sociale (BOSS) vient de modifier sa doctrine sur le sort à réserver à la prise en charge par le CSE",
+      "publishedAt": "2026-10-29T15:19:13+00:00",
+      "discoveredAt": "2026-10-29T17:01:39.085646+00:00",
+      "topics": [
+        "Cotisations",
+        "Net social"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Intempéries en Corse : l’URSSAF met en place des mesures exceptionnelles pour les entreprises touchées",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/inondations-lurssaf-met-en-place-des-mesures-exceptionnelles-pour-les-entreprises-touchees",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-10-29T15:00:00+00:00",
+      "discoveredAt": "2026-10-29T17:01:47.979177+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Skoda Kodiaq (2026). Retour de la finition Laurin & Klement et nouvelle variante PHEV pour le SUV tchèque",
+      "url": "https://www.largus.fr/actualite-automobile/skoda-kodiaq-2026-retour-de-la-finition-laurin-klement-et-nouvelle-variante-phev-pour-le-suv-tcheque-40015190.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Pour les 10 ans de son Kodiaq, Skoda réintroduit la finition emblématique de la marque dans sa gamme et lui offre enfin la version hybride rechargeable qui lui manquait. Lumière sur ces évolutions d’ores et déjà disponibles à la commande en France.",
+      "publishedAt": "2026-10-29T13:03:00+00:00",
+      "discoveredAt": "2026-10-29T17:01:54.219631+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "29 octobre 13h16 Le droit des étrangers évolue… quel est l'impact du décret du 26 octobre 2026 pour les employeurs ? Social Journal officiel",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-droit-des-etrangers-evolue-quel-est-l-impact-du-decret-du-26-octobre-2026-pour-les-employeurs",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La réglementation applicable aux ressortissants étrangers fait l’objet de plusieurs modifications, souvent très techniques, résultant",
+      "publishedAt": "2026-10-29T12:16:08+00:00",
+      "discoveredAt": "2026-10-29T17:01:41.268489+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "La carbonara d'Halloween : la recette ultra-crémeuse au potimarron pour régaler toute la famille",
+      "url": "https://www.750g.com/la-carbonara-d-halloween-la-recette-ultra-cremeuse-au-potimarron-pour-regaler-toute-la-famille-a44815.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Que ce soit sur les étals des marchés ou dans les vitrines des magasins, les citrouilles sont les stars du moment. Mais il ne faudrait pas oublier qu'elle n'ont pas qu'une fonction décorative ! Voici une nouvelle recette originale pour les mettre à1",
+      "publishedAt": "2026-10-29T11:30:00+00:00",
+      "discoveredAt": "2026-10-29T17:02:07.452462+00:00",
+      "topics": []
+    },
     {
       "theme": "Paie",
       "title": "Salaire moyen de base en ETP : comment le calculer et bien l’interpréter ?",
@@ -11,20 +111,6 @@
       "publishedAt": "2026-10-29T08:00:00+00:00",
       "discoveredAt": "2026-10-29T10:15:47.456117+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-29T07:24:11+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Paie",
@@ -8395,6 +8481,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
