@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T08:49:14.187982+00:00",
+  "generated_at": "2026-10-30T16:05:16.713337+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,12 +8,143 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-30T07:24:13+00:00",
+      "publishedAt": "2026-10-30T15:23:45+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Auto",
+      "title": "BMW M. Un million de sportives Motorsport sont sorties d’usine",
+      "url": "https://www.largus.fr/actualite-automobile/bmw-m-un-million-de-sportives-motorsport-sont-sorties-dusine-40015572.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "BMW Motorsport annonce avoir produit un million de véhicules depuis sa fondation en 1972 comme département sportif du constructeur. De la 3.0 CSL à la future iM3 électrique en passant par les M5, Z3 M et autre XM, cette division a élaboré une large gamme de sportives routières.",
+      "publishedAt": "2026-10-30T15:13:00+00:00",
+      "discoveredAt": "2026-10-30T16:04:38.870836+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Oubliez la pâte feuilletée : ce gâteau invisible aux pommes ultra-fondant est le dessert parfait et léger pour l'automne",
+      "url": "https://www.750g.com/oubliez-la-pate-feuilletee-ce-gateau-invisible-aux-pommes-ultra-fondant-est-le-dessert-parfait-et-leger-pour-l-automne-a44812.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "C'est le gâteau moelleux et douillet dans lequel on aimerait se lover pendant une grise après-midi d'automne. Mais à défaut de pouvoir en faire notre nouveau canapé, on pourra toujours le manger !",
+      "publishedAt": "2026-10-30T15:00:00+00:00",
+      "discoveredAt": "2026-10-30T16:04:51.903705+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "30 octobre 14h48 Projet de loi Transparence salariale : une boîte à outils du ministère du Travail pour aider les employeurs à se préparer Social Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/projet-de-loi-transparence-salariale-une-boite-a-outils-du-ministere-du-travail-pour-aider-les-employeurs-a-se-preparer",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le 27 octobre 2026, le ministère du Travail a publié « une boîte à outils pour les entreprises en vue des futures obligations issues de",
+      "publishedAt": "2026-10-30T13:48:06+00:00",
+      "discoveredAt": "2026-10-30T16:04:22.194067+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Tesla (2026). Une mise à jour spécial Halloween",
+      "url": "https://www.largus.fr/actualite-automobile/tesla-2026-une-mise-a-jour-special-halloween-40015558.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "À l’occasion d’Halloween, Tesla propose une mise à jour disponible gratuitement sur tous ses modèles. Au menu de ce nouveau mode : des sons terrifiants, un inédit show de lumière ou encore un costume de fantôme pour le véhicule.",
+      "publishedAt": "2026-10-30T13:13:00+00:00",
+      "discoveredAt": "2026-10-30T16:04:38.871027+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Alimentation et nutrition humaine",
+      "url": "https://www.anses.fr/fr/thematique/alimentation-et-nutrition-humaine",
+      "source": "ANSES",
+      "sourceKind": "OFFICIEL",
+      "summary": "Notre alimentation est au cœur de notre quotidien. Saine et sûre, elle est un allié puissant pour notre santé. Pourtant, un déséquilibre nutritionnel ou des aliments contaminés peuvent toutefois nous exposer à des risques immédiats ou à des maladies chroniques. L’Anses apporte son expertise scientifique à toutes les étapes de la chaîne alimentaire, depuis la production des aliments d’origine animale ou végétale jusqu’à l’assiette du consommateur. Elle évalue les risques liés à la contamination des aliments par des agents pathogènes et des substances toxiques. Elle évalue également la qualité nutritionnelle et les risques liés à l’inactivité physique et la sédentarité.Découvrez tous nos articles \"Alimentation et nutrition humaine\"",
+      "publishedAt": "2026-10-30T12:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:49:15.727631+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "30 octobre 12h55 Intempéries en Corse : l’Urssaf et le CPSTI en soutien des professionnels impactés Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/intemperies-en-corse-l-urssaf-et-le-cpsti-en-soutien-des-professionnels-impactes",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le 27 octobre 2026, l’URSSAF Caisse nationale et le CPSTI ont indiqué activer des mesures d’urgence pour accompagner les professionnels",
+      "publishedAt": "2026-10-30T11:55:26+00:00",
+      "discoveredAt": "2026-10-30T16:04:24.804594+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Sollicitations répétées de l'employeur pendant les congés et harcèlement moral",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1701-sollicitations-repetees-employeur-conges-harcelement-moral.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Des sollicitations répétées de l'employeur peuvent suffire à caractériser un harcèlement moral, même si elles sont de même nature",
+      "publishedAt": "2026-10-30T11:00:00+00:00",
+      "discoveredAt": "2026-10-30T16:04:18.233496+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Violences urbaines du 31 octobre et grève du 5 novembre : quels droits et obligations pour les employeurs et les salariés ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8211-violences-urbaines-31-octobre-greve-5-novembre-droits-obligations-employeurs-salaries.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Après les pillages des 17 et 18 octobre et une nouvelle journée de tensions le 24, ce week-end du 31 octobre fait redouter un troisième épisode de violences. Quelques jours plus tard, le jeudi 5 novembre, une grève interprofessionnelle est attendue. Pour les entreprises, et en particulier les commerces, ces deux échéances soulèvent des questions très concrètes : faut-il fermer, peut-on maintenir l’activité, que doit-on payer, que risque-t-on si un salarié se retire ou ne peut pas venir ?",
+      "publishedAt": "2026-10-30T09:36:46+00:00",
+      "discoveredAt": "2026-10-30T16:04:18.233718+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Enchères. Françaises rares et voitures de stars à Epoqu’auto 2026",
+      "url": "https://www.largus.fr/actualite-automobile/encheres-francaises-rares-et-voitures-de-stars-a-epoquauto-2026-40015488.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Osenat tiendra deux ventes aux enchères automobiles à Lyon les 7 et 8 novembre prochains dans le cadre du Salon Epoqu’auto 2026. D’une dépanneuse Citroën de 1930 à une Renault Mégane RS R26.R de 2008 en passant par la Peugeot 505 de Valéry Giscard d’Estaing, la sélection est variée.",
+      "publishedAt": "2026-10-30T09:27:00+00:00",
+      "discoveredAt": "2026-10-30T16:04:38.871312+00:00",
+      "topics": [
+        "Réparation"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking du midi",
+      "url": "https://www.cuisineaz.com/diaporamas/batch-cooking-10-recettes-du-midi-faciles-pour-la-semaine-du-2-au-6-novembre-2026-9139/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-10-30T08:20:12.820000+00:00",
+      "discoveredAt": "2026-10-30T16:05:14.957443+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "30 octobre 09h00 Sort de la complémentaire santé pendant le congé supplémentaire de naissance : beaucoup de bruit pour rien Social Paye Journal officiel",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/sort-de-la-complementaire-sante-pendant-le-conge-supplementaire-de-naissance-beaucoup-de-bruit-pour-rien",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Interrogé par un député sur les conditions d’application du congé supplémentaire de naissance, le ministère du Travail avait, fin",
+      "publishedAt": "2026-10-30T08:00:00+00:00",
+      "discoveredAt": "2026-10-30T16:04:27.352300+00:00",
+      "topics": []
     },
     {
       "theme": "Cuisine",
@@ -75,6 +206,17 @@
       "topics": [
         "Congés"
       ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking du soir",
+      "url": "https://www.cuisineaz.com/diaporamas/menu-batch-cooking-du-2-au-6-novembre-2026-10-recettes-du-soir-a-faire-en-1-h-seulement-9152/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-10-30T04:00:04.630000+00:00",
+      "discoveredAt": "2026-10-30T16:05:15.807087+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
@@ -297,6 +439,17 @@
     },
     {
       "theme": "Cuisine",
+      "title": "Menu Batch Cooking Thermomix",
+      "url": "https://www.cuisineaz.com/diaporamas/batch-cooking-10-recettes-du-soir-a-faire-au-thermomix-pour-la-semaine-du-2-au-6-novembre-2026-9138/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-10-28T13:30:06.410000+00:00",
+      "discoveredAt": "2026-10-30T16:05:16.646984+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
       "title": "Recettes Ramadan",
       "url": "https://www.marmiton.org/dossier-ramadan",
       "source": "Marmiton",
@@ -352,17 +505,6 @@
       "summary": "Découvrez nos recettes de galettes et de crêpes de la chandeleur sucrées et salées fait maison & nos astuces pour les réussir. Régalez-vous !",
       "publishedAt": null,
       "discoveredAt": "2026-10-28T13:17:39.918122+00:00",
-      "topics": []
-    },
-    {
-      "theme": "Cuisine",
-      "title": "Alimentation et nutrition humaine",
-      "url": "https://www.anses.fr/fr/thematique/alimentation-et-nutrition-humaine",
-      "source": "ANSES",
-      "sourceKind": "OFFICIEL",
-      "summary": "Notre alimentation est au cœur de notre quotidien. Saine et sûre, elle est un allié puissant pour notre santé. Pourtant, un déséquilibre nutritionnel ou des aliments contaminés peuvent toutefois nous exposer à des risques immédiats ou à des maladies chroniques. L’Anses apporte son expertise scientifique à toutes les étapes de la chaîne alimentaire, depuis la production des aliments d’origine animale ou végétale jusqu’à l’assiette du consommateur. Elle évalue les risques liés à la contamination des aliments par des agents pathogènes et des substances toxiques. Elle évalue également la qualité nutritionnelle et les risques liés à l’inactivité physique et la sédentarité.Découvrez tous nos articles \"Alimentation et nutrition humaine\"",
-      "publishedAt": "2026-10-28T12:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:49:15.727631+00:00",
       "topics": []
     },
     {
@@ -8555,11 +8697,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
