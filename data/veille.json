@@ -1,6 +1,81 @@
 {
-  "generated_at": "2026-10-30T02:05:12.598535+00:00",
+  "generated_at": "2026-10-30T08:49:14.187982+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-30T07:24:13+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Les nutritionnistes sont formels : voici la meilleure cuisson pour manger des œufs avec de l'avocat le matin",
+      "url": "https://www.750g.com/les-nutritionnistes-sont-formels-voici-la-meilleure-cuisson-pour-manger-des-oeufs-avec-de-l-avocat-le-matin-a44816.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Brouillés, mollets, durs, au plat, à la coque ou même en omelette, les oeufs ont ce pouvoir magique d'être déclinés de mille façons. Mais quelle est la meilleure pour notre organisme ? La science a parlé et a trouvé la recette parfaite pour un petit1",
+      "publishedAt": "2026-10-30T07:00:00+00:00",
+      "discoveredAt": "2026-10-30T08:48:58.838722+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Prime de fin d'année : quand faut-il l'exclure du calcul des congés payés ?",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1699-prime-fin-annee-exclure-calcul-conges-payes.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un arrêt du 30 septembre 2026, la Cour de cassation rappelle qu'une prime de fin d'année dont le montant n'est pas affecté par la prise de congés payés doit être exclue de l'assiette de calcul de l'indemnité de congés payés. Une décision qui rappelle l'importance de vérifier les modalités de calcul des primes en paie.",
+      "publishedAt": "2026-10-30T05:00:00+00:00",
+      "discoveredAt": "2026-10-30T08:48:33.301210+00:00",
+      "topics": [
+        "Congés"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Elections du CSE : un salarié ne peut être inscrit sur la liste des candidats qu’avec son accord",
+      "url": "https://www.legisocial.fr/actualites-sociales/8206-elections-cse-salarie-ne-inscrit-liste-candidats-qu-accord.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "C'est un principe qui semble couler de source mais que la Cour de cassation a eu à rappeler récemment…",
+      "publishedAt": "2026-10-30T05:00:00+00:00",
+      "discoveredAt": "2026-10-30T08:48:33.301412+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "PLFSS 2027 : rejet de l'Assemblée nationale",
+      "url": "https://www.legisocial.fr/actualites-sociales/8204-plfss-2027-rejet-assemblee-nationale.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le PLFSS 2027 a été rejeté par l’Assemblée nationale le 23 octobre 2026. Le Sénat examinera désormais le texte initial, qui prévoit plusieurs réformes importantes pour les employeurs : modification des allègements généraux de cotisations, durcissement du régime des indemnités de rupture, nouvelles mesures sur les arrêts maladie et prolongation de plusieurs dispositifs d’exonération.",
+      "publishedAt": "2026-10-30T05:00:00+00:00",
+      "discoveredAt": "2026-10-30T08:48:33.301595+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Fractionnement des congés payés : faites les comptes en novembre !",
+      "url": "https://www.legisocial.fr/actualites-sociales/7007-fractionnement-conges-payes-comptes-novembre.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "En novembre, les employeurs doivent vérifier le respect du cadre légal du fractionnement des congés payés : un congé principal de 24 jours ouvrables, dont au moins 12 jours continus entre deux repos hebdomadaires, doit être posé entre le 1er mai et le 31 octobre. Au-delà, 1 ou 2 jours supplémentaires sont accordés selon que le salarié prend 3-5 ou 6 jours ou plus hors période. Les accords collectifs ou individuels peuvent modifier ou déroger à ces règles.",
+      "publishedAt": "2026-10-30T05:00:00+00:00",
+      "discoveredAt": "2026-10-30T08:48:33.301840+00:00",
+      "topics": [
+        "Congés"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Essai BMW i3 50 xDrive (2026) : l'autonomie et l'agrément avant tout",
@@ -12,20 +87,6 @@
       "discoveredAt": "2026-10-30T02:04:36.285251+00:00",
       "topics": [
         "Achat"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-29T18:23:46+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
@@ -8494,6 +8555,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
