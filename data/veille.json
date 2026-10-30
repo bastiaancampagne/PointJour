@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T16:05:16.713337+00:00",
+  "generated_at": "2026-10-30T20:57:54.399781+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,8 +8,22 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-30T15:23:45+00:00",
+      "publishedAt": "2026-10-30T18:23:56+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Carburants. TotalEnergies plafonne le prix du diesel à 2,15 €/l dans ses stations Access dès le 31 octobre",
+      "url": "https://www.largus.fr/actualite-automobile/carburants-totalenergies-plafonne-le-prix-du-diesel-a-215-e-l-dans-ses-stations-access-des-le-31-octobre-40015712.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "TotalEnergies a décidé de ne pas attendre les bénéfices du déblocage stratégique de 10 millions de barils de gazole par le gouvernement pour abaisser les prix à la pompe. Dès le samedi 31 octobre, le diesel sera plafonné à 2,15 €/l dans ses 705 stations Access.",
+      "publishedAt": "2026-10-30T16:39:00+00:00",
+      "discoveredAt": "2026-10-30T20:57:21.209979+00:00",
       "topics": [
         "Achat",
         "Carburant"
