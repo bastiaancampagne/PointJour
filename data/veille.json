@@ -1,6 +1,227 @@
 {
-  "generated_at": "2026-10-31T00:56:12.792438+00:00",
+  "generated_at": "2026-10-31T07:09:13.485924+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "Redressement URSSAF : les 10 erreurs de paie les plus fréquentes",
+      "url": "https://www.legisocial.fr/paie/10-erreurs-paie-origine-redressement-urssaf.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les erreurs de paie constituent une cause fréquente de redressement URSSAF. Une mauvaise assiette de cotisations, un taux incorrect, une erreur de plafond ou un traitement inadapté des absences peuvent entraîner un calcul erroné des cotisations sociales.",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "discoveredAt": "2026-10-31T07:08:24.813896+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Quelles sont les régularisations à faire avant un contrôle URSSAF ?",
+      "url": "https://www.legisocial.fr/paie/quelles-sont-regularisations-controle-urssaf.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Une erreur de paramétrage, une cotisation mal calculée ou une assiette incomplète peut passer inaperçue pendant plusieurs mois. Lorsqu’elle est découverte à l’occasion d’un audit de paie, l’entreprise doit déterminer son origine, mesurer ses conséquences et engager les corrections nécessaires. Une régularisation réalisée spontanément permet de corriger les déclarations et de limiter la persistance des anomalies.",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "discoveredAt": "2026-10-31T07:08:24.814002+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Contrôle URSSAF : quels sont les droits et obligations de l’employeur ?",
+      "url": "https://www.legisocial.fr/paie/controle-urssaf-droits-obligations-employeur.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lors d’un contrôle URSSAF, l’employeur doit collaborer avec les agents chargés du contrôle et leur transmettre les documents nécessaires à leurs vérifications. Cette obligation de coopération s’accompagne toutefois de garanties : l’entreprise doit être informée de la procédure, pouvoir présenter ses observations et bénéficier du respect du principe du contradictoire.",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "discoveredAt": "2026-10-31T07:08:24.814106+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Les impacts comptables d’un contrôle URSSAF",
+      "url": "https://www.legisocial.fr/paie/impacts-comptables-controle-urssaf.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un contrôle URSSAF ne se limite pas à la vérification des bulletins de paie et des déclarations sociales. Il peut également révéler des écarts entre les données issues de la paie, les montants déclarés et les sommes comptabilisées dans les comptes de l’entreprise. Lorsqu’un redressement est notifié, l’entreprise doit analyser ses conséquences comptables : cotisations supplémentaires, dette envers l’URSSAF, éventuelles majorations de retard et régularisations à effectuer.",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "discoveredAt": "2026-10-31T07:08:24.814203+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Après un contrôle URSSAF : sécuriser durablement ses pratiques de paie",
+      "url": "https://www.legisocial.fr/paie/securiser-entreprise-controle-urssaf.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un contrôle URSSAF peut révéler des erreurs de paramétrage de paie, des procédures insuffisamment formalisées, des justificatifs manquants ou une mauvaise interprétation des règles applicables. Le traitement du redressement constitue une première étape. Mais pour sécuriser durablement l’entreprise, il est nécessaire d’analyser l’origine des anomalies, de corriger les pratiques et de mettre en place des contrôles adaptés.",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "discoveredAt": "2026-10-31T07:08:24.814301+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Contrôle URSSAF et avantages en nature : les erreurs qui coûtent cher",
+      "url": "https://www.legisocial.fr/paie/avantages-nature-controle-urssaf-erreur-coutent-cher.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Véhicule de fonction, logement, repas ou équipements numériques : les avantages en nature constituent un élément de rémunération qui doit être correctement évalué et intégré dans la paie. Lors d’un contrôle URSSAF, l’employeur doit pouvoir justifier la nature de l’avantage accordé, ses modalités de mise à disposition et la méthode utilisée pour déterminer sa valeur.",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "discoveredAt": "2026-10-31T07:08:24.814415+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Checklist : traiter la lettre d'observations d'un contrôle URSSAF",
+      "url": "https://www.legisocial.fr/paie/checklist-traiter-lettre-observation-controle-urssaf.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La réception d’une lettre d’observations à l’issue d’un contrôle URSSAF nécessite une analyse rigoureuse et une réponse adaptée. Pour éviter de passer à côté d’un point essentiel, il est important de respecter les délais, d’examiner chaque observation et de réunir les justificatifs nécessaires.",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "discoveredAt": "2026-10-31T07:08:24.814502+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Quelles sont les pièces justificatives demandées lors d’un contrôle URSSAF ?",
+      "url": "https://www.legisocial.fr/paie/quelles-sont-pieces-justificatives-demandees-controle-urssaf.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lors d’un contrôle URSSAF, l’entreprise doit être en mesure de justifier les éléments déclarés et les pratiques appliquées en matière de paie et de cotisations sociales. Les documents demandés varient selon l’activité de l’entreprise, la période contrôlée et les points examinés par l’inspecteur.",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "discoveredAt": "2026-10-31T07:08:24.814586+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Contrôle URSSAF : les étapes, de l'avis de contrôle à la mise en demeure",
+      "url": "https://www.legisocial.fr/paie/controle-urssaf-controle-notification.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le contrôle URSSAF a pour objectif de vérifier que l’entreprise applique correctement la réglementation relative aux cotisations et contributions sociales. Il permet notamment de s’assurer que les rémunérations déclarées, les bases de calcul et les exonérations appliquées sont conformes aux règles en vigueur.",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "discoveredAt": "2026-10-31T07:08:24.814671+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Contrôle URSSAF et protection sociale complémentaire : les pièges à éviter",
+      "url": "https://www.legisocial.fr/paie/controle-urssaf-protection-sociale-pièges-eviter.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La mutuelle, la prévoyance et la retraite supplémentaire constituent des dispositifs de protection sociale complémentaire qui peuvent bénéficier d’un régime social spécifique pour les contributions patronales. Toutefois, la souscription d’un contrat auprès d’un organisme assureur ne suffit pas à garantir l’exclusion des contributions de l’employeur de l’assiette des cotisations sociales.",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "discoveredAt": "2026-10-31T07:08:24.814762+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Frais professionnels : attention aux redressements !",
+      "url": "https://www.legisocial.fr/paie/frais-professionnels-attention-redressement.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les employeurs remboursent régulièrement des frais engagés par leurs salariés dans le cadre de leur activité professionnelle : repas, déplacements, hébergement ou dépenses liées au télétravail. Ces remboursements peuvent être exclus de l’assiette des cotisations sociales, sous réserve du respect des conditions réglementaires. Toutefois, une indemnité qualifiée de « frais professionnels » ne bénéficie pas automatiquement d’une exonération.",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "discoveredAt": "2026-10-31T07:08:24.814856+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Checklist contrôle URSSAF : les justificatifs à réunir et à conserver",
+      "url": "https://www.legisocial.fr/paie/checklist-recapitulative-justificatifs-reunir-conserver-controle-URSSAF.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La préparation d’un contrôle URSSAF repose notamment sur la capacité de l’entreprise à présenter des documents fiables, complets et facilement accessibles. Une bonne organisation en amont permet de gagner du temps, de faciliter les échanges avec l’inspecteur et de justifier les pratiques appliquées en matière de paie et de déclarations sociales.",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "discoveredAt": "2026-10-31T07:08:24.814946+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Redressement URSSAF : comment le contester et faire valoir ses droits ?",
+      "url": "https://www.legisocial.fr/paie/comment-contester-redressement-urssaf-valoir-droits.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "À l’issue d’un contrôle URSSAF, l’entreprise peut être en désaccord avec tout ou partie des observations formulées par l’organisme, avec les sommes réclamées ou avec la décision prise à la suite du contrôle. Plusieurs voies de recours existent pour faire réexaminer le dossier. Toutefois, elles doivent être exercées dans un ordre précis et dans des délais qu’il est essentiel de respecter.",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "discoveredAt": "2026-10-31T07:08:24.815041+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Lettre d'observations URSSAF : comprendre son contenu et y répondre",
+      "url": "https://www.legisocial.fr/paie/comprendre-lettre-observation-controleur-urssaf.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "À l’issue d’un contrôle URSSAF, l’entreprise peut recevoir une lettre d’observations faisant état d’anomalies dans l’application de la législation sociale. L’inspecteur y présente les constats effectués, les règles applicables et, le cas échéant, les régularisations envisagées. La réception de ce document constitue une étape importante : l’entreprise dispose d’une période contradictoire pour analyser les observations, fournir des justificatifs et contester les points qu’elle estime infondés.",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "discoveredAt": "2026-10-31T07:08:24.815145+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Les échanges avec l’URSSAF : les 9 erreurs à éviter",
+      "url": "https://www.legisocial.fr/paie/echanges-urssaf-9-erreurs-eviter.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les échanges avec l’inspecteur de l’URSSAF constituent une étape importante du contrôle. Les documents transmis, les explications apportées et les réponses formulées permettent à l’agent de comprendre les pratiques de l’entreprise et d’apprécier la conformité des cotisations déclarées. L’objectif n’est pas de limiter les échanges avec l’inspecteur, mais de les sécuriser : répondre aux demandes, respecter les délais, expliquer les pratiques de paie et conserver une trace des éléments communiqués.",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "discoveredAt": "2026-10-31T07:08:24.815249+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Contrôle URSSAF : comment s'y préparer ? Les bons réflexes",
+      "url": "https://www.legisocial.fr/paie/preparer-controle-urssaf-bons-reflexes.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La réception d’un avis de contrôle URSSAF peut susciter des interrogations au sein de l’entreprise. Pourtant, une préparation organisée permet d’aborder cette étape plus sereinement, de faciliter les échanges avec l’inspecteur et de limiter les risques d’erreurs ou d’incompréhensions.",
+      "publishedAt": "2026-10-31T07:00:00+00:00",
+      "discoveredAt": "2026-10-31T07:08:24.815347+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "On a testé le flan au skyr : la bluffante version ultra-protéinée et sans gras de ce dessert culte",
+      "url": "https://www.750g.com/on-a-teste-le-flan-au-skyr-la-bluffante-version-ultra-proteinee-et-sans-gras-de-ce-dessert-culte-a44821.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Les desserts au skyr sont appréciés à la fois pour leur onctuosité et leur apport en protéines. Alors quand on découvre cette recette de flan, impossible de passer à côté !",
+      "publishedAt": "2026-10-31T06:00:00+00:00",
+      "discoveredAt": "2026-10-31T07:08:51.852758+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
