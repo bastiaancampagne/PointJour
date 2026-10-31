@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-31T07:09:13.485924+00:00",
+  "generated_at": "2026-10-31T13:47:40.779650+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-10-31T12:24:03+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai rétro Opel Corsa : GSi, OPC, GSE, on a testé toutes les Corsa sportives !",
+      "url": "https://www.largus.fr/actualite-automobile/essai-retro-opel-corsa-gsi-opc-gse-on-a-teste-toutes-les-corsa-sportives-40010009.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "À l'été 2026, nous partions essayer la nouvelle Opel Corsa GSE, cette citadine électrique de 281 ch cousine de la Peugeot E-208 GTi. À l’arrivée : on a pu conduire ses ancêtres badgées GSi et OPC, avec de jolies surprises à la clef. Récit.",
+      "publishedAt": "2026-10-31T11:02:00+00:00",
+      "discoveredAt": "2026-10-31T13:47:06.654647+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "25 recettes faciles à réaliser pour un Halloween gourmand et terrifiant",
+      "url": "https://www.750g.com/25-recettes-faciles-a-realiser-pour-un-halloween-gourmand-et-terrifiant-a44828.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Pour célébrer le soir du 31 octobre comme il se doit, rien de tel qu'un buffet d'Halloween à la fois ludique, effrayant et terriblement gourmand ! Des saucisses momies aux doigts de sorcière croquants, des plats réconfortants au potimarron et à la c1",
+      "publishedAt": "2026-10-31T08:00:00+00:00",
+      "discoveredAt": "2026-10-31T13:47:19.278568+00:00",
+      "topics": []
+    },
     {
       "theme": "Paie",
       "title": "Redressement URSSAF : les 10 erreurs de paie les plus fréquentes",
@@ -220,20 +258,6 @@
       "discoveredAt": "2026-10-31T07:08:51.852758+00:00",
       "topics": [
         "Desserts"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-30T18:23:56+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
