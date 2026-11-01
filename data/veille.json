@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T09:32:18.832106+00:00",
+  "generated_at": "2026-11-01T16:54:56.874957+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,10 +8,23 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-01T07:24:16+00:00",
+      "publishedAt": "2026-11-01T15:23:58+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Volkswagen Golf Hybrid 170 ch (2026) : VW réussit-il son retour au full hybride ?",
+      "url": "https://www.largus.fr/actualite-automobile/essai-volkswagen-golf-hybrid-170-ch-2026-vw-reussit-il-son-retour-a-lhybride-40014836.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Volkswagen retrouve enfin un moteur full hybride avec un système inédit sans boîte de vitesses. La marque promet des consommations plus basses pour la Golf et le T-Roc qui héritent de ce moteur affichant jusqu'à 170 ch. Réalité ou effet d’annonce ? Premier verdict avec l'essai de la Golf Hybrid 170.",
+      "publishedAt": "2026-11-01T11:00:00+00:00",
+      "discoveredAt": "2026-11-01T16:54:17.790172+00:00",
+      "topics": [
         "Carburant"
       ]
     },
