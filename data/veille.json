@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-11-01T02:25:06.688396+00:00",
+  "generated_at": "2026-11-01T09:32:18.832106+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-01T07:24:16+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Huiles de cuisson et inflammation : quelle bouteille faut-il remplacer d'urgence dans sa cuisine ?",
+      "url": "https://www.750g.com/huiles-de-cuisson-et-inflammation-quelle-bouteille-faut-il-remplacer-d-urgence-dans-sa-cuisine-a44710.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Omniprésentes dans nos poêles et nos placards, certaines graisses végétales sabotent silencieusement nos efforts nutritionnels en entretenant un terrain inflammatoire chronique. Pourtant, troquer sa matière grasse habituelle contre la meilleure huil1",
+      "publishedAt": "2026-11-01T07:00:00+00:00",
+      "discoveredAt": "2026-11-01T09:31:58.945216+00:00",
+      "topics": []
+    },
     {
       "theme": "Cuisine",
       "title": "Voir les autres ingrédients du mois",
@@ -11,20 +36,6 @@
       "publishedAt": null,
       "discoveredAt": "2026-11-01T02:24:49.540065+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-10-31T18:23:57+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Auto",
