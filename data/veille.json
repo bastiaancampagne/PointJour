@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T16:54:56.874957+00:00",
+  "generated_at": "2026-11-01T21:19:32.590973+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,12 +8,23 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-01T15:23:58+00:00",
+      "publishedAt": "2026-11-01T18:23:54+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "C'est la principale cause de blessure en cuisine : pourquoi vous devriez avoir peur d'un couteau mal aiguisé",
+      "url": "https://www.750g.com/c-est-la-principale-cause-de-blessure-en-cuisine-pourquoi-vous-devriez-avoir-peur-d-un-couteau-mal-aiguise-a44820.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Par crainte de se couper, de nombreux cuisiniers amateurs préfèrent utiliser des couteaux d'office dont la lame a perdu de son tranchant. C'est pourtant la pire décision possible pour vos doigts. Découvrez pourquoi un couteau émoussé est statistique1",
+      "publishedAt": "2026-11-01T18:00:00+00:00",
+      "discoveredAt": "2026-11-01T21:19:16.678122+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
@@ -389,10 +400,12 @@
       "url": "https://www.legisocial.fr/jurisprudences-sociales/1701-sollicitations-repetees-employeur-conges-harcelement-moral.html",
       "source": "Légisocial",
       "sourceKind": "EXPERT PAIE",
-      "summary": "Des sollicitations répétées de l'employeur peuvent suffire à caractériser un harcèlement moral, même si elles sont de même nature",
+      "summary": "Des sollicitations répétées de l’employeur pendant les arrêts maladie, les congés payés ou l’activité partielle peuvent caractériser un harcèlement moral, même si elles sont toutes de même nature. Pour la Cour de cassation, des centaines de sollicitations identiques ne forment pas un fait unique, et le juge doit apprécier l’ensemble des faits au regard des éléments médicaux.",
       "publishedAt": "2026-10-30T11:00:00+00:00",
       "discoveredAt": "2026-10-30T16:04:18.233496+00:00",
-      "topics": []
+      "topics": [
+        "Congés"
+      ]
     },
     {
       "theme": "Paie",
@@ -8991,6 +9004,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
