@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-10-31T22:40:15.247098+00:00",
+  "generated_at": "2026-11-01T02:25:06.688396+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Voir les autres ingrédients du mois",
+      "url": "https://www.750g.com/ingredients/novembre.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "A chaque saison ses produits : tous les ingrédients du mois de novembre",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-01T02:24:49.540065+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
