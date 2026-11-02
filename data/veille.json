@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T07:50:53.983056+00:00",
+  "generated_at": "2026-11-02T18:36:49.129587+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,11 +8,121 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-02T07:23:47+00:00",
+      "publishedAt": "2026-11-02T18:23:49+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Carburant. Vers une baisse des prix à la pompe de 0,18 €/l grâce à la libération de 10 millions de barils de gazole ?",
+      "url": "https://www.largus.fr/actualite-automobile/carburant-vers-une-baisse-des-prix-a-la-pompe-de-018-e-l-grace-a-la-liberation-de-10-millions-de-barils-de-gazole-40015940.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "La libération des barils de gazole issus des stocks stratégiques a débuté le 1er novembre. Cette action est censée faire baisser les prix à la pompe jusqu’à 0,18 €/l dans les prochains jours. Une réduction des tarifs qui s’annonce donc progressive mais qui pourrait bien ne concerner que les gros distributeurs.",
+      "publishedAt": "2026-11-02T17:05:00+00:00",
+      "discoveredAt": "2026-11-02T18:36:16.171672+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "C'est l'un des étoilés les plus abordables de France : à Bordeaux, ce chef propose un menu complet à 28 €",
+      "url": "https://www.750g.com/c-est-l-un-des-etoiles-les-plus-abordables-de-france-a-bordeaux-ce-chef-propose-un-menu-complet-a-28-a44834.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "On s'est tous déjà imaginés manger dans un restaurant étoilé. Mais le porte-monnaie ne suit pas forcément. Mais ça, c'était avant ! Car figurez-vous que manger dans un restaurant étoilé sans exploser son budget, c'est possible. À Bordeaux, le chef A1",
+      "publishedAt": "2026-11-02T17:00:00+00:00",
+      "discoveredAt": "2026-11-02T18:36:28.521463+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Voiture de l’Année 2027. Voici la liste des 7 modèles finalistes, tous électriques",
+      "url": "https://www.largus.fr/actualite-automobile/voiture-de-lannee-2027-voici-la-liste-des-7-modeles-finalistes-tous-electriques-40015771.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Pour la première fois, la phase finale de l’élection de la Voiture européenne de l’année ne mettra en concurrence que des électriques. En effet, du BMW iX3 au Volvo EX60 en passant par la Renault Twingo E-Tech et la VW ID. Polo, aucune thermique ne figure dans la liste des 7 finalistes de cette édition 2027.",
+      "publishedAt": "2026-11-02T16:43:00+00:00",
+      "discoveredAt": "2026-11-02T18:36:16.171777+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Immatriculation. Les données de près de 14 millions de plaques volées lors d’une cyberattaque",
+      "url": "https://www.largus.fr/actualite-automobile/immatriculation-les-donnees-de-pres-de-14-millions-de-plaques-volees-lors-dune-cyberattaque-40015798.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Un hacker serait récemment parvenu à dérober les données de près de 14 millions de plaques d’immatriculation auprès d’une plate-forme de réservation en ligne de contrôles techniques. Le point sur la situation, les arnaques qui risquent d’en découler et sur les moyens de s’en prémunir.",
+      "publishedAt": "2026-11-02T15:07:00+00:00",
+      "discoveredAt": "2026-11-02T18:36:16.171944+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Avis d’éligibilité de la FFVE. Un nouveau service pour protéger les collectionneurs de véhicules anciens",
+      "url": "https://www.largus.fr/actualite-automobile/avis-deligibilite-de-la-ffve-un-nouveau-service-pour-proteger-les-collectionneurs-de-vehicules-anciens-40015802.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "La FFVE (Fédération Française des Véhicules d'Epoque) lance un nouveau dispositif destiné à protéger les passionnés d’automobiles anciennes : l’Avis d’éligibilité pour l’obtention de l’attestation de la FFVE. Ce service permet de confirmer la validité administrative et technique de tout projet de restauration avant de débuter les travaux.",
+      "publishedAt": "2026-11-02T14:44:00+00:00",
+      "discoveredAt": "2026-11-02T18:36:16.172038+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "2 novembre 15h00 Prime carburant, prime transport, forfait mobilités durables et limite dérogatoire de 1 000 € : le BOSS remplace son communiqué par un autre Social Paye BOFIP et Circulaires",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/prime-carburant-prime-transport-forfait-mobilites-durables-et-limite-derogatoire-de-1-000-le-boss-remplace-son-communique-par-un-autre",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le 30 octobre 2026, un nouveau communiqué a été publié au Bulletin officiel de la sécurité sociale (BOSS) sur le relèvement de la",
+      "publishedAt": "2026-11-02T14:00:00+00:00",
+      "discoveredAt": "2026-11-02T18:36:02.992918+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Volkswagen ID. Golf (2030). Développement suspendu pour la future compacte électrique",
+      "url": "https://www.largus.fr/actualite-automobile/volkswagen-id-golf-2030-developpement-suspendu-pour-la-future-compacte-electrique-40015749.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Volkswagen met en pause le développement de la Golf 9 électrique, nommée ID. Golf, en raison de ses difficultés financières. Le SUV électrique ID. Roc la précédera pour inaugurer la plate-forme SSP. La compacte n’est plus attendue avant 2030... au plus tôt.",
+      "publishedAt": "2026-11-02T11:54:00+00:00",
+      "discoveredAt": "2026-11-02T18:36:16.172136+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "L’enfant de mon salarié est malade : bénéficie-t-il de jours de congés supplémentaires pour cette raison ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/lenfant-de-mon-salarie-est-malade-beneficie-t-il-de-jours-de-conges-supplementaires-pour-cette-raison",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-02T09:12:00+00:00",
+      "discoveredAt": "2026-11-02T18:36:10.993749+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "2 novembre 09h30 Le droit à la vie privée n’exclut pas un licenciement pour des messages électroniques non identifiés comme « personnels » et sans contenu privé Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-droit-a-la-vie-privee-n-exclut-pas-un-licenciement-pour-des-messages-electroniques-non-identifies-comme-personnels-et-sans-contenu-prive-1d9b2ec2-3c86-47b0-b452-8369720e80ed",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le respect de la vie privé du salarié, qui implique en particulier le secret des correspondances, n’écarte pas toute possibilité de",
+      "publishedAt": "2026-11-02T08:30:00+00:00",
+      "discoveredAt": "2026-11-02T18:36:05.282017+00:00",
+      "topics": [
+        "Ruptures"
       ]
     },
     {
@@ -345,7 +455,7 @@
     },
     {
       "theme": "Auto",
-      "title": "Carburants. TotalEnergies plafonne le prix du diesel à 2,15 €/l dans ses stations Access dès le 31 octobre",
+      "title": "Carburant. TotalEnergies plafonne le prix du diesel à 2,15 €/l dans ses stations Access dès le 31 octobre",
       "url": "https://www.largus.fr/actualite-automobile/carburants-totalenergies-plafonne-le-prix-du-diesel-a-215-e-l-dans-ses-stations-access-des-le-31-octobre-40015712.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
@@ -453,6 +563,17 @@
       "summary": "Après les pillages des 17 et 18 octobre et une nouvelle journée de tensions le 24, ce week-end du 31 octobre fait redouter un troisième épisode de violences. Quelques jours plus tard, le jeudi 5 novembre, une grève interprofessionnelle est attendue. Pour les entreprises, et en particulier les commerces, ces deux échéances soulèvent des questions très concrètes : faut-il fermer, peut-on maintenir l’activité, que doit-on payer, que risque-t-on si un salarié se retire ou ne peut pas venir ?",
       "publishedAt": "2026-10-30T09:36:46+00:00",
       "discoveredAt": "2026-10-30T16:04:18.233718+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu étudiant du 2 au 6 novembre",
+      "url": "https://www.cuisineaz.com/diaporamas/menu-pas-cher-special-recettes-etudiantes-les-ingredients-pour-la-semaine-du-2-au-6-novembre-2026-9149/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-10-30T09:30:04.930000+00:00",
+      "discoveredAt": "2026-11-02T18:36:49.088947+00:00",
       "topics": []
     },
     {
@@ -5522,7 +5643,7 @@
     },
     {
       "theme": "Cuisine",
-      "title": "Recettes d'octobre",
+      "title": "Recettes de novembre",
       "url": "https://www.cuisineaz.com/les-aliments-de-saison-en-octobre-p690",
       "source": "CuisineAZ",
       "sourceKind": "RECETTES",
