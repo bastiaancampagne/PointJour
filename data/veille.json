@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T00:57:12.604366+00:00",
+  "generated_at": "2026-11-02T07:50:53.983056+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,10 +8,47 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-01T18:23:54+00:00",
+      "publishedAt": "2026-11-02T07:23:47+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Heures de délégation des membres du CSE : le décompte mensuel doit être annexé au bulletin de paye",
+      "url": "https://www.legisocial.fr/actualites-sociales/3648-heures-delegation-membres-cse-decompte-mensuel-annexe-bulletin-paye.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le Code du travail impose une remise mensuelle d'un décompte des heures de délégation et de réunion, en annexe de chaque bulletin de paie.",
+      "publishedAt": "2026-11-02T05:00:00+00:00",
+      "discoveredAt": "2026-11-02T07:49:44.984516+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "AT/MP : ce qui change au 1er novembre 2026",
+      "url": "https://www.legisocial.fr/actualites-sociales/8205-atmp-change-1er-novembre-2026.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Au 1er novembre 2026, la réglementation AT/MP évolue avec une baisse importante du plafond des indemnités journalières et l'instauration de deux taux distincts pour indemniser l'incapacité permanente. Quelles sont les conséquences pour les employeurs en matière de maintien de salaire et de tarification AT/MP ?",
+      "publishedAt": "2026-11-02T05:00:00+00:00",
+      "discoveredAt": "2026-11-02T07:49:44.984683+00:00",
+      "topics": [
+        "IJSS"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Actualité - Volkswagen Golf Hybride - Premières impressions",
+      "url": "https://www.quechoisir.org/actualite-volkswagen-golf-hybride-premieres-impressions-n179178/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "La Golf revient avec une nouvelle motorisation full hybrid intéressante à conduire malgré un défaut de bruit à haut régime. Elle permet de réduire le malus écologique appliqué à la compacte qui conserve un bel agrément sur route.",
+      "publishedAt": "2026-11-02T02:00:00+00:00",
+      "discoveredAt": "2026-11-02T07:50:02.637360+00:00",
+      "topics": [
         "Carburant"
       ]
     },
