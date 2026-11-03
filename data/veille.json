@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-11-03T17:59:27.246274+00:00",
+  "generated_at": "2026-11-03T23:33:40.738770+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-03T18:23:55+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Paie",
       "title": "Déclaration du congé supplémentaire de naissance : un nouveau formulaire obligatoire pour les employeurs",
@@ -35,20 +49,6 @@
       "publishedAt": "2026-11-03T16:34:00+00:00",
       "discoveredAt": "2026-11-03T17:58:48.925319+00:00",
       "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-03T15:24:11+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
         "Carburant"
       ]
     },
