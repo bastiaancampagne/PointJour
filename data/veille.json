@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-11-03T01:44:10.034045+00:00",
+  "generated_at": "2026-11-03T09:49:20.062219+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Rappel Volkswagen/Cupra. Problème de batterie haute tension sur les véhicules électriques",
+      "url": "https://www.largus.fr/actualite-automobile/rappel-volkswagen-cupra-probleme-de-batterie-haute-tension-sur-les-vehicules-electriques-30046319.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le groupe Volkswagen rappelle près de 100 000 véhicules électriques en Europe en raison d’un problème de batterie haute tension. Toute la gamme Volkswagen ID. est concernée, ainsi que la Cupra Born. En France, quelques milliers de véhicules produits entre février 2022 et juin 2025 sont touchés.",
+      "publishedAt": "2026-11-03T08:55:00+00:00",
+      "discoveredAt": "2026-11-03T09:48:52.137964+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "3 novembre 09h00 Maladie professionnelle « hors tableaux » : l'employeur peut désormais contester le taux d'incapacité « prévisible » ayant justifié la saisine du CRRMP Social Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/maladie-professionnelle-hors-tableaux-l-employeur-peut-desormais-contester-le-taux-d-incapacite-previsible-ayant-justifie-la-saisine-du-crrmp",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La caisse primaire d'assurance maladie (CPAM) peut reconnaître le caractère professionnel d'une maladie qui n'est pas désignée par l'un",
+      "publishedAt": "2026-11-03T08:00:00+00:00",
+      "discoveredAt": "2026-11-03T09:47:26.484631+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -8,10 +32,72 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-02T18:23:49+00:00",
+      "publishedAt": "2026-11-03T07:24:11+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Prime carburant et électrique à 1000 euros : le BOSS confirme son versement sans proratisation",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/prime-carburant-et-electrique-a-1000-euros-le-boss-confirme-son-versement-sans-proratisation",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-03T06:00:00+00:00",
+      "discoveredAt": "2026-11-03T09:47:32.716514+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Risques professionnels : anticipez les vagues de froid !",
+      "url": "https://www.legisocial.fr/actualites-sociales/5526-risques-professionnels-anticipez-vagues-froid.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Pour limiter les risques d’accidents au travail liés au froid, les employeurs doivent mettre en place une série de précautions afin de protéger les salariés les plus exposés.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T09:47:23.084669+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Montant net social : la participation du CSE à la complémentaire santé devra être intégrée",
+      "url": "https://www.legisocial.fr/actualites-sociales/8216-montant-net-social-participation-cse-complementaire-sante-devra-integree.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le BOSS prévoit désormais d’intégrer au montant net social la participation du CSE à la cotisation salariale obligatoire de complémentaire santé. Ce changement devrait s’appliquer dès janvier 2027, sous réserve d'une confirmation par décret.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T09:47:23.084809+00:00",
+      "topics": [
+        "Cotisations",
+        "Net social"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Comment sanctionner les propos sexistes au travail ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/7068-comment-sanctionner-propos-sexistes-travail.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les propos sexistes au travail constituent un problème sérieux qui nécessite une réponse appropriée de la part des employeurs.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T09:47:23.084903+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Actualité - Crevettes d’élevage : des pratiques cruelles, des engagements inégaux",
+      "url": "https://www.quechoisir.org/actualite-crevettes-d-elevage-des-pratiques-cruelles-des-engagements-inegaux-n179190/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "​​​​​​Retrait des globes oculaires des femelles reproductrices, abattage sans étourdissement électrique préalable… L’ONG ICAW alerte sur les conditions d’élevage des crevettes et distribue bons et mauvais points, selon le niveau d’engagement des distributeurs à ce sujet.",
+      "publishedAt": "2026-11-03T02:00:00+00:00",
+      "discoveredAt": "2026-11-03T09:48:53.166364+00:00",
+      "topics": [
         "Carburant"
       ]
     },
@@ -84,6 +170,19 @@
       "summary": "Le 30 octobre 2026, un nouveau communiqué a été publié au Bulletin officiel de la sécurité sociale (BOSS) sur le relèvement de la",
       "publishedAt": "2026-11-02T14:00:00+00:00",
       "discoveredAt": "2026-11-02T18:36:02.992918+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "2 novembre 15h00 Prime carburant, prime transport, forfait mobilités durables et limite dérogatoire de 1 000 € : le BOSS remplace son communiqué par un autre Social Paye BOFIP et Circulaires",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/prime-carburant-prime-transport-forfait-mobilites-durables-et-limite-derogatoire-de-1-000-le-boss-remplace-son-communique-par-un-autre-80d9d5ac-6715-4130-b434-6d8894a0f045",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le 30 octobre 2026, un nouveau communiqué a été publié au Bulletin officiel de la sécurité sociale (BOSS) sur le relèvement de la",
+      "publishedAt": "2026-11-02T14:00:00+00:00",
+      "discoveredAt": "2026-11-03T09:47:29.012771+00:00",
       "topics": [
         "Cotisations"
       ]
@@ -9160,8 +9259,23 @@
     },
     {
       "theme": "Paie",
+      "source": "Service-Public Pro",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Service-Public",
+      "error": "<urlopen error timed out>"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
