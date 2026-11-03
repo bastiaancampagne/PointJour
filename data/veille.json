@@ -1,6 +1,108 @@
 {
-  "generated_at": "2026-11-03T09:49:20.062219+00:00",
+  "generated_at": "2026-11-03T17:59:27.246274+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "Déclaration du congé supplémentaire de naissance : un nouveau formulaire obligatoire pour les employeurs",
+      "url": "https://entreprendre.service-public.gouv.fr/actualites/A19127",
+      "source": "Service-Public Pro",
+      "sourceKind": "OFFICIEL",
+      "summary": "Depuis le 1er novembre 2026, les employeurs doivent effectuer leurs déclarations via un nouveau formulaire obligatoire.",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-03T17:57:44.650668+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Seulement 3 ingrédients : la recette ultra-simple avec du lait concentré pour un goûter économique",
+      "url": "https://www.750g.com/seulement-3-ingredients-la-recette-ultra-simple-avec-du-lait-concentre-pour-un-gouter-economique-a44839.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Vous commencez à nous connaître, chez 750g, on aime les recettes simples et efficaces ! Pas besoin de multiplier les ingrédients pour se faire plaisir au goûter ! On vous le prouve avec seulement 3 ingrédients ! Une recette ultra simple avec du lait1",
+      "publishedAt": "2026-11-03T17:00:00+00:00",
+      "discoveredAt": "2026-11-03T17:59:02.108761+00:00",
+      "topics": [
+        "Économique"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "BYD. Des remises sur toute la gamme jusqu’à 13 400 €",
+      "url": "https://www.largus.fr/actualite-automobile/byd-des-remises-dans-toute-la-gamme-jusqua-13-400-e-40016070.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "BYD n'attend pas le Black Friday et propose un généreux bonus sur l’ensemble de ses modèles durant tout ce mois de novembre 2026. Le montant de la remise atteint 13 400 € sur le grand SUV électrique Tang. Quelques offres de LLD sans apport sont également au menu. Voici le détail par modèle.",
+      "publishedAt": "2026-11-03T16:34:00+00:00",
+      "discoveredAt": "2026-11-03T17:58:48.925319+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-03T15:24:11+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "3 novembre 13h57 Le licenciement sans cause réelle et sérieuse peut donner droit à réparation pour perte de chance de percevoir des dividendes Social Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-licenciement-sans-cause-reelle-et-serieuse-peut-donner-droit-a-reparation-pour-perte-de-chance-de-percevoir-des-dividendes",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans une affaire jugée le 14 octobre 2026, la Cour de cassation a estimé qu’un salarié licencié et de ce fait contraint de céder les",
+      "publishedAt": "2026-11-03T12:57:15+00:00",
+      "discoveredAt": "2026-11-03T17:58:29.578787+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "3 novembre 12h06 Licenciement économique : coemploi reconnu entre une filiale et la holding ayant contribué à ses difficultés économiques Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/licenciement-economique-coemploi-reconnu-entre-une-filiale-et-la-holding-ayant-contribue-a-ses-difficultes-economiques",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un arrêt du 21 octobre 2026, la Cour de cassation rappelle qu'en cas d’« immixtion permanente » de la société mère conduisant",
+      "publishedAt": "2026-11-03T11:06:47+00:00",
+      "discoveredAt": "2026-11-03T17:58:31.602684+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "3 novembre 12h00 L'employeur ne peut pas enregistrer les réunions du CSE afin de contrôler les P-V établis par le secrétaire Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/l-employeur-ne-peut-pas-enregistrer-les-reunions-du-cse-afin-de-controler-les-p-v-etablis-par-le-secretaire",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La Cour de cassation précise que l'enregistrement des réunions du CSE a pour seule finalité d'aider à la rédaction du procès-verbal",
+      "publishedAt": "2026-11-03T11:00:00+00:00",
+      "discoveredAt": "2026-11-03T17:58:34.557429+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "3 novembre 12h00 Certaines contributions patronales seront intégrées au Montant net social au 1er janvier 2027 Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/certaines-contributions-patronales-seront-integrees-au-montant-net-social-au-1er-janvier-2027-ff92f384-0ec6-43e2-9881-9dcefe9231e6",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Une mise à jour du BOSS des 2 et 26 octobre 2026 indique que, selon un projet de décret dont les caisses de sécurité sociale ont été",
+      "publishedAt": "2026-11-03T11:00:00+00:00",
+      "discoveredAt": "2026-11-03T17:58:36.778287+00:00",
+      "topics": [
+        "Cotisations",
+        "Net social"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Rappel Volkswagen/Cupra. Problème de batterie haute tension sur les véhicules électriques",
@@ -24,20 +126,6 @@
       "publishedAt": "2026-11-03T08:00:00+00:00",
       "discoveredAt": "2026-11-03T09:47:26.484631+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-03T07:24:11+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Paie",
@@ -87,6 +175,129 @@
       "publishedAt": "2026-11-03T05:00:00+00:00",
       "discoveredAt": "2026-11-03T09:47:23.084903+00:00",
       "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Portabilité des garanties santé et prévoyance : que doit faire l'employeur ?",
+      "url": "https://www.legisocial.fr/vie-entreprise/mutuelle-et-prevoyance/portabilite-garanties-sante-prevoyance-employeur.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un salarié qui quitte l'entreprise et a droit à l'assurance chômage conserve gratuitement sa complémentaire santé et sa prévoyance, pendant 12 mois au plus. Ce maintien, appelé « portabilité », s'applique à toute rupture du contrat de travail, sauf la faute lourde, et vaut aussi pour les ayants droit couverts au jour du départ. Le rôle de l'employeur tient en deux gestes : mentionner la portabilité sur le certificat de travail et informer l'organisme assureur de la fin du contrat.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T17:58:25.911048+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Prévoyance des cadres : en quoi consiste l'obligation de cotiser 1,50 % sur la tranche A ?",
+      "url": "https://www.legisocial.fr/vie-entreprise/mutuelle-et-prevoyance/prevoyance-cadres-consiste-obligation-cotisation-trancheA.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Tout employeur entrant dans le champ de l'accord national interprofessionnel (ANI) du 17 novembre 2017 doit verser, pour chacun de ses cadres et assimilés, une cotisation patronale d'au moins 1,50 % de la rémunération limitée au plafond de la sécurité sociale (tranche A). Cette cotisation finance des garanties de prévoyance, en priorité la couverture décès.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T17:58:25.911178+00:00",
+      "topics": [
+        "PMSS",
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Indemnités complémentaires en arrêt de travail : comment les calculer et les traiter en paie ?",
+      "url": "https://www.legisocial.fr/vie-entreprise/mutuelle-et-prevoyance/indemnites-complementaires-arret-travail-comment-calculer-traiter-paie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Pendant un arrêt maladie, le salarié peut percevoir jusqu'à trois revenus qui s'additionnent : les indemnités journalières de la sécurité sociale (IJSS), l'indemnité complémentaire de l'employeur, ou « maintien de salaire », et les indemnités journalières complémentaires de la prévoyance, quand le maintien de salaire s'arrête. Chacune a ses conditions, son calcul et son régime social. Et plusieurs changements récents modifient le contexte.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T17:58:25.911309+00:00",
+      "topics": [
+        "IJSS"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Quel régime social et fiscal appliquer aux contributions patronales de prévoyance et de frais de santé ?",
+      "url": "https://www.legisocial.fr/vie-entreprise/mutuelle-et-prevoyance/regime-social-fiscal-appliquer-contributions-patronales-prevoyance-frais-sante.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les contributions versées par l'employeur pour financer un régime de prévoyance complémentaire ou de frais de santé sont exclues de l'assiette des cotisations de sécurité sociale, sous conditions et dans une limite annuelle appréciée salarié par salarié. Cette fiche détaille les conditions de l'exclusion d'assiette, le calcul de la limite pour 2026, la méthode de réintégration de la fraction excédentaire, le traitement fiscal et les conséquences d'un contrôle URSSAF.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T17:58:25.911449+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Anciens salariés : comment conserver la complémentaire santé (article 4 loi Evin) ?",
+      "url": "https://www.legisocial.fr/vie-entreprise/mutuelle-et-prevoyance/anciens-salaries-comment-conserver-complementaire-sante-article-4-loi-evin.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un ancien salarié retraité, invalide ou privé d'emploi peut conserver, à titre individuel et à ses frais, la complémentaire santé collective dont il bénéficiait dans l'entreprise. L'article 4 de la loi Evin oblige le contrat d'assurance à prévoir ce maintien sans délai de carence, sans questionnaire médical et sans limite de durée. Pour l'employeur, l'enjeu est double : choisir un contrat conforme et informer l'organisme des ruptures et des décès.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T17:58:25.911612+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Prévoyance et frais de santé : quelles sont les obligations de l'employeur ?",
+      "url": "https://www.legisocial.fr/vie-entreprise/mutuelle-et-prevoyance/prevoyance-frais-sante-quelles-sont-obligations-employeur.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Depuis le 1er janvier 2016, toute entreprise doit faire bénéficier ses salariés d'une couverture collective à adhésion obligatoire de remboursement des frais de santé, financée pour moitié au moins par l'employeur. La prévoyance en cas de décès, d’incapacité de travail ou d’invalidité ne devient obligatoire que si une convention collective, un accord, une décision unilatérale antérieure ou le statut cadre l'imposent.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T17:58:25.911856+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Salariés couverts et cas de dispense au régime de frais de santé et prévoyance",
+      "url": "https://www.legisocial.fr/vie-entreprise/mutuelle-et-prevoyance/salaries-couverts-cas-dispense-regime-frais-sante-prevoyance.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Tous les salariés titulaires d'un contrat de travail doivent être affiliés au régime collectif, et aucune condition d'ancienneté ne peut être exigée en frais de santé. L'adhésion est obligatoire : un salarié ne peut y échapper que dans des cas de dispense limitativement énumérés par les textes. La dispense doit résulter d'une demande écrite du salarié, dans les délais et accompagnée des justificatifs requis. À défaut, c'est le caractère obligatoire du régime tout entier qui est fragilisé.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T17:58:25.912012+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Les garanties et cotisations sont-elles maintenues en cas de suspension de contrat non indemnisée ?",
+      "url": "https://www.legisocial.fr/vie-entreprise/mutuelle-et-prevoyance/garanties-cotisations-sont-maintenues-cas-suspension-contrat-indemnisee.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsqu'un salarié est absent sans aucune indemnisation (congé sans solde, congé parental à temps plein, absence maladie non indemnisée…), l'employeur peut choisir de maintenir les garanties (et donc les cotisations), sans que le caractère collectif du régime soit remis en cause. Dès que l'employeur finance, même en partie, une indemnisation, le maintien de toutes les garanties devient obligatoire pour conserver l'exclusion d'assiette.",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T17:58:25.912155+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Cotisations prévoyance et santé : quel traitement en paie ?",
+      "url": "https://www.legisocial.fr/paie/cotisations-sociales/cotisations-prevoyance-sante-traitement-paie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Complémentaire santé et prévoyance partagent la même limite d'exonération sociale, mais pas les mêmes règles de financement ni de fiscalité. Les 3 différences à retenir portent sur les dispenses d'adhésion, le financement (au moins 50 % pour l'employeur sur les frais de santé, pas de minimum en prévoyance, sauf 1,50 % de la tranche A pour les cadres) et l'impôt (la part patronale de mutuelle est toujours ajoutée au net imposable, celle de prévoyance ne l'est qu'au-delà de la limite fiscale).",
+      "publishedAt": "2026-11-03T05:00:00+00:00",
+      "discoveredAt": "2026-11-03T17:58:25.912293+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Lave-vaisselle",
+      "url": "https://www.quechoisir.org/comparatif-lave-vaisselle-n41/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Plus de la moitié des ménages sont équipés d’un lave-vaisselle. Qu’ils soient en pose libre, encastrables ou semi-encastrables, il existe une multitude de modèles et il peut être difficile de s’y retrouver. Pour vous aider dans votre choix, nos experts ont testé en laboratoire des appareils de marques telles que Bosch, Brandt, Siemens ou encore Miele et Whirlpool selon des critères précis. Nombre de couverts, efficacité de nettoyage, de rinçage et de séchage, consommation électrique et d’eau, niveau sonore ou commodité d’emploi font ainsi partie des éléments pris en compte par nos experts.",
+      "publishedAt": "2026-11-03T04:00:00+00:00",
+      "discoveredAt": "2026-11-03T17:58:50.592714+00:00",
+      "topics": [
+        "Carburant"
+      ]
     },
     {
       "theme": "Auto",
@@ -9259,23 +9470,8 @@
     },
     {
       "theme": "Paie",
-      "source": "Service-Public Pro",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Service-Public",
-      "error": "<urlopen error timed out>"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
