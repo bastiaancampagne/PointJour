@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T15:37:34.891158+00:00",
+  "generated_at": "2026-11-04T22:02:59.787807+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,12 +8,51 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-04T15:24:33+00:00",
+      "publishedAt": "2026-11-04T18:24:02+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Acheter une voiture d'occasion : comment bien préparer sa visite en point de vente ?",
+      "url": "https://www.largus.fr/actualite-automobile/acheter-une-voiture-doccasion-comment-bien-preparer-sa-visite-en-point-de-vente-40016218.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Avant de se rendre en point de vente pour acheter une voiture d'occasion, quelques étapes de préparation font gagner du temps et évitent les mauvaises surprises. Besoin, budget, présélection en ligne, appel au vendeur, essai et documents : voici comment arriver bien préparé et repartir avec le véhicule adapté.",
+      "publishedAt": "2026-11-04T18:00:00+00:00",
+      "discoveredAt": "2026-11-04T22:02:01.771626+00:00",
+      "topics": [
+        "Achat",
+        "Réparation"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "« Une sorte de flan à la tarte Tatin » : l'incroyable gâteau de semoule aux pommes (et ultra-économique)",
+      "url": "https://www.750g.com/une-sorte-de-flan-a-la-tarte-tatin-l-incroyable-gateau-de-semoule-aux-pommes-et-ultra-economique-a44851.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Il est l'heure de sortir les recettes doudou pour se réconforter ! Figurez-vous qu'on en a une parfaite qui est non seulement un vrai câlin culinaire, mais qui en plus est ultra économique. Il s'agit d'un gâteau de semoule aux pommes qui en bouche e1",
+      "publishedAt": "2026-11-04T17:00:00+00:00",
+      "discoveredAt": "2026-11-04T22:02:37.622901+00:00",
+      "topics": [
+        "Desserts",
+        "Économique"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "4 novembre 16h02 Le salarié objet d’une enquête interne n’a pas accès au dossier lors de l’entretien préalable Social",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-salarie-objet-d-une-enquete-interne-n-a-pas-acces-au-dossier-lors-de-l-entretien-prealable",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le fait qu’une enquête ait été menée à l’insu du salarié soupçonné de harcèlement moral et sexuel et d’avoir refusé lors de",
+      "publishedAt": "2026-11-04T15:02:18+00:00",
+      "discoveredAt": "2026-11-04T22:01:48.977182+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
@@ -26,6 +65,19 @@
       "discoveredAt": "2026-11-04T15:36:41.469802+00:00",
       "topics": [
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "4 novembre 10h53 Contrôle URSSAF : l'agent chargé du contrôle est-il en droit d'emporter, sans l'accord de l'employeur, les copies des documents remis ? Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/controle-urssaf-l-agent-charge-du-controle-est-il-en-droit-d-emporter-sans-l-accord-de-l-employeur-les-copies-des-documents-remis-c2ceec84-f2d9-4b2f-8583-e75fac3e1fbc",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un arrêt du 24 septembre 2026, la Cour de cassation a été amenée à se prononcer sur le cas d'une inspectrice de l'URSSAF qui, lors",
+      "publishedAt": "2026-11-04T09:53:22+00:00",
+      "discoveredAt": "2026-11-04T22:01:51.154498+00:00",
+      "topics": [
+        "Cotisations"
       ]
     },
     {
