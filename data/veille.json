@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-11-04T06:47:11.280967+00:00",
+  "generated_at": "2026-11-04T15:37:34.891158+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-04T15:24:33+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Ligier JS60 (2026) : peut-elle contrer la Citroën Ami ?",
+      "url": "https://www.largus.fr/actualite-automobile/essai-ligier-js60-2026-peut-elle-contrer-la-citroen-ami-40009793.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Face à la déferlante des voitures sans-permis Stellantis et à la transformation du segment des quadricycles, Ligier fait le choix du « premium » et du volume de chargement avec sa nouvelle JS60 proposée en thermique ou en électrique. Laquelle faut-il choisir ? La réponse dans notre essai.",
+      "publishedAt": "2026-11-04T14:54:00+00:00",
+      "discoveredAt": "2026-11-04T15:36:41.469802+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Fiat Topolino (2026). Une version chic et unique pour fêter le bon démarrage aux USA",
+      "url": "https://www.largus.fr/actualite-automobile/fiat-topolino-2026-une-version-chic-et-unique-pour-feter-le-bon-demarrage-aux-usa-40016037.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Suite à un lancement américain réussi l’été dernier, Fiat agrandit la gamme de la Topolino outre-Atlantique et en dévoile une variante unique conçue avec le fabricant de yachts Sanlorenzo. Au pays des gros pick-ups, la voiturette électrique trouve sa place dans les quartiers résidentiels.",
+      "publishedAt": "2026-11-04T09:17:00+00:00",
+      "discoveredAt": "2026-11-04T15:36:41.470039+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Paie",
       "title": "Contrôle d’alcoolémie au travail : un pouvoir de contrôle strictement encadré par le règlement intérieur",
@@ -46,20 +86,6 @@
       "publishedAt": "2026-11-04T02:00:00+00:00",
       "discoveredAt": "2026-11-04T06:46:36.336736+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-03T18:23:55+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Paie",
