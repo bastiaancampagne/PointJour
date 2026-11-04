@@ -1,6 +1,52 @@
 {
-  "generated_at": "2026-11-03T23:33:40.738770+00:00",
+  "generated_at": "2026-11-04T06:47:11.280967+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "Contrôle d’alcoolémie au travail : un pouvoir de contrôle strictement encadré par le règlement intérieur",
+      "url": "https://www.legisocial.fr/actualites-sociales/8189-controle-alcoolemie-travail-pouvoir-controle-strictement-encadre-reglement-interieur.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Face aux risques que peut engendrer la consommation d’alcool sur certains postes de travail, l’employeur dispose de moyens de contrôle destinés à garantir la sécurité des salariés et des tiers. Toutefois, le recours à un éthylotest sur le lieu de travail ne peut être mis en œuvre librement. Parce qu’il porte atteinte aux libertés individuelles du salarié, ce contrôle est soumis à des conditions strictes définies par la jurisprudence et le règlement intérieur de l’entreprise.",
+      "publishedAt": "2026-11-04T05:00:00+00:00",
+      "discoveredAt": "2026-11-04T06:46:16.920943+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Quel budget pour le CSE dans les entreprises de moins de 50 salariés ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/3362-budget-cse-entreprises-50-salaries.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans les entreprises de moins de 50 salariés, le Comité Social Économique (CSE) ne dispose pas de budgets spécifiques comme dans les entreprises de 50 salariés et plus.",
+      "publishedAt": "2026-11-04T05:00:00+00:00",
+      "discoveredAt": "2026-11-04T06:46:16.921149+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Intempéries en Corse : quelles aides pour les employeurs et les indépendants ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8217-intemperies-corse-quelles-aides-employeurs-independants.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "À la suite des intempéries en Corse, l’Urssaf et le CPSTI activent des mesures d’urgence pour les professionnels touchés. Délais de paiement, adaptation des cotisations provisionnelles et aide pouvant atteindre 2 000 € : les dispositifs varient selon le statut.",
+      "publishedAt": "2026-11-04T05:00:00+00:00",
+      "discoveredAt": "2026-11-04T06:46:16.921454+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Actualité - Dioxines et PCB : c’est quoi ? Comment s’en protéger ? (vidéo)",
+      "url": "https://www.quechoisir.org/actualite-dioxines-et-pcb-c-est-quoi-comment-s-en-proteger-video-n179214/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Le cadmium n’est pas le seul polluant auquel les autorités sanitaires reconnaissent que nous sommes trop exposés. Dioxines et PCB (polychlorobiphényles), des polluants chimiques cachés dans les graisses animales, posent eux aussi un risque. L’Autorité européenne de sécurité des aliments (Efsa) l’a confirmé en juin 2026, 8 ans après sa précédente alerte. Nos conseils pour s’en protéger.",
+      "publishedAt": "2026-11-04T02:00:00+00:00",
+      "discoveredAt": "2026-11-04T06:46:36.336736+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -50,6 +96,19 @@
       "discoveredAt": "2026-11-03T17:58:48.925319+00:00",
       "topics": [
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Confort, bruit, praticité : la cuillère est-elle finalement un meilleur outil pour manger que la fourchette ?",
+      "url": "https://www.750g.com/confort-bruit-praticite-la-cuillere-est-elle-finalement-un-meilleur-outil-pour-manger-que-la-fourchette-a44837.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Et si nous avions choisi le mauvais couvert depuis le début ? Certains gourmets délaissent la fourchette au profit de la cuillère. Ils la trouvent plus confortable, plus pratique et surtout beaucoup plus efficace pour attraper les aliments. Une préf1",
+      "publishedAt": "2026-11-03T15:45:00+00:00",
+      "discoveredAt": "2026-11-04T06:46:48.475885+00:00",
+      "topics": [
+        "Four"
       ]
     },
     {
