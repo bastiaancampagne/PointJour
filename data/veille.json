@@ -1,6 +1,90 @@
 {
-  "generated_at": "2026-11-05T11:17:40.186956+00:00",
+  "generated_at": "2026-11-05T18:54:23.477951+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-05T18:24:12+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Ford. Jusqu’à 14 500 € de remise sur de nombreux modèles de la gamme en novembre",
+      "url": "https://www.largus.fr/actualite-automobile/ford-jusqua-14-500-e-de-remise-sur-de-nombreux-modeles-de-la-gamme-en-novembre-40016314.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Ford accorde actuellement des remises exceptionnelles sur la majorité des produits de sa gamme. Hybrides, PHEV, essence, diesel et électriques sont concernés avec des réductions variables suivant les modèles et les versions. Le point sur ces promotions valables jusqu’au 30 novembre 2026.",
+      "publishedAt": "2026-11-05T17:17:00+00:00",
+      "discoveredAt": "2026-11-05T18:53:36.320939+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Envie de sucré ce soir ? Ce dessert d'automne à la pomme se prépare en 5 minutes juste pour vous",
+      "url": "https://www.750g.com/envie-de-sucre-ce-soir-ce-dessert-d-automne-a-la-pomme-se-prepare-en-5-minutes-juste-pour-vous-a44853.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Il fait gris et froid ? Cool ! C'est le temps idéal pour cocooner à la maison sans culpabiliser. Et pour accompagner votre plaid et votre série Netflix, on a trouvé la recette idéale.",
+      "publishedAt": "2026-11-05T17:00:00+00:00",
+      "discoveredAt": "2026-11-05T18:54:06.333490+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Toyota GR Celica (2027). Le petit coupé de retour, d’abord en rallye",
+      "url": "https://www.largus.fr/actualite-automobile/toyota-gr-celica-2027-le-petit-coupe-de-retour-dabord-en-rallye-40016332.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Au côté de la GR Yaris adaptée au nouveau règlement, Toyota engagera une inédite GR Celica dans le championnat du monde des rallyes 2027. Cette voiture de course accompagnera le retour de la Celica, plus de vingt ans après l’arrêt de la septième génération du petit coupé.",
+      "publishedAt": "2026-11-05T16:32:00+00:00",
+      "discoveredAt": "2026-11-05T18:53:36.321061+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "« C'est la recette basique » : l'inratable tarte aux pommes de Philippe Etchebest (celle de son CAP)",
+      "url": "https://www.750g.com/c-est-la-recette-basique-l-inratable-tarte-aux-pommes-de-philippe-etchebest-celle-de-son-cap-a44855.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "La tarte aux pommes en automne, c'est juste la base ! Mais malgré sa simplicité apparente, il en existe une multitudes de recettes différentes. Voici celle de Philippe Etchebest, celle qu'il préparait quand il était encore à l'école de cuisine.",
+      "publishedAt": "2026-11-05T16:00:00+00:00",
+      "discoveredAt": "2026-11-05T18:54:06.461101+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "5 novembre 14h23 Comment déterminer si le régime de prévoyance créé par décision unilatérale est plus favorable que le régime conventionnel ? Social Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/comment-determiner-si-le-regime-de-prevoyance-cree-par-decision-unilaterale-est-plus-favorable-que-le-regime-conventionnel",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsque le juge est amené à comparer un régime de prévoyance complémentaire mis en place par décision unilatérale avec celui prévu",
+      "publishedAt": "2026-11-05T13:23:07+00:00",
+      "discoveredAt": "2026-11-05T18:53:22.149212+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Époqu’auto 2026. Rencontre avec Jean-Paul Bessy, le commissaire général du Salon lyonnais des véhicules anciens",
+      "url": "https://www.largus.fr/actualite-automobile/epoquauto-2026-rencontre-avec-jean-paul-bessy-le-commissaire-general-du-salon-lyonnais-de-vehicules-anciens-40016104.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Pour connaître le programme de la 47e édition d’Époqu’auto (du 6 au 8 novembre 2026), mais aussi les nouveautés, les temps forts et les surprises du Salon, L’argus est allé à la rencontre de Jean-Paul Bessy, le commissaire général du grand rendez-vous lyonnais des fans d’anciennes.",
+      "publishedAt": "2026-11-05T13:21:00+00:00",
+      "discoveredAt": "2026-11-05T18:53:36.321182+00:00",
+      "topics": []
+    },
     {
       "theme": "Cuisine",
       "title": "Oubliez la raclette : la méthode inratable pour un Mont d'Or au four ultra-coulant et ses meilleurs accompagnements",
@@ -28,18 +112,26 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-05T07:24:09+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
+      "theme": "Paie",
+      "title": "5 novembre 11h24 Pont du 11 novembre 2026 : rappel des règles pratiques Social Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/pont-du-11-novembre-2026-rappel-des-regles-pratiques",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans les entreprises où le mercredi 11 novembre 2026 est un jour férié chômé, certains employeurs peuvent souhaiter mettre en place un",
+      "publishedAt": "2026-11-05T10:24:30+00:00",
+      "discoveredAt": "2026-11-05T18:53:24.125904+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "5 novembre 09h29 Absence d'entretien professionnel : le salarié doit établir un préjudice pour obtenir réparation Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/absence-d-entretien-professionnel-le-salarie-doit-etablir-un-prejudice-pour-obtenir-reparation",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Après avoir considéré, en juin 2026, que le manquement de l'employeur à son obligation de formation n'ouvrait pas droit à réparation",
+      "publishedAt": "2026-11-05T08:29:42+00:00",
+      "discoveredAt": "2026-11-05T18:53:26.486394+00:00",
+      "topics": []
     },
     {
       "theme": "Paie",
@@ -9672,11 +9764,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
