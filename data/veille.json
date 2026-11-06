@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T00:29:06.083341+00:00",
+  "generated_at": "2026-11-06T08:03:52.706459+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,11 +8,61 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-05T18:24:12+00:00",
+      "publishedAt": "2026-11-06T07:24:08+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Fatigué ? Ces 5 végétaux d'automne et d'hiver battent l'orange à plate couture en vitamine C !",
+      "url": "https://www.750g.com/fatigue-ces-5-vegetaux-d-automne-et-d-hiver-battent-l-orange-a-plate-couture-en-vitamine-c-a44843.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Quand le mercure chute et que l'immunité flanche, le verre de jus d'orange matinal reste le réflexe universel. Pourtant, plusieurs pépites végétales de saison renferment deux à trois fois plus d'acide ascorbique : tour d'horizon pour booster votre t1",
+      "publishedAt": "2026-11-06T07:00:00+00:00",
+      "discoveredAt": "2026-11-06T08:03:32.096135+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Licenciement injustifié : La perte de chance de percevoir des dividendes peut être indemnisée",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1702-licenciement-injustifie-perte-chance-percevoir-dividendes-indemnisee.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le 14 octobre 2026, la Cour de cassation rappelle qu’un salarié contraint de céder ses parts à la suite d’un licenciement sans cause réelle et sérieuse peut obtenir réparation de la perte de chance de percevoir des dividendes. L’accord du salarié sur la vente et le paiement du prix de cession ne suffisent pas à écarter cette indemnisation.",
+      "publishedAt": "2026-11-06T05:00:00+00:00",
+      "discoveredAt": "2026-11-06T08:02:38.943944+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "L’entretien préalable au licenciement : une étape incontournable dont les règles doivent être strictement respectées",
+      "url": "https://www.legisocial.fr/actualites-sociales/8192-entretien-prealable-licenciement-etape-incontournable-regles-doivent-strictement-respectees.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’entretien préalable constitue une garantie essentielle des droits de la défense du salarié.",
+      "publishedAt": "2026-11-06T05:00:00+00:00",
+      "discoveredAt": "2026-11-06T08:02:38.944125+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Congé supplémentaire de naissance : un nouveau formulaire et des précisions pour la DSN",
+      "url": "https://www.legisocial.fr/actualites-sociales/8219-conge-supplementaire-naissance-nouveau-formulaire-precisions-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le formulaire de déclaration du congé supplémentaire de naissance évolue depuis novembre 2026. Net-entreprises précise également les consignes de signalement et la détermination du dernier jour travaillé.",
+      "publishedAt": "2026-11-06T05:00:00+00:00",
+      "discoveredAt": "2026-11-06T08:02:38.944270+00:00",
+      "topics": [
+        "DSN"
       ]
     },
     {
