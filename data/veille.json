@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T08:03:52.706459+00:00",
+  "generated_at": "2026-11-06T16:04:47.572752+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,12 +8,121 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-06T07:24:08+00:00",
+      "publishedAt": "2026-11-06T15:23:52+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Paie",
+      "title": "6 novembre 14h15 Modèle de bulletin de paye : que va-t-il se passer au 1er janvier 2027 ? Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/modele-de-bulletin-de-paye-que-va-t-il-se-passer-au-1er-janvier-2027-5d2e24fd-eeb5-4248-b010-3841f2f085e1",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "En l'état des textes à l'heure où nous rédigeons ces lignes, la possibilité d'utiliser à titre transitoire le modèle de bulletin de",
+      "publishedAt": "2026-11-06T13:15:00+00:00",
+      "discoveredAt": "2026-11-06T16:03:50.336045+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "BMW M3. 40 ans de légende célébrés par une exposition exceptionnelle au Salon Epoqu’auto",
+      "url": "https://www.largus.fr/actualite-automobile/bmw-m3-40-ans-de-legende-celebres-par-une-exposition-exceptionnelle-au-salon-epoquauto-40016187.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Pour les 40 ans de la BMW M3, le Salon Époqu’Auto propose une exposition fabuleuse réunissant 23 modèles emblématiques. Cette rétrospective met en lumière les six générations de la berline sportive, ainsi que les versions de compétition et les prestigieuses CSL. Découverte en photos et en vidéo.",
+      "publishedAt": "2026-11-06T13:12:00+00:00",
+      "discoveredAt": "2026-11-06T16:04:02.309426+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "6 novembre 14h02 Pour calculer l’indemnité conventionnelle de licenciement, il faut retenir les modalités prévues… par le texte conventionnel Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/pour-calculer-l-indemnite-conventionnelle-de-licenciement-il-faut-retenir-les-modalites-prevues-par-le-texte-conventionnel-d9276804-4f82-4226-9fef-e85771643a28",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans une affaire jugée le 21 octobre 2026, la Cour de cassation s’est penchée sur la question de l'inclusion d’une prime de bilan dans",
+      "publishedAt": "2026-11-06T13:02:44+00:00",
+      "discoveredAt": "2026-11-06T16:03:52.691924+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Les cuisiniers sont unanimes : voici l'ingrédient inattendu à placer au centre de votre riz avant de le réchauffer",
+      "url": "https://www.750g.com/les-cuisiniers-sont-unanimes-voici-l-ingredient-inattendu-a-placer-au-centre-de-votre-riz-avant-de-le-rechauffer-a44860.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "S'il vous reste du riz de la veille, voici une astuce inattendue à faire avant de le réchauffer. Vous verrez, grâce à cela, votre riz ne sera plus jamais sec.",
+      "publishedAt": "2026-11-06T11:00:00+00:00",
+      "discoveredAt": "2026-11-06T16:04:32.294426+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai BMW Série 3 (2027) : M350, le double maléfique à six cylindres !",
+      "url": "https://www.largus.fr/actualite-automobile/essai-bmw-serie-3-2027-m350-le-double-malefique-40016356.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "D’abord commercialisée en version 100 % électrique baptisée i3, la nouvelle BMW Série 3 dégaine deux motorisations thermiques. Cette version M350 embarque la meilleure, un six-cylindres de 443 ch cumulés qui mouche toutes les batteries du monde… Mais il y a un mais.",
+      "publishedAt": "2026-11-06T10:58:00+00:00",
+      "discoveredAt": "2026-11-06T16:04:02.309598+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Yangwang U9 Xtreme (2026). Le cap des 500 km/h franchi par la supercar électrique chinoise",
+      "url": "https://www.largus.fr/actualite-automobile/yangwang-u9-xtreme-2026-le-cap-des-500-km-h-franchi-par-la-supercar-electrique-chinoise-40016492.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Après un échec retentissant, l’hypercar électrique Yangwang U9 Xtreme du groupe chinois BYD devient la première voiture de série à dépasser les 500 km/h, au nez et à la barbe de Bugatti & co. Affichée au prix de 2,7 millions d’euros environ, elle doit être produite à 30 exemplaires.",
+      "publishedAt": "2026-11-06T10:38:00+00:00",
+      "discoveredAt": "2026-11-06T16:04:02.309762+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu étudiant du 9 au 13 novembre",
+      "url": "https://www.cuisineaz.com/diaporamas/menu-pas-cher-special-recettes-etudiantes-les-ingredients-pour-la-semaine-du-9-au-13-novembre-2026-9222/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-11-06T09:30:09.890000+00:00",
+      "discoveredAt": "2026-11-06T16:04:47.498864+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Prix Fiat Grande Panda (2026). La citadine gagne en autonomie en version électrique",
+      "url": "https://www.largus.fr/actualite-automobile/prix-fiat-grande-panda-2026-la-citadine-gagne-en-autonomie-en-version-electrique-40016376.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Fiat propose désormais deux batteries au choix pour la Grande Panda électrique. La nouvelle offre jusqu’à 400 km d’autonomie WLTP, soit 80 km de mieux que la variante d’entrée de gamme. Le catalogue compte toujours du thermique et du micro-hybride en sus avec des tarifs débutant à 16 900 €.",
+      "publishedAt": "2026-11-06T08:27:00+00:00",
+      "discoveredAt": "2026-11-06T16:04:02.310018+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking du midi",
+      "url": "https://www.cuisineaz.com/diaporamas/batch-cooking-10-recettes-du-midi-faciles-pour-la-semaine-du-9-au-13-novembre-2026-9192/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-11-06T08:20:04.370000+00:00",
+      "discoveredAt": "2026-11-06T16:04:45.758236+00:00",
+      "topics": []
     },
     {
       "theme": "Cuisine",
@@ -64,6 +173,57 @@
       "topics": [
         "DSN"
       ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Comment déclarer les heures complémentaires en DSN ?",
+      "url": "https://www.legisocial.fr/temps-travail-conges-absences/duree-travail-heures-supplementaires/comment-declarer-heures-complementaires-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les heures complémentaires sont les heures effectuées par un salarié à temps partiel au-delà de la durée prévue par son contrat. Leur déclaration en DSN nécessite de renseigner le nombre d’heures, leur rémunération ainsi que les réductions sociales et fiscales applicables. Cette fiche détaille les blocs à utiliser pour bien déclarer les heures complémentaires des salariés à temps partiel.",
+      "publishedAt": "2026-11-06T05:00:00+00:00",
+      "discoveredAt": "2026-11-06T16:03:47.180464+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Monétisation des jours de RTT : Comment la déclarer en DSN ?",
+      "url": "https://www.legisocial.fr/paie/declarations-sociales/monetisation-jours-rtt-comment-declarer-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La monétisation des jours de RTT permet au salarié de renoncer à des jours de repos en contrepartie d’une rémunération majorée. Découvrez les conditions du dispositif, son traitement en paie ainsi que les blocs à renseigner pour déclarer correctement les sommes versées en DSN.",
+      "publishedAt": "2026-11-06T05:00:00+00:00",
+      "discoveredAt": "2026-11-06T16:03:47.180960+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Comment déclarer un salarié à temps partiel en DSN ?",
+      "url": "https://www.legisocial.fr/temps-travail-conges-absences/duree-travail-heures-supplementaires/comment-declarer-salarie-temps-partiel-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un salarié à temps partiel travaille selon une durée inférieure à la durée légale ou conventionnelle applicable dans l’entreprise. En DSN, sa durée contractuelle, la quotité de travail de référence et son volume d’activité doivent être déclarés de manière cohérente. Une erreur de paramétrage peut affecter le calcul des cotisations, les contrôles Urssaf et les droits sociaux du salarié.",
+      "publishedAt": "2026-11-06T05:00:00+00:00",
+      "discoveredAt": "2026-11-06T16:03:47.181377+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking du soir",
+      "url": "https://www.cuisineaz.com/diaporamas/menu-batch-cooking-du-9-au-13-novembre-2026-10-recettes-du-soir-a-faire-en-1-h-seulement-9225/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-11-06T04:00:05.640000+00:00",
+      "discoveredAt": "2026-11-06T16:04:46.347867+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
@@ -293,6 +453,17 @@
       "topics": [
         "Carburant"
       ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking Thermomix",
+      "url": "https://www.cuisineaz.com/diaporamas/batch-cooking-10-recettes-du-soir-a-faire-au-thermomix-pour-la-semaine-du-9-au-13-novembre-2026-9191/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-11-04T13:00:05.400000+00:00",
+      "discoveredAt": "2026-11-06T16:04:46.925519+00:00",
+      "topics": []
     },
     {
       "theme": "Paie",
@@ -1757,6 +1928,19 @@
       "publishedAt": "2026-10-27T17:17:00+00:00",
       "discoveredAt": "2026-10-27T19:32:19.999140+00:00",
       "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Net-entreprises : nouveau tableau de bord DSN , cliquez ici pour consulter la FAQ !",
+      "url": "https://www.net-entreprises.fr/nouvel-espace-connecte-net-entreprises-les-reponses-aux-questions-les-plus-frequemment-posees/",
+      "source": "Net-entreprises",
+      "sourceKind": "OFFICIEL",
+      "summary": "Non, il s’agit d’une erreur d’affichage. Afin de disposer d’un affichage correct nous vous invitons à « vider le cache » de votre navigateur dans un premier…",
+      "publishedAt": "2026-10-27T16:31:53+00:00",
+      "discoveredAt": "2026-11-06T16:03:05.381566+00:00",
+      "topics": [
+        "DSN"
+      ]
     },
     {
       "theme": "Auto",
@@ -9836,6 +10020,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
