@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T09:00:33.850880+00:00",
+  "generated_at": "2026-11-07T15:50:18.819984+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,12 +8,49 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-07T07:24:04+00:00",
+      "publishedAt": "2026-11-07T15:23:29+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Toyota Corolla Concept (2025). On décode le futur de la compacte hybride… et électrique ?",
+      "url": "https://www.largus.fr/actualite-automobile/toyota-corolla-concept-2025-on-decode-le-futur-de-la-compacte-hybride-et-electrique-40016887.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Un an après sa présentation à Tokyo, nous avons pu approcher la Toyota Corolla Concept qui préfigure la prochaine génération de la compacte à succès. Style, plate-forme, motorisations… voici ce que l’on sait sur l’avenir de la voiture la plus vendue au monde.",
+      "publishedAt": "2026-11-07T11:07:00+00:00",
+      "discoveredAt": "2026-11-07T15:49:37.073996+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Volkswagen T-Roc Hybrid 170 (2026) : notre verdict après 2 000 km",
+      "url": "https://www.largus.fr/actualite-automobile/essai-volkswagen-t-roc-hybrid-170-2026-notre-verdict-apres-2-000-km-40016653.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Deuxième modèle le plus vendu de Volkswagen dans le monde, le SUV compact T-Roc adopte lui aussi le nouveau moteur full hybride de 136 ou 170 ch. Nous avons soumis la variante la plus puissante à notre impitoyable test longue distance afin de vérifier les promesses de la marque en agrément et en consommation.",
+      "publishedAt": "2026-11-07T11:05:00+00:00",
+      "discoveredAt": "2026-11-07T15:49:37.074175+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Laissez la cocotte faire le travail : 10 plats mijotés ultra-réconfortants pour régaler la famille",
+      "url": "https://www.750g.com/laissez-la-cocotte-faire-le-travail-10-plats-mijotes-ultra-reconfortants-pour-regaler-la-famille-a44847.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Envie d'un plat mijoté plein de saveurs et ultra réconfortant ? La cocotte est votre meilleure alliée ! Découvrez nos recettes de viandes en cuisson longue faciles à préparer et parfaites pour régaler petits et grands autour de la table.",
+      "publishedAt": "2026-11-07T11:05:00+00:00",
+      "discoveredAt": "2026-11-07T15:50:04.483847+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
@@ -10069,11 +10106,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
