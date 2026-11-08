@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-11-08T06:24:56.714306+00:00",
+  "generated_at": "2026-11-08T13:46:54.234507+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-08T12:23:33+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Epoqu’auto 2026. Les stars françaises qui fêtent un anniversaire sur le Salon Lyonnais",
+      "url": "https://www.largus.fr/actualite-automobile/epoquauto-2026-les-stars-francaises-qui-fetent-un-anniversaire-sur-le-salon-lyonnais-40016555.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Pour sa 47e édition (du 6 au 8 novembre 2026), Epoqu’auto fait la part belle à la Citroën 2CV célébrée à travers ses nombreuses séries spéciales, dont la Spot qui fête ses 50 ans en 2026. Mais la Deuche n’est pas le seul modèle à profiter du Salon lyonnais pour souffler ses bougies…",
+      "publishedAt": "2026-11-08T11:13:00+00:00",
+      "discoveredAt": "2026-11-08T13:46:07.261468+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Actualité - Mercedes Classe C électrique - Premières impressions",
@@ -11,20 +36,6 @@
       "publishedAt": "2026-11-08T02:00:00+00:00",
       "discoveredAt": "2026-11-08T06:23:59.796539+00:00",
       "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-07T18:24:40+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
         "Carburant"
       ]
     },
