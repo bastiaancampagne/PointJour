@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-07T23:47:38.598024+00:00",
+  "generated_at": "2026-11-08T06:24:56.714306+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Actualité - Mercedes Classe C électrique - Premières impressions",
+      "url": "https://www.quechoisir.org/actualite-mercedes-classe-c-electrique-premieres-impressions-n179290/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "La Classe C de Mercedes arrive avec une motorisation 100 % électrique et une nouvelle plateforme. Cette routière disposant d’un équipement technologique complet s’avère attractive pour ceux qui peuvent s’offrir un modèle premium.",
+      "publishedAt": "2026-11-08T02:00:00+00:00",
+      "discoveredAt": "2026-11-08T06:23:59.796539+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -9968,17 +9981,6 @@
       "topics": [
         "Cotisations"
       ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Comparatif - Voitures citadines",
-      "url": "https://www.quechoisir.org/comparatif-voiture-citadine-n3/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Les citadines représentent le segment le plus vendu en France avec une importante part de marché pour les marques françaises (Renault, Citroën et Peugeot) qui placent 7 modèles (Clio, C3, 208…) parmi les 10 meilleures ventes. Le choix doit privilégier le côté pratique, la maniabilité et la facilité d'usage.",
-      "publishedAt": "2026-09-09T03:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:53.050881+00:00",
-      "topics": []
     },
     {
       "theme": "Paie",
