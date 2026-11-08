@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T13:46:54.234507+00:00",
+  "generated_at": "2026-11-08T18:57:25.178142+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,11 +8,24 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-08T12:23:33+00:00",
+      "publishedAt": "2026-11-08T18:23:43+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Une boîte de tomates pelées qui traîne ? 5 recettes pas chères et bluffantes pour ce soir",
+      "url": "https://www.750g.com/une-boite-de-tomates-pelees-qui-traine-5-recettes-pas-cheres-et-bluffantes-pour-ce-soir-a44846.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Envie de plats savoureux sans vous ruiner ? Les tomates pelées sont l'ingrédient malin pour cuisiner vite, bon et pas cher toute l'année.",
+      "publishedAt": "2026-11-08T17:07:00+00:00",
+      "discoveredAt": "2026-11-08T18:57:09.959236+00:00",
+      "topics": [
+        "Économique"
       ]
     },
     {
