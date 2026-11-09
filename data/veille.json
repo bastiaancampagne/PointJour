@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T23:01:15.308758+00:00",
+  "generated_at": "2026-11-09T02:49:26.139897+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -10136,11 +10136,6 @@
     {
       "theme": "Auto",
       "source": "ADEME",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Cuisine",
-      "source": "CuisineAZ",
       "error": "HTTP Error 403: Forbidden"
     }
   ]
