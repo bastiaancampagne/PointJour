@@ -1,6 +1,103 @@
 {
-  "generated_at": "2026-11-09T11:55:21.886839+00:00",
+  "generated_at": "2026-11-09T22:36:18.988265+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "9 novembre 20h34 Hausse du SMIC, négociations salariales, allègements de charges et pouvoir d’achat : les annonces du gouvernement à l’issue de la conférence sociale Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/hausse-du-smic-negociations-salariales-allegements-de-charges-et-pouvoir-d-achat-les-annonces-du-gouvernement-a-l-issue-de-la-conference-sociale",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "À l’issue de la conférence sociale du 9 novembre 2026, le gouvernement a annoncé une série de mesures visant à « redynamiser » les",
+      "publishedAt": "2026-11-09T19:34:36+00:00",
+      "discoveredAt": "2026-11-09T22:35:23.047876+00:00",
+      "topics": [
+        "SMIC"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-09T18:23:37+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Epoqu’auto 2026. Nouveau record de fréquentation et dates de l’édition 2027",
+      "url": "https://www.largus.fr/actualite-automobile/epoquauto-2026-nouveau-record-de-frequentation-et-dates-de-ledition-2027-40017020.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Pour sa 47e édition, le Salon Epoqu’auto s’est offert un record de fréquentation avec près de 120 000 visiteurs du vendredi 6 au dimanche 8 novembre 2026. Lumière sur le succès de la grand-messe lyonnaise des autos et motos de collection, sans oublier les dates de la prochaine édition.",
+      "publishedAt": "2026-11-09T17:17:00+00:00",
+      "discoveredAt": "2026-11-09T22:35:34.420915+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "“Plus légère que celle de votre grand mère” : Julie Andrieu livre sa recette de mayonnaise en 40 secondes chrono",
+      "url": "https://www.750g.com/plus-legere-que-celle-de-votre-grand-mere-julie-andrieu-livre-sa-recette-de-mayonnaise-en-40-secondes-chrono-a44869.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Du bluff ? Même pas. Devant nos yeux ébahis, Julie Andrieu réalise une mayonnaise en 40 secondes chrono. Tellement rapide et tellement simple que c'est à se demander même pourquoi il y a tant de craintes quant au fait de rater sa mayonnaise maison...",
+      "publishedAt": "2026-11-09T17:00:00+00:00",
+      "discoveredAt": "2026-11-09T22:36:02.114828+00:00",
+      "topics": [
+        "Rapide"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Marre de la sauce tomate sur vos pâtes ? Transformez du potimarron en une sauce \"Alfredo\" ultra-crémeuse en 10 minutes",
+      "url": "https://www.750g.com/marre-de-la-sauce-tomate-sur-vos-pates-transformez-du-potimarron-en-une-sauce-alfredo-ultra-cremeuse-en-10-minutes-a44872.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Envie de changer un peu vos habitudes à l'heure du repas ? Cette version automnale des pâtes à la sauce Alfredo devrait régaler toute la famille. Et en plus, elle ne prend que quelques minutes à préparer.",
+      "publishedAt": "2026-11-09T16:00:00+00:00",
+      "discoveredAt": "2026-11-09T22:36:02.234499+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "9 novembre 16h32 Accident du travail et faute inexcusable de l'employeur : le juge n'est pas lié par la date de consolidation fixée par la CPAM Social Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/accident-du-travail-et-faute-inexcusable-de-l-employeur-le-juge-n-est-pas-lie-par-la-date-de-consolidation-fixee-par-la-cpam-d5f71d44-bebe-4662-801f-ee041edc0456",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Opérant un revirement de jurisprudence, la Cour de cassation a jugé, le 3 septembre 2026, que la victime d'un accident du travail dû à",
+      "publishedAt": "2026-11-09T15:32:46+00:00",
+      "discoveredAt": "2026-11-09T22:35:25.176288+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Mazda 6e 78 kWh (2027) : une nouvelle batterie qui change tout ?",
+      "url": "https://www.largus.fr/actualite-automobile/essai-mazda-6e-78-kwh-2027-une-nouvelle-batterie-qui-change-tout-40016645.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Deux ans après le lancement européen de la Mazda 6e, cette berline électrique élancée construite sur une plate-forme chinoise, bien éloignée des productions habituelles de la firme japonaise, opère de sérieux changements techniques. À commencer par une batterie judicieusement plus performante.",
+      "publishedAt": "2026-11-09T14:04:00+00:00",
+      "discoveredAt": "2026-11-09T22:35:34.421103+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Alimentation et nutrition humaine",
+      "url": "https://www.anses.fr/fr/thematique/alimentation-et-nutrition-humaine",
+      "source": "ANSES",
+      "sourceKind": "OFFICIEL",
+      "summary": "Notre alimentation est au cœur de notre quotidien. Saine et sûre, elle est un allié puissant pour notre santé. Pourtant, un déséquilibre nutritionnel ou des aliments contaminés peuvent toutefois nous exposer à des risques immédiats ou à des maladies chroniques. L’Anses apporte son expertise scientifique à toutes les étapes de la chaîne alimentaire, depuis la production des aliments d’origine animale ou végétale jusqu’à l’assiette du consommateur. Elle évalue les risques liés à la contamination des aliments par des agents pathogènes et des substances toxiques. Elle évalue également la qualité nutritionnelle et les risques liés à l’inactivité physique et la sédentarité.Découvrez tous nos articles \"Alimentation et nutrition humaine\"",
+      "publishedAt": "2026-11-09T12:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:49:15.727631+00:00",
+      "topics": []
+    },
     {
       "theme": "Paie",
       "title": "9 novembre 12h00 Solidarité fiscale des ex-conjoints : la fraude au paiement au cœur du droit à décharge Fiscal Jurisprudence",
@@ -46,6 +143,17 @@
       "topics": []
     },
     {
+      "theme": "Paie",
+      "title": "9 novembre 12h00 Comment déterminer si le régime de prévoyance créé par décision unilatérale est plus favorable que le régime conventionnel ? Social Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/comment-determiner-si-le-regime-de-prevoyance-cree-par-decision-unilaterale-est-plus-favorable-que-le-regime-conventionnel-e8a3766d-20c3-486e-9c13-1412f3df93a6",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsque le juge est amené à comparer un régime de prévoyance complémentaire mis en place par décision unilatérale avec celui prévu",
+      "publishedAt": "2026-11-09T11:00:00+00:00",
+      "discoveredAt": "2026-11-09T22:35:27.259057+00:00",
+      "topics": []
+    },
+    {
       "theme": "Cuisine",
       "title": "Chef Damien est formel : si la sauce de votre blanquette est trop liquide, c'est à cause de cette simple erreur",
       "url": "https://www.750g.com/chef-damien-est-formel-si-la-sauce-de-votre-blanquette-est-trop-liquide-c-est-a-cause-de-cette-simple-erreur-a44863.htm",
@@ -84,6 +192,35 @@
       ]
     },
     {
+      "theme": "Paie",
+      "title": "Comment déclarer l’activité partielle en DSN ?",
+      "url": "https://www.legisocial.fr/paie/activite-partielle/comment-declarer-activite-partielle-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’activité partielle doit être déclarée dans plusieurs blocs de la DSN afin d’identifier la période de suspension, les heures chômées et l’indemnité versée au salarié. La déclaration doit également tenir compte de ses effets sur les volumes d’activité, les bases assujetties, la CSG-CRDS et le plafond de la Sécurité sociale.",
+      "publishedAt": "2026-11-09T05:00:00+00:00",
+      "discoveredAt": "2026-11-09T22:35:19.469729+00:00",
+      "topics": [
+        "DSN",
+        "PMSS"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Comment déclarer la RGDU en DSN ?",
+      "url": "https://www.legisocial.fr/paie/reductions-de-cotisations-sociales/comment-declarer-rgdu-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La réduction générale dégressive unique (RGDU) doit être déclarée chaque mois en DSN, à la maille individuelle et agrégée. Cette fiche présente les blocs à renseigner, la déclaration du Smic retenu et le traitement des régularisations positives ou négatives.",
+      "publishedAt": "2026-11-09T05:00:00+00:00",
+      "discoveredAt": "2026-11-09T22:35:19.470032+00:00",
+      "topics": [
+        "DSN",
+        "SMIC",
+        "RGDU"
+      ]
+    },
+    {
       "theme": "Auto",
       "title": "Comparatif - Smartphones",
       "url": "https://www.quechoisir.org/comparatif-smartphone-n431/",
@@ -93,20 +230,6 @@
       "publishedAt": "2026-11-09T04:00:00+00:00",
       "discoveredAt": "2026-10-08T07:36:18.923607+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-08T18:23:43+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Cuisine",
@@ -1577,17 +1700,6 @@
       "topics": [
         "Achat"
       ]
-    },
-    {
-      "theme": "Cuisine",
-      "title": "Alimentation et nutrition humaine",
-      "url": "https://www.anses.fr/fr/thematique/alimentation-et-nutrition-humaine",
-      "source": "ANSES",
-      "sourceKind": "OFFICIEL",
-      "summary": "Notre alimentation est au cœur de notre quotidien. Saine et sûre, elle est un allié puissant pour notre santé. Pourtant, un déséquilibre nutritionnel ou des aliments contaminés peuvent toutefois nous exposer à des risques immédiats ou à des maladies chroniques. L’Anses apporte son expertise scientifique à toutes les étapes de la chaîne alimentaire, depuis la production des aliments d’origine animale ou végétale jusqu’à l’assiette du consommateur. Elle évalue les risques liés à la contamination des aliments par des agents pathogènes et des substances toxiques. Elle évalue également la qualité nutritionnelle et les risques liés à l’inactivité physique et la sédentarité.Découvrez tous nos articles \"Alimentation et nutrition humaine\"",
-      "publishedAt": "2026-10-30T12:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:49:15.727631+00:00",
-      "topics": []
     },
     {
       "theme": "Paie",
