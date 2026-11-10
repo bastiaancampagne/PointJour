@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-10T13:41:12.788201+00:00",
+  "generated_at": "2026-11-10T20:58:01.780635+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Essai Peugeot e-208 GTi vs Alpine A290 : le match des petites sportives électriques françaises",
+      "url": "https://www.largus.fr/actualite-automobile/essai-peugeot-e-208-gti-vs-alpine-a290-le-match-des-petites-sportives-electriques-francaises-40015741.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Pour marquer le retour des petites GTI, nous avons confronté la Peugeot e-208 GTi à l’Alpine A290. Avec 281 ch, la lionne a l'avantage des watts face aux 220 ch de sa rivale. Mais qu’en est-il en vraiment ? Tour chrono, plaisir de conduite, autonomie… voici les résultats de ce match 100 % français.",
+      "publishedAt": "2026-11-10T19:13:00+00:00",
+      "discoveredAt": "2026-11-10T20:57:14.397054+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -8,10 +21,45 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-10T12:24:07+00:00",
+      "publishedAt": "2026-11-10T18:23:51+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Vous n'aimez pas les choux de Bruxelles ? La recette de François-Régis Gaudry qui va tout changer",
+      "url": "https://www.750g.com/vous-n-aimez-pas-les-choux-de-bruxelles-la-recette-de-francois-regis-gaudry-qui-va-tout-changer-a44877.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Souvent boudés par les plus jeunes, mais aussi parfois par les adultes, les choux de Bruxelles sont pourtant excellents pour la santé ! Le critique culinaire François-Régis Gaudry vous donne sa recette fétiche pour les faire adopter par tous les mem1",
+      "publishedAt": "2026-11-10T17:00:00+00:00",
+      "discoveredAt": "2026-11-10T20:57:44.869008+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "L'astuce de la pomme de terre sauve-t-elle vraiment un plat trop salé ? Le verdict de ce chef",
+      "url": "https://www.750g.com/l-astuce-de-la-pomme-de-terre-sauve-t-elle-vraiment-un-plat-trop-sale-le-verdict-de-ce-chef-a44878.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Vous avez trop salé votre plat ? Dans une vidéo YouTube, le chef Eloy Spinner partage une astuce de grand-mère pour tenter de sauver votre repas. Celle-ci nécessite seulement l'utilisation d'une pomme de terre.",
+      "publishedAt": "2026-11-10T16:00:00+00:00",
+      "discoveredAt": "2026-11-10T20:57:45.003473+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Geely Monjaro (2026). Combien pour le nouveau SUV hybride rechargeable chinois ?",
+      "url": "https://www.largus.fr/actualite-automobile/geely-monjaro-2026-combien-pour-le-nouveau-suv-hybride-rechargeable-chinois-40017106.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Présenté au Mondial de Paris 2026, le Geely Monjaro amorce son lancement en France. Long de 4,80 m, ce SUV familial hybride rechargeable culmine à 335 ch dans sa version Ultra à transmission intégrale. La gamme du chinois s’articule autour de trois finitions. Ses tarifs démarrent à 40 990 €.",
+      "publishedAt": "2026-11-10T14:05:00+00:00",
+      "discoveredAt": "2026-11-10T20:57:14.397255+00:00",
+      "topics": [
         "Carburant"
       ]
     },
@@ -36,6 +84,20 @@
       "publishedAt": "2026-11-10T10:54:00+00:00",
       "discoveredAt": "2026-11-10T13:40:07.958869+00:00",
       "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "10 novembre 11h15 Réduction générale dégressive unique (RGDU) : le décret sur les branches « non conformes » au SMIC est sorti Paye Journal officiel LFSS 2026",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/reduction-generale-degressive-unique-rgdu-le-decret-sur-les-branches-non-conformes-au-smic-est-sorti-2b661b01-6df6-4139-8c77-e2d636778494",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Pour inciter les branches où le salaire minimum conventionnel des salariés sans qualification est inférieur au SMIC à réajuster leurs",
+      "publishedAt": "2026-11-10T10:15:00+00:00",
+      "discoveredAt": "2026-11-10T20:57:03.012907+00:00",
+      "topics": [
+        "SMIC",
+        "RGDU"
+      ]
     },
     {
       "theme": "Paie",
@@ -160,6 +222,61 @@
       "discoveredAt": "2026-11-10T13:39:51.154824+00:00",
       "topics": [
         "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer une démission en DSN",
+      "url": "https://www.legisocial.fr/contrat-de-travail/demission/declarer-demission-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La démission doit être déclarée dans la DSN mensuelle et faire l’objet d’un signalement FCTU. Le motif de rupture, la date de fin du contrat, le préavis et les éléments du solde de tout compte doivent être cohérents entre les deux déclarations.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T20:56:59.482589+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer une rupture conventionnelle en DSN",
+      "url": "https://www.legisocial.fr/contrat-de-travail/rupture-conventionnelle/declarer-rupture-conventionnelle-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La rupture conventionnelle doit être déclarée dans la DSN mensuelle et faire l’objet d’un signalement FCTU. Le motif, la date de fin, l’indemnité spécifique et la contribution patronale doivent être cohérents avec la convention homologuée. Cette fiche présente les principaux blocs à renseigner et les modalités de correction.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T20:56:59.482704+00:00",
+      "topics": [
+        "DSN",
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer un licenciement en DSN",
+      "url": "https://www.legisocial.fr/contrat-de-travail/licenciement/declarer-licenciement-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le licenciement doit être déclaré dans la DSN mensuelle et faire l’objet d’un signalement FCTU. Le motif de rupture, le préavis, les indemnités et le solde de tout compte doivent être cohérents entre les deux déclarations. Cette fiche présente les blocs à renseigner, les modalités de correction et la récupération de l’attestation employeur.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T20:56:59.483006+00:00",
+      "topics": [
+        "DSN",
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer une indemnité transactionnelle en DSN",
+      "url": "https://www.legisocial.fr/paie/indemnite-transactionnelle/declarer-indemnite-transactionnelle-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’indemnité transactionnelle ne suit pas un régime unique : son traitement dépend de la nature des sommes qu’elle indemnise. La DSN doit distinguer son montant total, sa fraction exonérée fiscalement et les éventuelles parts soumises à cotisations. Cette fiche présente les codes à utiliser et la procédure applicable lorsque le versement intervient après la sortie du salarié.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T20:56:59.483227+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations"
       ]
     },
     {
@@ -10486,11 +10603,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
