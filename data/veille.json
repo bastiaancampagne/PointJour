@@ -1,6 +1,181 @@
 {
-  "generated_at": "2026-11-10T04:44:45.469367+00:00",
+  "generated_at": "2026-11-10T13:41:12.788201+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-10T12:24:07+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Le retour de \"Tous en cuisine\" pour Noël : quel est ce célèbre visage qui rejoint Cyril Lignac ?",
+      "url": "https://www.750g.com/le-retour-de-tous-en-cuisine-pour-noel-quel-est-ce-celebre-visage-qui-rejoint-cyril-lignac-a44876.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Cyril Lignac revient sur M6 pour les fêtes de Noël avec une nouvelle saison de Tous en cuisine. Et cette année, un invité bien connu sera de la partie. Voici le nom de la personnalité qui se trouvera prochainement à ses côtés.",
+      "publishedAt": "2026-11-10T11:00:00+00:00",
+      "discoveredAt": "2026-11-10T13:40:48.896819+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Le bulletin de paie des salariées en congé de maternité",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/le-bulletin-de-paie-des-salariees-en-conge-de-maternite",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-10T10:54:00+00:00",
+      "discoveredAt": "2026-11-10T13:40:07.958869+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Absence d’entretien professionnel : au salarié de démontrer que le manquement de l’employeur lui cause un préjudice",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/absence-dentretien-professionnel-au-salarie-de-demontrer-que-le-manquement-de-lemployeur-lui-cause-un-prejudice",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-10T06:00:00+00:00",
+      "discoveredAt": "2026-11-10T13:40:07.958974+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Pomme de terre : cuite à l'eau ou au four, quelle est la meilleure façon de la consommer pour limiter son indice glycémique ?",
+      "url": "https://www.750g.com/pomme-de-terre-cuite-a-l-eau-ou-au-four-quelle-est-la-meilleure-facon-de-la-consommer-pour-limiter-son-indice-glycemique-a44874.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "La cuisson à l'eau est incontestablement la meilleure méthode pour limiter l'indice glycémique de la pomme de terre, surpassant largement la cuisson au four qui transforme ce tubercule en véritable bombe de sucre.",
+      "publishedAt": "2026-11-10T06:00:00+00:00",
+      "discoveredAt": "2026-11-10T13:40:49.060111+00:00",
+      "topics": [
+        "Four"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Prime carburant 2026 : montant et conditions pour en bénéficier",
+      "url": "https://www.legisocial.fr/actualites-sociales/8223-prime-carburant-2026-montant-conditions-beneficier.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le plafond d’exonération sociale de la prime carburant passe à 1 000 € pour 2026, sans prorata lié au 1er octobre. Mais les assouplissements des conditions d’attribution et le relèvement de l’exonération fiscale restent suspendus à l’adoption de dispositions législatives.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T13:39:51.153938+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer les frais professionnels en DSN",
+      "url": "https://www.legisocial.fr/paie/avantages-en-nature-et-frais/declarer-frais-professionnels-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les frais professionnels remboursent les dépenses engagées par le salarié pour les besoins de son activité. Cette fiche explique leur traitement en paie et leur déclaration dans le bloc S21.G00.54.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T13:39:51.154054+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Demander le taux de prélèvement à la source dès l’embauche : le signalement ADV",
+      "url": "https://www.legisocial.fr/contrat-de-travail/embauche/demander-taux-prelevement-source-embauche-signalement-adv.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lors d’une embauche, le signalement ADV permet de demander le taux personnalisé du salarié avant la première DSN mensuelle. Il facilite également l’identification et l’amorçage des affiliations complémentaires.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T13:39:51.154172+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer les avantages en nature en DSN",
+      "url": "https://www.legisocial.fr/paie/avantages-en-nature-et-frais/declarer-avantages-nature-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les avantages en nature constituent un élément de rémunération soumis à cotisations et, sauf exception, à l’impôt. Cette fiche présente leur traitement en paie et les codes à utiliser pour les déclarer correctement en DSN.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T13:39:51.154355+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Embauche : bien déclarer les données identifiantes du salarié",
+      "url": "https://www.legisocial.fr/contrat-de-travail/embauche/embauche-declarer-donnees-identifiantes-salarie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Une identité erronée peut empêcher le rattachement des déclarations au bon assuré et affecter ses droits sociaux. Cette fiche présente les données à recueillir et les modalités de correction en DSN.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T13:39:51.154460+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Durées maximales de travail : une obligation de contrôle renforcée pour l’employeur",
+      "url": "https://www.legisocial.fr/actualites-sociales/8209-durees-maximales-travail-obligation-controle-renforcee-employeur.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La réglementation du temps de travail poursuit un objectif essentiel de protection de la santé et de la sécurité des salariés. À ce titre, le Code du travail fixe plusieurs limites impératives, notamment une durée maximale quotidienne de travail de 10 heures, sauf dérogations légales ou conventionnelles.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T13:39:51.154596+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "DPAE en DSN : règles et évolution prévue en 2027",
+      "url": "https://www.legisocial.fr/contrat-de-travail/embauche/dpae-dsn-regles-evolution-prevue-2027.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La DPAE doit être transmise avant la prise de poste du salarié. Cette fiche rappelle les données nécessaires et présente la possibilité de l’effectuer au moyen d’un signalement DSN à compter de 2027.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T13:39:51.154708+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer un départ à la retraite en DSN",
+      "url": "https://www.legisocial.fr/contrat-de-travail/retraite/declarer-depart-retraite-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le départ à la retraite et la mise à la retraite utilisent des motifs et des codes d’indemnités différents. Cette fiche présente les blocs à renseigner dans la DSN du mois de fin du contrat.",
+      "publishedAt": "2026-11-10T05:00:00+00:00",
+      "discoveredAt": "2026-11-10T13:39:51.154824+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Brève - Prix du carburant - Comment se fixe le prix à la pompe",
+      "url": "https://www.quechoisir.org/decryptage-prix-du-carburant-comment-se-fixe-le-prix-a-la-pompe-n99776/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Les carburants routiers sont indispensables. Les Français s’en servent chaque jour pour se déplacer. Pour l’État, les produits pétroliers sont une manne fiscale dont il est incapable de se passer. Voici pourquoi.",
+      "publishedAt": "2026-11-10T02:00:00+00:00",
+      "discoveredAt": "2026-10-14T13:54:06.185081+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Paie",
       "title": "9 novembre 20h34 Hausse du SMIC, négociations salariales, allègements de charges et pouvoir d’achat : les annonces du gouvernement à l’issue de la conférence sociale Social Paye Projet de texte",
@@ -15,17 +190,16 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-09T18:23:37+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "theme": "Paie",
+      "title": "9 novembre 20h34 Hausse du SMIC, négociations salariales, allègements de charges et pouvoir d’achat : les annonces du gouvernement à l’issue de la conférence sociale Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/hausse-du-smic-negociations-salariales-allegements-de-charges-et-pouvoir-d-achat-les-annonces-du-gouvernement-a-l-issue-de-la-conference-sociale-bc49596d-c96c-42d0-a4e4-0e711f6f690b",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "À l’issue de la conférence sociale du 9 novembre 2026, le gouvernement a annoncé une série de mesures visant à « redynamiser » les",
+      "publishedAt": "2026-11-09T19:34:36+00:00",
+      "discoveredAt": "2026-11-10T13:39:54.885300+00:00",
       "topics": [
-        "Achat",
-        "Carburant"
+        "SMIC"
       ]
     },
     {
@@ -34,7 +208,7 @@
       "url": "https://www.largus.fr/actualite-automobile/epoquauto-2026-nouveau-record-de-frequentation-et-dates-de-ledition-2027-40017020.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "Pour sa 47e édition, le Salon Epoqu’auto s’est offert un record de fréquentation avec près de 120 000 visiteurs du vendredi 6 au dimanche 8 novembre 2026. Lumière sur le succès de la grand-messe lyonnaise des autos et motos de collection, sans oublier les dates de la prochaine édition.",
+      "summary": "Pour sa 47e édition, le Salon Époqu’auto s’est offert un record de fréquentation avec près de 120 000 visiteurs comptabilisés du vendredi 6 au dimanche 8 novembre 2026. Lumière sur le succès de la grand-messe lyonnaise des autos et motos de collection, sans oublier les dates de la prochaine édition.",
       "publishedAt": "2026-11-09T17:17:00+00:00",
       "discoveredAt": "2026-11-09T22:35:34.420915+00:00",
       "topics": []
@@ -4515,20 +4689,6 @@
       "discoveredAt": "2026-10-13T17:42:46.668067+00:00",
       "topics": [
         "Pneus"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Brève - Prix du carburant - Comment se fixe le prix à la pompe",
-      "url": "https://www.quechoisir.org/decryptage-prix-du-carburant-comment-se-fixe-le-prix-a-la-pompe-n99776/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Les carburants routiers sont indispensables. Les Français s’en servent chaque jour pour se déplacer. Pour l’État, les produits pétroliers sont une manne fiscale dont il est incapable de se passer. Voici pourquoi.",
-      "publishedAt": "2026-10-13T01:00:00+00:00",
-      "discoveredAt": "2026-10-14T13:54:06.185081+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
@@ -10326,6 +10486,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
