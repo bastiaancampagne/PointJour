@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-11T01:22:21.971469+00:00",
+  "generated_at": "2026-11-11T07:56:00.999994+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Quelques ingrédients basiques suffisent pour réaliser ce gâteau au fromage blanc bluffant (noté 4,8/5)",
+      "url": "https://www.750g.com/quelques-ingredients-basiques-suffisent-pour-realiser-ce-gateau-au-fromage-blanc-bluffant-note-485-a44870.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Vous cherchez une idée de dessert pour régaler toute la famille ? Cette recette notée 4,8/5 sur 750g pourrait bien devenir l'une de vos préférées. À vos tabliers !",
+      "publishedAt": "2026-11-11T07:30:00+00:00",
+      "discoveredAt": "2026-11-11T07:55:36.190770+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-11T07:24:08+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Intéressement : de nouvelles fonctionnalités sur mon-interessement.urssaf.fr",
+      "url": "https://www.legisocial.fr/actualites-sociales/8234-interessement-nouvelles-fonctionnalites.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’Urssaf enrichit son service gratuit d’aide à la mise en place de l’intéressement. Les entreprises peuvent désormais choisir parmi 10 indicateurs, prévisualiser les primes et disposer d’un calendrier personnalisé avant de générer leur accord ou leur décision unilatérale.",
+      "publishedAt": "2026-11-11T05:00:00+00:00",
+      "discoveredAt": "2026-11-11T07:54:47.368225+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Réagir face à des faits de violence au travail",
+      "url": "https://www.legisocial.fr/actualites-sociales/6804-reagir-face-faits-violence-travail.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "En cas de violence entre salariés, vous devez agir pour faire cesser et sanctionner les faits.",
+      "publishedAt": "2026-11-11T05:00:00+00:00",
+      "discoveredAt": "2026-11-11T07:54:47.368372+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Actualité - Les Français face à l’inflation des prix des carburants",
+      "url": "https://www.quechoisir.org/actualite-les-francais-face-a-l-inflation-des-prix-des-carburants-n179330/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Depuis le début du conflit au Moyen-Orient, le 28 février dernier, le prix des carburants en France est monté en flèche. Confrontés à cette flambée tarifaire, les automobilistes nous ont raconté leur quotidien. Entre déplacements rationalisés, loisirs sacrifiés et recherche des meilleurs prix, notre enquête révèle les multiples stratégies mises en œuvre pour limiter la facture, mais aussi les attentes des automobilistes envers les pouvoirs publics.",
+      "publishedAt": "2026-11-11T02:00:00+00:00",
+      "discoveredAt": "2026-11-11T07:55:04.497279+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Essai Peugeot e-208 GTi vs Alpine A290 : le match des petites sportives électriques françaises",
@@ -11,20 +76,6 @@
       "publishedAt": "2026-11-10T19:13:00+00:00",
       "discoveredAt": "2026-11-10T20:57:14.397054+00:00",
       "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-10T18:23:51+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
         "Carburant"
       ]
     },
@@ -10607,11 +10658,6 @@
     {
       "theme": "Auto",
       "source": "ADEME",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Cuisine",
-      "source": "CuisineAZ",
       "error": "HTTP Error 403: Forbidden"
     }
   ]
