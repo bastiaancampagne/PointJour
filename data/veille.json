@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-11-11T07:56:00.999994+00:00",
+  "generated_at": "2026-11-11T16:25:17.604830+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Cyril Lignac est formel : l'erreur de cuisson à bannir pour obtenir une viande parfaitement tendre",
+      "url": "https://www.750g.com/cyril-lignac-est-formel-l-erreur-de-cuisson-a-bannir-pour-obtenir-une-viande-parfaitement-tendre-a44867.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Votre viande est souvent trop sèche après la cuisson ? Sur RTL, Cyril Lignac dévoile l'erreur à éviter pour obtenir un morceau bien tendre et savoureux.",
+      "publishedAt": "2026-11-11T16:00:00+00:00",
+      "discoveredAt": "2026-11-11T16:24:59.911825+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-11T15:23:47+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Épinards surgelés : ne perdez plus de temps en cuisine grâce à cette astuce de Jamie Oliver",
+      "url": "https://www.750g.com/epinards-surgeles-ne-perdez-plus-de-temps-en-cuisine-grace-a-cette-astuce-de-jamie-oliver-a44884.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Les épinards surgelés font partie des indispensables du congel. Le légume de dépannage par excellence, à la fois savoureux, plein de nutriments et utilisables dans tout un tas de recettes différences. Voici une petite astuce pour les rendre encore p1",
+      "publishedAt": "2026-11-11T15:00:00+00:00",
+      "discoveredAt": "2026-11-11T16:24:59.952653+00:00",
+      "topics": []
+    },
     {
       "theme": "Cuisine",
       "title": "Quelques ingrédients basiques suffisent pour réaliser ce gâteau au fromage blanc bluffant (noté 4,8/5)",
@@ -12,20 +48,6 @@
       "discoveredAt": "2026-11-11T07:55:36.190770+00:00",
       "topics": [
         "Desserts"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-11T07:24:08+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
