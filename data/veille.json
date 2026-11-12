@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T13:02:59.054610+00:00",
+  "generated_at": "2026-11-12T21:01:11.894590+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,11 +8,51 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-12T12:23:55+00:00",
+      "publishedAt": "2026-11-12T18:23:34+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Salon de Marseille 2026. Programme et infos pratiques",
+      "url": "https://www.largus.fr/actualite-automobile/salon-de-marseille-2026-programme-et-infos-pratiques-40017339.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le Salon automobile de Marseille poursuit sur sa bonne lancée avec une édition 2026 agrandie. Quelque 500 véhicules issus de 43 marques sont attendus au Parc Chanot du 13 au 15 novembre, dont 200 voitures d’occasion. Les animations s’annoncent aussi nombreuses.",
+      "publishedAt": "2026-11-12T17:21:00+00:00",
+      "discoveredAt": "2026-11-12T21:00:18.858360+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Norme Euro 7. Ce qui va changer pour les voitures neuves à partir du 29 novembre 2026",
+      "url": "https://www.largus.fr/actualite-automobile/calendrier-contenu-ce-que-la-norme-euro-7-impose-aux-voitures-et-utilitaires-30033639.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le règlement Euro 7 à venir n'est pas plus sévère que l’actuel sur les rejets à l’échappement. En revanche, il s’intéresse aux émissions des freins et des pneumatiques, ainsi qu’à la longévité des batteries. Cette norme s'appliquera aux nouveaux modèles dès le 29 novembre 2026.",
+      "publishedAt": "2026-11-12T15:48:00+00:00",
+      "discoveredAt": "2026-11-12T21:00:18.858464+00:00",
+      "topics": [
+        "Achat",
+        "Pneus"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Oubliez le flan traditionnel : ce gâteau magique au kaki à 2 ingrédients (sans œufs, sans farine) fait le buzz sur les réseaux",
+      "url": "https://www.750g.com/oubliez-le-flan-traditionnel-ce-gateau-magique-au-kaki-a-2-ingredients-sans-oeufs-sans-farine-fait-le-buzz-sur-les-reseaux-a44873.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "C'est la recette qui affole actuellement les amateurs de cuisine saine sur les réseaux sociaux. Un dessert à la texture de flan pâtissier ou de panna cotta, au goût intense de chocolat, le tout réalisé en cinq minutes chrono, sans cuisson, sans œufs1",
+      "publishedAt": "2026-11-12T15:30:00+00:00",
+      "discoveredAt": "2026-11-12T21:00:48.464072+00:00",
+      "topics": [
+        "Desserts"
       ]
     },
     {
@@ -26,6 +66,19 @@
       "discoveredAt": "2026-11-12T13:00:57.771312+00:00",
       "topics": [
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "12 novembre 10h41 Licenciement éco : l'employeur n’a pas à juger la pertinence d'envoyer à un salarié la liste actualisée des reclassements Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/licenciement-eco-l-employeur-n-a-pas-a-juger-la-pertinence-d-envoyer-a-un-salarie-la-liste-actualisee-des-reclassements",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L'employeur qui présente ses offres de reclassement aux salariés dont le licenciement économique est envisagé au moyen d'une liste des",
+      "publishedAt": "2026-11-12T09:41:02+00:00",
+      "discoveredAt": "2026-11-12T21:00:05.419154+00:00",
+      "topics": [
+        "Ruptures"
       ]
     },
     {
