@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T03:59:49.945349+00:00",
+  "generated_at": "2026-11-12T13:02:59.054610+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,11 +8,92 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-11T18:23:54+00:00",
+      "publishedAt": "2026-11-12T12:23:55+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Une Renault 4 E-Tech pour la Police municipale de Lons-le-Saunier",
+      "url": "https://www.largus.fr/actualite-automobile/une-renault-4-e-tech-pour-la-police-municipale-de-lons-le-saunier-40017210.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Depuis peu, la Police municipale de Lons-le-Saunier, préfecture du Jura (39), s’est dotée d’une Renault 4 E-Tech. Après avoir été adopté par la Gendarmerie Nationale, le SUV urbain 100 % électrique assemblé en France confirme ainsi renouer les liens historiques entre la 4L et les forces de l’ordre.",
+      "publishedAt": "2026-11-12T11:57:00+00:00",
+      "discoveredAt": "2026-11-12T13:00:57.771312+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "12 novembre 09h00 Cumul emploi-retraite : les règles du jeu plus restrictives prévues à partir de 2027 sont fixées Social Paye Journal officiel LFSS 2026 Réforme des retraites",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/cumul-emploi-retraite-les-regles-du-jeu-plus-restrictives-prevues-a-partir-de-2027-sont-fixees",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Pris en application de la loi de financement de la sécurité sociale (LFSS) pour 2026, deux décrets du 2 novembre 2026 ont fixé les",
+      "publishedAt": "2026-11-12T08:00:00+00:00",
+      "discoveredAt": "2026-11-12T13:00:48.564815+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Parler politique au travail : jusqu’où va la liberté d’expression des salariés ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/parler-politique-au-travail-jusquou-va-la-liberte-dexpression-des-salaries",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-12T07:00:00+00:00",
+      "discoveredAt": "2026-11-12T13:00:53.730828+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Vos pommes de terre ont germé ? Les recettes à privilégier pour les cuisiner sans aucun risque",
+      "url": "https://www.750g.com/vos-pommes-de-terre-ont-germe-les-recettes-a-privilegier-pour-les-cuisiner-sans-aucun-risque-a44881.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Vos pommes de terre commencent à germer ? Voici quelques idées de recettes faciles et gourmandes pour les cuisiner sans les gaspiller.",
+      "publishedAt": "2026-11-12T07:00:00+00:00",
+      "discoveredAt": "2026-11-12T13:02:40.436692+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Ai-je le droit de licencier un salarié qui n’est pas venu à l’entretien préalable ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/ai-je-le-droit-de-licencier-un-salarie-qui-n-est-pas-venu-a-l-entretien-prealable",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-12T05:39:00+00:00",
+      "discoveredAt": "2026-11-12T13:00:53.730944+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Maladies professionnelles hors tableaux : la Cour de cassation ouvre un nouveau droit de contestation pour les employeurs",
+      "url": "https://www.legisocial.fr/actualites-sociales/8221-maladies-professionnelles-tableaux-cour-cassation-ouvre-nouveau-droit-contestation-employeurs.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Par trois arrêts rendus le 15 octobre 2026, la Cour de cassation a modifié les règles applicables aux maladies professionnelles dites « hors tableaux ». Désormais, l'employeur qui conteste la décision de prise en charge d'une maladie par la CPAM peut remettre en cause le taux d'incapacité permanente prévisible ayant justifié la saisine du comité régional de reconnaissance des maladies professionnelles (CRRMP).",
+      "publishedAt": "2026-11-12T05:00:00+00:00",
+      "discoveredAt": "2026-11-12T13:00:45.518141+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Nouvel espace connecté Net-entreprises : comment résoudre les difficultés d’accès ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8236-nouvel-espace-connecte-net-entreprises-comment-resoudre-difficultes-acces.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Accès DSN désactivé, recherche de CRM bloquée, services introuvables : Net-entreprises apporte des réponses aux difficultés rencontrées sur son nouvel espace connecté. Sa FAQ actualisée le 5 novembre 2026 détaille les solutions et les accès à utiliser.",
+      "publishedAt": "2026-11-12T05:00:00+00:00",
+      "discoveredAt": "2026-11-12T13:00:45.518283+00:00",
+      "topics": [
+        "DSN"
       ]
     },
     {
