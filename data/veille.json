@@ -1,6 +1,188 @@
 {
-  "generated_at": "2026-11-13T02:01:49.581029+00:00",
+  "generated_at": "2026-11-13T09:52:53.648100+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Mont d'Or au four",
+      "url": "https://www.marmiton.org/recettes/recette_mont-d-or-au-four_11287.aspx",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-13T09:52:41.013897+00:00",
+      "topics": [
+        "Four"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu de la semaine",
+      "url": "https://www.marmiton.org/recettes/menu-de-la-semaine.aspx",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-13T09:52:40.456462+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Découvrez nos ingrédients de saison",
+      "url": "https://www.marmiton.org/recettes/index/ingredient",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-13T09:52:20.066470+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Muffins myrtilles et chocolat blanc Nestlé Dessert®",
+      "url": "https://www.marmiton.org/recettes/recette_muffins-myrtilles-et-chocolat-blanc-nestle-dessert_536434.aspx",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-13T09:51:54.551223+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Cookies aux pépites de chocolat au Lait Nestlé Dessert®",
+      "url": "https://www.marmiton.org/recettes/recette_cookies-aux-pepites-de-chocolat-au-lait-nestle-dessert_538717.aspx",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "Recette Cookies aux pépites de chocolat au Lait Nestlé Dessert® : la meilleure recette rapide et facile : 9 portions, 27 min de préparation.",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-13T09:51:54.011384+00:00",
+      "topics": [
+        "Desserts",
+        "Rapide"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Cœur coulant pistache chocolat Noir Nestlé Dessert®",
+      "url": "https://www.marmiton.org/recettes/recette_coeur-coulant-pistache-chocolat-noir-nestle-dessert_538736.aspx",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-13T09:51:30.297958+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Cake marbré aux pépites de chocolat Nestlé Dessert®",
+      "url": "https://www.marmiton.org/recettes/recette_cake-marbre-aux-pepites-de-chocolat_532103.aspx",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-13T09:51:27.337050+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Votre chat va adorer : cette recette de croquettes maison est facile, saine et très économique à réaliser",
+      "url": "https://www.marmiton.org/trucs-et-astuces/votre-chat-va-adorer-cette-recette-de-croquettes-maison-est-facile-saine-et-tres-economique-a-realiser-s4135760.html",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-13T09:51:26.789410+00:00",
+      "topics": [
+        "Économique"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Marmicat : Marmiton lance sa première gamme de recettes pour chats",
+      "url": "https://www.marmiton.org/none/marmicat-marmiton-lance-sa-premiere-gamme-de-recettes-pour-chats-s4138292.html",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-13T09:51:26.241634+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Fish tacos de cabillaud avec chou croquant, avocat et sauce citronnée",
+      "url": "https://www.marmiton.org/recettes/recette_fish-tacos-de-cabillaud-avec-chou-croquant_540337.aspx",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-13T09:51:25.614914+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Halloween : 5 recettes de cocktails aussi faciles que terrifiants",
+      "url": "https://www.marmiton.org/boissons-froides/halloween-5-recettes-de-cocktails-aussi-faciles-que-terrifiants-s4051237.html",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-13T09:51:23.506777+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "20 recettes pour un menu d'Halloween",
+      "url": "https://www.marmiton.org/halloween/20-recettes-pour-un-menu-d-halloween-s3049212.html",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-13T09:50:43.246177+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Cassez deux œufs sur du brocoli pour préparer un délicieux dîner ou un repas familial rapide",
+      "url": "https://www.marmiton.org/recettes/cassez-deux-oeufs-sur-du-brocoli-pour-preparer-un-delicieux-diner-ou-un-repas-familial-rapide-s4140537.html",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-13T09:50:00.954046+00:00",
+      "topics": [
+        "Rapide"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Viviana Pisacane et Monelle Godaert partagent leurs astuces pour cuisiner les pâtes autrement : « Avec une bonne sauce tomate, il y a très peu de choses qui ne vont pas »",
+      "url": "https://www.marmiton.org/cuisine-facile/viviana-pisacane-et-monelle-godaert-partagent-leurs-astuces-pour-cuisiner-les-pates-autrement-avec-une-bonne-sauce-tomate-il-y-a-tres-peu-de-choses-qui-ne-vont-pas-s4140619.html",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-13T09:49:21.626062+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Black Friday 2026. Les bons plans auto et moto",
+      "url": "https://www.largus.fr/actualite-automobile/black-friday-2026-les-bons-plans-auto-et-moto-40017212.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Cette année, le Black Friday aura lieu le 27 novembre. À l’occasion de ce « vendredi noir », les promotions seront nombreuses en matière auto et moto, que ce soit dans les centres-autos, les sociétés de location ou chez les constructeurs. L’argus a compilé les offres les plus intéressantes.",
+      "publishedAt": "2026-11-13T08:03:00+00:00",
+      "discoveredAt": "2026-11-13T09:48:03.065503+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -8,12 +190,98 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-12T18:23:34+00:00",
+      "publishedAt": "2026-11-13T07:24:04+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Arrêt maladie : le salarié a droit au repos, l’employeur a l’obligation de le protéger",
+      "url": "https://www.legisocial.fr/actualites-sociales/8215-arret-maladie-salarie-droit-repos-employeur-obligation-proteger.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’arrêt de travail a pour finalité de permettre au salarié de recouvrer sa santé.",
+      "publishedAt": "2026-11-13T05:00:00+00:00",
+      "discoveredAt": "2026-11-13T09:47:48.407461+00:00",
+      "topics": [
+        "IJSS"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "E-salon de la protection sociale les 18 et 19 novembre 2026",
+      "url": "https://www.legisocial.fr/actualites-sociales/8237-e-salon-protection-sociale-18-19-novembre-2026.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "DSN de substitution, CRM et évolutions déclaratives de 2027 figurent au programme du e-salon de la protection sociale. Organisé en ligne les 18 et 19 novembre 2026, cet événement gratuit permet également de réserver des rendez-vous avec les organismes de sa région.",
+      "publishedAt": "2026-11-13T05:00:00+00:00",
+      "discoveredAt": "2026-11-13T09:47:48.407586+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Contrôle URSSAF : l’agent peut-il sortir des copies de documents sans l’accord de l’employeur ?",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1703-controle-urssaf-agent-sortir-copies-documents-accord-employeur.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un arrêt du 24 septembre 2026, la Cour de cassation rappelle qu'emporter des documents, même en copie, nécessite l’information et l’accord de l’employeur selon les textes applicables au litige. Mais depuis 2020, les règles diffèrent. Pour le service paie, la distinction entre copies et originaux est essentielle.",
+      "publishedAt": "2026-11-13T05:00:00+00:00",
+      "discoveredAt": "2026-11-13T09:47:48.407715+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Harcèlement moral au travail : comment le prouver et quelles leçons tirer de la jurisprudence récente ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8213-harcelement-moral-travail-comment-prouver-quelles-lecons-tirer-jurisprudence-recente.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le harcèlement moral demeure l'un des contentieux les plus sensibles du droit du travail. Souvent insidieux, il se manifeste rarement par un acte isolé mais plutôt par une succession de comportements, de décisions ou de mesures qui finissent par dégrader les conditions de travail du salarié. Pour de nombreuses victimes, une difficulté majeure subsiste : comment démontrer l'existence du harcèlement devant le juge ?",
+      "publishedAt": "2026-11-13T05:00:00+00:00",
+      "discoveredAt": "2026-11-13T09:47:48.407866+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Dacia Spring (2026) : notre avis sur la moins chère des voitures électriques",
+      "url": "https://www.largus.fr/actualite-automobile/essai-dacia-spring-2026-notre-avis-sur-la-moins-chere-des-voitures-electriques-40017164.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Avec un prix qui débute à moins de 15 000 € bonus déduit, la Dacia Spring redevient la voiture électrique la moins chère du marché, à l’achat comme à l’usage. Pour cela, elle partage ses dessous techniques avec la nouvelle Renault Twingo. S’agit-il toujours d’une vraie Dacia et d'une bonne affaire ?",
+      "publishedAt": "2026-11-13T05:00:00+00:00",
+      "discoveredAt": "2026-11-13T09:48:03.065638+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Ordinateurs portables",
+      "url": "https://www.quechoisir.org/comparatif-ordinateur-portable-n827/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Nous avons testé les performances (temps de démarrage, transcodage, vitesse de copie de fichiers, autonomie…), mais aussi d’autres critères comme la facilité d’emploi, ou encore la qualité de l’affichage et du son de PC portables de 15 et 17 pouces vendus de 570 à 1 400 €.",
+      "publishedAt": "2026-11-13T04:00:00+00:00",
+      "discoveredAt": "2026-11-13T09:48:04.445222+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Brève - Black Friday : ces 3 aspirateurs balais ont une autonomie au rabais",
+      "url": "https://www.quechoisir.org/breve-black-friday-ces-3-aspirateurs-balais-ont-une-autonomie-au-rabais-n179362/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Souvent prisés en période de Black Friday, les aspirateurs balais présentent d’indéniables qualités : légers et maniables, ils peuvent être de bons alliés pour un ménage d’appoint au quotidien. Si l’autonomie maximale n’est pas souvent leur fort, celle de ces 3 modèles laisse particulièrement à désirer.",
+      "publishedAt": "2026-11-13T02:00:00+00:00",
+      "discoveredAt": "2026-11-13T09:48:04.252376+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
@@ -10774,6 +11042,30 @@
       "publishedAt": "2025-08-12T14:34:23.880000+00:00",
       "discoveredAt": "2026-09-18T22:49:42.546932+00:00",
       "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "20 recettes de gâteaux Halloween terrifiants !",
+      "url": "https://www.marmiton.org/recettes/album1391011/20-recettes-de-gateaux-halloween-terrifiants-0.html",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "J-7 avant Halloween ! Il est temps de se préparer à la fête. Nous vous proposons 20 recettes de gâteaux terrifiants pour Halloween pour le goûter ou en dessert.",
+      "publishedAt": "2022-10-24T10:20:00+00:00",
+      "discoveredAt": "2026-11-13T09:51:25.027982+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "15 recettes salées pour un repas d'Halloween dément !",
+      "url": "https://www.marmiton.org/recettes/album1390728/halloween-15-recettes-salees-0.html",
+      "source": "Marmiton",
+      "sourceKind": "RECETTES",
+      "summary": "Halloween c'est aussi l'occasion de se réunir en famille ou entre amis. Quoi de mieux qu'un menu aussi gourmand que terrifiant pour passer cette soirée ?",
+      "publishedAt": "2022-10-18T02:00:00+00:00",
+      "discoveredAt": "2026-11-13T09:51:24.389036+00:00",
+      "topics": []
     }
   ],
   "errors": [
@@ -10800,11 +11092,6 @@
     {
       "theme": "Auto",
       "source": "ADEME",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Cuisine",
-      "source": "CuisineAZ",
       "error": "HTTP Error 403: Forbidden"
     }
   ]
