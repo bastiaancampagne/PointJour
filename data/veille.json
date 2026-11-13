@@ -1,6 +1,82 @@
 {
-  "generated_at": "2026-11-13T09:52:53.648100+00:00",
+  "generated_at": "2026-11-13T17:57:52.003231+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "BYD E-Car (2028). Une inédite mini-citadine, rivale de la future Citroën 2CV, pour le marché européen ?",
+      "url": "https://www.largus.fr/actualite-automobile/byd-e-car-2028-une-inedite-mini-citadine-rivale-de-la-future-citroen-2cv-pour-le-marche-europeen-40017594.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "En Chine, BYD planche officiellement sur une mini-citadine 100 % électrique au look futuriste. Or, ce modèle pourrait très bien arriver en Europe avec la catégorie des E-Cars, celle des futures Citroën 2CV et Fiat Pandina. L’argus vous explique tout…",
+      "publishedAt": "2026-11-13T17:14:00+00:00",
+      "discoveredAt": "2026-11-13T17:56:52.508017+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Epoqu’auto 2026. Les résultats des ventes aux enchères d’anciennes et de youngtimers",
+      "url": "https://www.largus.fr/actualite-automobile/epoquauto-2026-les-resultats-des-ventes-aux-encheres-danciennes-et-de-youngtimers-40017522.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "La 47e édition du Salon Epoqu’auto s’est distinguée par un record de fréquentation, mais aussi par une triple vente aux enchères d’autos et de motos anciennes ayant rapporté plus de 2,6 millions d’euros. Retour en images sur les résultats de cette vente événement.",
+      "publishedAt": "2026-11-13T16:28:00+00:00",
+      "discoveredAt": "2026-11-13T17:56:52.508192+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-13T15:23:57+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "13 novembre 15h22 Preuve d’une discrimination syndicale avec les bulletins de paye de salariés : attention à la protection de leurs données personnelles Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/preuve-d-une-discrimination-syndicale-avec-les-bulletins-de-paye-de-salaries-attention-a-la-protection-de-leurs-donnees-personnelles",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Quand un salarié qui s’estime victime de discrimination syndicale n’a pas d’éléments suffisants, il peut demander que le juge",
+      "publishedAt": "2026-11-13T14:22:15+00:00",
+      "discoveredAt": "2026-11-13T17:56:36.488464+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "13 novembre 13h59 Dans quel délai a un salarié protégé doit-il contester une rupture conventionnelle signée hors procédure d’autorisation ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/dans-quel-delai-a-un-salarie-protege-doit-il-contester-une-rupture-conventionnelle-signee-hors-procedure-d-autorisation",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Par une décision du 10 novembre 2026, la Cour de cassation indique qu’un salarié protégé dispose de 12 mois pour demander la nullité",
+      "publishedAt": "2026-11-13T12:59:42+00:00",
+      "discoveredAt": "2026-11-13T17:56:38.551600+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Réduction générale dégressive unique 2027 : baisse des allègements en cas de minima inférieurs au SMIC",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/reduction-generale-degressive-unique-2027-baisse-des-allegements-en-cas-de-minima-inferieurs-au-smic",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-13T12:06:00+00:00",
+      "discoveredAt": "2026-11-13T17:56:47.079184+00:00",
+      "topics": [
+        "SMIC",
+        "RGDU"
+      ]
+    },
     {
       "theme": "Cuisine",
       "title": "Mont d'Or au four",
@@ -171,6 +247,39 @@
       "topics": []
     },
     {
+      "theme": "Paie",
+      "title": "13 novembre 10h38 Travail dissimulé : l’employeur peut invoquer l’absence de consentement d’un salarié auditionné pour contester la régularité du redressement Social Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/travail-dissimule-l-employeur-peut-invoquer-l-absence-de-consentement-d-un-salarie-auditionne-pour-contester-la-regularite-du-redressement",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans une affaire jugée le 12 novembre 2026, la Cour de cassation s’est penchée sur la question de la validité d’un redressement pour",
+      "publishedAt": "2026-11-13T09:38:57+00:00",
+      "discoveredAt": "2026-11-13T17:56:40.478433+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu étudiant du 16 au 20 novembre",
+      "url": "https://www.cuisineaz.com/diaporamas/menu-pas-cher-special-recettes-etudiantes-les-ingredients-pour-la-semaine-du-16-au-20-novembre-2026-9282/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-11-13T09:30:04.670000+00:00",
+      "discoveredAt": "2026-11-13T17:57:51.925977+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking du midi",
+      "url": "https://www.cuisineaz.com/diaporamas/batch-cooking-10-recettes-du-midi-faciles-pour-la-semaine-du-16-au-20-novembre-2026-9194/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-11-13T08:20:05.870000+00:00",
+      "discoveredAt": "2026-11-13T17:57:49.864621+00:00",
+      "topics": []
+    },
+    {
       "theme": "Auto",
       "title": "Black Friday 2026. Les bons plans auto et moto",
       "url": "https://www.largus.fr/actualite-automobile/black-friday-2026-les-bons-plans-auto-et-moto-40017212.html",
@@ -181,20 +290,6 @@
       "discoveredAt": "2026-11-13T09:48:03.065503+00:00",
       "topics": [
         "Achat"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-13T07:24:04+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
@@ -260,6 +355,17 @@
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking du soir",
+      "url": "https://www.cuisineaz.com/diaporamas/menu-batch-cooking-du-16-au-20-novembre-2026-10-recettes-du-soir-a-faire-en-1-h-seulement-9285/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-11-13T04:00:05.590000+00:00",
+      "discoveredAt": "2026-11-13T17:57:50.550021+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
@@ -437,6 +543,17 @@
       "summary": "Les épinards surgelés font partie des indispensables du congel. Le légume de dépannage par excellence, à la fois savoureux, plein de nutriments et utilisables dans tout un tas de recettes différences. Voici une petite astuce pour les rendre encore p1",
       "publishedAt": "2026-11-11T15:00:00+00:00",
       "discoveredAt": "2026-11-11T16:24:59.952653+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu Batch Cooking Thermomix",
+      "url": "https://www.cuisineaz.com/diaporamas/batch-cooking-10-recettes-du-soir-a-faire-au-thermomix-pour-la-semaine-du-16-au-20-novembre-2026-9193/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-11-11T13:00:06.180000+00:00",
+      "discoveredAt": "2026-11-13T17:57:51.228383+00:00",
       "topics": []
     },
     {
@@ -10788,45 +10905,6 @@
       "publishedAt": "2026-09-15T04:00:00+00:00",
       "discoveredAt": "2026-09-18T22:48:38.411245+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Volkswagen Mission Efficiency (2026). Une ID. Polo en version ultra-sobre",
-      "url": "https://www.largus.fr/actualite-automobile/volkswagen-mission-efficiency-2026-une-id-polo-en-version-ultra-sobre-40006801.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "En 2013, Volkswagen marquait l'histoire automobile en dévoilant la XL1. Ce modèle hybride rechargeable diesel était devenu la voiture de série la plus sobre au monde. Treize ans plus tard, le constructeur de Wolfsburg réitère cette démarche d'efficience absolue avec le concept Mission Efficiency.",
-      "publishedAt": "2026-09-14T15:04:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.105322+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Essai Toyota Yaris Cross (2026) : quels progrès pour le SUV hybride japonais ?",
-      "url": "https://www.largus.fr/actualite-automobile/essai-toyota-yaris-cross-2026-quels-progres-pour-le-suv-hybride-japonais-40005509.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Cinq ans après son lancement, le Toyota Yaris Cross s'offre un restylage. Mais celui-ci est bien timide au moment où la concurrence, notamment chinoise, est plus féroce que jamais. Voyons si le petit SUV japonais est encore dans le coup.",
-      "publishedAt": "2026-09-14T14:04:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.105589+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "BMW Série 3 (2027). La berline premium toujours plus sportive en thermique",
-      "url": "https://www.largus.fr/actualite-automobile/bmw-serie-3-2027-la-berline-premium-toujours-plus-sportive-en-thermique-40006758.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "BMW termine la mise au point de la prochaine Série 3 thermique (type G50). Celle-ci viendra épauler l’i3 électrique (NA0) qui arrive tout juste dans les concessions. La berline et sa variante break seront micro-hybrides et offriront jusqu’à 443 ch en attendant une M3 encore plus musclée.",
-      "publishedAt": "2026-09-14T10:22:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.105746+00:00",
-      "topics": [
-        "Carburant"
-      ]
     },
     {
       "theme": "Paie",
