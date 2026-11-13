@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-11-13T17:57:52.003231+00:00",
+  "generated_at": "2026-11-13T23:46:47.071446+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-13T18:23:46+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "BYD E-Car (2028). Une inédite mini-citadine, rivale de la future Citroën 2CV, pour le marché européen ?",
@@ -24,20 +38,6 @@
       "publishedAt": "2026-11-13T16:28:00+00:00",
       "discoveredAt": "2026-11-13T17:56:52.508192+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-13T15:23:57+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Paie",
