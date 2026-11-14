@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-11-14T06:50:00.717727+00:00",
+  "generated_at": "2026-11-14T14:24:04.930628+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-14T12:24:10+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Actualité - Dacia Spring (2026) - Premières impressions",
@@ -11,20 +25,6 @@
       "publishedAt": "2026-11-14T02:00:00+00:00",
       "discoveredAt": "2026-11-14T06:49:01.314354+00:00",
       "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-13T18:23:46+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
         "Carburant"
       ]
     },
@@ -10858,46 +10858,6 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Prix Fiat Topolino (2026). La découvrable Dolcevita a maintenant des portes",
-      "url": "https://www.largus.fr/actualite-automobile/prix-fiat-topolino-2026-la-decouvrable-dolcevita-a-maintenant-des-portes-40007034.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "La version Dolcevita de la Fiat Topolino revient au catalogue toujours dotée d’un toit ouvrant en toile et désormais équipée de portières quand sa devancière jouait les voiturettes de plage. La voiture sans permis électrique cousine de la Citroën Ami est disponible à partir de 9 990 €.",
-      "publishedAt": "2026-09-15T12:56:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.104778+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Essai Skoda Epiq (2026). Le petit SUV électrique qui voit grand",
-      "url": "https://www.largus.fr/actualite-automobile/essai-skoda-epiq-2026-le-petit-suv-electrique-qui-voit-grand-40006832.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Le nouveau Skoda Epiq profite de la dernière plate-forme électrique du groupe Volkswagen sans perdre l’esprit rationnel de la marque tchèque. Nous avons emmené la version haut de gamme Clever 55 de 211 ch sur un parcours exigeant entre l’Allemagne et l’Autriche et sommes revenus avec le sourire.",
-      "publishedAt": "2026-09-15T11:45:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.104931+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Renault Trafic Van E-Tech (2027). Nos dernières infos sur l’utilitaire 100 % électrique",
-      "url": "https://www.largus.fr/actualite-automobile/renault-trafic-van-e-tech-2027-nos-dernieres-infos-sur-lutilitaire-100-electrique-40007054.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Présenté à Solutrans en 2025, le nouveau Renault Trafic Van E-Tech 100 % électrique s’expose jusqu’au 20 septembre au Salon IAA de Hanovre. L’événement permet de découvrir les caractéristiques révisées de cet utilitaire, dont l’arrivée sur le marché est prévue pour le premier trimestre 2027.",
-      "publishedAt": "2026-09-15T10:06:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.105091+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
       "theme": "Paie",
       "title": "Le bulletin de paie d'un salarié mis à pied",
       "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/le-bulletin-de-paie-dun-salarie-mis-a-pied",
@@ -11184,6 +11144,11 @@
       "theme": "Auto",
       "source": "ADEME",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Cuisine",
+      "source": "ANSES",
+      "error": "IncompleteRead(0 bytes read, 109305 more expected)"
     }
   ]
 }
