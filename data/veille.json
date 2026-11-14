@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:24:04.930628+00:00",
+  "generated_at": "2026-11-14T19:23:11.266240+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,12 +8,36 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-14T12:24:10+00:00",
+      "publishedAt": "2026-11-14T18:23:51+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Oubliez la recette classique : ce tiramisu ultra-onctueux à la crème de marrons et aux poires est le dessert de l'automne",
+      "url": "https://www.750g.com/oubliez-la-recette-classique-ce-tiramisu-ultra-onctueux-a-la-creme-de-marrons-et-aux-poires-est-le-dessert-de-l-automne-a44886.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Pour varier les plaisirs, on vous propose de revisiter le célèbre tiramisu italien version automnale. Dans cette recette, on met à l'honneur la crème des marrons et les poires, fruits stars de la saison !",
+      "publishedAt": "2026-11-14T17:00:00+00:00",
+      "discoveredAt": "2026-11-14T19:22:45.357977+00:00",
+      "topics": [
+        "Desserts"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Oubliez le poulet : cette recette bluffante de nuggets à la carotte va devenir un classique chez vous",
+      "url": "https://www.750g.com/oubliez-le-poulet-cette-recette-bluffante-de-nuggets-a-la-carotte-va-devenir-un-classique-chez-vous-a44882.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Et si vous changiez un peu des traditionnels nuggets de poulet ? Découvrez cette version à base de carottes, aussi gourmande que facile à préparer chez vous !",
+      "publishedAt": "2026-11-14T16:00:00+00:00",
+      "discoveredAt": "2026-11-14T19:22:45.438070+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
@@ -10832,32 +10856,6 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Kia PV7 (2027). Le concurrent du Renault Trafic E-Tech se dévoile",
-      "url": "https://www.largus.fr/actualite-automobile/kia-pv7-2027-le-concurrent-du-renault-trafic-e-tech-se-devoile-40007228.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Après le PV5, Kia passe à la vitesse supérieure avec le PV7. Dévoilé au Salon IAA de Hanovre, l’utilitaire électrique veut concurrencer les références du segment avec une architecture 800V, jusqu’à 8 m3 de volume utile, neuf places et une autonomie de 460 km. Son lancement est prévu pour 2027.",
-      "publishedAt": "2026-09-15T17:07:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.104458+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Analogue VHPK (2026). Une Lotus Elise de 600 kg pour 250 ch à prix d’or",
-      "url": "https://www.largus.fr/actualite-automobile/analogue-vhpk-2026-une-lotus-elise-de-600-kg-pour-250-ch-a-prix-dor-40007141.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Le préparateur britannique Analogue Automotive présente la VHPK, une Lotus Elise S1 dont la puissance a été portée à plus de 250 ch et le poids réduit à moins de 600 kg. Devenue monoplace, la sportive restomod réclame plus de 400 000 €.",
-      "publishedAt": "2026-09-15T16:03:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.104629+00:00",
-      "topics": [
-        "Achat"
-      ]
-    },
-    {
       "theme": "Paie",
       "title": "Le bulletin de paie d'un salarié mis à pied",
       "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/le-bulletin-de-paie-dun-salarie-mis-a-pied",
@@ -11144,11 +11142,6 @@
       "theme": "Auto",
       "source": "ADEME",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Cuisine",
-      "source": "ANSES",
-      "error": "IncompleteRead(0 bytes read, 109305 more expected)"
     }
   ]
 }
