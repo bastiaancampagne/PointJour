@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T02:55:35.045432+00:00",
+  "generated_at": "2026-11-15T11:20:08.736148+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,7 +8,7 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-14T18:23:51+00:00",
+      "publishedAt": "2026-11-15T07:24:11+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
@@ -10778,45 +10778,6 @@
       "discoveredAt": "2026-09-18T22:48:52.103883+00:00",
       "topics": [
         "Assurance"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Nissan Kicks (2027). Le SUV urbain hybride qui épaulera le futur Juke électrique en Europe",
-      "url": "https://www.largus.fr/actualite-automobile/nissan-kicks-2027-le-suv-hybride-urbain-qui-epaulera-le-futur-juke-electrique-en-europe-40007335.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "En 2027, Nissan lancera la nouvelle génération du Juke, exclusivement électrique. Pour compenser l’arrêt du Juke thermique, le constructeur nippon commercialisera en Europe le Kicks, SUV hybride concurrent du Peugeot 2008 jusque-là réservé à d’autres marchés.",
-      "publishedAt": "2026-09-16T09:50:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.104040+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Comment reconnaître un concessionnaire automobile fiable avant d'acheter ?",
-      "url": "https://www.largus.fr/actualite-automobile/comment-reconnaitre-un-concessionnaire-automobile-fiable-avant-dacheter-40002599.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Garanties, SAV, atelier, reprise : les critères objectifs pour reconnaître un concessionnaire automobile fiable et sécuriser son achat avant de signer.",
-      "publishedAt": "2026-09-16T09:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.104162+00:00",
-      "topics": [
-        "Achat"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Volkswagen ID.3 GTI (2027). À bord de la compacte électrique sportive qui change de nom",
-      "url": "https://www.largus.fr/actualite-automobile/volkswagen-id-3-gti-2027-a-bord-de-la-compacte-electrique-sportive-qui-change-de-nom-40007257.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Adieu GTX, rebonjour GTI ! La version sportive de la Volkswagen ID.3 Neo reprend ce nom tout en conservant sa motorisation électrique de 326 ch. L’argus s’est glissé à bord. La présentation évolue en conséquence, tout comme l’ergonomie. Cela suffira-t-il à faire revenir les amateurs ?",
-      "publishedAt": "2026-09-16T08:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.104308+00:00",
-      "topics": [
-        "Carburant"
       ]
     },
     {
