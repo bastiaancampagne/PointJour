@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-15T11:20:08.736148+00:00",
+  "generated_at": "2026-11-15T17:55:37.690170+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Pain croustillant et fromage fondu : l'ultime recette du placard ultra-gourmande avec une simple boîte de thon",
+      "url": "https://www.750g.com/pain-croustillant-et-fromage-fondu-l-ultime-recette-du-placard-ultra-gourmande-avec-une-simple-boite-de-thon-a44871.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Connaissez-vous le \"tuna melt\" ? Un sandwich typique de la cuisine américaine, à la fois, simple, gourmand, pas cher, et qui vous sauve un dimanche quant on a oublié de faire les courses.",
+      "publishedAt": "2026-11-15T17:00:00+00:00",
+      "discoveredAt": "2026-11-15T17:55:14.015081+00:00",
+      "topics": [
+        "Économique"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -8,7 +21,7 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-15T07:24:11+00:00",
+      "publishedAt": "2026-11-15T15:23:46+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
@@ -10752,32 +10765,6 @@
       "topics": [
         "Achat",
         "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Volkswagen ID.California (2027). Le rêve du van aménagé électrique rattrapé par le poids",
-      "url": "https://www.largus.fr/actualite-automobile/volkswagen-id-california-2027-le-reve-du-van-amenage-electrique-rattrape-par-le-poids-40007358.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Volkswagen présente l’ID. California Cruise au Salon IAA de Hanovre. Ce dérivé de l’ID. Buzz marque l’arrivée du van aménagé électrique. Mais, contrairement au California que l’on connaît, celui-ci fait l’impasse sur le toit relevable. Une concession imposée par le poids.",
-      "publishedAt": "2026-09-16T12:07:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.103731+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Gestion post-sinistre. Comment fonctionnent l’indemnisation et la franchise auto ?",
-      "url": "https://www.largus.fr/actualite-automobile/gestion-post-sinistre-comment-fonctionnent-lindemnisation-et-la-franchise-auto-40005607.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "À la suite d'un accident avec son véhicule, un usager peut se poser une multitude de questions quant à sa prise en charge par son assureur. En combien de temps est-il indemnisé ? Comment accélérer ce processus ? Comment fonctionne sa franchise ? Tour d’horizon des solutions à sa disposition.",
-      "publishedAt": "2026-09-16T12:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.103883+00:00",
-      "topics": [
-        "Assurance"
       ]
     },
     {
