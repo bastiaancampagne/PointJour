@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-11-15T17:55:37.690170+00:00",
+  "generated_at": "2026-11-15T23:03:54.298693+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-15T18:23:46+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Cuisine",
       "title": "Pain croustillant et fromage fondu : l'ultime recette du placard ultra-gourmande avec une simple boîte de thon",
@@ -12,20 +26,6 @@
       "discoveredAt": "2026-11-15T17:55:14.015081+00:00",
       "topics": [
         "Économique"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-15T15:23:46+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
@@ -10752,20 +10752,6 @@
       "publishedAt": "2026-09-17T01:00:00+00:00",
       "discoveredAt": "2026-09-18T22:48:52.839110+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Essai MG IM5 électrique : notre avis sur la Porsche Taycan chinoise",
-      "url": "https://www.largus.fr/actualite-automobile/essai-mg-im5-electrique-notre-avis-sur-la-porsche-taycan-chinoise-40006820.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Un joli profil de coupé à 5 portes, des roues arrière motrices et directrices, une architecture électrique sous 800 V et jusqu’à 751 ch en version 4 x 4 : ça ne vous rappelle pas la Porsche Taycan ? La nouvelle MG IM5 est pourtant vendue à moitié prix, soit 53 990 € en version propulsion ici testée.",
-      "publishedAt": "2026-09-16T22:01:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.103450+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Paie",
