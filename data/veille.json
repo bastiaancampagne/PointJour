@@ -1,6 +1,81 @@
 {
-  "generated_at": "2026-11-16T02:55:57.796035+00:00",
+  "generated_at": "2026-11-16T11:50:09.885150+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "Transmettre l’adresse de son salarié : est-ce risqué ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/transmettre-ladresse-de-son-salarie-est-ce-risque",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-16T09:45:00+00:00",
+      "discoveredAt": "2026-11-16T11:49:23.203043+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-16T07:23:48+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "vie privée du salarié et trouble objectif caractérisé",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1704-vie-privee-salarie-trouble-objectif-caracterise.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un licenciement fondé sur des faits relevant de la vie privée peut être justifié lorsque le comportement du salarié crée un trouble objectif caractérisé dans l’entreprise.",
+      "publishedAt": "2026-11-16T05:00:00+00:00",
+      "discoveredAt": "2026-11-16T11:49:14.285795+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Augmentation du SMIC au 1er décembre 2026 : impact en paie",
+      "url": "https://www.legisocial.fr/actualites-sociales/8239-augmentation-smic-1er-decembre-2026-impact-paie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La hausse du SMIC annoncée pour décembre impose plusieurs ajustements en paie : rémunération des salariés et des alternants, franchise de cotisations des apprentis, activité partielle… Le plafond des IJSS maladie évoluera, lui, pour les arrêts débutant à compter de janvier 2027.",
+      "publishedAt": "2026-11-16T05:00:00+00:00",
+      "discoveredAt": "2026-11-16T11:49:14.285915+00:00",
+      "topics": [
+        "SMIC",
+        "IJSS",
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Lunettes connectées en entreprise : innovation technologique ou nouveau défi pour les employeurs ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8214-lunettes-connectees-entreprise-innovation-technologique-nouveau-defi-employeurs.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Longtemps cantonnées à l'univers de la science-fiction, les lunettes connectées font désormais leur entrée dans le quotidien professionnel. Dotées de caméras embarquées, de fonctionnalités audio, d'outils d'assistance à la navigation, de traduction en temps réel ou encore d'intelligence artificielle, elles promettent des gains de productivité considérables dans de nombreux secteurs d'activité.",
+      "publishedAt": "2026-11-16T05:00:00+00:00",
+      "discoveredAt": "2026-11-16T11:49:14.286054+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Contrats de travail conclus pour la saison hivernale : les points de vigilance !",
+      "url": "https://www.legisocial.fr/actualites-sociales/7622-contrats-travail-conclus-saison-hivernale-points-vigilance.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "À l’approche de la saison hivernale, les employeurs du tourisme, de l’hôtellerie-restauration ou des remontées mécaniques doivent rédiger un CDD saisonnier conforme aux articles L1242-2 et L1242-12 du Code du travail. Le contrat doit être écrit, préciser le motif saisonnier, la période exacte (souvent octobre-avril) et ne pas couvrir l’intégralité de l’ouverture de l’établissement, sous peine de requalification en CDI.",
+      "publishedAt": "2026-11-16T05:00:00+00:00",
+      "discoveredAt": "2026-11-16T11:49:14.286199+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Essai Audi A2 e-tron (2026). Nouveau plan de volt",
@@ -11,20 +86,6 @@
       "publishedAt": "2026-11-15T23:01:00+00:00",
       "discoveredAt": "2026-11-16T02:55:29.615971+00:00",
       "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-15T18:23:46+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
         "Carburant"
       ]
     },
@@ -122,6 +183,19 @@
       "summary": "Par une décision du 10 novembre 2026, la Cour de cassation indique qu’un salarié protégé dispose de 12 mois pour demander la nullité",
       "publishedAt": "2026-11-13T12:59:42+00:00",
       "discoveredAt": "2026-11-13T17:56:38.551600+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "13 novembre 13h59 Dans quel délai un salarié protégé doit-il contester une rupture conventionnelle signée hors procédure d’autorisation ? Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/dans-quel-delai-un-salarie-protege-doit-il-contester-une-rupture-conventionnelle-signee-hors-procedure-d-autorisation",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Par une décision du 10 novembre 2026, la Cour de cassation indique qu’un salarié protégé dispose de 12 mois pour demander la nullité",
+      "publishedAt": "2026-11-13T12:59:42+00:00",
+      "discoveredAt": "2026-11-16T11:49:18.943089+00:00",
       "topics": [
         "Ruptures"
       ]
@@ -665,6 +739,20 @@
       "summary": "Depuis le début du conflit au Moyen-Orient, le 28 février dernier, le prix des carburants en France est monté en flèche. Confrontés à cette flambée tarifaire, les automobilistes nous ont raconté leur quotidien. Entre déplacements rationalisés, loisirs sacrifiés et recherche des meilleurs prix, notre enquête révèle les multiples stratégies mises en œuvre pour limiter la facture, mais aussi les attentes des automobilistes envers les pouvoirs publics.",
       "publishedAt": "2026-11-11T02:00:00+00:00",
       "discoveredAt": "2026-11-11T07:55:04.497279+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Brève - Prix des carburants - Les enseignes les moins chères pour l’essence et le diesel",
+      "url": "https://www.quechoisir.org/breve-prix-des-carburants-les-enseignes-les-moins-cheres-pour-l-essence-et-le-diesel-n175238/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Diesel, essence SP98 ou E10… Les grandes surfaces alimentaires et les stations-services gérées par les groupes pétroliers se livrent une guerre des prix féroce en cette période de forte inflation du tarif des carburants. Découvrez le palmarès des stations-services selon les derniers prix de vente disponibles.",
+      "publishedAt": "2026-11-11T02:00:00+00:00",
+      "discoveredAt": "2026-11-16T11:49:27.441116+00:00",
       "topics": [
         "Achat",
         "Carburant"
@@ -10718,19 +10806,6 @@
       "topics": []
     },
     {
-      "theme": "Auto",
-      "title": "Résiliation auto : le guide pour changer sereinement",
-      "url": "https://www.largus.fr/actualite-automobile/resiliation-auto-le-guide-pour-changer-sereinement-40007562.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Il est possible de changer d'assurance auto à l'échéance annuelle du contrat, moyennant un préavis de deux mois, ou à tout moment après une première année de souscription grâce à la loi Hamon. Deux possibilités s'offrent donc au conducteur selon l'ancienneté de son contrat : demander une résiliation à l'échéance annuelle ou, après un an, souscrire une nouvelle assurance auto qui prendra le relais de la précédente.",
-      "publishedAt": "2026-09-17T08:57:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.103283+00:00",
-      "topics": [
-        "Assurance"
-      ]
-    },
-    {
       "theme": "Paie",
       "title": "Convention collective : définir l’activité principale de l’entreprise",
       "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/convention-collective-definir-lactivite-principale-de-lentreprise",
@@ -11063,11 +11138,6 @@
     {
       "theme": "Auto",
       "source": "ADEME",
-      "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Cuisine",
-      "source": "CuisineAZ",
       "error": "HTTP Error 403: Forbidden"
     }
   ]
