@@ -1,6 +1,80 @@
 {
-  "generated_at": "2026-11-16T11:50:09.885150+00:00",
+  "generated_at": "2026-11-16T22:26:06.669423+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-16T18:23:52+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Oubliez le lait : l'ingrédient magique pour obtenir une pâte à crêpes ultra-légère et aérienne",
+      "url": "https://www.750g.com/oubliez-le-lait-l-ingredient-magique-pour-obtenir-une-pate-a-crepes-ultra-legere-et-aerienne-a44892.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Vous rêvez de crêpes à la fois aériennes tout en restant gourmandes ? On a trouvé la solution ! Il suffit de remplacer le lait par un autre ingrédient. Voici lequel...",
+      "publishedAt": "2026-11-16T17:00:00+00:00",
+      "discoveredAt": "2026-11-16T22:25:37.523768+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Voitures de collection. Répondez à notre enquête pour gagner deux invitations à Rétromobile 2027",
+      "url": "https://www.largus.fr/actualite-automobile/voitures-de-collection-repondez-a-notre-enquete-pour-gagner-deux-invitations-a-retromobile-2027-40017639.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Qui sont les collectionneurs automobiles ? Quels modèles possèdent-ils et quelles voitures les font rêver ? À l’occasion de Rétromobile 2027, prévu du 3 au 7 février, L’argus lance une grande enquête pour mieux connaître ces passionnés. Participez et tentez de gagner deux invitations pour le Salon.",
+      "publishedAt": "2026-11-16T16:00:00+00:00",
+      "discoveredAt": "2026-11-16T22:25:03.271108+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "TRODO, spécialiste de la vente de pièces automobiles en ligne, s'étend à sept nouveaux marchés européens",
+      "url": "https://www.largus.fr/actualite-automobile/trodo-specialiste-de-la-vente-de-pieces-automobiles-en-ligne-setend-a-sept-nouveaux-marches-europeens-40017671.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le spécialiste de la vente de pièces automobiles en ligne TRODO poursuit son développement international avec l'ouverture de sept nouveaux marchés européens.",
+      "publishedAt": "2026-11-16T16:00:00+00:00",
+      "discoveredAt": "2026-11-16T22:25:03.271255+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Marre de la soupe ? Ce butternut rôti au four et sa crème de feta est l'idée express parfaite pour ce soir",
+      "url": "https://www.750g.com/marre-de-la-soupe-ce-butternut-roti-au-four-et-sa-creme-de-feta-est-l-idee-express-parfaite-pour-ce-soir-a44890.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Envie d'une recette rapide et réconfortante pour le dîner ce soir ? Essayez ce butternut rôti. À la fois crémeux, fondant et gourmand, ce plat va faire l'unanimité !",
+      "publishedAt": "2026-11-16T16:00:00+00:00",
+      "discoveredAt": "2026-11-16T22:25:37.587126+00:00",
+      "topics": [
+        "Rapide",
+        "Four"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "16 novembre 11h09 Grève interne : l’employeur peut, sous conditions, réorganiser l’entreprise pour assurer la continuité de son activité Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/greve-interne-l-employeur-peut-sous-conditions-reorganiser-l-entreprise-pour-assurer-la-continuite-de-son-activite",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans une affaire jugée le 10 novembre 2026, la Cour de cassation a rappelé qu’en cas de grève interne à l’entreprise, et même",
+      "publishedAt": "2026-11-16T10:09:53+00:00",
+      "discoveredAt": "2026-11-16T22:24:46.546534+00:00",
+      "topics": []
+    },
     {
       "theme": "Paie",
       "title": "Transmettre l’adresse de son salarié : est-ce risqué ?",
@@ -13,17 +87,27 @@
       "topics": []
     },
     {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-16T07:23:48+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "theme": "Paie",
+      "title": "16 novembre 10h30 Maladie professionnelle en cas d'employeurs successifs : comment la CARSAT peut-elle apporter la preuve de l'exposition au risque ? Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/maladie-professionnelle-en-cas-d-employeurs-successifs-comment-la-carsat-peut-elle-apporter-la-preuve-de-l-exposition-au-risque-1fd0260d-e393-400d-9385-f5fdf3658a17",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsqu'un salarié victime d'une maladie professionnelle a travaillé successivement pour plusieurs entreprises, l'employeur au compte",
+      "publishedAt": "2026-11-16T09:30:00+00:00",
+      "discoveredAt": "2026-11-16T22:24:48.651709+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "16 novembre 09h42 Accord de performance collective : des suppressions de postes consécutives aux licenciements sont possibles Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/accord-de-performance-collective-des-suppressions-de-postes-consecutives-aux-licenciements-sont-possibles",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un arrêt publié du 10 novembre 2026, la Cour de cassation apporte une importante précision sur les conditions de validité d'un",
+      "publishedAt": "2026-11-16T08:42:26+00:00",
+      "discoveredAt": "2026-11-16T22:24:50.941548+00:00",
       "topics": [
-        "Achat",
-        "Carburant"
+        "Ruptures"
       ]
     },
     {
@@ -75,6 +159,32 @@
       "publishedAt": "2026-11-16T05:00:00+00:00",
       "discoveredAt": "2026-11-16T11:49:14.286199+00:00",
       "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "SMIC 2027 : 12,51 € brut de l’heure, montant net et brut",
+      "url": "https://www.legisocial.fr/reperes-sociaux/smic-2027-1251-brut-heure-montant-net-brut.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le SMIC horaire brut retenu pour 2027 est de 12,51 €, montant annoncé par le gouvernement pour le 1er décembre 2026 par anticipation de la revalorisation annuelle. À 35 heures, il représente 1 897,35 € brut par mois et environ 1 501,94 € net avant impôt. Retrouvez les montants à temps partiel, les règles applicables aux mineurs et les valeurs retenues pour Mayotte.",
+      "publishedAt": "2026-11-16T05:00:00+00:00",
+      "discoveredAt": "2026-11-16T22:24:42.862978+00:00",
+      "topics": [
+        "SMIC"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Calcul salaire SMIC 2027 : 12,51 € brut",
+      "url": "https://www.legisocial.fr/reperes-sociaux/smic-2027-1251-brut.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le SMIC 2027 devrait s’établir à 12,51 € brut par heure, soit 1 897,35 € brut par mois pour 35 heures hebdomadaires. Ce taux a été annoncé par le Gouvernement pour le 1er décembre 2026, par anticipation de la revalorisation annuelle. Dans l’attente de l'arrêté, retrouvez les montants calculés sur cette base et les règles pour vérifier le respect du salaire minimum.",
+      "publishedAt": "2026-11-16T05:00:00+00:00",
+      "discoveredAt": "2026-11-16T22:24:42.863163+00:00",
+      "topics": [
+        "SMIC"
+      ]
     },
     {
       "theme": "Auto",
@@ -10765,44 +10875,6 @@
       "summary": "Dans un arrêt du 9 septembre 2026, la Cour de cassation juge qu’un gérant de succursale non salarié ne bénéficie pas de la garantie de l’AGS. L’application de certaines règles du code du travail à son statut ne suffit pas à lui conférer la qualité de salarié. En cas de liquidation judiciaire, ses créances risquent donc de rester impayées.",
       "publishedAt": "2026-09-18T04:00:00+00:00",
       "discoveredAt": "2026-09-18T22:48:38.410069+00:00",
-      "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Prix Kia Seltos (2026). Le SUV compact hybride arrive en France",
-      "url": "https://www.largus.fr/actualite-automobile/prix-kia-seltos-2026-le-suv-compact-hybride-arrive-en-france-40007668.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Deuxième modèle le plus vendu de Kia dans le monde, le Seltos était jusqu’ici inconnu chez nous. Mais cela va changer, car la deuxième génération arrive en France. La marque vient d’ouvrir les commandes de ce rival du Renault Symbioz, uniquement disponible en hybride et proposé à partir de 36 790 €.",
-      "publishedAt": "2026-09-17T16:37:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.102708+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Test pneus 4 saisons 2026. Les modèles conseillés et ceux à fuir",
-      "url": "https://www.largus.fr/actualite-automobile/test-pneus-4-saisons-2026-les-modeles-conseilles-et-ceux-a-fuir-40007613.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Le Touring Club suisse (TCS) et l'Automobile Club allemand (ADAC) publient les résultats de leurs tests des pneus toutes-saisons 2026. Seize modèles ont été éprouvés dans des conditions extrêmes afin d’évaluer leur polyvalence. Voici ceux qui obtiennent les meilleurs résultats et ceux à éviter.",
-      "publishedAt": "2026-09-17T14:54:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.102863+00:00",
-      "topics": [
-        "Pneus"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Industrie. Où sont fabriquées les voitures françaises ?",
-      "url": "https://www.largus.fr/actualite-automobile/industrie-ou-sont-fabriquees-les-voitures-francaises-40007429.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Les best-sellers des marques françaises sur leur marché domestique ne sont pas tous fabriqués ici. De la Serbie au Maroc en passant par la Turquie ou l’Espagne, voici un tour d’horizon des sites de production utilisés par les principaux constructeurs tricolores pour fournir leurs concessions en France.",
-      "publishedAt": "2026-09-17T12:37:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.103011+00:00",
       "topics": []
     },
     {
