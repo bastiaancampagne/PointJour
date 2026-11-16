@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-15T23:03:54.298693+00:00",
+  "generated_at": "2026-11-16T02:55:57.796035+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Essai Audi A2 e-tron (2026). Nouveau plan de volt",
+      "url": "https://www.largus.fr/actualite-automobile/essai-audi-a2-e-tron-2026-nouveau-plan-de-volt-40017430.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Audi redéfinit la voiture électrique compacte premium avec cette A2 e-tron au style bien inspiré et conçue sur la base technique de la Volkswagen ID.3 Neo. Qu’en est-il volant en mains ? Réponse avec la version 84 kWh de 231 ch et 646 km d’autonomie WLTP.",
+      "publishedAt": "2026-11-15T23:01:00+00:00",
+      "discoveredAt": "2026-11-16T02:55:29.615971+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -10743,17 +10756,6 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Actualité - Dioxyde de titane dans les médicaments : la scandaleuse inertie des autorités européennes",
-      "url": "https://www.quechoisir.org/actualite-dioxyde-de-titane-dans-les-medicaments-la-scandaleuse-inertie-des-autorites-europeennes-n178218/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Interdit dans l’alimentation pour cause d’effets toxiques, le dioxyde de titane, un colorant, continue à être utilisé dans de nombreux médicaments avec la bénédiction de Bruxelles.",
-      "publishedAt": "2026-09-17T01:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.839110+00:00",
-      "topics": []
-    },
-    {
       "theme": "Paie",
       "title": "IA en entreprise : attention, terrain juridique sensible !",
       "url": "https://www.legisocial.fr/actualites-sociales/8090-ia-entreprise-attention-terrain-juridique-sensible.html",
@@ -11061,6 +11063,11 @@
     {
       "theme": "Auto",
       "source": "ADEME",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Cuisine",
+      "source": "CuisineAZ",
       "error": "HTTP Error 403: Forbidden"
     }
   ]
