@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-16T22:26:06.669423+00:00",
+  "generated_at": "2026-11-17T04:44:31.209650+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Essai BMW M3 (2027). Premier test de la future M3 électrique de 850 ch !",
+      "url": "https://www.largus.fr/actualite-automobile/essai-bmw-m3-2027-premier-test-de-la-future-m3-electrique-de-850-ch-40017676.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Avec quatre moteurs électriques cumulant 850 ch et 1 200 Nm de couple (!), la BMW M3 n’a jamais été aussi performante. Reste à savoir si sa fausse boîte de vitesses et sa sonorité virtuelle maintiennent les sensations au niveau des légendaires M3 thermiques…",
+      "publishedAt": "2026-11-16T23:01:00+00:00",
+      "discoveredAt": "2026-11-17T04:43:45.822431+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -11210,6 +11223,11 @@
     {
       "theme": "Auto",
       "source": "ADEME",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Cuisine",
+      "source": "CuisineAZ",
       "error": "HTTP Error 403: Forbidden"
     }
   ]
