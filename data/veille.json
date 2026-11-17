@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-11-17T14:46:26.531649+00:00",
+  "generated_at": "2026-11-17T23:03:26.542323+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-17T18:23:57+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "17 novembre 16h00 Déblocage exceptionnel et attractivité de l'épargne salariale : l’Assemblée nationale a adopté et amendé la proposition de loi Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/public/index.php/actualite/article/deblocage-exceptionnel-et-attractivite-de-l-epargne-salariale-l-assemblee-nationale-a-adopte-et-amende-la-proposition-de-loi-d34cd667-640f-477e-b854-92d90f26eece",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le 16 novembre 2026, l'Assemblée nationale a adopté en première lecture la proposition de loi visant à permettre un déblocage anticipé",
+      "publishedAt": "2026-11-17T15:00:00+00:00",
+      "discoveredAt": "2026-11-17T23:02:29.085148+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Citroën 2CV (1981). La série spéciale James Bond 007 a 45 ans cette année",
+      "url": "https://www.largus.fr/actualite-automobile/citroen-2cv-1981-la-serie-speciale-james-bond-007-a-45-ans-cette-annee-40017820.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Véhicule iconique produit à plus de 5 millions d’unités entre 1949 et 1990, la Citroën 2CV a connu une belle carrière au cinéma. Star de comédies françaises populaires, telles que « Le Corniaud » ou la saga du Gendarme de Saint-Tropez, la française a même joué les premiers rôles dans… un James Bond.",
+      "publishedAt": "2026-11-17T14:47:00+00:00",
+      "discoveredAt": "2026-11-17T23:02:46.223934+00:00",
+      "topics": []
+    },
     {
       "theme": "Paie",
       "title": "Micro-entrepreneur utilisant les plateformes numériques : justificatif à fournir pour le paiement de l’ARE",
@@ -32,6 +68,17 @@
       "summary": "Une nouvelle cantine parisienne propose un œuf mayonnaise à 1,90 € et des plats à moins de 13 €. Découvrez cette adresse qui pourrait faire sensation avec ces prix mini et sa cuisine délicieuse.",
       "publishedAt": "2026-11-17T11:30:00+00:00",
       "discoveredAt": "2026-11-17T14:46:01.051314+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "17 novembre 12h19 Reclassement d’un salarié inapte : les juges ne peuvent pas alourdir l’obligation légale mise à la charge de l’employeur Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/public/index.php/actualite/article/reclassement-d-un-salarie-inapte-les-juges-ne-peuvent-pas-alourdir-l-obligation-legale-mise-a-la-charge-de-l-employeur-c31d7b4e-6153-42f3-9180-79bfc7c94c9a",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans sa recherche d’un emploi pour un salarié déclaré inapte, l’employeur doit scrupuleusement respecter les règles du code du",
+      "publishedAt": "2026-11-17T11:19:02+00:00",
+      "discoveredAt": "2026-11-17T23:02:30.896722+00:00",
       "topics": []
     },
     {
@@ -68,6 +115,31 @@
       "summary": "Les fêtes de fin d’année sont l’occasion de préciser les conséquences fiscales et sociales des cadeaux offerts par les entreprises",
       "publishedAt": "2026-11-17T11:00:00+00:00",
       "discoveredAt": "2026-11-17T14:45:14.123037+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "17 novembre 12h00 Réduction générale dégressive unique (RGDU) : le décret sur les branches « non conformes » au SMIC est sorti Social Paye Journal officiel LFSS 2026",
+      "url": "https://www.revue-fiduciaire.com/public/index.php/actualite/article/reduction-generale-degressive-unique-rgdu-le-decret-sur-les-branches-non-conformes-au-smic-est-sorti-782ad710-a668-427a-8377-e7dfe88066c8",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Pour inciter les branches où le salaire minimum conventionnel des salariés sans qualification est inférieur au SMIC à réajuster leurs",
+      "publishedAt": "2026-11-17T11:00:00+00:00",
+      "discoveredAt": "2026-11-17T23:02:34.631047+00:00",
+      "topics": [
+        "SMIC",
+        "RGDU"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "17 novembre 12h00 Les annonces du gouvernement à l'issue de la conférence sociale Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/public/index.php/actualite/article/les-annonces-du-gouvernement-a-l-issue-de-la-conference-sociale",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans le cadre de la conférence sociale du 9 novembre 2026, le gouvernement a annoncé une série de mesures visant à « redynamiser » les",
+      "publishedAt": "2026-11-17T11:00:00+00:00",
+      "discoveredAt": "2026-11-17T23:02:36.783759+00:00",
       "topics": []
     },
     {
@@ -166,6 +238,48 @@
       ]
     },
     {
+      "theme": "Paie",
+      "title": "Déclarer un stagiaire en DSN",
+      "url": "https://www.legisocial.fr/contrat-de-travail/cdd-interim-contrats-specifiques/declarer-stagiaire-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le stagiaire doit être déclaré en DSN lorsque la durée du stage atteint deux mois ou lorsque sa gratification dépasse la franchise de cotisations. La déclaration doit distinguer le montant total versé, la fraction exonérée et, le cas échéant, la part soumise aux cotisations sociales.",
+      "publishedAt": "2026-11-17T05:00:00+00:00",
+      "discoveredAt": "2026-11-17T23:02:26.267252+00:00",
+      "topics": [
+        "DSN",
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer les heures supplémentaires en DSN",
+      "url": "https://www.legisocial.fr/temps-travail-conges-absences/duree-travail-heures-supplementaires/declarer-heures-supplementaires-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les heures supplémentaires doivent être déclarées en DSN avec leur volume, leur montant et leur période de rattachement. La déclaration distingue les heures structurelles des heures aléatoires et prévoit un traitement spécifique pour les sommes exonérées d’impôt sur le revenu.",
+      "publishedAt": "2026-11-17T05:00:00+00:00",
+      "discoveredAt": "2026-11-17T23:02:26.267411+00:00",
+      "topics": [
+        "DSN",
+        "Heures supplémentaires"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer le temps partiel thérapeutique en DSN",
+      "url": "https://www.legisocial.fr/temps-travail-conges-absences/maladie-absences/declarer-temps-partiel-therapeutique-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le temps partiel thérapeutique doit être déclaré chaque mois dans la DSN, même lorsqu’il ne couvre qu’une partie du mois. La déclaration permet d’identifier le risque, la période concernée et la perte de salaire servant à déterminer le maintien éventuel des IJSS.",
+      "publishedAt": "2026-11-17T05:00:00+00:00",
+      "discoveredAt": "2026-11-17T23:02:26.267566+00:00",
+      "topics": [
+        "DSN",
+        "IJSS"
+      ]
+    },
+    {
       "theme": "Auto",
       "title": "Essai BMW M3 (2027). Premier test de la future M3 électrique de 850 ch !",
       "url": "https://www.largus.fr/actualite-automobile/essai-bmw-m3-2027-premier-test-de-la-future-m3-electrique-de-850-ch-40017676.html",
@@ -175,20 +289,6 @@
       "publishedAt": "2026-11-16T23:01:00+00:00",
       "discoveredAt": "2026-11-17T04:43:45.822431+00:00",
       "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-16T18:23:52+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
         "Carburant"
       ]
     },
@@ -10907,20 +11007,6 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Dieselgate. Une action collective en préparation contre Volkswagen devant le tribunal correctionnel de Paris",
-      "url": "https://www.largus.fr/actualite-automobile/dieselgate-une-action-collective-en-preparation-contre-volkswagen-devant-le-tribunal-correctionnel-de-paris-40007904.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Alors que le groupe Volkswagen doit comparaître devant la justice française en 2027 dans l’affaire du Dieselgate, une action collective se prépare pour solliciter l’indemnisation des clients lésés. Procédure, coût, véhicules concernés…, L’argus revient sur les modalités de participation à ce grand procès.",
-      "publishedAt": "2026-09-18T16:46:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.101621+00:00",
-      "topics": [
-        "Réparation",
-        "Carburant"
-      ]
-    },
-    {
       "theme": "Paie",
       "title": "18 septembre 18h20 Indemnité de licenciement des gérants de succursale : comment s’apprécie l’ancienneté lorsqu’un contrat de gérant succède à un contrat de travail ? Social Jurisprudence",
       "url": "https://www.revue-fiduciaire.com/actualite/article/indemnite-de-licenciement-des-gerants-de-succursale-comment-s-apprecie-l-anciennete-lorsqu-un-contrat-de-gerant-succede-a-un-contrat-de-travail",
@@ -10956,19 +11042,6 @@
       "publishedAt": "2026-09-18T16:00:00+00:00",
       "discoveredAt": "2026-09-18T22:49:22.209190+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Superéthanol E85. La région PACA offre 250 € pour la pose d’un kit de conversion",
-      "url": "https://www.largus.fr/actualite-automobile/superethanol-e85-la-region-paca-offre-250-e-pour-la-pose-dun-kit-de-conversion-40007847.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Jusqu’au 30 octobre 2026, la région PACA aide ses habitants les plus modestes en leur offrant un chèque de 250 € s’ils convertissent leur véhicule au bioéthanol E85. Un coup de pouce financier destiné à baisser leur dépense en carburant mais aussi, à réduire les émissions de gaz à effet de serre.",
-      "publishedAt": "2026-09-18T14:59:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.101917+00:00",
-      "topics": [
-        "Carburant"
-      ]
     },
     {
       "theme": "Paie",
