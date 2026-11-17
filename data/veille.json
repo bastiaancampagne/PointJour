@@ -1,6 +1,170 @@
 {
-  "generated_at": "2026-11-17T04:44:31.209650+00:00",
+  "generated_at": "2026-11-17T14:46:26.531649+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "Micro-entrepreneur utilisant les plateformes numériques : justificatif à fournir pour le paiement de l’ARE",
+      "url": "https://entreprendre.service-public.gouv.fr/actualites/A19137",
+      "source": "Service-Public Pro",
+      "sourceKind": "OFFICIEL",
+      "summary": "Micro-entrepreneur utilisant les plateformes numériques : justificatif à fournir pour le paiement de l’ARE",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-17T14:44:21.245045+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Raclette d'hiver : par quoi remplacer la charcuterie pour alléger le repas sans perdre en gourmandise ?",
+      "url": "https://www.750g.com/raclette-d-hiver-par-quoi-remplacer-la-charcuterie-pour-alleger-le-repas-sans-perdre-en-gourmandise-a44897.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Star incontournable des soirées d'hiver, la raclette rime souvent avec excès de sel et de lipides à cause du plateau de charcuterie. Remplacer la charcuterie traditionnelle par des alternatives plus digestes permet pourtant de savourer ce monument d1",
+      "publishedAt": "2026-11-17T12:00:00+00:00",
+      "discoveredAt": "2026-11-17T14:46:00.982066+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Un œuf mayo à 1,90 € et des plats à moins de 13 € : cette nouvelle cantine parisienne défie toute concurrence avec ces prix mini",
+      "url": "https://www.750g.com/un-oeuf-mayo-a-190-et-des-plats-a-moins-de-13-cette-nouvelle-cantine-parisienne-defie-toute-concurrence-avec-ces-prix-mini-a44898.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Une nouvelle cantine parisienne propose un œuf mayonnaise à 1,90 € et des plats à moins de 13 €. Découvrez cette adresse qui pourrait faire sensation avec ces prix mini et sa cuisine délicieuse.",
+      "publishedAt": "2026-11-17T11:30:00+00:00",
+      "discoveredAt": "2026-11-17T14:46:01.051314+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "17 novembre 12h00 Réduction générale dégressive unique (RGDU) : le décret sur les branches « non conformes » au SMIC est sorti Social Paye Journal officiel LFSS 2026",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/reduction-generale-degressive-unique-rgdu-le-decret-sur-les-branches-non-conformes-au-smic-est-sorti-782ad710-a668-427a-8377-e7dfe88066c8",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Pour inciter les branches où le salaire minimum conventionnel des salariés sans qualification est inférieur au SMIC à réajuster leurs",
+      "publishedAt": "2026-11-17T11:00:00+00:00",
+      "discoveredAt": "2026-11-17T14:45:08.421086+00:00",
+      "topics": [
+        "SMIC",
+        "RGDU"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "17 novembre 12h00 Les annonces du gouvernement à l'issue de la conférence sociale Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/les-annonces-du-gouvernement-a-l-issue-de-la-conference-sociale",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans le cadre de la conférence sociale du 9 novembre 2026, le gouvernement a annoncé une série de mesures visant à « redynamiser » les",
+      "publishedAt": "2026-11-17T11:00:00+00:00",
+      "discoveredAt": "2026-11-17T14:45:11.331842+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "17 novembre 12h00 Cadeaux aux relations d’affaires et aux salariés Fiscal Social Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/cadeaux-aux-relations-d-affaires-et-aux-salaries-986cf82c-406c-4064-bbdc-47eaa416010f",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les fêtes de fin d’année sont l’occasion de préciser les conséquences fiscales et sociales des cadeaux offerts par les entreprises",
+      "publishedAt": "2026-11-17T11:00:00+00:00",
+      "discoveredAt": "2026-11-17T14:45:14.123037+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Honda CR-V (2027). Nouvelle motorisation hybride et plate-forme inédite pour le futur SUV familial",
+      "url": "https://www.largus.fr/actualite-automobile/honda-cr-v-2027-nouvelle-motorisation-hybride-et-plate-forme-inedite-pour-le-futur-suv-familial-40017773.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Honda lancera la septième génération du CR-V en Amérique du Nord au second semestre 2027. Le modèle, qui devrait débarquer en Europe l’année d’après, inaugurera une plate-forme inédite ainsi qu’une nouvelle génération de motorisation hybride, vouée à équiper quinze modèles de la marque d’ici à 2030.",
+      "publishedAt": "2026-11-17T10:32:00+00:00",
+      "discoveredAt": "2026-11-17T14:45:26.249334+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer le congé supplémentaire de naissance en DSN",
+      "url": "https://www.legisocial.fr/temps-travail-conges-absences/conges-speciaux-familiaux/declarer-conge-supplementaire-naissance-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le congé supplémentaire de naissance doit faire l’objet d’un signalement d’arrêt de travail, complété par une demande déposée en parallèle sur Net-entreprises. L’absence doit ensuite être reprise dans la DSN mensuelle afin de déclarer ses conséquences sur l’activité, la rémunération et les IJSS. Cette fiche présente la procédure applicable, les rubriques à renseigner et les règles prévues en cas de fractionnement ou de subrogation.",
+      "publishedAt": "2026-11-17T05:00:00+00:00",
+      "discoveredAt": "2026-11-17T14:45:02.765183+00:00",
+      "topics": [
+        "DSN",
+        "IJSS"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer un arrêt de travail pour accident du travail, accident de trajet ou maladie professionnelle en DSN",
+      "url": "https://www.legisocial.fr/sante-securite-qvct/accident-travail-maladie-professionnelle/declarer-arret-travail-accident-travail-accident-trajet-maladie-professionnelle-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un arrêt consécutif à un accident du travail, un accident de trajet ou une maladie professionnelle doit faire l’objet d’un signalement en DSN. L’employeur doit également reprendre l’absence et ses conséquences sur la paie dans la DSN mensuelle. Cette fiche présente les démarches à effectuer, les rubriques à renseigner et le traitement des IJSS en cas de subrogation.",
+      "publishedAt": "2026-11-17T05:00:00+00:00",
+      "discoveredAt": "2026-11-17T14:45:02.765381+00:00",
+      "topics": [
+        "DSN",
+        "IJSS"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer un arrêt de travail pour maladie en DSN",
+      "url": "https://www.legisocial.fr/temps-travail-conges-absences/maladie-absences/declarer-arret-travail-maladie-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Tout arrêt maladie doit faire l’objet d’un signalement afin de permettre à l’Assurance maladie de reconstituer l’attestation de salaire et de calculer les IJSS. L’absence doit ensuite être reprise dans la DSN mensuelle avec ses conséquences sur l’activité, la rémunération et, le cas échéant, les IJSS subrogées.",
+      "publishedAt": "2026-11-17T05:00:00+00:00",
+      "discoveredAt": "2026-11-17T14:45:02.765549+00:00",
+      "topics": [
+        "DSN",
+        "IJSS"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "RGDU : un calcul moins favorable dans certaines branches à partir de 2027",
+      "url": "https://www.legisocial.fr/actualites-sociales/8242-rgdu-calcul-favorable-certaines-branches-partir-2027.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le décret encadrant la RGDU dans les branches aux minima inférieurs au SMIC est publié. Dès 2027, certains employeurs pourront subir une baisse de leur allègement patronal. Des exceptions permettent toutefois de conserver un calcul fondé sur le SMIC.",
+      "publishedAt": "2026-11-17T05:00:00+00:00",
+      "discoveredAt": "2026-11-17T14:45:02.765702+00:00",
+      "topics": [
+        "SMIC",
+        "RGDU"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "L'absence d'entretien professionnel doit causer un réel préjudice pour ouvrir droit à réparation",
+      "url": "https://www.legisocial.fr/actualites-sociales/8222-absence-entretien-professionnel-causer-reel-prejudice-ouvrir-droit-reparation.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le salarié, qui entend obtenir réparation du manquement de l’employeur à son obligation d’organiser les entretiens professionnels, doit apporter des éléments concrets permettant de justifier d'un préjudice causé par ce manquement.",
+      "publishedAt": "2026-11-17T05:00:00+00:00",
+      "discoveredAt": "2026-11-17T14:45:02.765894+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer les congés payés en DSN",
+      "url": "https://www.legisocial.fr/infos-conseils/declarer-conges-payes-DSN.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les congés payés ne suivent pas les mêmes modalités déclaratives selon qu’ils sont indemnisés par l’employeur ou par une caisse professionnelle. Leur traitement a une incidence sur les rémunérations, les volumes d’activité et le plafond de la Sécurité sociale. Cette fiche présente également la déclaration de l’indemnité compensatrice versée au départ du salarié.",
+      "publishedAt": "2026-11-17T05:00:00+00:00",
+      "discoveredAt": "2026-11-17T14:45:02.766072+00:00",
+      "topics": [
+        "DSN",
+        "PMSS",
+        "Congés"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Essai BMW M3 (2027). Premier test de la future M3 électrique de 850 ch !",
@@ -195,6 +359,32 @@
       "summary": "Le SMIC 2027 devrait s’établir à 12,51 € brut par heure, soit 1 897,35 € brut par mois pour 35 heures hebdomadaires. Ce taux a été annoncé par le Gouvernement pour le 1er décembre 2026, par anticipation de la revalorisation annuelle. Dans l’attente de l'arrêté, retrouvez les montants calculés sur cette base et les règles pour vérifier le respect du salaire minimum.",
       "publishedAt": "2026-11-16T05:00:00+00:00",
       "discoveredAt": "2026-11-16T22:24:42.863163+00:00",
+      "topics": [
+        "SMIC"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "SMIC 2027 : 12,51 € brut de l’heure, montant net et brut",
+      "url": "https://www.legisocial.fr/reperes-sociaux/smic-2027-brut-heure-montant-net-brut.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le SMIC horaire brut retenu pour 2027 est de 12,51 €, montant annoncé par le gouvernement pour le 1er décembre 2026 par anticipation de la revalorisation annuelle. À 35 heures, il représente 1 897,35 € brut par mois et environ 1 501,94 € net avant impôt. Retrouvez les montants à temps partiel, les règles applicables aux mineurs et les valeurs retenues pour Mayotte.",
+      "publishedAt": "2026-11-16T05:00:00+00:00",
+      "discoveredAt": "2026-11-17T14:45:02.766714+00:00",
+      "topics": [
+        "SMIC"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Calcul salaire SMIC 2027 : 12,51 € brut",
+      "url": "https://www.legisocial.fr/reperes-sociaux/smic-2027.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le SMIC 2027 devrait s’établir à 12,51 € brut par heure, soit 1 897,35 € brut par mois pour 35 heures hebdomadaires. Ce taux a été annoncé par le Gouvernement pour le 1er décembre 2026, par anticipation de la revalorisation annuelle. Dans l’attente de l'arrêté, retrouvez les montants calculés sur cette base et les règles pour vérifier le respect du salaire minimum.",
+      "publishedAt": "2026-11-16T05:00:00+00:00",
+      "discoveredAt": "2026-11-17T14:45:02.766896+00:00",
       "topics": [
         "SMIC"
       ]
@@ -1253,6 +1443,17 @@
       "summary": "Notre alimentation est au cœur de notre quotidien. Saine et sûre, elle est un allié puissant pour notre santé. Pourtant, un déséquilibre nutritionnel ou des aliments contaminés peuvent toutefois nous exposer à des risques immédiats ou à des maladies chroniques. L’Anses apporte son expertise scientifique à toutes les étapes de la chaîne alimentaire, depuis la production des aliments d’origine animale ou végétale jusqu’à l’assiette du consommateur. Elle évalue les risques liés à la contamination des aliments par des agents pathogènes et des substances toxiques. Elle évalue également la qualité nutritionnelle et les risques liés à l’inactivité physique et la sédentarité.Découvrez tous nos articles \"Alimentation et nutrition humaine\"",
       "publishedAt": "2026-11-09T12:00:00+00:00",
       "discoveredAt": "2026-09-18T22:49:15.727631+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Alimentation et nutrition humaine",
+      "url": "https://www.anses.fr/fr/thematique/alimentation-nutrition-humaines",
+      "source": "ANSES",
+      "sourceKind": "OFFICIEL",
+      "summary": "Notre alimentation est au cœur de notre quotidien. Saine et sûre, elle est un allié puissant pour notre santé. Pourtant, un déséquilibre nutritionnel ou des aliments contaminés peuvent toutefois nous exposer à des risques immédiats ou à des maladies chroniques. L’Anses apporte son expertise scientifique à toutes les étapes de la chaîne alimentaire, depuis la production des aliments d’origine animale ou végétale jusqu’à l’assiette du consommateur. Elle évalue les risques liés à la contamination des aliments par des agents pathogènes et des substances toxiques. Elle évalue également la qualité nutritionnelle et les risques liés à l’inactivité physique et la sédentarité.Découvrez tous nos articles \"Alimentation et nutrition humaine\"",
+      "publishedAt": "2026-11-09T12:00:00+00:00",
+      "discoveredAt": "2026-11-17T14:45:54.107800+00:00",
       "topics": []
     },
     {
@@ -10770,19 +10971,6 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Scoop Nissan Qashqai (2027). Le SUV compact bientôt restylé, son remplaçant électrique attendra",
-      "url": "https://www.largus.fr/actualite-automobile/scoop-nissan-qashqai-2027-le-suv-compact-bientot-restyle-son-remplacant-electrique-attendra-40007826.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Nissan devait remplacer le Qashqai actuel par une nouvelle génération 100 % électrique en 2027. Mais le constructeur japonais revoit sa stratégie puisque le SUV compact que nous connaissons, proposé avec plusieurs niveaux d’hybridation, sera restylé l’an prochain pour faire des heures supplémentaires.",
-      "publishedAt": "2026-09-18T14:23:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.102097+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
       "theme": "Paie",
       "title": "Congés payés et arrêt maladie : la Cour de cassation précise les droits des anciens salariés",
       "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/conges-payes-et-arret-maladie-la-cour-de-cassation-precise-les-droits-des-anciens-salaries",
@@ -10797,19 +10985,6 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Essai Mazda CX6e (2026). Le SUV électrique qui donne (presque) envie",
-      "url": "https://www.largus.fr/actualite-automobile/essai-mazda-cx6e-2026-le-suv-electrique-qui-donne-presque-envie-40007631.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Avec sa robe sculpturale comme Mazda sait les faire, le CX6e aborde le segment des SUV électriques familiaux de belle manière et sans faire peur côté tarifs. Dommage que l’omniprésence du digital gâche un peu le plaisir de conduire.",
-      "publishedAt": "2026-09-18T11:28:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.102250+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
       "theme": "Paie",
       "title": "18 septembre 11h12 Chômage intempéries dans le BTP : les paramètres pour la campagne du 1er avril 2026 au 31 mars 2027 sont fixés Paye Journal officiel",
       "url": "https://www.revue-fiduciaire.com/actualite/article/chomage-intemperies-dans-le-btp-les-parametres-pour-la-campagne-du-1er-avril-2026-au-31-mars-2027-sont-fixes-19ca0894-903c-8401-be04-2c1460111c87",
@@ -10818,30 +10993,6 @@
       "summary": "Un arrêté du 3 septembre 2026 fixe les règles de financement du régime de chômage intempéries du BTP pour la campagne allant du 1er",
       "publishedAt": "2026-09-18T09:12:52+00:00",
       "discoveredAt": "2026-09-18T22:48:43.653146+00:00",
-      "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Où acheter sa voiture d'occasion quand on est jeune conducteur ?",
-      "url": "https://www.largus.fr/actualite-automobile/ou-acheter-sa-voiture-doccasion-quand-on-est-jeune-conducteur-40007781.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Vous êtes un jeune conducteur et vous voulez acheter une voiture d'occasion ? On vous dit où et comment.",
-      "publishedAt": "2026-09-18T08:05:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.102371+00:00",
-      "topics": [
-        "Achat"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Journées du patrimoine 2026. Expos, animations, ateliers… l’auto à la fête les 19 et 20 septembre",
-      "url": "https://www.largus.fr/actualite-automobile/journees-du-patrimoine-2026-expos-animations-ateliers-lauto-a-la-fete-les-19-et-20-septembre-40007697.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "De nombreuses expositions et animations dédiées à l’automobile sont prévues ces 19 et 20 septembre 2026 dans le cadre des Journées européennes du patrimoine. Nous en avons sélectionné dix. Des cartes interactives permettent d’en découvrir davantage.",
-      "publishedAt": "2026-09-18T07:57:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.102518+00:00",
       "topics": []
     },
     {
@@ -11222,12 +11373,12 @@
     },
     {
       "theme": "Auto",
-      "source": "ADEME",
-      "error": "HTTP Error 403: Forbidden"
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
-      "theme": "Cuisine",
-      "source": "CuisineAZ",
+      "theme": "Auto",
+      "source": "ADEME",
       "error": "HTTP Error 403: Forbidden"
     }
   ]
