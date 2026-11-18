@@ -1,6 +1,20 @@
 {
-  "generated_at": "2026-11-17T23:03:26.542323+00:00",
+  "generated_at": "2026-11-18T04:39:10.353297+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Actualité - Voitures électriques - Peut-on se fier au certificat de santé des batteries ?",
+      "url": "https://www.quechoisir.org/actualite-voitures-electriques-peut-on-se-fier-au-certificat-de-sante-des-batteries-n179542/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Alors qu’une nouvelle étude consacre la bonne durabilité des batteries utilisées par le groupe Hyundai-Kia, l’État a signé un pacte qui demande aux professionnels de l’automobile d’occasion de fournir un certificat sur l’état de santé de l’accumulateur. À ceci près qu’aucune méthode de mesure harmonisée et incontestable n’existe pour l’instant.",
+      "publishedAt": "2026-11-18T02:30:00+00:00",
+      "discoveredAt": "2026-11-18T04:38:17.426248+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -24,6 +38,17 @@
       "summary": "Le 16 novembre 2026, l'Assemblée nationale a adopté en première lecture la proposition de loi visant à permettre un déblocage anticipé",
       "publishedAt": "2026-11-17T15:00:00+00:00",
       "discoveredAt": "2026-11-17T23:02:29.085148+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "17 novembre 16h00 Déblocage exceptionnel et attractivité de l'épargne salariale : l’Assemblée nationale a adopté et amendé la proposition de loi Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/deblocage-exceptionnel-et-attractivite-de-l-epargne-salariale-l-assemblee-nationale-a-adopte-et-amende-la-proposition-de-loi-d34cd667-640f-477e-b854-92d90f26eece",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le 16 novembre 2026, l'Assemblée nationale a adopté en première lecture la proposition de loi visant à permettre un déblocage anticipé",
+      "publishedAt": "2026-11-17T15:00:00+00:00",
+      "discoveredAt": "2026-11-18T04:37:55.808920+00:00",
       "topics": []
     },
     {
@@ -79,6 +104,17 @@
       "summary": "Dans sa recherche d’un emploi pour un salarié déclaré inapte, l’employeur doit scrupuleusement respecter les règles du code du",
       "publishedAt": "2026-11-17T11:19:02+00:00",
       "discoveredAt": "2026-11-17T23:02:30.896722+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "17 novembre 12h19 Reclassement d’un salarié inapte : les juges ne peuvent pas alourdir l’obligation légale mise à la charge de l’employeur Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/reclassement-d-un-salarie-inapte-les-juges-ne-peuvent-pas-alourdir-l-obligation-legale-mise-a-la-charge-de-l-employeur-c31d7b4e-6153-42f3-9180-79bfc7c94c9a",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans sa recherche d’un emploi pour un salarié déclaré inapte, l’employeur doit scrupuleusement respecter les règles du code du",
+      "publishedAt": "2026-11-17T11:19:02+00:00",
+      "discoveredAt": "2026-11-18T04:37:58.000639+00:00",
       "topics": []
     },
     {
@@ -11443,11 +11479,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
