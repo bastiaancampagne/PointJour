@@ -1,6 +1,42 @@
 {
-  "generated_at": "2026-11-18T14:24:34.884563+00:00",
+  "generated_at": "2026-11-18T22:14:02.455833+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-18T18:24:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Manquement de l'employeur à ses obligations d'entretien professionnels et de visite médicale périodique: quel droit à réparation pour le salarié?",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1705-manquement-employeur-obligations-entretien-professionnels-visite-medicale-periodique-droit-reparation-salarie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’absence d’entretien professionnel ou de visite médicale périodique n’ouvre pas à elle seule droit à réparation. Le salarié doit démontrer son préjudice, dont l’existence relève de l’appréciation souveraine des juges du fond.",
+      "publishedAt": "2026-11-18T17:00:00+00:00",
+      "discoveredAt": "2026-11-18T22:13:03.012362+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "18 novembre 15h17 Pas de reprise de l’ancienneté du salarié qui démissionne d’une filiale pour être embauché dans la société mère Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/pas-de-reprise-de-l-anciennete-du-salarie-qui-demissionne-d-une-filiale-pour-etre-embauche-dans-la-societe-mere",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La Cour de cassation rappelle que la seule prise de participation dans le capital d'une société commerciale n'entraîne pas de",
+      "publishedAt": "2026-11-18T14:17:18+00:00",
+      "discoveredAt": "2026-11-18T22:13:06.116613+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Renault Supercinq (1988). Une rare version cabriolet issue de la collection Renault à vendre aux enchères",
@@ -13,17 +49,17 @@
       "topics": []
     },
     {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-18T12:24:18+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "theme": "Paie",
+      "title": "18 novembre 10h50 Exonérations zonées, heures supplémentaires et complémentaires : le BOSS met à jour ses rubriques Paye BOFIP et Circulaires BOSS",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/exonerations-zonees-heures-supplementaires-et-complementaires-le-boss-met-a-jour-ses-rubriques",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lors d'une mise à jour en date du 16 novembre 2026, le Bulletin officiel de la sécurité sociale (BOSS) a actualisé ses rubriques «",
+      "publishedAt": "2026-11-18T09:50:41+00:00",
+      "discoveredAt": "2026-11-18T22:13:08.931689+00:00",
       "topics": [
-        "Achat",
-        "Carburant"
+        "Cotisations",
+        "Heures supplémentaires"
       ]
     },
     {
@@ -11553,6 +11589,11 @@
       "theme": "Paie",
       "source": "URSSAF",
       "error": "Remote end closed connection without response"
+    },
+    {
+      "theme": "Paie",
+      "source": "Ministère du Travail",
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "theme": "Paie",
