@@ -1,6 +1,114 @@
 {
-  "generated_at": "2026-11-18T04:39:10.353297+00:00",
+  "generated_at": "2026-11-18T14:24:34.884563+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Renault Supercinq (1988). Une rare version cabriolet issue de la collection Renault à vendre aux enchères",
+      "url": "https://www.largus.fr/actualite-automobile/renault-supercinq-1988-un-rare-version-cabriolet-issue-de-la-collection-renault-a-vendre-aux-encheres-40017895.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Parmi les véhicules proposés par la maison Mercier pour sa vente aux enchères Classic Cars, un modèle sort du lot. Il s’agit d’un prototype de Renault Supercinq Cabriolet du belge EBS. Sortie de la collection Renault, cette rareté estimée entre 30 000 et 60 000 € n’affiche que 750 km.",
+      "publishedAt": "2026-11-18T12:43:00+00:00",
+      "discoveredAt": "2026-11-18T14:23:33.571191+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-18T12:24:18+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Reclassement économique : le silence du salarié ne dispense pas de lui communiquer les nouvelles offres",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/reclassement-economique-le-silence-du-salarie-ne-dispense-pas-de-lui-communiquer-les-nouvelles-offres",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-18T07:00:00+00:00",
+      "discoveredAt": "2026-11-18T14:23:27.608078+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Promesse d’embauche : quelles sont les conséquences juridiques de l’engagement pris par l’employeur ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8225-promesse-embauche-quelles-sont-consequences-juridiques-engagement-pris-employeur.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La promesse d’embauche est un outil fréquemment utilisé pour sécuriser un recrutement avant la signature définitive du contrat de travail. Pourtant, derrière cette expression courante se cachent des réalités juridiques distinctes dont les conséquences peuvent être considérables en cas de rétractation de l’employeur.",
+      "publishedAt": "2026-11-18T05:00:00+00:00",
+      "discoveredAt": "2026-11-18T14:22:25.264634+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Cotisation AT/MP : un taux unique par entreprise à compter du 1er janvier 2027",
+      "url": "https://www.legisocial.fr/actualites-sociales/8244-cotisation-atmp-taux-unique-entreprise-compter-1er-janvier-2027.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La tarification AT/MP à l’entreprise se généralise au 1er janvier 2027 pour les employeurs en taux mixte ou individuel disposant de plusieurs établissements relevant du même code risque. Ce regroupement pourra faire évoluer leur taux de cotisation, avec des limites de hausse et de baisse.",
+      "publishedAt": "2026-11-18T05:00:00+00:00",
+      "discoveredAt": "2026-11-18T14:22:25.264844+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "La démission : une volonté claire, libre et non équivoque du salarié",
+      "url": "https://www.legisocial.fr/actualites-sociales/8224-demission-volonte-claire-libre-equivoque-salarie.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La démission constitue le mode de rupture du contrat de travail à durée indéterminée à l’initiative du salarié. Si le Code du travail encadre essentiellement la question du préavis et, depuis 2023, la présomption de démission en cas d’abandon volontaire de poste, la jurisprudence est venue préciser les conditions de validité de cette rupture.",
+      "publishedAt": "2026-11-18T05:00:00+00:00",
+      "discoveredAt": "2026-11-18T14:22:25.265102+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Période de prise des congés payés : l'employeur ne décide pas unilatéralement !",
+      "url": "https://www.legisocial.fr/actualites-sociales/8238-periode-prise-conges-payes-employeur-ne-decide-unilateralement.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’employeur ne peut pas déterminer unilatéralement une période de prise des congés payés plus courte que celle fixée par l’accord collectif",
+      "publishedAt": "2026-11-18T05:00:00+00:00",
+      "discoveredAt": "2026-11-18T14:22:25.265281+00:00",
+      "topics": [
+        "Congés"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Comment récupérer le taux de prélèvement à la source ?",
+      "url": "https://www.legisocial.fr/paie/prelevement-source/comment-recuperer-taux-prelevement-source.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le CRM nominatif permet de récupérer les taux de prélèvement à la source transmis par la DGFiP. Quels sont les délais de retour et de validité du taux ? Comment utiliser le signalement ADV pour l’obtenir dès l’embauche ?",
+      "publishedAt": "2026-11-18T05:00:00+00:00",
+      "discoveredAt": "2026-11-18T14:22:25.265430+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer le prélèvement à la source en DSN",
+      "url": "https://www.legisocial.fr/paie/prelevement-source/declarer-prelevement-source-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le prélèvement à la source est déclaré au niveau du salarié puis reversé à la DGFiP. Retrouvez les blocs DSN à renseigner pour la déclaration du PAS et son reversement.",
+      "publishedAt": "2026-11-18T05:00:00+00:00",
+      "discoveredAt": "2026-11-18T14:22:25.265560+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Actualité - Voitures électriques - Peut-on se fier au certificat de santé des batteries ?",
@@ -10,20 +118,6 @@
       "summary": "Alors qu’une nouvelle étude consacre la bonne durabilité des batteries utilisées par le groupe Hyundai-Kia, l’État a signé un pacte qui demande aux professionnels de l’automobile d’occasion de fournir un certificat sur l’état de santé de l’accumulateur. À ceci près qu’aucune méthode de mesure harmonisée et incontestable n’existe pour l’instant.",
       "publishedAt": "2026-11-18T02:30:00+00:00",
       "discoveredAt": "2026-11-18T04:38:17.426248+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-17T18:23:57+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
@@ -49,6 +143,17 @@
       "summary": "Le 16 novembre 2026, l'Assemblée nationale a adopté en première lecture la proposition de loi visant à permettre un déblocage anticipé",
       "publishedAt": "2026-11-17T15:00:00+00:00",
       "discoveredAt": "2026-11-18T04:37:55.808920+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "17 novembre 16h00 Déblocage exceptionnel et attractivité de l'épargne salariale : l’Assemblée nationale a adopté et amendé la proposition de loi Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/deblocage-exceptionnel-et-attractivite-de-l-epargne-salariale-l-assemblee-nationale-a-adopte-et-amende-la-proposition-de-loi-2e786bb2-614f-4a11-9dac-9a11df9ea980",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le 16 novembre 2026, l'Assemblée nationale a adopté en première lecture la proposition de loi visant à permettre un déblocage anticipé",
+      "publishedAt": "2026-11-17T15:00:00+00:00",
+      "discoveredAt": "2026-11-18T14:22:48.120561+00:00",
       "topics": []
     },
     {
@@ -10344,19 +10449,6 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Match. La nouvelle Dacia Spring défie la BYD Dolphin Surf",
-      "url": "https://www.largus.fr/actualite-automobile/match-la-nouvelle-dacia-spring-defie-la-byd-dolphin-surf-40007410.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "La Dacia Spring II fait partie des grandes nouveautés de la rentrée. Avant son arrivée en concessions fin 2026, nous avons décidé de l’opposer à la BYD Dolphin Surf, l’une de ses plus sérieuses concurrentes. La puce électrique roumaine prendra-t-elle l'avantage sur sa rivale chinoise ?",
-      "publishedAt": "2026-09-19T12:03:00+00:00",
-      "discoveredAt": "2026-09-19T12:31:06.158198+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
       "theme": "Cuisine",
       "title": "L'ingrédient mystère à glisser dans votre pâte pour des crêpes incroyablement moelleuses",
       "url": "https://www.750g.com/l-ingredient-mystere-a-glisser-dans-votre-pate-pour-des-crepes-incroyablement-moelleuses-a44562.htm",
@@ -10366,19 +10458,6 @@
       "publishedAt": "2026-09-19T07:00:00+00:00",
       "discoveredAt": "2026-09-19T07:35:23.572511+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Essai Porsche Cayenne Turbo Coupé Electric (2026) : la caresse et la claque",
-      "url": "https://www.largus.fr/actualite-automobile/essai-porsche-cayenne-turbo-coupe-electric-2026-la-caresse-et-la-claque-40004110.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Une ligne de toit façon 911, deux machines électriques crachant 1 156 ch, des accélérations qui déforment le visage, et pourtant : en version Turbo de pointe, le nouveau Porsche Cayenne Coupé Electric a brillé par une qualité totalement inattendue. Explications.",
-      "publishedAt": "2026-09-19T06:04:00+00:00",
-      "discoveredAt": "2026-09-19T06:39:25.902896+00:00",
-      "topics": [
-        "Carburant"
-      ]
     },
     {
       "theme": "Cuisine",
