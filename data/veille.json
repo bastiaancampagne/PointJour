@@ -1,6 +1,68 @@
 {
-  "generated_at": "2026-11-19T13:37:39.158181+00:00",
+  "generated_at": "2026-11-19T22:21:11.552626+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Rétro Motors 2026. Nouveau Salon d’anciennes et youngtimers de prestige à Montpellier",
+      "url": "https://www.largus.fr/actualite-automobile/retro-motors-2026-nouveau-salon-danciennes-et-youngtimers-de-prestige-a-montpellier-40018166.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Du 20 au 22 novembre 2026, Montpellier accueille la première édition du Salon Rétro Motors dédié aux voitures de collection et de prestige. Ferrari sera particulièrement mis à l’honneur, comme la Renault Twingo et la Citroën Méhari notamment.",
+      "publishedAt": "2026-11-19T18:28:00+00:00",
+      "discoveredAt": "2026-11-19T22:20:34.539325+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-19T18:23:57+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Assurance auto : comparer les offres avant l'échéance annuelle",
+      "url": "https://www.largus.fr/actualite-automobile/assurance-auto-comparer-les-offres-avant-lecheance-annuelle-40018075.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "À l'approche de la date anniversaire de votre contrat, comparer les offres d'assurance auto permet souvent de réduire sa prime tout en conservant de bonnes garanties. Voici la méthode.",
+      "publishedAt": "2026-11-19T17:00:00+00:00",
+      "discoveredAt": "2026-11-19T22:20:34.539530+00:00",
+      "topics": [
+        "Assurance"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Encore meilleurs réchauffés : ces 5 plats ultra-gourmands se préparent à l’avance et vont sauver vos dîners",
+      "url": "https://www.750g.com/encore-meilleurs-rechauffes-ces-5-plats-ultra-gourmands-se-preparent-a-l-avance-et-vont-sauver-vos-diners-a44905.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Pas envie de passer chaque soir derrière les fourneaux ? Voici 5 recettes pratiques et savoureuses que vous pouvez cuisiner à l'avance et conserver plusieurs jours sans souci.",
+      "publishedAt": "2026-11-19T17:00:00+00:00",
+      "discoveredAt": "2026-11-19T22:20:53.138181+00:00",
+      "topics": [
+        "Four"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "19 novembre 15h45 Aucun employeur n’a pu conclure de CDI intérimaire avant le 6 mars 2014 Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/aucun-employeur-n-a-pu-conclure-de-cdi-interimaire-avant-le-6-mars-2014-2b74c60b-4cfa-4968-93dc-16a10099355a",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Créé par un accord de branche du 10 juillet 2013 étendu le 6 mars 2014, et ensuite consacré par la loi (d’abord à titre expérimental",
+      "publishedAt": "2026-11-19T14:45:00+00:00",
+      "discoveredAt": "2026-11-19T22:20:24.294774+00:00",
+      "topics": []
+    },
     {
       "theme": "Cuisine",
       "title": "Bûche de Noël facile et rapide",
@@ -12,20 +74,6 @@
       "discoveredAt": "2026-11-19T13:37:17.323999+00:00",
       "topics": [
         "Rapide"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-19T12:24:11+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
@@ -131,6 +179,78 @@
     },
     {
       "theme": "Auto",
+      "title": "Comparatif - Voitures compactes",
+      "url": "https://www.quechoisir.org/comparatif-voiture-compacte-n1/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Les voitures compactes représentent un segment très convoité par tous les constructeurs et chacun y va de son modèle. Les versions les plus récentes (Volkswagen Golf, Renault Megane, Audi A3, Peugeot 308…) reçoivent désormais un équipement technologique relativement important et de nombreuses aides à la conduite (surveillance des angles morts, alerte de franchissement de ligne continue, régulateur de vitesse adaptatif…).",
+      "publishedAt": "2026-11-19T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:53.050711+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Voitures routières",
+      "url": "https://www.quechoisir.org/comparatif-voiture-routiere-n5/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Confortables et cossues, les routières permettent de voyager dans de très bonnes conditions. Les plus haut de gamme (Mercedes Classe C, BMW Série 3, Renault Laguna…) sont dotées d'équipements dernier cri (voiture connectée, climatisation 4 zones…) et leur ergonomie doit être irréprochable pour en maîtriser toutes les subtilités.",
+      "publishedAt": "2026-11-19T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:53.051040+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Voitures SUV et 4x4",
+      "url": "https://www.quechoisir.org/comparatif-voiture-4x4-suv-n9/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Baroudeurs ou plutôt urbains, les 4x4 (Land Rover Evoque, Mercedes Classe GLK, Nissan Pathfinder…) et SUV (Nissan Qashqai, Peugeot 3008, Volkswagen Tiguan…) se déclinent en diverses versions, courtes ou longues, permettant de transporter jusqu'à 7 personnes. Certains sont même proposés en version à deux ou quatre roues motrices (Dacia Duster, Ford, Kuga, BMW X3 et X5…).",
+      "publishedAt": "2026-11-19T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:53.051201+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Voitures électriques",
+      "url": "https://www.quechoisir.org/comparatif-voitures-electriques-n108194/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "L'interdiction de la vente de voitures neuves à moteur thermique en 2035 dans l'Union européenne a boosté le marché des voitures électriques. L’infrastructure des stations de recharge et l’autonomie encore limitée de la majorité des modèles disponibles méritent certes d’être améliorées, mais les avantages des voitures électriques sont de taille : pas d’émissions polluantes directes ni de gaz à effet de serre, coût à l’usage et entretien sensiblement inférieurs à ceux d’une voiture thermique, etc. Et même si leur bilan carbone sur le cycle de vie est loin d’être insignifiant, il reste meilleur que celui des voitures essence et diesel.",
+      "publishedAt": "2026-11-19T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:53.051406+00:00",
+      "topics": [
+        "Achat",
+        "Entretien",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Voitures d'occasion",
+      "url": "https://www.quechoisir.org/comparatif-voiture-occasion-n164888/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Le marché de la voiture d’occasion ne cesse de croître pour être désormais trois fois supérieur à celui de la voiture neuve. Les prix d’achat plus avantageux ne sont sûrement pas étrangers à cet engouement pour la seconde main. Ce test regroupe les voitures que nous avons précédemment testées, avec un protocole exigeant, et qui ne sont plus commercialisées en tant que véhicules neufs par les fabricants et les concessionnaires. Elles ont depuis été remplacées par une nouvelle génération ou la motorisation testée n’est plus disponible dans les catalogues des constructeurs. Attention, les résultats de ce test sont ceux obtenus avec les voitures neuves, nous ne les avons pas retestées d’occasion. Mais nos évaluations ainsi que nos avis d’experts vous permettront de disposer des informations nécessaires pour évaluer les performances des voitures au moment de leur mise en vente sur le marché du neuf.",
+      "publishedAt": "2026-11-19T04:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:53.051835+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Comment nous testons - Voitures - Le protocole",
+      "url": "https://www.quechoisir.org/comment-nous-testons-voitures-le-protocole-n15693/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "",
+      "publishedAt": "2026-11-19T04:00:00+00:00",
+      "discoveredAt": "2026-11-19T22:20:35.314286+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
       "title": "Enquête - Xiaomi - Comment la marque chinoise est devenue un géant de la tech et de l’électroménager",
       "url": "https://www.quechoisir.org/enquete-xiaomi-comment-la-marque-chinoise-est-devenue-un-geant-de-la-tech-et-de-l-electromenager-n179410/",
       "source": "Que Choisir",
@@ -165,6 +285,20 @@
       "publishedAt": "2026-11-19T02:00:00+00:00",
       "discoveredAt": "2026-11-19T03:44:51.398855+00:00",
       "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Actualité - Alimentation, hygiène, droguerie - Les vrais chiffres de l’inflation",
+      "url": "https://www.quechoisir.org/actualite-alimentation-hygiene-droguerie-les-vrais-chiffres-de-l-inflation-n110542/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Depuis 2020 et les crises successives (covid, explosion des tarifs de l’énergie, hausses des cours des matières premières, conflits armés…), les prix des produits de grande consommation (alimentation, hygiène-beauté, entretien) ont connu une inflation inédite. Dès 2022, cette inflation a gagné les autres secteurs économiques (produits importés, services). Pour évaluer l’inflation réelle subie par les consommateurs, nous utilisons nos propres relevés en magasins ou via nos comparateurs (énergie, assurance…). Chaque mois, nous mettons à jour nos données sur l’évolution des prix afin de suivre au plus près ce que paient les consommateurs. Nous avons ainsi pu mesurer l’inflation réelle depuis fin 2021.",
+      "publishedAt": "2026-11-19T02:00:00+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.839675+00:00",
+      "topics": [
+        "Achat",
+        "Entretien"
+      ]
     },
     {
       "theme": "Paie",
@@ -5193,20 +5327,6 @@
     },
     {
       "theme": "Auto",
-      "title": "Actualité - Alimentation, hygiène, droguerie - Les vrais chiffres de l’inflation",
-      "url": "https://www.quechoisir.org/actualite-alimentation-hygiene-droguerie-les-vrais-chiffres-de-l-inflation-n110542/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Depuis 2020 et les crises successives (covid, explosion des tarifs de l’énergie, hausses des cours des matières premières, conflits armés…), les prix des produits de grande consommation (alimentation, hygiène-beauté, entretien) ont connu une inflation inédite. Dès 2022, cette inflation a gagné les autres secteurs économiques (produits importés, services). Pour évaluer l’inflation réelle subie par les consommateurs, nous utilisons nos propres relevés en magasins ou via nos comparateurs (énergie, assurance…). Chaque mois, nous mettons à jour nos données sur l’évolution des prix afin de suivre au plus près ce que paient les consommateurs. Nous avons ainsi pu mesurer l’inflation réelle depuis fin 2021.",
-      "publishedAt": "2026-10-20T01:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.839675+00:00",
-      "topics": [
-        "Achat",
-        "Entretien"
-      ]
-    },
-    {
-      "theme": "Auto",
       "title": "Meilleurs SUV familiaux hybrides en 2027 : confort, espace, technologie et coût d'usage",
       "url": "https://www.largus.fr/actualite-automobile/meilleurs-suv-familiaux-hybrides-en-2027-confort-espace-technologie-et-cout-dusage-40013617.html",
       "source": "L’Argus",
@@ -5429,67 +5549,6 @@
       "discoveredAt": "2026-10-19T17:37:51.771156+00:00",
       "topics": [
         "DSN"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Comparatif - Voitures compactes",
-      "url": "https://www.quechoisir.org/comparatif-voiture-compacte-n1/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Les voitures compactes représentent un segment très convoité par tous les constructeurs et chacun y va de son modèle. Les versions les plus récentes (Volkswagen Golf, Renault Megane, Audi A3, Peugeot 308…) reçoivent désormais un équipement technologique relativement important et de nombreuses aides à la conduite (surveillance des angles morts, alerte de franchissement de ligne continue, régulateur de vitesse adaptatif…).",
-      "publishedAt": "2026-10-19T03:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:53.050711+00:00",
-      "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Comparatif - Voitures routières",
-      "url": "https://www.quechoisir.org/comparatif-voiture-routiere-n5/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Confortables et cossues, les routières permettent de voyager dans de très bonnes conditions. Les plus haut de gamme (Mercedes Classe C, BMW Série 3, Renault Laguna…) sont dotées d'équipements dernier cri (voiture connectée, climatisation 4 zones…) et leur ergonomie doit être irréprochable pour en maîtriser toutes les subtilités.",
-      "publishedAt": "2026-10-19T03:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:53.051040+00:00",
-      "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Comparatif - Voitures SUV et 4x4",
-      "url": "https://www.quechoisir.org/comparatif-voiture-4x4-suv-n9/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Baroudeurs ou plutôt urbains, les 4x4 (Land Rover Evoque, Mercedes Classe GLK, Nissan Pathfinder…) et SUV (Nissan Qashqai, Peugeot 3008, Volkswagen Tiguan…) se déclinent en diverses versions, courtes ou longues, permettant de transporter jusqu'à 7 personnes. Certains sont même proposés en version à deux ou quatre roues motrices (Dacia Duster, Ford, Kuga, BMW X3 et X5…).",
-      "publishedAt": "2026-10-19T03:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:53.051201+00:00",
-      "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Comparatif - Voitures électriques",
-      "url": "https://www.quechoisir.org/comparatif-voitures-electriques-n108194/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "L'interdiction de la vente de voitures neuves à moteur thermique en 2035 dans l'Union européenne a boosté le marché des voitures électriques. L’infrastructure des stations de recharge et l’autonomie encore limitée de la majorité des modèles disponibles méritent certes d’être améliorées, mais les avantages des voitures électriques sont de taille : pas d’émissions polluantes directes ni de gaz à effet de serre, coût à l’usage et entretien sensiblement inférieurs à ceux d’une voiture thermique, etc. Et même si leur bilan carbone sur le cycle de vie est loin d’être insignifiant, il reste meilleur que celui des voitures essence et diesel.",
-      "publishedAt": "2026-10-19T03:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:53.051406+00:00",
-      "topics": [
-        "Achat",
-        "Entretien",
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Comparatif - Voitures d'occasion",
-      "url": "https://www.quechoisir.org/comparatif-voiture-occasion-n164888/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Le marché de la voiture d’occasion ne cesse de croître pour être désormais trois fois supérieur à celui de la voiture neuve. Les prix d’achat plus avantageux ne sont sûrement pas étrangers à cet engouement pour la seconde main. Ce test regroupe les voitures que nous avons précédemment testées, avec un protocole exigeant, et qui ne sont plus commercialisées en tant que véhicules neufs par les fabricants et les concessionnaires. Elles ont depuis été remplacées par une nouvelle génération ou la motorisation testée n’est plus disponible dans les catalogues des constructeurs. Attention, les résultats de ce test sont ceux obtenus avec les voitures neuves, nous ne les avons pas retestées d’occasion. Mais nos évaluations ainsi que nos avis d’experts vous permettront de disposer des informations nécessaires pour évaluer les performances des voitures au moment de leur mise en vente sur le marché du neuf.",
-      "publishedAt": "2026-10-19T03:00:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:53.051835+00:00",
-      "topics": [
-        "Achat"
       ]
     },
     {
@@ -10602,20 +10661,6 @@
       "topics": [
         "Rapide",
         "Four"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Mitsubishi Eclipse Cross (2026). Nouvelles batteries et autonomie en hausse pour le SUV électrique japonais",
-      "url": "https://www.largus.fr/actualite-automobile/mitsubishi-eclipse-cross-2026-nouvelles-batteries-et-autonomie-en-hausse-pour-le-suv-electrique-japonais-40007773.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Le Mitsubishi Eclipse Cross évolue. Dès le mois de novembre 2026, le SUV compact électrique cousin des Renault Scénic E-Tech et Nissan Leaf va s’équiper de nouvelles batteries. Ces changements s'accompagnent d’une baisse du prix d’appel et d’une hausse de l’autonomie en version haute.",
-      "publishedAt": "2026-09-20T14:02:00+00:00",
-      "discoveredAt": "2026-09-20T14:35:25.145315+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
