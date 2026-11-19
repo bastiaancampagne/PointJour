@@ -1,6 +1,134 @@
 {
-  "generated_at": "2026-11-19T03:45:50.665629+00:00",
+  "generated_at": "2026-11-19T13:37:39.158181+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Bûche de Noël facile et rapide",
+      "url": "https://www.750g.com/buche-de-noel-r58030.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Découvrez la recette de Bûche de Noël facile et rapide à faire en 30 minutes. Séparez le jaune des blancs d'oeufs. Dans un saladier, versez le sucre en poudre et les 4 jaunes. Battez les blancs en neige. Ajouter la farine progressivement. Après avoir recouvert un moule avec du papier sulfurisé, versez votre pâte. Faire cuire 15 minutes. Écrase",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-19T13:37:17.323999+00:00",
+      "topics": [
+        "Rapide"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-19T12:24:11+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Écran transparent, freins électroniques, batterie solide… À quoi ressembleront les futures Peugeot ?",
+      "url": "https://www.largus.fr/actualite-automobile/ecran-transparent-freins-electroniques-batterie-solide-a-quoi-ressembleront-les-futures-peugeot-40018010.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Peugeot prépare sept nouveautés d'ici à 2030, à commencer par la nouvelle 208 équipée du volant Hypersquare en 2027. Mais le Lion développe aussi d'autres technologies pour ses futures voitures : freinage électronique, écrans transparents, batteries solides, recharge 1 000 V… L'argus fait le point.",
+      "publishedAt": "2026-11-19T10:57:00+00:00",
+      "discoveredAt": "2026-11-19T13:36:52.288557+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "19 novembre 10h48 Bulletin de salaire : passer des heures supplémentaires en paye « plus tard », ça ne régularise pas le travail dissimulé Social Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/bulletin-de-salaire-passer-des-heures-supplementaires-en-paye-plus-tard-ca-ne-regularise-pas-le-travail-dissimule",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Hors cas d'aménagement du temps de travail, mentionner intentionnellement sur le bulletin de paye un nombre d'heures de travail inférieur",
+      "publishedAt": "2026-11-19T09:48:39+00:00",
+      "discoveredAt": "2026-11-19T13:36:44.954900+00:00",
+      "topics": [
+        "Heures supplémentaires"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Ai-je le droit de demander à un salarié en arrêt de travail de rester joignable ou de consulter ses mails en cas d'urgence ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/ai-je-le-droit-de-demander-a-un-salarie-en-arret-de-travail-de-rester-joignable-ou-de-consulter-ses-mails-en-cas-durgence",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-19T05:44:00+00:00",
+      "discoveredAt": "2026-11-19T13:36:47.844458+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "BOSS : mise à jour des exonérations zonées et des heures supplémentaires",
+      "url": "https://www.legisocial.fr/actualites-sociales/8245-boss-mise-jour-exonerations-zonees-heures-supplementaires.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le BOSS a corrigé, le 16 novembre 2026, la liste des dispositifs non cumulables avec l’exonération dans les bassins d’emploi à redynamiser (BER). Il a aussi actualisé le plafond des aides de minimis pour les exonérations BER et ZRD et pour la déduction forfaitaire patronale sur les heures supplémentaires.",
+      "publishedAt": "2026-11-19T05:00:00+00:00",
+      "discoveredAt": "2026-11-19T13:36:39.075869+00:00",
+      "topics": [
+        "Cotisations",
+        "Heures supplémentaires"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Travail dissimulé : une audition sans consentement peut faire annuler une partie du redressement",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1706-travail-dissimule-audition-consentement-annuler-partie-redressement.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un arrêt du 12 novembre 2026, la Cour de cassation juge que l’employeur peut contester un redressement de cotisations pour travail dissimulé en invoquant l’absence de consentement préalable d’un salarié auditionné. Seuls les chefs de redressement qui reposent sur cette audition peuvent être annulés. Pour le gestionnaire de paie, il faut donc identifier les éléments sur lesquels la caisse s’appuie pour chaque somme réclamée.",
+      "publishedAt": "2026-11-19T05:00:00+00:00",
+      "discoveredAt": "2026-11-19T13:36:39.076072+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "La notification du licenciement : une étape décisive qui encadre définitivement la rupture du contrat de travail",
+      "url": "https://www.legisocial.fr/actualites-sociales/8227-notification-licenciement-etape-decisive-encadre-definitivement-rupture-contrat-travail.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La notification du licenciement constitue l’acte par lequel l’employeur formalise sa décision de rompre le contrat de travail. Obligatoirement écrite, elle fixe les limites du litige et détermine les motifs que l’employeur pourra invoquer devant le juge en cas de contestation. Son contenu, son mode de transmission et les délais qui l’entourent font l’objet d’un encadrement particulièrement strict dont la jurisprudence rappelle régulièrement l’importance.",
+      "publishedAt": "2026-11-19T05:00:00+00:00",
+      "discoveredAt": "2026-11-19T13:36:39.076323+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Cafetières à expressos avec capsules et/ou café moulu",
+      "url": "https://www.quechoisir.org/comparatif-cafetiere-expresso-n649/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Les cafetières à expressos permettent de se préparer de savoureux cafés en un clin d’œil. Idéales pour les amateurs de cafés courts comme longs, elles sont à la fois rapides et pratiques. 3 familles de cafetières à expressos se partagent le marché : appareils à dosettes souples, à capsules, à porte-filtre (percolateur). Ces machines disposent d’une pression pouvant aller jusqu’à 21 bars, offrant ainsi un café riche en arômes selon les fabricants. Nos experts ont testé plusieurs de ces cafetières à expressos. Consommation électrique, température du café, facilité d’emploi, bruit et vibrations ou encore dégustation font partie des critères de test.",
+      "publishedAt": "2026-11-19T04:00:00+00:00",
+      "discoveredAt": "2026-11-19T13:36:53.024951+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Comparatif - Cafetières à expresso automatiques avec broyeur à grains",
+      "url": "https://www.quechoisir.org/comparatif-cafetiere-a-expresso-avec-broyeur-a-grains-n829/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Bien qu’elles soient moins répandues que les machines à capsules, les cafetières à expresso intégrant un broyeur à grains séduisent de plus en plus d'amateurs. Leur capacité à extraire les arômes de grands cafés est incontestable. Certaines sont « automatiques », c’est-à-dire qu’il suffit de placer sa tasse sous la buse et d’appuyer sur un bouton. D’autres sont « semi-automatiques » : une fois broyé, le café atterrit dans un percolateur (un infuseur), à vous de le tasser et de le mettre en place pour l’extraction. Concernant le coût de revient d'un expresso servi à l'unité, ces deux types de machines prennent l’avantage sur les cafetières à capsules ou à dosettes. En revanche, leur nettoyage est plus fastidieux, surtout si elles proposent des boissons lactées. Prévoyez un budget de 300 € minimum à l’achat et un peu d'espace dans la cuisine, car elles sont encombrantes.",
+      "publishedAt": "2026-11-19T04:00:00+00:00",
+      "discoveredAt": "2026-11-19T13:36:53.025244+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Enquête - Xiaomi - Comment la marque chinoise est devenue un géant de la tech et de l’électroménager",
@@ -37,20 +165,6 @@
       "publishedAt": "2026-11-19T02:00:00+00:00",
       "discoveredAt": "2026-11-19T03:44:51.398855+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-18T18:24:00+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Paie",
@@ -1057,6 +1171,17 @@
       ]
     },
     {
+      "theme": "Cuisine",
+      "title": "Menu familial du 16 au 20 novembre",
+      "url": "https://www.cuisineaz.com/diaporamas/menu-pas-cher-special-recettes-familiales-les-ingredients-pour-la-semaine-du-16-au-20-novembre-2026-9283/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-11-13T07:30:04.630000+00:00",
+      "discoveredAt": "2026-11-19T13:37:38.470011+00:00",
+      "topics": []
+    },
+    {
       "theme": "Paie",
       "title": "Arrêt maladie : le salarié a droit au repos, l’employeur a l’obligation de le protéger",
       "url": "https://www.legisocial.fr/actualites-sociales/8215-arret-maladie-salarie-droit-repos-employeur-obligation-proteger.html",
@@ -1151,6 +1276,17 @@
       "summary": "Souvent prisés en période de Black Friday, les aspirateurs balais présentent d’indéniables qualités : légers et maniables, ils peuvent être de bons alliés pour un ménage d’appoint au quotidien. Si l’autonomie maximale n’est pas souvent leur fort, celle de ces 3 modèles laisse particulièrement à désirer.",
       "publishedAt": "2026-11-13T02:00:00+00:00",
       "discoveredAt": "2026-11-13T09:48:04.252376+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Menu équilibré du 16 au 20 novembre",
+      "url": "https://www.cuisineaz.com/diaporamas/menu-equilibre-nos-recettes-du-soir-pour-la-semaine-du-16-au-20-novembre-2026-9286/interne/1.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": "2026-11-12T20:00:05.590000+00:00",
+      "discoveredAt": "2026-11-19T13:37:39.071591+00:00",
       "topics": []
     },
     {
@@ -8594,7 +8730,7 @@
     },
     {
       "theme": "Cuisine",
-      "title": "Les recettes de Noël",
+      "title": "Nos recettes de Noël",
       "url": "https://www.750g.com/evt/noel/",
       "source": "750g",
       "sourceKind": "RECETTES",
@@ -10509,19 +10645,6 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Leapmotor D19 (2026). Ce très grand SUV électrique sera au Mondial de Paris en octobre",
-      "url": "https://www.largus.fr/actualite-automobile/leapmotor-d19-2026-ce-tres-grand-suv-electrique-sera-au-mondial-de-paris-2026-40007886.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Leapmotor sera présent au Mondial de Paris 2026 du 12 au 18 octobre avec, entre autres, le D19. Ce SUV électrique géant long de 5,25 m, vaisseau amiral de la marque en Chine, sera sa vitrine technologique sur son stand parisien. De là à envisager sa commercialisation chez nous ?",
-      "publishedAt": "2026-09-20T08:27:00+00:00",
-      "discoveredAt": "2026-09-20T08:36:31.113414+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
       "theme": "Cuisine",
       "title": "L'ingrédient mystère à glisser dans votre pâte pour des crêpes incroyablement moelleuses",
       "url": "https://www.750g.com/l-ingredient-mystere-a-glisser-dans-votre-pate-pour-des-crepes-incroyablement-moelleuses-a44562.htm",
@@ -11626,11 +11749,6 @@
       "theme": "Paie",
       "source": "URSSAF",
       "error": "Remote end closed connection without response"
-    },
-    {
-      "theme": "Paie",
-      "source": "Ministère du Travail",
-      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "theme": "Paie",
