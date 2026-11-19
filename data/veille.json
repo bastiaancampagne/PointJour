@@ -1,6 +1,43 @@
 {
-  "generated_at": "2026-11-18T22:14:02.455833+00:00",
+  "generated_at": "2026-11-19T03:45:50.665629+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Enquête - Xiaomi - Comment la marque chinoise est devenue un géant de la tech et de l’électroménager",
+      "url": "https://www.quechoisir.org/enquete-xiaomi-comment-la-marque-chinoise-est-devenue-un-geant-de-la-tech-et-de-l-electromenager-n179410/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "15 ans ont suffi ! Parti de rien, Xiaomi a lancé un premier smartphone fin 2011, puis des tablettes, des rasoirs, des cafetières ou encore des aspirateurs. En 2027, l’Europe découvrira ses voitures électriques. Parcours d’un constructeur chinois qui détonne, mais ne brille pas toujours.",
+      "publishedAt": "2026-11-19T02:00:00+00:00",
+      "discoveredAt": "2026-11-19T03:44:51.397782+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Enquête - Les galères du train Paris-Clermont-Ferrand",
+      "url": "https://www.quechoisir.org/enquete-les-galeres-du-train-paris-clermont-ferrand-n179534/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Faute d’investissements, la liaison ferroviaire entre Paris et la capitale auvergnate accumule les déboires. Aux retards record causés par les pannes incessantes s'ajoutent des suppressions de trains dues aux canicules estivales et à la rénovation des voitures.",
+      "publishedAt": "2026-11-19T02:00:00+00:00",
+      "discoveredAt": "2026-11-19T03:44:51.398567+00:00",
+      "topics": [
+        "Réparation"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Brève - Black Friday - Ces 3 aspirateurs robots peinent à vous débarrasser des miettes",
+      "url": "https://www.quechoisir.org/breve-black-friday-ces-3-aspirateurs-robots-peinent-a-vous-debarrasser-des-miettes-n179582/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Les promotions du Black Friday sont tentantes pour franchir le pas et s’offrir un aspirateur robot. Mais ces machines, bien qu’autonomes, n’offrent pas toujours des performances probantes. C’est le cas de ces modèles Ecovacs, Kärcher et Narwal qui laissent traîner les miettes.",
+      "publishedAt": "2026-11-19T02:00:00+00:00",
+      "discoveredAt": "2026-11-19T03:44:51.398855+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
