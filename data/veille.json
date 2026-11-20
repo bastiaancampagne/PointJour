@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-11-20T03:37:44.279393+00:00",
+  "generated_at": "2026-11-20T13:18:44.245878+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-20T12:24:23+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Volkswagen ID.Polo GTI Clubsport (2026). Un look de pistarde et 367 ch pour la sportive électrique",
+      "url": "https://www.largus.fr/actualite-automobile/volkswagen-id-polo-gti-clubsport-2026-un-look-de-pistarde-et-367-ch-pour-la-sportive-electrique-40018135.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Volkswagen muscle déjà son ID.Polo GTI. A peine la citadine électrique sportive dévoilée, la marque présente une version Clubsport sous la forme d’un concept. Plus radicale, celle-ci revendique 367 ch, 550 Nm, et 240 km/h en vitesse de pointe. Elle devrait préfigurer une future version de série.",
+      "publishedAt": "2026-11-20T11:22:00+00:00",
+      "discoveredAt": "2026-11-20T13:18:17.976011+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Salons. Petits ou grands ils attirent de nouveau, la preuve à Marseille",
+      "url": "https://www.largus.fr/actualite-automobile/salons-petits-ou-grands-ils-attirent-de-nouveau-la-preuve-a-marseille-40018084.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Les organisateurs du Salon de Marseille 2026 se félicitent d’une forte progression dans tous les domaines par rapport à l’an dernier (fréquentation, ventes…), et ils ne sont pas les seuls. Du Mondial de Paris au Salon Auto Moto & Mobile de Tours, ces événements reprennent des couleurs.",
+      "publishedAt": "2026-11-20T07:57:00+00:00",
+      "discoveredAt": "2026-11-20T13:18:17.976173+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Accord de performance collective : le non-remplacement des salariés licenciés n'entraîne pas la nullité de l'accord",
+      "url": "https://www.legisocial.fr/actualites-sociales/8240-accord-performance-collective-remplacement-salaries-licencies-entraine-nullite-accord.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’accord de performance collective est issu des ordonnances Macron sur le renforcement du dialogue social et la sécurisation des relations de travail. Il donne la possibilité aux entreprises de s’adapter aux évolutions de leur marché et offre de véritables leviers de flexibilité.",
+      "publishedAt": "2026-11-20T05:00:00+00:00",
+      "discoveredAt": "2026-11-20T13:18:02.109286+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Montant net social en 2027 : nouveau calcul et déclaration en DSN",
+      "url": "https://www.legisocial.fr/actualites-sociales/8246-montant-net-social-2027-nouveau-calcul-declaration-dsn.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Net-entreprises actualise sa fiche sur le montant net social. Dès janvier 2027, la part patronale de la complémentaire santé, de la prévoyance et de la retraite supplémentaire entre dans le calcul du MNS. La fiche rappelle aussi à quel mois rattacher un rappel de paie ou une correction en DSN.",
+      "publishedAt": "2026-11-20T05:00:00+00:00",
+      "discoveredAt": "2026-11-20T13:18:02.109440+00:00",
+      "topics": [
+        "DSN",
+        "Net social"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Actualité - LGV Bordeaux-Toulouse - La Cour des comptes préconise une pause",
@@ -24,20 +87,6 @@
       "publishedAt": "2026-11-19T18:28:00+00:00",
       "discoveredAt": "2026-11-19T22:20:34.539325+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-19T18:23:57+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Auto",
@@ -10591,19 +10640,6 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Mitsubishi Pajero (2027). Le 4x4 japonais est de retour et reste fidèle au diesel",
-      "url": "https://www.largus.fr/actualite-automobile/mitsubishi-pajero-2027-le-4x4-japonais-est-de-retour-et-reste-fidele-au-diesel-40007009.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Mitsubishi dévoile la cinquième génération du Pajero, son mythique 4 x 4 dont la vente a cessé en septembre 2018 en Europe et en 2021 au niveau mondial. Avec son look robuste, ses sept places et son gros moteur Diesel, ce nouveau Pajero entend bien perpétuer dès 2027 le succès de ses prédécesseurs.",
-      "publishedAt": "2026-09-21T06:03:00+00:00",
-      "discoveredAt": "2026-09-21T06:44:32.529595+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
       "theme": "Paie",
       "title": "Enregistrement de l’entretien préalable : ce qu’il faut maîtriser",
       "url": "https://www.legisocial.fr/actualites-sociales/8112-enregistrement-entretien-prealable-qu-maitriser.html",
@@ -11804,6 +11840,11 @@
       "theme": "Auto",
       "source": "ADEME",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Cuisine",
+      "source": "Manger Bouger",
+      "error": "HTTP Error 503: Service Unavailable"
     }
   ]
 }
