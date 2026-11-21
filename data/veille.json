@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-21T02:39:52.645814+00:00",
+  "generated_at": "2026-11-21T11:31:01.038628+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Fondantes, croustillantes ou gratinées : 15 recettes ultra-réconfortantes pour sublimer vos pommes de terre",
+      "url": "https://www.750g.com/fondantes-croustillantes-ou-gratinees-15-recettes-ultra-reconfortantes-pour-sublimer-vos-pommes-de-terre-a44907.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Vous êtes en quête de plats réconfortants à préparer à base de pommes de terre pour affronter le froid de l'hiver ? Ne cherchez plus, nous vous avons sélectionné 15 de nos meilleures recettes.",
+      "publishedAt": "2026-11-21T11:00:00+00:00",
+      "discoveredAt": "2026-11-21T11:30:38.959236+00:00",
+      "topics": [
+        "Four"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -8,11 +21,24 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-20T18:23:51+00:00",
+      "publishedAt": "2026-11-21T07:24:25+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Indemnités journalières de sécurité sociale (IJSS) 2027 : jusqu’à 43,67 € par jour en cas de maladie",
+      "url": "https://www.legisocial.fr/reperes-sociaux/indemnites-journalieres-securite-sociale-ijss-2027.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "En 2027, les indemnités journalières de sécurité sociale (IJSS) peuvent atteindre 43,67 € par jour en cas d’arrêt maladie. Le plafond des IJSS maternité passe à 105,84 € pour les congés débutant à compter du 1er février. En cas d’accident du travail ou de maladie professionnelle, le plafond peut atteindre 66,31 € pendant les 28 premiers jours et 88,41 € à partir du 29e jour.",
+      "publishedAt": "2026-11-21T05:00:00+00:00",
+      "discoveredAt": "2026-11-21T11:30:09.904159+00:00",
+      "topics": [
+        "IJSS"
       ]
     },
     {
@@ -38,6 +64,17 @@
       "summary": "Le 18 novembre 2026, le Sénat a adopté en première lecture le projet de loi de financement de la sécurité sociale pour 2027, après",
       "publishedAt": "2026-11-20T14:15:00+00:00",
       "discoveredAt": "2026-11-20T21:22:15.492034+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "20 novembre 15h15 PLFSS 2027 : les principaux amendements « paye » votés par le Sénat lors de sa première lecture Paye Projet de texte LFSS 2027",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/plfss-2027-les-principaux-amendements-paye-votes-par-le-senat-lors-de-sa-premiere-lecture-e9b9934a-091b-4c3a-85c4-67073a73eea3",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le 18 novembre 2026, le Sénat a adopté en première lecture le projet de loi de financement de la sécurité sociale pour 2027, après",
+      "publishedAt": "2026-11-20T14:15:00+00:00",
+      "discoveredAt": "2026-11-21T11:30:17.198506+00:00",
       "topics": []
     },
     {
@@ -10589,19 +10626,6 @@
       "publishedAt": "2026-09-22T10:00:00+00:00",
       "discoveredAt": "2026-09-22T11:36:15.943240+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Ultimate Supercar Garage 2027. Affiche, billets… le Salon des sportives revient en février à Paris",
-      "url": "https://www.largus.fr/actualite-automobile/ultimate-supercar-garage-2027-affiche-billets-le-salon-des-sportives-revient-en-fevrier-a-paris-40008183.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "La seconde édition du Salon Ultimate Supercar Garage se tiendra à Paris en parallèle de Rétromobile du 3 au 7 février 2027, sur une surface plus grande afin d'accueillir davantage d'exposants. Son affiche se dévoile pour l’ouverture de la billetterie.",
-      "publishedAt": "2026-09-22T05:59:00+00:00",
-      "discoveredAt": "2026-09-22T06:41:14.759396+00:00",
-      "topics": [
-        "Réparation"
-      ]
     },
     {
       "theme": "Paie",
