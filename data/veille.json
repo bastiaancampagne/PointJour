@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-11-21T11:31:01.038628+00:00",
+  "generated_at": "2026-11-21T19:34:58.650288+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-21T18:24:02+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Filet mignon aux clémentines : la recette sucrée-salée ultra-légère et inratable au four",
+      "url": "https://www.750g.com/filet-mignon-aux-clementines-la-recette-sucree-salee-ultra-legere-et-inratable-au-four-a44912.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Morceau le plus noble et le plus maigre du porc, le filet mignon est la star des dîners légers. Mais sa faible teneur en gras le rend particulièrement vulnérable à la chaleur du four, où il finit souvent sec et étouffe-chrétien. Découvrez comment l'1",
+      "publishedAt": "2026-11-21T17:00:00+00:00",
+      "discoveredAt": "2026-11-21T19:34:53.874238+00:00",
+      "topics": [
+        "Four"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Genesis GV60 Magma (2026). Meilleure que la Hyundai Ioniq 5 N ?",
+      "url": "https://www.largus.fr/actualite-automobile/essai-genesis-gv60-magma-2026-meilleure-que-la-hyundai-ioniq-5-n-40011822.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Après l’essai encourageant de la Genesis GV60, nous voici au volant de l'incandescente version Magma qui doit enflammer chez nous les braises du plaisir automobile que les électriques ont souvent du mal à attiser. Cette cousine des très appréciées Hyundai Ioniq 5 N et Kia EV6 GT se donne les moyens de faire (très) bien et elle nous a vraiment surpris !",
+      "publishedAt": "2026-11-21T16:55:00+00:00",
+      "discoveredAt": "2026-11-21T19:34:48.778462+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Cuisine",
       "title": "Fondantes, croustillantes ou gratinées : 15 recettes ultra-réconfortantes pour sublimer vos pommes de terre",
@@ -15,20 +55,6 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-21T07:24:25+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
-    },
-    {
       "theme": "Paie",
       "title": "Indemnités journalières de sécurité sociale (IJSS) 2027 : jusqu’à 43,67 € par jour en cas de maladie",
       "url": "https://www.legisocial.fr/reperes-sociaux/indemnites-journalieres-securite-sociale-ijss-2027.html",
@@ -40,6 +66,17 @@
       "topics": [
         "IJSS"
       ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Chèques-vacances 2027 : participation maximale de 50% ou 80%",
+      "url": "https://www.legisocial.fr/reperes-sociaux/cheques-vacances-2027-participation-maximale-50-80.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "En 2027, le seuil de rémunération retenu pour calculer la participation de l’employeur aux chèques-vacances est de 4 075 € par mois. Avant majoration pour enfant à charge, l’employeur peut financer jusqu’à 80 % de la valeur des titres si la rémunération moyenne des trois derniers mois est inférieure à ce seuil, et jusqu’à 50 % si elle est supérieure. Des plafonds distincts s’appliquent aux exonérations sociale et fiscale.",
+      "publishedAt": "2026-11-21T05:00:00+00:00",
+      "discoveredAt": "2026-11-21T19:34:34.214035+00:00",
+      "topics": []
     },
     {
       "theme": "Cuisine",
@@ -10540,20 +10577,6 @@
       "topics": []
     },
     {
-      "theme": "Auto",
-      "title": "Carburant. Aide grands rouleurs prolongée et élargie, prime carburant accrue… les dernières annonces du Gouvernement",
-      "url": "https://www.largus.fr/actualite-automobile/carburant-toutes-les-aides-disponibles-en-france-en-2026-40008237.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Face à la flambée des prix à la pompe, le gouvernement a annoncé de nouvelles mesures ce 22 septembre pour tenter d’alléger la facture de carburant. Mais ces aides sont faibles et ne s’adressent pas à tous les automobilistes. Voici les principaux dispositifs en cours selon le profil et l’usage du véhicule.",
-      "publishedAt": "2026-09-22T16:07:00+00:00",
-      "discoveredAt": "2026-09-21T16:37:32.099036+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
-    },
-    {
       "theme": "Cuisine",
       "title": "Voici l'ingrédient secret recommandé par les bouchers pour réussir une escalope panée croustillante et sans gras",
       "url": "https://www.750g.com/voici-l-ingredient-secret-recommande-par-les-bouchers-pour-reussir-une-escalope-panee-croustillante-et-sans-gras-a44599.htm",
@@ -10563,45 +10586,6 @@
       "publishedAt": "2026-09-22T16:00:00+00:00",
       "discoveredAt": "2026-09-22T16:38:38.738049+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carburant. Le gazole d'été prolongé jusqu’au 15 novembre pour éviter la pénurie",
-      "url": "https://www.largus.fr/actualite-automobile/carburant-le-gazole-ete-prolonge-jusquau-15-novembre-pour-eviter-la-penurie-40008507.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Normalement, à partir du 1er novembre, les distributeurs de carburants doivent proposer un gazole « d’hiver » capable de résister à des températures inférieures à zéro. Mais le gouvernement vient de prolonger la vente du gazole « d’été » jusqu’au 15 novembre. Un moyen de prévenir une éventuelle pénurie ?",
-      "publishedAt": "2026-09-22T15:43:00+00:00",
-      "discoveredAt": "2026-09-22T16:38:06.726897+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Essai Lexus ES (2026) : hybride ou électrique, la routière japonaise change d’échelle",
-      "url": "https://www.largus.fr/actualite-automobile/essai-lexus-es-2026-hybride-ou-electrique-la-routiere-japonaise-change-dechelle-40007937.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Montée en gamme, hausse de gabarit, arrivée d’une version électrique, la nouvelle Lexus ES prend ses aises. La grande berline premium japonaise soigne particulièrement son confort et conserve en parallèle un moteur hybride simple. Fait rare, les deux mécaniques sont vendues au même tarif.",
-      "publishedAt": "2026-09-22T15:16:00+00:00",
-      "discoveredAt": "2026-09-22T15:35:48.214998+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Ceer Motors, nouvelle marque saoudienne. Les rois du pétrole se mettent à l’électrique",
-      "url": "https://www.largus.fr/actualite-automobile/ceer-motors-nouvelle-marque-saoudienne-les-rois-du-petrole-se-mettent-a-lelectrique-40008321.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "L’Arabie saoudite présente Ceer motors, son premier constructeur automobile national, qui se lance avec une berline et un SUV électriques surpuissants à l’allure futuriste. Baptisés Exobot, ils doivent être les premiers d’une gamme de sept modèles attendus d’ici à 2032.",
-      "publishedAt": "2026-09-22T12:31:00+00:00",
-      "discoveredAt": "2026-09-22T12:41:16.528993+00:00",
-      "topics": [
-        "Carburant"
-      ]
     },
     {
       "theme": "Paie",
@@ -11947,6 +11931,11 @@
       "theme": "Cuisine",
       "source": "Manger Bouger",
       "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "theme": "Cuisine",
+      "source": "CuisineAZ",
+      "error": "HTTP Error 403: Forbidden"
     }
   ]
 }
