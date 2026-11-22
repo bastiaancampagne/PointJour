@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T00:32:22.962469+00:00",
+  "generated_at": "2026-11-22T08:17:48.832632+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,8 +8,22 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-21T18:24:02+00:00",
+      "publishedAt": "2026-11-22T07:24:23+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Actualité - Omoda 7 PHEV - Premières impressions",
+      "url": "https://www.quechoisir.org/actualite-omoda-7-phev-premieres-impressions-n179742/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Poursuivant son implantation en France, le groupe chinois Chery propose l’Omoda 7 PHEV, un SUV compact hybride rechargeable aux nombreux atouts : beaucoup d’espace, une finition de qualité et un niveau d’équipement quasi complet. Le tout à un prix défiant toute concurrence.",
+      "publishedAt": "2026-11-22T02:00:00+00:00",
+      "discoveredAt": "2026-11-22T08:17:15.548183+00:00",
       "topics": [
         "Achat",
         "Carburant"
@@ -10468,19 +10482,6 @@
       "topics": []
     },
     {
-      "theme": "Auto",
-      "title": "Nissan Pixo (2027). La cousine nippone des Renault Twingo et Dacia Spring II arrive en France",
-      "url": "https://www.largus.fr/actualite-automobile/nissan-pixo-2027-la-cousine-nippone-des-renault-twingo-et-dacia-spring-ii-arrive-en-france-40008202.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Nissan dévoile la Pixo, une cousine technique des Renault Twingo E-Tech et Dacia Spring II. La mini-citadine électrique japonaise débarquera en France début 2027 et entend bien trouver sa place dans une catégorie plus concurrentielle que jamais en Europe. Dispose-t-elle des arguments pour y parvenir ?",
-      "publishedAt": "2026-09-23T08:00:00+00:00",
-      "discoveredAt": "2026-09-23T08:38:03.879028+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
       "theme": "Paie",
       "title": "23 septembre 09h30 Taxes foncières 2026 : modalités de paiement et dates clés Fiscal Autres sources",
       "url": "https://www.revue-fiduciaire.com/actualite/article/taxes-foncieres-2026-modalites-de-paiement-et-dates-cles",
@@ -10501,20 +10502,6 @@
       "publishedAt": "2026-09-23T07:15:00+00:00",
       "discoveredAt": "2026-09-23T08:37:51.029744+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Leasing social 2026 : 34 000 dossiers déjà enregistrés sur les 50 000 prévus",
-      "url": "https://www.largus.fr/actualite-automobile/leasing-social-2026-34-000-dossiers-deja-enregistres-sur-les-50-000-prevus-40008553.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Dans le cadre de la troisième édition du leasing social, lancée le 16 juillet 2026, le gouvernement a annoncé ce 22 septembre avoir enregistré 34 000 dossiers sur les 50 000 prévus. La flambée des prix des carburants explique très probablement cet engouement que n’avait pas rencontré l’édition 2025.",
-      "publishedAt": "2026-09-23T05:55:00+00:00",
-      "discoveredAt": "2026-09-23T06:41:40.443391+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Paie",
@@ -10553,17 +10540,6 @@
       "topics": [
         "IJSS"
       ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Actualité - Impôts 2026 : le paiement du solde débute le 25 septembre",
-      "url": "https://www.quechoisir.org/actualite-impot-2026-le-paiement-du-solde-debute-le-25-septembre-n178414/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Un contribuable sur trois n’a pas payé suffisamment d’impôt à la source en 2025 et est redevable d’un solde d’impôt au titre de 2026. Le fisc le prélèvera automatiquement à partir de ce vendredi 25 septembre, en une ou quatre fois selon son montant.",
-      "publishedAt": "2026-09-23T01:00:00+00:00",
-      "discoveredAt": "2026-09-23T01:35:46.654028+00:00",
-      "topics": []
     },
     {
       "theme": "Cuisine",
@@ -11931,11 +11907,6 @@
       "theme": "Cuisine",
       "source": "Manger Bouger",
       "error": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "theme": "Cuisine",
-      "source": "CuisineAZ",
-      "error": "HTTP Error 403: Forbidden"
     }
   ]
 }
