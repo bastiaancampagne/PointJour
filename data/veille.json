@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-11-22T08:17:48.832632+00:00",
+  "generated_at": "2026-11-22T16:31:29.037300+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "L'une des meilleures recettes à faire en novembre : la Potiflette, notre tartiflette ultra-fondante au potimarron",
+      "url": "https://www.750g.com/l-une-des-meilleures-recettes-a-faire-en-novembre-la-potiflette-notre-tartiflette-ultra-fondante-au-potimarron-a44925.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Vous avez envie de changer un peu de la tartiflette, mais tout en continuant à vous régaler ? Alors découvrez sans attendre la Potiflette, une tartiflette version potiron. C'est la recette idéale pour profiter de cet ingrédient de saison et se récon1",
+      "publishedAt": "2026-11-22T16:00:00+00:00",
+      "discoveredAt": "2026-11-22T16:31:03.829109+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -8,7 +19,7 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-22T07:24:23+00:00",
+      "publishedAt": "2026-11-22T15:23:58+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
@@ -10356,17 +10367,6 @@
       "topics": []
     },
     {
-      "theme": "Auto",
-      "title": "Voiture prêtée à un ami ou partagée en famille : qui est couvert par l'assurance ?",
-      "url": "https://www.largus.fr/actualite-automobile/voiture-pretee-a-un-ami-ou-partagee-en-famille-qui-est-couvert-par-lassurance-40008737.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Prêter sa voiture à un proche ou partager un véhicule familial soulève des questions concrètes sur la couverture assurantielle. Voici ce que dit vraiment votre contrat.",
-      "publishedAt": "2026-09-23T16:30:00+00:00",
-      "discoveredAt": "2026-09-23T16:38:39.736817+00:00",
-      "topics": []
-    },
-    {
       "theme": "Cuisine",
       "title": "L'ingrédient secret de ce flancake ultra rassasiant permet de manger équilibré sans jamais avoir faim",
       "url": "https://www.750g.com/l-ingredient-secret-de-ce-flancake-ultra-rassasiant-permet-de-manger-equilibre-sans-jamais-avoir-faim-a44607.htm",
@@ -10401,20 +10401,6 @@
       "summary": "Une carte interactive officielle recense les prix des carburants et l’état d’approvisionnement en essence et en gazole, par station-service.",
       "publishedAt": null,
       "discoveredAt": "2026-09-23T14:37:54.503603+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Prix Suzuki Across (2026). Le clone du RAV4 hybride rechargeable plus attractif que l’original ?",
-      "url": "https://www.largus.fr/actualite-automobile/prix-suzuki-across-2026-le-clone-du-rav4-hybride-rechargeable-plus-attractif-que-loriginal-40008538.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Version rebadgée du dernier Toyota RAV4 hybride rechargeable, le nouveau Suzuki Across propose l’équipement le plus fourni pour le prix le plus bas de ce dernier. Le SUV rival des Citroën C5 Aircross et Ford Kuga est affiché à 55 150 €. Une remise de lancement de 6 000 € est à déduire.",
-      "publishedAt": "2026-09-23T14:07:00+00:00",
-      "discoveredAt": "2026-09-23T14:37:57.746787+00:00",
       "topics": [
         "Achat",
         "Carburant"
