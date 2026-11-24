@@ -1,6 +1,57 @@
 {
-  "generated_at": "2026-11-23T15:02:37.670978+00:00",
+  "generated_at": "2026-11-24T02:27:08.851605+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-23T18:24:08+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Pneu 4 saisons : le bon allié pour votre budget et la loi Montagne",
+      "url": "https://www.largus.fr/actualite-automobile/pneu-4-saisons-le-bon-allie-pour-votre-budget-et-la-loi-montagne-40018590.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Loi Montagne, coûts, profils conducteurs : tout savoir sur le pneu 4 saisons certifié 3PMSF pour rouler en sécurité tout en maîtrisant son budget.",
+      "publishedAt": "2026-11-23T18:00:00+00:00",
+      "discoveredAt": "2026-11-24T02:26:33.683291+00:00",
+      "topics": [
+        "Pneus"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "« Une spécialité qui va rappeler beaucoup de souvenirs » : François-Régis Gaudry livre sa recette pour refaire les friands de la cantine",
+      "url": "https://www.750g.com/une-specialite-qui-va-rappeler-beaucoup-de-souvenirs-francois-regis-gaudry-livre-sa-recette-pour-refaire-les-friands-de-la-cantine-a44933.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Croustillants et terriblement gourmands, les friands restent indémodables. Et ce n'est pas François-Régis Gaudry qui va nous démentir !",
+      "publishedAt": "2026-11-23T18:00:00+00:00",
+      "discoveredAt": "2026-11-24T02:26:42.520893+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Le secret de Laurent Mariotte pour transformer un simple gratin de pommes de terre en plat divin",
+      "url": "https://www.750g.com/le-secret-de-laurent-mariotte-pour-transformer-un-simple-gratin-de-pommes-de-terre-en-plat-divin-a44930.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Banal, le gratin de pommes de terre ? Pas quand c'est Laurent Mariotte qui le prépare. Car le chroniqueur gastronomique a son petit secret pour le sublimer !",
+      "publishedAt": "2026-11-23T16:00:00+00:00",
+      "discoveredAt": "2026-11-24T02:26:42.627064+00:00",
+      "topics": [
+        "Four"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Essai Mercedes GLA électrique (2027) : des étoiles dans les yeux",
@@ -120,20 +171,6 @@
       "discoveredAt": "2026-11-23T15:02:02.481939+00:00",
       "topics": [
         "Cotisations"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-22T18:24:04+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
       ]
     },
     {
@@ -10257,32 +10294,6 @@
       "topics": []
     },
     {
-      "theme": "Auto",
-      "title": "Bris de glace : ce que couvre vraiment votre assurance auto en 2026",
-      "url": "https://www.largus.fr/actualite-automobile/bris-de-glace-assurance-40009135.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Pare-brise, vitre latérale, toit ouvrant et lunette arrière : découvrez ce que prend réellement en charge la garantie bris de glace de votre assurance auto en 2026.",
-      "publishedAt": "2026-09-24T17:00:00+00:00",
-      "discoveredAt": "2026-09-24T17:35:38.022974+00:00",
-      "topics": [
-        "Assurance"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Bris de glace : ce que couvre vraiment votre assurance auto en 2026",
-      "url": "https://www.largus.fr/actualite-automobile/bris-de-glace-ce-que-couvre-vraiment-votre-assurance-auto-en-2026-40009135.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Pare-brise, vitre latérale, toit ouvrant et lunette arrière : découvrez ce que prend réellement en charge la garantie bris de glace de votre assurance auto en 2026.",
-      "publishedAt": "2026-09-24T17:00:00+00:00",
-      "discoveredAt": "2026-09-24T18:40:11.328143+00:00",
-      "topics": [
-        "Assurance"
-      ]
-    },
-    {
       "theme": "Cuisine",
       "title": "\"Si ça s'arrête...\" Philippe Etchebest dévoile son plan pour l'après Cauchemar en cuisine",
       "url": "https://www.750g.com/si-ca-s-arrete-philippe-etchebest-devoile-son-plan-pour-l-apres-cauchemar-en-cuisine-a44613.htm",
@@ -11915,11 +11926,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
