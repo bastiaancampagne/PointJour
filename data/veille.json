@@ -1,6 +1,33 @@
 {
-  "generated_at": "2026-11-24T14:03:05.346004+00:00",
+  "generated_at": "2026-11-24T23:36:01.245484+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-24T18:23:53+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Depuis que je sers cet apéro sain à Noël, mes invités oublient les petits fours : ce houmous à la châtaigne prêt en 10 minutes met tout le monde d'accord",
+      "url": "https://www.750g.com/depuis-que-je-sers-cet-apero-sain-a-noel-mes-invites-oublient-les-petits-fours-ce-houmous-a-la-chataigne-pret-en-10-minutes-met-tout-le-monde-d-accord-a44944.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "À l'approche du réveillon, on cherche tous la recette miracle : un apéritif chic, ultra-gourmand et fait maison, qui ne demande pas trois heures en cuisine et ne coupe pas l'appétit avant le plat de résistance. Oubliez les plateaux de petits fours s1",
+      "publishedAt": "2026-11-24T17:00:00+00:00",
+      "discoveredAt": "2026-11-24T23:35:38.901036+00:00",
+      "topics": [
+        "Four"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Lamborghini Temerario Spyder (2026). La supercar au V8 hybride rechargeable se découvre",
@@ -15,18 +42,15 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-24T12:24:27+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
+      "theme": "Paie",
+      "title": "24 novembre 13h15 Le niveau de rémunération d’un responsable du personnel ne suffit pas à en faire un cadre dirigeant Social Paye Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-niveau-de-remuneration-d-un-responsable-du-personnel-ne-suffit-pas-a-en-faire-un-cadre-dirigeant-45be384f-ef60-417c-886c-d213d0848c3c",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Les trois critères légaux cumulatifs qui caractérisent le cadre dirigeant impliquent que le salarié concerné participe à la direction",
+      "publishedAt": "2026-11-24T12:15:00+00:00",
+      "discoveredAt": "2026-11-24T23:35:18.874405+00:00",
+      "topics": []
     },
     {
       "theme": "Paie",
@@ -86,6 +110,43 @@
       "topics": [
         "Cotisations"
       ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Enquête - Aides à la conduite - Méconnues et souvent peu utilisées",
+      "url": "https://www.quechoisir.org/enquete-aides-a-la-conduite-meconnues-et-souvent-peu-utilisees-n179538/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "La réglementation impose désormais une multitude d’aides à la conduite dans nos voitures. Hélas, elles font grimper les prix et agacent parfois les automobilistes, qui ne les maîtrisent pas faute d’information suffisante.",
+      "publishedAt": "2026-11-24T02:00:00+00:00",
+      "discoveredAt": "2026-11-24T23:35:31.808108+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Conseils - Les systèmes d’aide à la conduite (Adas) - Les réponses à vos questions",
+      "url": "https://www.quechoisir.org/conseils-les-systemes-d-aide-a-la-conduite-adas-les-reponses-a-vos-questions-n179750/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Impossible aujourd’hui d’acheter une voiture sans disposer d’Adas (Advanced Driver Assistance Systems, pour « systèmes avancés d’assistance au conducteur »). Ils sont omniprésents dans les voitures modernes qui peuvent en comporter plus d’une trentaine. Des dispositifs parfois intrusifs, qui laissent certains automobilistes perplexes. Nos réponses à vos questions.",
+      "publishedAt": "2026-11-24T02:00:00+00:00",
+      "discoveredAt": "2026-11-24T23:35:31.808235+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Conseils - Les aides à la conduite de votre voiture, mode d’emploi",
+      "url": "https://www.quechoisir.org/conseils-les-aides-a-la-conduite-de-votre-voiture-mode-d-emploi-n179754/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Par obligation réglementaire, les aides à la conduite, ou Adas, se multiplient dans les voitures : on en compte désormais plus d’une trentaine. Si leur intérêt n’est pas à mettre en doute pour la sécurité, les automobilistes ne les maîtrisent pas toujours, faute d’informations. Voici nos explications sur une partie d’entre elles.",
+      "publishedAt": "2026-11-24T02:00:00+00:00",
+      "discoveredAt": "2026-11-24T23:35:31.808333+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
@@ -10068,41 +10129,6 @@
       "discoveredAt": "2026-09-26T05:36:29.536660+00:00",
       "topics": [
         "Desserts"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Salon des véhicules de loisirs 2026. Infos pratiques et nouveautés à découvrir",
-      "url": "https://www.largus.fr/actualite-automobile/salon-des-vehicules-de-loisirs-2026-infos-pratiques-et-nouveautes-a-decouvrir-40009350.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "La 60e édition du Salon des véhicules de loisirs se tiendra du 26 septembre au 4 octobre 2026 au parc des expositions de Paris-Le Bourget. Les nouveautés s’annoncent nombreuses en camping-cars, vans aménagés, caravanes… Voici toutes les informations pratiques pour profiter pleinement de l'évènement.",
-      "publishedAt": "2026-09-25T15:47:00+00:00",
-      "discoveredAt": "2026-09-25T16:39:02.138900+00:00",
-      "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Rappel Volkswagen. Le groupe allemand rappelle près de 3 millions de véhicules dans le monde",
-      "url": "https://www.largus.fr/actualite-automobile/rappel-volkswagen-le-groupe-allemand-rappelle-pres-de-3-millions-de-vehicules-dans-le-monde-40009267.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Le groupe Volkswagen lance une vaste campagne de rappel sur plus de 2,8 millions de modèles dans le monde, dont plus de 900 000 rien qu’en Allemagne. Sont concernés des Golf, des Touran, des Tiguan et des Caddy fabriqués entre 2013 et 2024, mais aussi, des Audi Q3 assemblés entre 2017 et 2024. Explications…",
-      "publishedAt": "2026-09-25T15:12:00+00:00",
-      "discoveredAt": "2026-09-25T15:37:11.863913+00:00",
-      "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Essai Kia EV4 GT (2026) : la chère de poule",
-      "url": "https://www.largus.fr/actualite-automobile/essai-kia-ev4-gt-2026-la-chere-de-poule-40008619.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Une compacte électrique qui donne des frissons ? C’est la promesse de l’attachante Kia EV4 GT : 292 ch, quatre roues motrices et une fausse boîte de vitesses pour transcender les sensations. Mais diable qu’elle est chère !",
-      "publishedAt": "2026-09-25T14:09:00+00:00",
-      "discoveredAt": "2026-09-25T14:38:22.550061+00:00",
-      "topics": [
-        "Carburant"
       ]
     },
     {
