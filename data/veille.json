@@ -1,6 +1,19 @@
 {
-  "generated_at": "2026-11-24T02:27:08.851605+00:00",
+  "generated_at": "2026-11-24T14:03:05.346004+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Lamborghini Temerario Spyder (2026). La supercar au V8 hybride rechargeable se découvre",
+      "url": "https://www.largus.fr/actualite-automobile/lamborghini-temerario-spyder-2026-la-supercar-au-v8-hybride-rechargeable-se-decouvre-40018631.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Deux ans après la sortie de sa Temerario, Lamborghini dévoile la version découvrable Spyder de sa supercar. Celle-ci devient le premier modèle de la marque à adopter un toit rigide escamotable. Son capot arrière abrite toujours le V8 4.0 associé à trois moteurs électriques pour tirer 920 ch.",
+      "publishedAt": "2026-11-24T13:51:00+00:00",
+      "discoveredAt": "2026-11-24T14:02:29.078757+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -8,11 +21,70 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-23T18:24:08+00:00",
+      "publishedAt": "2026-11-24T12:24:27+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "24 novembre 12h00 L'Assemblée nationale a adopté en première lecture la proposition de loi relative au déblocage exceptionnel et à l'attractivité de l'épargne salariale Social Paye Projet de texte",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/l-assemblee-nationale-a-adopte-en-premiere-lecture-la-proposition-de-loi-relative-au-deblocage-exceptionnel-et-a-l-attractivite-de-l-epargne-salariale",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Le 16 novembre 2026, l'Assemblée nationale a adopté en première lecture la proposition de loi visant à permettre un déblocage anticipé",
+      "publishedAt": "2026-11-24T11:00:00+00:00",
+      "discoveredAt": "2026-11-24T14:02:19.962453+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Fiat Pandina Tributo Autobianchi (2026). Nouvelle finition haut de gamme pour la citadine hybride",
+      "url": "https://www.largus.fr/actualite-automobile/fiat-pandina-tributo-autobianchi-2026-nouvelle-finition-haut-de-gamme-pour-la-citadine-hybride-40018588.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Lancée il y a quinze ans sous l’appellation Panda, la Fiat Pandina reçoit une nouvelle finition haute baptisée Tributo Autobianchi. Une façon d’animer la gamme de la citadine hybride qui a vocation à perdurer jusqu’à 2030. Voici ce que propose cette exécution huppée accessible à partir de 20 400 €.",
+      "publishedAt": "2026-11-24T09:23:00+00:00",
+      "discoveredAt": "2026-11-24T14:02:29.078893+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Les frais de transport sur le bulletin de paie",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/les-frais-de-transport-sur-le-bulletin-de-paie",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-24T08:39:00+00:00",
+      "discoveredAt": "2026-11-24T14:02:23.286730+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Mener un entretien de recadrage",
+      "url": "https://www.legisocial.fr/actualites-sociales/5326-mener-entretien-recadrage.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "En cas de dysfonctionnements récurrents et vérifiés de manière objective et factuelle de la part d’un salarié, un entretien de recadrage s’impose.",
+      "publishedAt": "2026-11-24T05:00:00+00:00",
+      "discoveredAt": "2026-11-24T14:02:14.485288+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Versement mobilité : quels taux et périmètres changent au 1er janvier 2027 ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8255-versement-mobilite-taux-perimetres-changent-1er-janvier-2027.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Au 1er janvier 2027, plusieurs taux et périmètres de versement mobilité évoluent. La circulaire Urssaf du 17 novembre 2026 détaille les changements applicables au VM, au versement mobilité additionnel et au versement mobilité régional et rural, notamment en Occitanie et en Martinique.",
+      "publishedAt": "2026-11-24T05:00:00+00:00",
+      "discoveredAt": "2026-11-24T14:02:14.485508+00:00",
+      "topics": [
+        "Cotisations"
       ]
     },
     {
@@ -10078,17 +10150,6 @@
       "topics": []
     },
     {
-      "theme": "Auto",
-      "title": "Équipement auto. La radio bientôt obligatoire ?",
-      "url": "https://www.largus.fr/actualite-automobile/equipement-auto-la-radio-bientot-obligatoire-40009186.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Alors que le bon vieil autoradio tend à céder sa place aux applications de streaming, la filière française des diffuseurs radio se mobilise pour réclamer que les voitures disposent obligatoirement d’un récepteur FM et DAB+. Elle souligne, entre autres, un enjeu de sécurité civile.",
-      "publishedAt": "2026-09-25T13:29:00+00:00",
-      "discoveredAt": "2026-09-25T13:38:02.553394+00:00",
-      "topics": []
-    },
-    {
       "theme": "Paie",
       "title": "25 septembre 15h20 L’inspecteur du travail ne doit pas autoriser une rupture conventionnelle si le consentement du salarié protégé est vicié Social Jurisprudence",
       "url": "https://www.revue-fiduciaire.com/actualite/article/l-inspecteur-du-travail-ne-doit-pas-autoriser-une-rupture-conventionnelle-si-le-consentement-du-salarie-protege-est-vicie",
@@ -10208,17 +10269,6 @@
       "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
       "publishedAt": "2026-09-25T07:20:08.610000+00:00",
       "discoveredAt": "2026-09-25T13:38:57.217265+00:00",
-      "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Musée Peugeot. La bourse aux pièces détachées revient les 3 et 4 octobre 2026 à Sochaux",
-      "url": "https://www.largus.fr/actualite-automobile/musee-peugeot-la-bourse-aux-pieces-detachees-revient-les-3-et-4-octobre-2026-a-sochaux-40009126.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Le Musée de l’Aventure Peugeot de Sochaux accueillera sa 11e bourse aux pièces détachées les 3 et 4 octobre 2026. Composants mécaniques de toutes marques, documents et illustrations seront proposés. Les véhicules de collection bénéficieront de places de parking réservées.",
-      "publishedAt": "2026-09-25T06:06:00+00:00",
-      "discoveredAt": "2026-09-25T06:43:06.070749+00:00",
       "topics": []
     },
     {
