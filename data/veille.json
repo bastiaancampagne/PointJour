@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:36:01.245484+00:00",
+  "generated_at": "2026-11-25T08:56:48.784287+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,12 +8,82 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-24T18:23:53+00:00",
+      "publishedAt": "2026-11-25T07:24:20+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Cotisations : l’Agirc-Arrco communique les paramètres 2027",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/cotisations-lagirc-arrco-communique-les-parametres",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-25T06:30:00+00:00",
+      "discoveredAt": "2026-11-25T08:56:12.014206+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Préménopause : ces 4 \"faux amis\" de votre alimentation qui dérèglent vos hormones",
+      "url": "https://www.750g.com/premenopause-ces-4-faux-amis-de-votre-alimentation-qui-dereglent-vos-hormones-a44941.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "À l'approche de la cinquantaine, des réveils nocturnes inexpliqués, une fatigue persistante ou des sautes d'humeur soudaines peuvent survenir sans que l'on comprenne pourquoi. Souvent considérés comme des réflexes bien-être inoffensifs, plusieurs ré1",
+      "publishedAt": "2026-11-25T06:30:00+00:00",
+      "discoveredAt": "2026-11-25T08:56:26.691029+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Véhicules électriques : neuf versions ajoutées à la liste des modèles éco-scorés",
+      "url": "https://www.legisocial.fr/actualites-sociales/8256-vehicules-electriques-versions-ajoutees-liste-modeles-eco-scores.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Un arrêté actualise, à compter du 24 novembre 2026, la liste des voitures électriques ayant atteint le score environnemental minimal. Neuf versions sont ajoutées. Leur inscription peut modifier le calcul de l’avantage en nature pour les employeurs qui les mettent à disposition de leurs salariés.",
+      "publishedAt": "2026-11-25T05:00:00+00:00",
+      "discoveredAt": "2026-11-25T08:56:03.632462+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Mentir sur son CV : quels sont les risques ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/7524-mentir-cv-sont-risques.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Quand le mensonge sur le CV peut justifier un licenciement ou la nullité du contrat…",
+      "publishedAt": "2026-11-25T05:00:00+00:00",
+      "discoveredAt": "2026-11-25T08:56:03.632553+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Contrats de travail pour la saison hivernale : n'oubliez de remettre aux saisonniers les nouvelles informations obligatoires !",
+      "url": "https://www.legisocial.fr/actualites-sociales/7010-contrats-travail-saison-hivernale-oubliez-remettre-saisonniers-nouvelles-informations-obligatoires.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Comme tout salarié, le saisonnier doit dorénavant se voir remettre lors de son embauche les nouvelles informations obligatoires qui ne sont pas mentionnées dans son contrat de travail.",
+      "publishedAt": "2026-11-25T05:00:00+00:00",
+      "discoveredAt": "2026-11-25T08:56:03.632644+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Temps de pause, trajets professionnels, astreintes : quand le temps non travaillé devient du temps de travail effectif",
+      "url": "https://www.legisocial.fr/actualites-sociales/8232-temps-pause-trajets-professionnels-astreintes-temps-travaille-devient-temps-travail-effectif.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La notion de temps de travail effectif dépasse largement le seul temps passé au poste de travail. En application de l'article L. 3121-1 du Code du travail, constitue un temps de travail effectif toute période durant laquelle le salarié est à la disposition de l'employeur, se conforme à ses directives et ne peut vaquer librement à des occupations personnelles.",
+      "publishedAt": "2026-11-25T05:00:00+00:00",
+      "discoveredAt": "2026-11-25T08:56:03.632749+00:00",
+      "topics": []
     },
     {
       "theme": "Cuisine",
@@ -10106,19 +10176,6 @@
       "topics": []
     },
     {
-      "theme": "Auto",
-      "title": "Alpine A390 Array (2026). Le SUV électrique transformé en art car par Trevor Jackson",
-      "url": "https://www.largus.fr/actualite-automobile/alpine-a390-array-2026-le-suv-electrique-transforme-en-art-car-par-trevor-jackson-40008989.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "L’artiste londonien Trevor Jackson s’est penché sur l’Alpine A390 pour donner naissance à une version unique du SUV électrique sportif, paré d’une livrée d’inspiration audiovisuelle. Surnommé Array, le véhicule a été présenté au Goodwood Revival 2026.",
-      "publishedAt": "2026-09-26T08:08:00+00:00",
-      "discoveredAt": "2026-09-26T08:37:15.715766+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
       "theme": "Cuisine",
       "title": "Quel est le meilleur repas pour un diabétique : entrée, plat et dessert ?",
       "url": "https://www.750g.com/quel-est-le-meilleur-repas-pour-un-diabetique-entree-plat-et-dessert-a44566.htm",
@@ -12002,6 +12059,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
