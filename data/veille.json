@@ -1,6 +1,17 @@
 {
-  "generated_at": "2026-11-25T08:56:48.784287+00:00",
+  "generated_at": "2026-11-25T19:30:40.207183+00:00",
   "items": [
+    {
+      "theme": "Cuisine",
+      "title": "Mes recettes & collections",
+      "url": "https://www.cuisineaz.com/communaute/ma_cuisine.aspx",
+      "source": "CuisineAZ",
+      "sourceKind": "RECETTES",
+      "summary": "Cuisine AZ, 101 000 délicieuses idées et recettes de cuisine classées par themes ou par catégories , avec photos, faciles ou techniques, 100% testées et validées par nos soins.",
+      "publishedAt": null,
+      "discoveredAt": "2026-11-25T19:30:30.896758+00:00",
+      "topics": []
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -8,12 +19,135 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-25T07:24:20+00:00",
+      "publishedAt": "2026-11-25T18:24:11+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Déclarer en DSN",
+      "url": "https://www.agirc-arrco.fr/entreprises/declarer-et-payer/declarer-en-dsn/",
+      "source": "Agirc-Arrco",
+      "sourceKind": "OFFICIEL",
+      "summary": "Le site de référence pour s'informer sur la retraite complémentaire, connaître sa caisse de retraite, faire une simulation retraite ou demander sa retraite en ligne.",
+      "publishedAt": "2026-11-25T17:20:14+00:00",
+      "discoveredAt": "2026-11-25T19:29:38.294608+00:00",
+      "topics": [
+        "DSN"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Du kit à matcha à la sauce piquante : notre sélection de boules de Noël « food » pour un sapin qui sort du lot",
+      "url": "https://www.750g.com/du-kit-a-matcha-a-la-sauce-piquante-notre-selection-de-boules-de-noel-food-pour-un-sapin-qui-sort-du-lot-a44947.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Exit le sapin rouge et or un peu trop sage. Cet hiver, nos obsessions food quittent nos assiettes et nos stories pour prendre investir notre déco de Noël et notre sapin. Entre vibe coffee shop, street food asiatique et passion pour le piquant, la dé1",
+      "publishedAt": "2026-11-25T16:00:00+00:00",
+      "discoveredAt": "2026-11-25T19:30:20.813509+00:00",
+      "topics": [
+        "Asiatique"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "25 novembre 16h59 Fraude à l’apprentissage : en réaction au rapport de la Cour des comptes, le cabinet du ministre du travail revient sur les dispositifs mis en œuvre Social Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/fraude-a-l-apprentissage-en-reaction-au-rapport-de-la-cour-des-comptes-le-cabinet-du-ministre-du-travail-revient-sur-les-dispositifs-mis-en-oeuvre-6051457d-7269-4dfa-a4ee-8f744c95a177",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un rapport du mois de novembre 2026 consacré aux abus et aux fraudes aux aides à l’apprentissage, la Cour des comptes dresse le",
+      "publishedAt": "2026-11-25T15:59:50+00:00",
+      "discoveredAt": "2026-11-25T19:29:57.872756+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Guide d'achat - Comment choisir une sorbetière ou une turbine à glace",
+      "url": "https://www.quechoisir.org/guide-d-achat-sorbetiere-et-turbine-a-glace-n8031/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Amateurs de sorbets et autres douceurs glacées, pourquoi ne pas faire vous-même votre dessert favori ? À condition d’être équipé du bon ustensile, sorbetière ou turbine à glace, c’est extrêmement simple. Et les avantages des préparations maison sont nombreux, à commencer par le libre choix des ingrédients : fruits, « vraie » vanille, œufs frais, crème, yaourt, etc. Du 100 % naturel, sans ajout d’additifs, émulsifiants, colorants et autres stabilisants qui entrent dans la composition de la plupart des produits industriels. Le mode d’emploi des appareils comporte généralement quelques recettes, mais rien ne vous empêche de laisser libre cours à votre créativité en inventant des parfums plus originaux. Sucrées ou même salées, agrémentées de coulis ou d’inclusions, avec les glaces et les sorbets, on peut tout faire ou presque !",
+      "publishedAt": "2026-11-25T15:25:00+00:00",
+      "discoveredAt": "2026-11-25T19:30:13.896539+00:00",
+      "topics": [
+        "Achat",
+        "Réparation"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "25 novembre 15h41 Le SMIC augmentera de 1,6 % au 1er décembre 2026 Social Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-smic-augmentera-de-1-6-au-1er-decembre-2026",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Conformément à ce qu’avait annoncé le gouvernement à la conférence sociale du 9 novembre 2026, le taux horaire du SMIC passera à",
+      "publishedAt": "2026-11-25T14:41:05+00:00",
+      "discoveredAt": "2026-11-25T19:30:00.340852+00:00",
+      "topics": [
+        "SMIC"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "25 novembre 12h56 Demande de déblocage anticipé du PEE à la suite d’une séparation : le délai de 6 mois peut courir à compter de la décision de justice qui statue sur la garde des enfants Paye Autres sources",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/demande-de-deblocage-anticipe-du-pee-a-la-suite-d-une-separation-le-delai-de-6-mois-peut-courir-a-compter-de-la-decision-de-justice-qui-statue-sur-la-garde-des-enfants",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Lorsqu’un salarié souhaite débloquer par anticipation les avoirs acquis sur son plan d’épargne entreprise (PPE) au titre d’une",
+      "publishedAt": "2026-11-25T11:56:30+00:00",
+      "discoveredAt": "2026-11-25T19:30:05.321893+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Volkswagen ID Cross (2026) : une ID Polo qui prend de la hauteur",
+      "url": "https://www.largus.fr/actualite-automobile/essai-volkswagen-id-cross-2026-une-id-polo-qui-prend-de-la-hauteur-40018231.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Deuxième modèle de la nouvelle gamme ID, le Volkswagen ID.Cross mise sur son habitabilité, son comportement routier soigné et ses prestations électriques pour s’imposer sur le segment des SUV urbains. Reste que son tarif, supérieur à 40 000 € en finition haute, constitue un frein à son adoption.",
+      "publishedAt": "2026-11-25T11:00:00+00:00",
+      "discoveredAt": "2026-11-25T19:30:13.052254+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "Des gnocchis à Noël ? Depuis que j'ai osé cette recette, mes enfants me la réclament chaque année",
+      "url": "https://www.750g.com/des-gnocchis-a-noel-depuis-que-j-ai-ose-cette-recette-mes-enfants-me-la-reclament-chaque-annee-a44945.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Chaque réveillon, c'est le même casse-tête : comment trouver un accompagnement (ou un plat principal) qui fasse briller les yeux des adultes sans faire grimacer les enfants devant la dinde aux marrons ? En osant inviter les gnocchis à la table de No1",
+      "publishedAt": "2026-11-25T11:00:00+00:00",
+      "discoveredAt": "2026-11-25T19:30:20.862762+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Auto",
+      "title": "Suzuki Ignis (2027). La mini-citadine est de retour en version 100 % électrique",
+      "url": "https://www.largus.fr/actualite-automobile/suzuki-ignis-2027-la-mini-citadine-est-de-retour-en-version-100-electrique-40018761.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Suzuki remet l’Ignis sur le devant de la scène. La mini-citadine passe du thermique à l’électrique. Derrière ce nom connu en Europe se cache en réalité la e-Sky japonaise. Elle embarque un moteur de 91 ch, une batterie LFP de 26 kWh, et sera commercialisée à partir de l’été 2027.",
+      "publishedAt": "2026-11-25T10:57:00+00:00",
+      "discoveredAt": "2026-11-25T19:30:13.052417+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "IA et contrôle des salariés : jusqu’où l’employeur peut-il aller ?",
+      "url": "https://www.legisocial.fr/vie-entreprise/libertes-et-obligations-dans-lentreprise/ia-controle-salaries-employeur-aller.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L’intelligence artificielle bouleverse progressivement les modes de management et de contrôle au sein des entreprises. Les outils capables de mesurer la productivité, d’analyser les comportements professionnels, d’anticiper les performances futures ou de détecter des anomalies connaissent un développement rapide. Alimentés par des volumes considérables de données, ces systèmes promettent aux employeurs une meilleure connaissance de leur entreprise et une gestion plus efficace des RH.",
+      "publishedAt": "2026-11-25T09:16:19+00:00",
+      "discoveredAt": "2026-11-25T19:29:54.857873+00:00",
+      "topics": []
     },
     {
       "theme": "Paie",
@@ -10152,19 +10286,6 @@
       "topics": []
     },
     {
-      "theme": "Auto",
-      "title": "Toyota Prius (2026). La berline hybride rechargeable quitte le marché français",
-      "url": "https://www.largus.fr/actualite-automobile/toyota-prius-2026-la-berline-hybride-rechargeable-quitte-le-marche-francais-40009270.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "La Toyota Prius n’est plus disponible en France. Pionnière de l’hybridation en 1997, elle est devenue exclusivement rechargeable à l’arrivée de sa cinquième et actuelle génération en 2023. Ce choix, combiné à de nombreux autres facteurs, a contribué à une chute de ses ventes dans l’Hexagone.",
-      "publishedAt": "2026-09-26T11:17:00+00:00",
-      "discoveredAt": "2026-09-26T11:35:35.289303+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
       "theme": "Cuisine",
       "title": "Lidl : cette sauteuse en fonte à moins de 20 euros rivalise avec les grandes marques en cuisine",
       "url": "https://www.750g.com/lidl-cette-sauteuse-en-fonte-a-moins-de-20-euros-rivalise-avec-les-grandes-marques-en-cuisine-a44623.htm",
@@ -12059,11 +12180,6 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
-    },
-    {
-      "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
