@@ -1,6 +1,79 @@
 {
-  "generated_at": "2026-11-26T02:58:40.935953+00:00",
+  "generated_at": "2026-11-26T12:57:14.650373+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-26T12:24:14+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Le Mans Classic 2027. La billetterie ouverte, rendez-vous début juillet pour les 25 ans",
+      "url": "https://www.largus.fr/actualite-automobile/le-mans-classic-2027-la-billetterie-ouverte-rendez-vous-debut-juillet-pour-les-25-ans-40018688.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Le Mans Classic célébrera son 25e anniversaire du 1er au 4 juillet 2027. La billetterie pour cette édition est accessible au grand public depuis le 26 novembre. Les passionnés et amateurs pourront admirer les autos d’Endurance des années 1920 aux années 1980, et pas que !",
+      "publishedAt": "2026-11-26T09:16:00+00:00",
+      "discoveredAt": "2026-11-26T12:56:54.065053+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "SMIC : une hausse anticipée de 1,6 % au 1er décembre 2026",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/smic",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-26T08:40:00+00:00",
+      "discoveredAt": "2026-11-26T12:56:49.333049+00:00",
+      "topics": [
+        "SMIC"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "26 novembre 07h30 Le décret revalorisant le SMIC et le minimum garanti au 1er décembre 2026 est publié Social Paye Journal officiel",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/le-decret-revalorisant-le-smic-et-le-minimum-garanti-au-1er-decembre-2026-est-publie-ef018138-d882-48b8-8d64-9efcf78abfe6",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Comme le gouvernement l'avait annoncé, un décret publié au JO du 26 novembre 2026 revalorise le SMIC de 1,6 % à effet du 1er décembre",
+      "publishedAt": "2026-11-26T06:30:00+00:00",
+      "discoveredAt": "2026-11-26T12:56:43.986064+00:00",
+      "topics": [
+        "SMIC"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Mon Passeport Prévention : l’import en masse facilite les déclarations de formations",
+      "url": "https://www.legisocial.fr/actualites-sociales/8257-passeport-prevention-import-masse-facilite-declarations-formations.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Mon Passeport Prévention propose désormais aux employeurs et aux organismes de formation un import en masse de leurs déclarations. Le dépôt d’un fichier CSV facilite notamment le traitement des sessions réunissant plus de 50 stagiaires.",
+      "publishedAt": "2026-11-26T05:00:00+00:00",
+      "discoveredAt": "2026-11-26T12:56:39.939390+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Téléphones, SMS, messageries et fichiers informatiques : jusqu’où l’employeur peut-il contrôler les outils professionnels ?",
+      "url": "https://www.legisocial.fr/actualites-sociales/8233-telephones-sms-messageries-fichiers-informatiques-employeur-controler-outils-professionnels.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La généralisation des outils numériques en entreprise a multiplié les contentieux relatifs à la surveillance des communications électroniques des salariés. Entre le pouvoir de contrôle de l’employeur, la protection de la vie privée, le secret des correspondances et les prérogatives des représentants du personnel, la jurisprudence a progressivement défini un équilibre subtil.",
+      "publishedAt": "2026-11-26T05:00:00+00:00",
+      "discoveredAt": "2026-11-26T12:56:39.939637+00:00",
+      "topics": []
+    },
     {
       "theme": "Cuisine",
       "title": "Mes recettes & collections",
@@ -11,20 +84,6 @@
       "publishedAt": null,
       "discoveredAt": "2026-11-25T19:30:30.896758+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-25T18:24:11+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Paie",
