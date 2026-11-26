@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T12:57:14.650373+00:00",
+  "generated_at": "2026-11-26T22:30:19.748138+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,11 +8,61 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-26T12:24:14+00:00",
+      "publishedAt": "2026-11-26T18:24:02+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Reclassement économique et actualisation de la diffusion des offres de postes",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1708-reclassement-economique-actualisation-diffusion-offres-postes.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "L'employeur doit diffuser chaque actualisation de la liste des offres de reclassement jusqu'au licenciement, y compris au salarié dispensé d'activité",
+      "publishedAt": "2026-11-26T17:00:00+00:00",
+      "discoveredAt": "2026-11-26T22:29:56.610124+00:00",
+      "topics": [
+        "Ruptures"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Essai Iveco eJolly (2026) : le complément de gamme malin",
+      "url": "https://www.largus.fr/actualite-automobile/essai-iveco-ejolly-2026-le-complement-de-gamme-malin-40018543.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Iveco étend sa gamme avec le eJolly, dérivé des utilitaires du groupe Stellantis. Commercialisé uniquement avec une motorisation électrique, il propose deux tailles de batteries et deux longueurs de carrosserie. Notre test porte sur la version longue avec l'accumulateur de 75 kWh.",
+      "publishedAt": "2026-11-26T16:25:00+00:00",
+      "discoveredAt": "2026-11-26T22:30:09.970792+00:00",
+      "topics": [
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "26 novembre 16h20 Harcèlement managérial : le salarié n'a pas à prouver qu'il est visé personnellement Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/harcelement-managerial-le-salarie-n-a-pas-a-prouver-qu-il-est-vise-personnellement",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "En matière de harcèlement moral, le salarié doit rapporter au juge des éléments de fait laissant supposer la réalité de tels",
+      "publishedAt": "2026-11-26T15:20:19+00:00",
+      "discoveredAt": "2026-11-26T22:29:59.972093+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Nouvelle augmentation du SMIC au 1er décembre 2026 : quels impacts sur les minima de votre convention collective ?",
+      "url": "https://www.editions-tissot.fr/actualite/droit-du-travail/smic-quels-impacts-sur-les-minima-de-votre-convention-collective",
+      "source": "Éditions Tissot",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "",
+      "publishedAt": "2026-11-26T13:51:00+00:00",
+      "discoveredAt": "2026-11-26T22:30:06.465929+00:00",
+      "topics": [
+        "SMIC"
       ]
     },
     {
@@ -24,6 +74,17 @@
       "summary": "Le Mans Classic célébrera son 25e anniversaire du 1er au 4 juillet 2027. La billetterie pour cette édition est accessible au grand public depuis le 26 novembre. Les passionnés et amateurs pourront admirer les autos d’Endurance des années 1920 aux années 1980, et pas que !",
       "publishedAt": "2026-11-26T09:16:00+00:00",
       "discoveredAt": "2026-11-26T12:56:54.065053+00:00",
+      "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "26 novembre 09h49 Forfait jours : un suivi de la charge de travail par l'employeur ne dispense pas du contrôle de l'accord collectif Social Jurisprudence",
+      "url": "https://www.revue-fiduciaire.com/actualite/article/forfait-jours-un-suivi-de-la-charge-de-travail-par-l-employeur-ne-dispense-pas-du-controle-de-l-accord-collectif",
+      "source": "RF Paye",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Même s'il existe un dispositif légal de rattrapage permettant à l'employeur de sécuriser les conventions de forfait jours en présence",
+      "publishedAt": "2026-11-26T08:49:43+00:00",
+      "discoveredAt": "2026-11-26T22:30:04.855036+00:00",
       "topics": []
     },
     {
@@ -73,6 +134,19 @@
       "publishedAt": "2026-11-26T05:00:00+00:00",
       "discoveredAt": "2026-11-26T12:56:39.939637+00:00",
       "topics": []
+    },
+    {
+      "theme": "Paie",
+      "title": "Rémunération du contrat de professionnalisation 2027 : dès 1 043,54 € brut",
+      "url": "https://www.legisocial.fr/reperes-sociaux/remuneration-contrat-professionnalisation-2027.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "En 2027, la rémunération minimale d’un contrat de professionnalisation débute à 1 043,54 € brut par mois pour un salarié de moins de 21 ans, sur la base d’un SMIC fixé à 12,51 € brut de l’heure. Les montants varient selon l’âge et la formation initiale. À partir de 26 ans, il faut comparer le SMIC à 85 % du minimum conventionnel de branche.",
+      "publishedAt": "2026-11-26T05:00:00+00:00",
+      "discoveredAt": "2026-11-26T22:29:56.610417+00:00",
+      "topics": [
+        "SMIC"
+      ]
     },
     {
       "theme": "Cuisine",
@@ -10299,17 +10373,6 @@
       "topics": []
     },
     {
-      "theme": "Auto",
-      "title": "Insolite. Cette Fiat Panda est la voiture la plus étroite du monde",
-      "url": "https://www.largus.fr/actualite-automobile/insolite-cette-fiat-panda-est-la-voiture-la-plus-etroite-du-monde-40008662.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Un mécanicien italien a concrétisé un projet fou : celui de fabriquer la voiture la plus étroite du monde. Avec ses 50 cm de large, sa Fiat Panda sur mesure vient de faire son entrée au Guinness Book 2027. Voici son histoire.",
-      "publishedAt": "2026-09-27T14:27:00+00:00",
-      "discoveredAt": "2026-09-27T14:36:34.983808+00:00",
-      "topics": []
-    },
-    {
       "theme": "Cuisine",
       "title": "Pratique du Yoga : 3 recettes sur-mesure pour gagner en souplesse et prolonger la zen attitude",
       "url": "https://www.750g.com/pratique-du-yoga-3-recettes-sur-mesure-pour-gagner-en-souplesse-et-prolonger-la-zen-attitude-a44535.htm",
@@ -12249,6 +12312,11 @@
       "theme": "Cuisine",
       "source": "Manger Bouger",
       "error": "HTTP Error 503: Service Unavailable"
+    },
+    {
+      "theme": "Cuisine",
+      "source": "CuisineAZ",
+      "error": "HTTP Error 403: Forbidden"
     }
   ]
 }
