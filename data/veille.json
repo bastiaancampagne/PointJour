@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-11-26T22:30:19.748138+00:00",
+  "generated_at": "2026-11-27T05:14:23.733720+00:00",
   "items": [
+    {
+      "theme": "Paie",
+      "title": "Rémunération du contrat d’apprentissage 2027 : 512,28 € dès 16 ans",
+      "url": "https://www.legisocial.fr/reperes-sociaux/remuneration-contrat-apprentissage-2027.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "En 2027, le salaire minimum d’un apprenti débute à 512,28 € brut par mois pour un jeune de 16 ou 17 ans en première année, sur la base du SMIC de 12,51 € l’heure applicable depuis le 1er décembre 2026. Le barème évolue avec l’âge et l’année du contrat. Dès 21 ans, le minimum conventionnel peut conduire à une rémunération plus élevée.",
+      "publishedAt": "2026-11-27T05:00:00+00:00",
+      "discoveredAt": "2026-11-27T05:13:43.718199+00:00",
+      "topics": [
+        "SMIC"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Heures supplémentaires : les déclarer plus tard n’efface pas le travail dissimulé",
+      "url": "https://www.legisocial.fr/jurisprudences-sociales/1707-heures-supplementaires-declarer-tard-nefface-travail-dissimule.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "Dans un arrêt du 18 novembre 2026, la Cour de cassation juge que des heures de travail omises sur les bulletins de paie ne peuvent pas être régularisées plusieurs mois après pour écarter le travail dissimulé. L’employeur avait inscrit ces heures pendant l’arrêt maladie de la salariée, sous un libellé de récupération et sans payer les majorations. Pour la paie, c’est le bulletin qui devait être délivré au titre des heures effectuées qui compte.",
+      "publishedAt": "2026-11-27T05:00:00+00:00",
+      "discoveredAt": "2026-11-27T05:13:43.718381+00:00",
+      "topics": [
+        "IJSS",
+        "Heures supplémentaires"
+      ]
+    },
+    {
+      "theme": "Paie",
+      "title": "Baromètre Urssaf à fin octobre 2026 : la masse salariale progresse de 0,5 % au troisième trimestre",
+      "url": "https://www.legisocial.fr/actualites-sociales/8264-barometre-urssaf-fin-octobre-2026-masse-salariale-progresse-05-troisieme-trimestre.html",
+      "source": "Légisocial",
+      "sourceKind": "EXPERT PAIE",
+      "summary": "La masse salariale du secteur privé progresse de 0,5 % au troisième trimestre 2026, selon une estimation provisoire de l’Urssaf. En octobre, le taux d’impayés des entreprises d’au moins 10 salariés atteint 1,03 % à la fin du mois de l’échéance.",
+      "publishedAt": "2026-11-27T05:00:00+00:00",
+      "discoveredAt": "2026-11-27T05:13:43.718595+00:00",
+      "topics": [
+        "Cotisations"
+      ]
+    },
     {
       "theme": "Auto",
       "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
@@ -12312,11 +12352,6 @@
       "theme": "Cuisine",
       "source": "Manger Bouger",
       "error": "HTTP Error 503: Service Unavailable"
-    },
-    {
-      "theme": "Cuisine",
-      "source": "CuisineAZ",
-      "error": "HTTP Error 403: Forbidden"
     }
   ]
 }
