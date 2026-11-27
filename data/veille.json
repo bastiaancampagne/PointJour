@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-11-27T15:24:42.573014+00:00",
+  "generated_at": "2026-11-27T23:40:58.727229+00:00",
   "items": [
+    {
+      "theme": "Auto",
+      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
+      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
+      "publishedAt": "2026-11-27T18:24:21+00:00",
+      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
+      "topics": [
+        "Achat",
+        "Carburant"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "L’Antai s’active pour franchir allègrement le seuil des 50 millions de PV par an",
+      "url": "https://www.largus.fr/actualite-automobile/lantai-sactive-pour-franchir-allegrement-le-seuil-des-50-millions-de-pv-par-an-40019195.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Chambardement en vue en 2027 au Centre national de traitement des infractions de Rennes. Menacé de saturation, il lui faut faire face à l’afflux croissant de PV électroniques et de FPS, et surtout anticiper le doublement du nombre d’amendes radars dû à l’avalanche à venir de dispositifs inédits.",
+      "publishedAt": "2026-11-27T15:43:00+00:00",
+      "discoveredAt": "2026-11-27T23:40:07.278813+00:00",
+      "topics": []
+    },
     {
       "theme": "Paie",
       "title": "Elu local : le label « employeur partenaire de la démocratie locale »",
@@ -206,20 +231,6 @@
       "publishedAt": "2026-11-27T04:00:08.040000+00:00",
       "discoveredAt": "2026-11-27T15:24:41.941890+00:00",
       "topics": []
-    },
-    {
-      "theme": "Auto",
-      "title": "Carte interactive - Carte gratuite du prix des carburants - Trouvez le carburant le moins cher près de chez vous",
-      "url": "https://www.quechoisir.org/carte-interactive-prix-carburants-n99140/",
-      "source": "Que Choisir",
-      "sourceKind": "PRESSE",
-      "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-26T18:24:02+00:00",
-      "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
-      "topics": [
-        "Achat",
-        "Carburant"
-      ]
     },
     {
       "theme": "Paie",
@@ -457,7 +468,7 @@
       "url": "https://www.largus.fr/actualite-automobile/essai-volkswagen-id-cross-2026-une-id-polo-qui-prend-de-la-hauteur-40018231.html",
       "source": "L’Argus",
       "sourceKind": "PRESSE AUTO",
-      "summary": "Deuxième modèle de la nouvelle gamme ID, le Volkswagen ID.Cross mise sur son habitabilité, son comportement routier soigné et ses prestations électriques pour s’imposer sur le segment des SUV urbains. Reste que son tarif, supérieur à 40 000 € en finition haute, constitue un frein à son adoption.",
+      "summary": "Deuxième modèle de la nouvelle gamme ID, le Volkswagen ID.Cross mise sur son habitabilité, son comportement routier soigné et ses prestations électriques pour s’imposer sur le segment des SUV urbains. Pour ce premier essai, nous disposons de la version haut de gamme Style de 211 ch avec batterie de 52 kWh.",
       "publishedAt": "2026-11-25T11:00:00+00:00",
       "discoveredAt": "2026-11-25T19:30:13.052254+00:00",
       "topics": [
