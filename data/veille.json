@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:40:58.727229+00:00",
+  "generated_at": "2026-11-28T08:11:51.260008+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,12 +8,36 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-27T18:24:21+00:00",
+      "publishedAt": "2026-11-28T07:24:28+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Enchères Aguttes 2026. Les belles mécaniques de la vente d’automne",
+      "url": "https://www.largus.fr/actualite-automobile/encheres-aguttes-2026-les-belles-mecaniques-de-la-vente-dautomne-40019257.html",
+      "source": "L’Argus",
+      "sourceKind": "PRESSE AUTO",
+      "summary": "Plus de 80 modèles seront proposés à l’occasion de la traditionnelle vente d’automne organisée par Aguttes, le 29 novembre à Paris. Au menu, des sportives, des GT, des youngtimers et des modèles d’avant-guerre. Tour d’horizon des lots à ne pas manquer.",
+      "publishedAt": "2026-11-28T06:29:00+00:00",
+      "discoveredAt": "2026-11-28T08:10:59.367754+00:00",
+      "topics": [
+        "Achat"
+      ]
+    },
+    {
+      "theme": "Auto",
+      "title": "Actualité - Fin de la 2G en France - L’appel d’urgence de certaines voitures pourrait cesser de fonctionner le 15 décembre",
+      "url": "https://www.quechoisir.org/actualite-fin-de-la-2g-en-france-l-appel-d-urgence-de-certaines-voitures-pourrait-cesser-de-fonctionner-le-15-decembre-n179820/",
+      "source": "Que Choisir",
+      "sourceKind": "PRESSE",
+      "summary": "La fermeture définitive des réseaux 2G, actuellement en cours, devrait entraîner la désactivation prochaine de l’eCall, le dispositif d’appel d’urgence intégré à tous les véhicules neufs vendus dans l’Union européenne depuis 2018. Les propriétaires des voitures concernées sont les premières victimes de cet imbroglio.",
+      "publishedAt": "2026-11-28T02:00:00+00:00",
+      "discoveredAt": "2026-11-28T08:11:00.167904+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
@@ -10316,19 +10340,6 @@
       "topics": []
     },
     {
-      "theme": "Auto",
-      "title": "Nouveau Nissan X-Trail (2027). Le SUV de 5e génération dévoilé en version américaine Rogue",
-      "url": "https://www.largus.fr/actualite-automobile/nouveau-nissan-x-trail-2027-le-suv-de-5e-generation-devoile-en-version-americaine-rogue-40009636.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Nissan dévoile la nouvelle génération du Rogue, alter ego américain du X-Trail. Le SUV familial change de style, et son instrumentation se modernise. Ce rival des Toyota RAV4 et Citroën C5 Aircross est mû par une motorisation hybride e-Power. Son arrivée en Europe est attendue fin 2027 au plus tôt.",
-      "publishedAt": "2026-09-29T06:27:00+00:00",
-      "discoveredAt": "2026-09-29T06:44:59.498039+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
       "theme": "Paie",
       "title": "Télétravail : est-ce un droit, un avantage ou une obligation ?",
       "url": "https://www.legisocial.fr/actualites-sociales/8124-teletravail-droit-avantage-obligation.html",
@@ -12503,6 +12514,11 @@
       "theme": "Paie",
       "source": "Assurance Maladie",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "theme": "Auto",
+      "source": "Sécurité routière",
+      "error": "Remote end closed connection without response"
     },
     {
       "theme": "Auto",
