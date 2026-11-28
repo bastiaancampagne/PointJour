@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T08:11:51.260008+00:00",
+  "generated_at": "2026-11-28T17:02:58.243478+00:00",
   "items": [
     {
       "theme": "Auto",
@@ -8,12 +8,23 @@
       "source": "Que Choisir",
       "sourceKind": "PRESSE",
       "summary": "Où faire son plein de carburant ? Que Choisir vous livre les tarifs à jour des carburants et les écarts par rapport au prix moyen de votre département. Grâce à notre carte interactive, comparez en quelques clics les stations-services proches de chez vous et faites le plein d'économies !",
-      "publishedAt": "2026-11-28T07:24:28+00:00",
+      "publishedAt": "2026-11-28T15:24:08+00:00",
       "discoveredAt": "2026-09-18T22:48:52.838071+00:00",
       "topics": [
         "Achat",
         "Carburant"
       ]
+    },
+    {
+      "theme": "Cuisine",
+      "title": "\"Une viande bien juteuse\" : Julie Andrieu dévoile sa recette de dinde farcie aux marrons",
+      "url": "https://www.750g.com/une-viande-bien-juteuse-julie-andrieu-devoile-sa-recette-de-dinde-farcie-aux-marrons-a44955.htm",
+      "source": "750g",
+      "sourceKind": "RECETTES",
+      "summary": "Pour les fêtes, Julie Andrieu mise sur une volaille généreuse et une préparation en plusieurs temps. Son secret ? Une cuisson particulière qui permet d'obtenir une chair tendre et savoureuse.",
+      "publishedAt": "2026-11-28T09:40:00+00:00",
+      "discoveredAt": "2026-11-28T17:02:52.860629+00:00",
+      "topics": []
     },
     {
       "theme": "Auto",
@@ -10233,30 +10244,6 @@
       ]
     },
     {
-      "theme": "Auto",
-      "title": "Dacia Spring (2026). Déjà un kit tuning déluré pour la nouvelle citadine électrique ?",
-      "url": "https://www.largus.fr/actualite-automobile/dacia-spring-2026-deja-un-kit-tuning-delure-pour-la-nouvelle-citadine-electrique-40009800.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Le distributeur et préparateur allemand Carpoint imagine un kit carrosserie exubérant pour la nouvelle Dacia Spring, dans la lignée de ses créations pour Duster et Bigster. Dommage, la citadine électrique plafonne à 80 petits chevaux...",
-      "publishedAt": "2026-09-29T15:02:00+00:00",
-      "discoveredAt": "2026-09-29T15:40:24.895889+00:00",
-      "topics": [
-        "Carburant"
-      ]
-    },
-    {
-      "theme": "Auto",
-      "title": "Véhicules autonomes. Une navette publique testée sur l’A10 en première mondiale",
-      "url": "https://www.largus.fr/actualite-automobile/vehicules-autonomes-une-navette-publique-testee-sur-la10-en-premiere-mondiale-40009770.html",
-      "source": "L’Argus",
-      "sourceKind": "PRESSE AUTO",
-      "summary": "Depuis mars 2026, une navette de transport en commun autonome est expérimentée sur l’autoroute A10 entre les Yvelines et l’Essonne, transportant quelque 150 passagers sur 25 000 km depuis. Ce type de véhicule pourrait devenir une alternative à la voiture individuelle pour certains trajets.",
-      "publishedAt": "2026-09-29T13:38:00+00:00",
-      "discoveredAt": "2026-09-29T14:40:17.412015+00:00",
-      "topics": []
-    },
-    {
       "theme": "Paie",
       "title": "fonctionnalités DSN à votre espace connecté",
       "url": "https://www.net-entreprises.fr/decouvrez-votre-nouvel-espace-connecte-net-entreprises/",
@@ -12517,12 +12504,12 @@
     },
     {
       "theme": "Auto",
-      "source": "Sécurité routière",
-      "error": "Remote end closed connection without response"
+      "source": "ADEME",
+      "error": "HTTP Error 403: Forbidden"
     },
     {
-      "theme": "Auto",
-      "source": "ADEME",
+      "theme": "Cuisine",
+      "source": "CuisineAZ",
       "error": "HTTP Error 403: Forbidden"
     }
   ]
